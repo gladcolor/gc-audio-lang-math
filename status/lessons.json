@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:10:29",
   "verified": ""
  },
+ "math/expressions": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "98e730c2f6b5",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/expressions.html",
+  "title": {
+   "en": "Expressions & the Distributive Property",
+   "zh": "代数式与分配律"
+  },
+  "updated": "2026-11-19 18:10:34",
+  "verified": ""
+ },
  "math/fraction-division": {
   "counts": {
    "done": 0,
