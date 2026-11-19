@@ -1,4 +1,23 @@
 {
+ "math/coordinate-plane": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "ddac3bd54aa3",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/coordinate-plane.html",
+  "title": {
+   "en": "The Coordinate Plane",
+   "zh": "平面直角坐标系"
+  },
+  "updated": "2026-11-19 18:10:29",
+  "verified": ""
+ },
  "math/fraction-division": {
   "counts": {
    "done": 0,
