@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:12:19",
   "verified": ""
  },
+ "music/music-pitch": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 12,
+   "total": 12
+  },
+  "fingerprint": "d1b2ad3961a8",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/music/music-pitch.html",
+  "title": {
+   "en": "Pitch, Notes & Scales",
+   "zh": "音高、音符与音阶"
+  },
+  "updated": "2026-11-19 18:25:24",
+  "verified": ""
+ },
  "music/music-rhythm": {
   "counts": {
    "done": 0,
