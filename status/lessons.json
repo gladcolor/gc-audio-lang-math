@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:10:29",
   "verified": ""
  },
+ "math/equations": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "6535103b1fca",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/equations.html",
+  "title": {
+   "en": "Solving Equations & Inequalities",
+   "zh": "解方程与不等式"
+  },
+  "updated": "2026-11-19 18:10:39",
+  "verified": ""
+ },
  "math/expressions": {
   "counts": {
    "done": 0,
