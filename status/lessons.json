@@ -265,6 +265,25 @@
   "updated": "2026-11-19 18:11:01",
   "verified": ""
  },
+ "math/pythagorean": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "61ca28b59189",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/pythagorean.html",
+  "title": {
+   "en": "The Pythagorean Theorem",
+   "zh": "勾股定理"
+  },
+  "updated": "2026-11-19 18:12:14",
+  "verified": ""
+ },
  "math/ratios": {
   "counts": {
    "done": 0,
