@@ -151,6 +151,25 @@
   "updated": "2026-11-19 18:10:19",
   "verified": ""
  },
+ "math/functions": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "5bf51c8e9c46",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/functions.html",
+  "title": {
+   "en": "Functions",
+   "zh": "函数"
+  },
+  "updated": "2026-11-19 18:12:03",
+  "verified": ""
+ },
  "math/integers": {
   "counts": {
    "done": 0,
