@@ -1,4 +1,23 @@
 {
+ "art/art-color": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "550de7bd352f",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/art/art-color.html",
+  "title": {
+   "en": "Color Theory",
+   "zh": "色彩原理"
+  },
+  "updated": "2026-11-19 18:25:46",
+  "verified": ""
+ },
  "ela/argument-writing": {
   "counts": {
    "done": 0,
