@@ -1,4 +1,23 @@
 {
+ "math/angles": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "f4c3fd4f2be1",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/angles.html",
+  "title": {
+   "en": "Angle Relationships",
+   "zh": "角的关系"
+  },
+  "updated": "2026-11-19 18:11:22",
+  "verified": ""
+ },
  "math/area": {
   "counts": {
    "done": 0,
