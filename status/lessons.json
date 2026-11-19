@@ -246,6 +246,25 @@
   "updated": "2026-11-19 18:10:08",
   "verified": ""
  },
+ "math/sampling": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "efa0096d6c11",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/sampling.html",
+  "title": {
+   "en": "Sampling & Inference",
+   "zh": "抽样与推断"
+  },
+  "updated": "2026-11-19 18:11:32",
+  "verified": ""
+ },
  "math/scale-drawings": {
   "counts": {
    "done": 0,
