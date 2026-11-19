@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "yuwen/yw-classics", "voice": "serena", "en": "71be05a1 735166ed 9bced958 ace007c7", "zh": "028c74d8 047c53bd 126d64a6 1f4f19f2 2803d68a 328b79ac 3f7f24ae 4f12d153 7cee262a 85619eaf 89bcceff a3d459ad a858d6b9 ac25060e b0d11a10 bdad97aa c728f278 cf192781 d099d786 d87df59f e7de99ba e95fef95 ed1a0486 f979c926"});
