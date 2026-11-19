@@ -416,5 +416,24 @@
   },
   "updated": "2026-11-19 18:11:57",
   "verified": ""
+ },
+ "math/transformations": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "9baebc3b95e9",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/transformations.html",
+  "title": {
+   "en": "Transformations, Congruence & Similarity",
+   "zh": "图形变换、全等与相似"
+  },
+  "updated": "2026-11-19 18:12:08",
+  "verified": ""
  }
 }
