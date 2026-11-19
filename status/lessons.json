@@ -94,6 +94,25 @@
   "updated": "2026-11-19 18:10:39",
   "verified": ""
  },
+ "math/exponents": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "41e1bd6f82b6",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/exponents.html",
+  "title": {
+   "en": "Exponents & Scientific Notation",
+   "zh": "指数与科学记数法"
+  },
+  "updated": "2026-11-19 18:11:39",
+  "verified": ""
+ },
  "math/expressions": {
   "counts": {
    "done": 0,
