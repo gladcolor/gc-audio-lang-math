@@ -189,6 +189,25 @@
   "updated": "2026-11-19 18:10:08",
   "verified": ""
  },
+ "math/scale-drawings": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "5424d251d917",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/scale-drawings.html",
+  "title": {
+   "en": "Scale Drawings",
+   "zh": "比例图"
+  },
+  "updated": "2026-11-19 18:11:11",
+  "verified": ""
+ },
  "math/statistics": {
   "counts": {
    "done": 0,
