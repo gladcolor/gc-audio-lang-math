@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:12:19",
   "verified": ""
  },
+ "yuwen/yw-argumentative": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 3,
+   "total": 3
+  },
+  "fingerprint": "8992fac42857",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/yuwen/yw-argumentative.html",
+  "title": {
+   "en": "Reading Argumentative Essays",
+   "zh": "议论文阅读"
+  },
+  "updated": "2026-11-19 18:24:13",
+  "verified": ""
+ },
  "yuwen/yw-expository": {
   "counts": {
    "done": 0,
