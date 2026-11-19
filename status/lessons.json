@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:12:19",
   "verified": ""
  },
+ "yuwen/yw-expository": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 6,
+   "old": 4,
+   "total": 10
+  },
+  "fingerprint": "6f3f1b221bdf",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/yuwen/yw-expository.html",
+  "title": {
+   "en": "Reading Expository Texts",
+   "zh": "说明文阅读"
+  },
+  "updated": "2026-11-19 18:24:09",
+  "verified": ""
+ },
  "yuwen/yw-hanzi": {
   "counts": {
    "done": 0,
