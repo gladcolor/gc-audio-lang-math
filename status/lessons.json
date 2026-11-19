@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:12:19",
   "verified": ""
  },
+ "music/music-rhythm": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 2,
+   "old": 24,
+   "total": 26
+  },
+  "fingerprint": "da3e10b97455",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/music/music-rhythm.html",
+  "title": {
+   "en": "Rhythm & Beat",
+   "zh": "节奏与节拍"
+  },
+  "updated": "2026-11-19 18:25:19",
+  "verified": ""
+ },
  "yuwen/yw-argumentative": {
   "counts": {
    "done": 0,
