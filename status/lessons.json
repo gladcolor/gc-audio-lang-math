@@ -1,4 +1,23 @@
 {
+ "math/area": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "acf0931c971a",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/area.html",
+  "title": {
+   "en": "Area of Polygons",
+   "zh": "多边形的面积"
+  },
+  "updated": "2026-11-19 18:10:45",
+  "verified": ""
+ },
  "math/coordinate-plane": {
   "counts": {
    "done": 0,
