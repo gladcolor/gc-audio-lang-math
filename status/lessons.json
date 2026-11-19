@@ -322,6 +322,25 @@
   "updated": "2026-11-19 18:11:11",
   "verified": ""
  },
+ "math/slope": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "a6d2e761ef69",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/slope.html",
+  "title": {
+   "en": "Slope & Linear Equations",
+   "zh": "斜率与一次函数"
+  },
+  "updated": "2026-11-19 18:11:51",
+  "verified": ""
+ },
  "math/statistics": {
   "counts": {
    "done": 0,
