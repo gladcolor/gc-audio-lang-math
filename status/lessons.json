@@ -663,5 +663,24 @@
   },
   "updated": "2026-11-19 18:12:19",
   "verified": ""
+ },
+ "yuwen/yw-hanzi": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 30,
+   "old": 36,
+   "total": 66
+  },
+  "fingerprint": "f5b00ebc6376",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/yuwen/yw-hanzi.html",
+  "title": {
+   "en": "Chinese Characters & Calligraphy",
+   "zh": "汉字的演变与书法"
+  },
+  "updated": "2026-11-19 18:23:30",
+  "verified": ""
  }
 }
