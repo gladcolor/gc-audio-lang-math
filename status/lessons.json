@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:19:25",
   "verified": ""
  },
+ "ela/figurative-language": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "8a365e24f996",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/ela/figurative-language.html",
+  "title": {
+   "en": "Figurative Language & Poetry",
+   "zh": "修辞语言与诗歌"
+  },
+  "updated": "2026-11-19 18:19:29",
+  "verified": ""
+ },
  "ela/theme-plot": {
   "counts": {
    "done": 0,
