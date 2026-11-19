@@ -683,6 +683,25 @@
   "updated": "2026-11-19 18:23:30",
   "verified": ""
  },
+ "yuwen/yw-song-ci": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 6,
+   "old": 25,
+   "total": 31
+  },
+  "fingerprint": "0ab781261b2d",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/yuwen/yw-song-ci.html",
+  "title": {
+   "en": "Song Ci Poetry & Classical Verse Forms",
+   "zh": "宋词与古诗词格律"
+  },
+  "updated": "2026-11-19 18:23:42",
+  "verified": ""
+ },
  "yuwen/yw-tang-poems": {
   "counts": {
    "done": 0,

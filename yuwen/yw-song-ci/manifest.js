@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "yuwen/yw-song-ci", "voice": "serena", "en": "", "zh": "0b4b4aa1 1a3007d1 1ce3e610 23ff4a8f 245676fc 25788ec0 307b628f 327ef1fb 384d2478 4e42c199 550f55b2 5f48a8dd 78545657 7d020117 8ecb9e61 9c64c636 a30a7910 b61d1dd2 c20c18dc c5069402 d13d8498 d7714b20 f5bd6957 f6df1b1c fff277aa"});
