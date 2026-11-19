@@ -1,4 +1,23 @@
 {
+ "ela/argument-writing": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 12,
+   "total": 12
+  },
+  "fingerprint": "6a76f09689d7",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/ela/argument-writing.html",
+  "title": {
+   "en": "Write an Argument",
+   "zh": "写议论文"
+  },
+  "updated": "2026-11-19 18:19:37",
+  "verified": ""
+ },
  "ela/central-idea": {
   "counts": {
    "done": 0,
