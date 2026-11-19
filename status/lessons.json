@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:25:46",
   "verified": ""
  },
+ "art/art-design": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 2,
+   "total": 2
+  },
+  "fingerprint": "be767d4043f8",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/art/art-design.html",
+  "title": {
+   "en": "Elements & Principles of Design",
+   "zh": "设计的元素与原则"
+  },
+  "updated": "2026-11-19 18:25:51",
+  "verified": ""
+ },
  "ela/argument-writing": {
   "counts": {
    "done": 0,
