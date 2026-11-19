@@ -378,5 +378,24 @@
   },
   "updated": "2026-11-19 18:10:50",
   "verified": ""
+ },
+ "math/systems": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "87e7712bbe53",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/systems.html",
+  "title": {
+   "en": "Systems of Equations",
+   "zh": "二元一次方程组"
+  },
+  "updated": "2026-11-19 18:11:57",
+  "verified": ""
  }
 }
