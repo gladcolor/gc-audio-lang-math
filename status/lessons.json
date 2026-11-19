@@ -872,5 +872,24 @@
   },
   "updated": "2026-11-19 18:23:57",
   "verified": ""
+ },
+ "yuwen/yw-writing": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 1,
+   "old": 0,
+   "total": 1
+  },
+  "fingerprint": "e93d7abaf635",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/yuwen/yw-writing.html",
+  "title": {
+   "en": "Writing in Chinese",
+   "zh": "写作"
+  },
+  "updated": "2026-11-19 18:24:41",
+  "verified": ""
  }
 }
