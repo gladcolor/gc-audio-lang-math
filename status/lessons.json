@@ -1,4 +1,23 @@
 {
+ "ela/theme-plot": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 12,
+   "total": 12
+  },
+  "fingerprint": "407ad58bf320",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/ela/theme-plot.html",
+  "title": {
+   "en": "Plot, Conflict & Theme",
+   "zh": "情节、冲突与主题"
+  },
+  "updated": "2026-11-19 18:19:20",
+  "verified": ""
+ },
  "math/angles": {
   "counts": {
    "done": 0,
