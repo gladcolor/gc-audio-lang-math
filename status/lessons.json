@@ -1,4 +1,23 @@
 {
+ "ela/central-idea": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 2,
+   "total": 2
+  },
+  "fingerprint": "827e38a10ace",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/ela/central-idea.html",
+  "title": {
+   "en": "Central Idea & Summary",
+   "zh": "中心思想与概括"
+  },
+  "updated": "2026-11-19 18:19:33",
+  "verified": ""
+ },
  "ela/character-pov": {
   "counts": {
    "done": 0,
