@@ -683,6 +683,25 @@
   "updated": "2026-11-19 18:23:30",
   "verified": ""
  },
+ "yuwen/yw-narrative": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 15,
+   "old": 10,
+   "total": 25
+  },
+  "fingerprint": "627505f985e9",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/yuwen/yw-narrative.html",
+  "title": {
+   "en": "Reading Narratives",
+   "zh": "记叙文阅读"
+  },
+  "updated": "2026-11-19 18:24:05",
+  "verified": ""
+ },
  "yuwen/yw-song-ci": {
   "counts": {
    "done": 0,
