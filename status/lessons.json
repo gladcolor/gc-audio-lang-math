@@ -113,6 +113,25 @@
   "updated": "2026-11-19 18:10:24",
   "verified": ""
  },
+ "math/negative-operations": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "017e7a28088f",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/negative-operations.html",
+  "title": {
+   "en": "Operations with Negative Numbers",
+   "zh": "负数的运算"
+  },
+  "updated": "2026-11-19 18:11:06",
+  "verified": ""
+ },
  "math/percents": {
   "counts": {
    "done": 0,
