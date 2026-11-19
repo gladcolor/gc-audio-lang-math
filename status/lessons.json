@@ -151,6 +151,25 @@
   "updated": "2026-11-19 18:10:08",
   "verified": ""
  },
+ "math/statistics": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "fb9b054b10ab",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/statistics.html",
+  "title": {
+   "en": "Mean, Median & Spread",
+   "zh": "平均数、中位数与离散程度"
+  },
+  "updated": "2026-11-19 18:10:55",
+  "verified": ""
+ },
  "math/surface-volume": {
   "counts": {
    "done": 0,
