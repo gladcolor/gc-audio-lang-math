@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:12:19",
   "verified": ""
  },
+ "music/music-compose": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 7,
+   "total": 7
+  },
+  "fingerprint": "e3f3c483e50e",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/music/music-compose.html",
+  "title": {
+   "en": "Compose a Melody",
+   "zh": "创作一段旋律"
+  },
+  "updated": "2026-11-19 18:25:34",
+  "verified": ""
+ },
  "music/music-instruments": {
   "counts": {
    "done": 0,
