@@ -664,6 +664,25 @@
   "updated": "2026-11-19 18:12:19",
   "verified": ""
  },
+ "music/music-instruments": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 22,
+   "total": 22
+  },
+  "fingerprint": "da9e29e5fafc",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/music/music-instruments.html",
+  "title": {
+   "en": "Instruments of the World",
+   "zh": "世界各地的乐器"
+  },
+  "updated": "2026-11-19 18:25:30",
+  "verified": ""
+ },
  "music/music-pitch": {
   "counts": {
    "done": 0,
