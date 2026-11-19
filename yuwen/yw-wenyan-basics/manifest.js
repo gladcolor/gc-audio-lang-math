@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "yuwen/yw-wenyan-basics", "voice": "serena", "en": "", "zh": "0549dea3 083c023a 0c1b7ac7 0cb54524 105ba8c3 11ebc872 1a69c356 3ac79a6e 4be38949 59172331 671472f1 6aaa70c1 79f90e5c 88f5d120 9f61e2a9 a008a7d9 a7b58b07 a92e0cb3 ae76bebc be3be708 c147c6d6 c763a615 e6d603ff e8d8fbbe ec6628ed ee349298 f77faaa8 f898eed4"});
