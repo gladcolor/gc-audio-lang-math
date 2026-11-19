@@ -1,4 +1,23 @@
 {
+ "art/art-chinese": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 2,
+   "total": 2
+  },
+  "fingerprint": "31055c8aa2f7",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/art/art-chinese.html",
+  "title": {
+   "en": "Chinese Painting & Calligraphy",
+   "zh": "中国画与书法"
+  },
+  "updated": "2026-11-19 18:26:02",
+  "verified": ""
+ },
  "art/art-color": {
   "counts": {
    "done": 0,
