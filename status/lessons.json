@@ -1,4 +1,23 @@
 {
+ "math/percents": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "317e638fb255",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/percents.html",
+  "title": {
+   "en": "Percent",
+   "zh": "百分数"
+  },
+  "updated": "2026-11-19 18:10:14",
+  "verified": ""
+ },
  "math/ratios": {
   "counts": {
    "done": 0,
