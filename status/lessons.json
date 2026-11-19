@@ -360,6 +360,25 @@
   "updated": "2026-11-19 18:11:11",
   "verified": ""
  },
+ "math/scatter-plots": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "fd780b042647",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/scatter-plots.html",
+  "title": {
+   "en": "Scatter Plots & Trends",
+   "zh": "散点图与趋势"
+  },
+  "updated": "2026-11-19 18:12:25",
+  "verified": ""
+ },
  "math/slope": {
   "counts": {
    "done": 0,
