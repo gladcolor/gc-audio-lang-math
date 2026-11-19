@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "art/art-history", "voice": "serena", "en": "0ebe4008 1212115c 1ebf229c 3af774f8 4016951d 44e08483 5582168f 58a53b18 6d233233 8cb80940 91a6d2d8 94adb6da c98a3ce6 edca25d9", "zh": "03258855 0f7ace83 11b44c06 281b716f 4db68206 5e0b2188 6ddaa26f 7cc8282a 83b61957 85250995 85ba0657 9c344cb6 a3d0e4a3 ae04cd4e"});

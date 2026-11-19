@@ -37,6 +37,25 @@
   "updated": "2026-11-19 18:25:51",
   "verified": ""
  },
+ "art/art-history": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 28,
+   "total": 28
+  },
+  "fingerprint": "483d5e7c3829",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/art/art-history.html",
+  "title": {
+   "en": "Art Through History",
+   "zh": "艺术史之旅"
+  },
+  "updated": "2026-11-19 18:25:57",
+  "verified": ""
+ },
  "ela/argument-writing": {
   "counts": {
    "done": 0,
