@@ -132,6 +132,25 @@
   "updated": "2026-11-19 18:19:20",
   "verified": ""
  },
+ "ela/vocabulary-roots": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 8,
+   "total": 8
+  },
+  "fingerprint": "89c8a91e9ce5",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/ela/vocabulary-roots.html",
+  "title": {
+   "en": "Word Roots & Context Clues",
+   "zh": "词根与上下文线索"
+  },
+  "updated": "2026-11-19 18:19:53",
+  "verified": ""
+ },
  "math/angles": {
   "counts": {
    "done": 0,
