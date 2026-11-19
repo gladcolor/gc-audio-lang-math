@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:10:45",
   "verified": ""
  },
+ "math/circles": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "c974fe21f44f",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/circles.html",
+  "title": {
+   "en": "Circles: Circumference & Area",
+   "zh": "圆的周长与面积"
+  },
+  "updated": "2026-11-19 18:11:16",
+  "verified": ""
+ },
  "math/coordinate-plane": {
   "counts": {
    "done": 0,
