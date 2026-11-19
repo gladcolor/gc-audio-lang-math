@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:10:19",
   "verified": ""
  },
+ "math/integers": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "26cf44dca552",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/math/integers.html",
+  "title": {
+   "en": "Integers & Absolute Value",
+   "zh": "整数与绝对值"
+  },
+  "updated": "2026-11-19 18:10:24",
+  "verified": ""
+ },
  "math/percents": {
   "counts": {
    "done": 0,
