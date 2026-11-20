@@ -248,21 +248,21 @@
  },
  "math/angles": {
   "counts": {
-   "done": 10,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 10,
+   "old": 0,
    "total": 20
   },
   "fingerprint": "f4c3fd4f2be1",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/angles.html",
   "title": {
    "en": "Angle Relationships",
    "zh": "角的关系"
   },
-  "updated": "2026-11-20 02:46:22",
+  "updated": "2026-11-20 03:12:51",
   "verified": ""
  },
  "math/area": {
@@ -320,7 +320,7 @@
    "zh": "平面直角坐标系"
   },
   "updated": "2026-11-20 03:11:24",
-  "verified": ""
+  "verified": "2026-11-20 03:12:32"
  },
  "math/equations": {
   "counts": {
@@ -377,7 +377,7 @@
    "zh": "代数式与分配律"
   },
   "updated": "2026-11-20 03:11:14",
-  "verified": ""
+  "verified": "2026-11-20 03:12:29"
  },
  "math/fraction-division": {
   "counts": {
@@ -491,7 +491,7 @@
    "zh": "概率"
   },
   "updated": "2026-11-20 03:11:18",
-  "verified": ""
+  "verified": "2026-11-20 03:12:30"
  },
  "math/proportional": {
   "counts": {
