@@ -1,8 +1,13 @@
 lang	key	lesson	voice	kbps	date	source	send
 en	af1a95c8	art/art-chinese	serena t0.5 -16LUFS	48	2026-11-20 09:16:16	tts	9df2bbd6c5
 zh	fb0bdeda	art/art-chinese	serena t0.5 -16LUFS	48	2026-11-20 08:59:41	tts	225126b6d8
+en	0e782124	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:23:44	tts	9ab940d347
 en	44dac45a	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:21:46	tts	90d9852335
+en	51200332	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:24:12	tts	57e59efd6d
+en	56afbc0c	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:24:59	tts	abcbc3ddeb
+en	749e6bbf	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:24:01	tts	9d965e8e11
 en	97a6f8d1	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:19:30	tts	3264c4d5bc
+en	981cda94	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:25:48	tts	0fca429096
 en	bbebbf76	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:16:21	tts	ce6311afa3
 zh	1a55d08a	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 09:17:02	tts	0bf32f58b6
 zh	61d0c38e	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 08:45:52	tts	cf283654ca
@@ -16,8 +21,14 @@ en	1212115c	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:16:29	tts	7f864
 en	1ebf229c	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:16:22	tts	36b3cf7ea4
 en	3af774f8	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:13	tts	3d9783c378
 en	4016951d	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:19:42	tts	6f75eeac9b
+en	44e08483	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:27:36	tts	1fd89d47ce
 en	5582168f	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:19:31	tts	cd577fb9a7
+en	58a53b18	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:23:42	tts	a4e73731e2
+en	6d233233	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:23:36	tts	4addf86a97
+en	8cb80940	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:28:34	tts	c6c96acbc6
+en	91a6d2d8	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:29:01	tts	1b814165da
 en	94adb6da	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:19	tts	55549acb65
+en	c98a3ce6	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:29:34	tts	b10a038573
 en	edca25d9	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:18	tts	02612d17eb
 zh	03258855	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 09:00:02	tts	10f45bc078
 zh	0f7ace83	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:22:34	tts	e2d64e23a5

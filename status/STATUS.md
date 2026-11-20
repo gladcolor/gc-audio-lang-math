@@ -1,13 +1,13 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 09:22:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 09:29:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | art/art-chinese | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 09:16:16 | 2026-11-20 09:17:01 |
 | art/art-color | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:25:46 |  |
 | art/art-design | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:25:51 |  |
-| art/art-history | old voice | 0 | 28 | 0 | 0 | 0 | 2026-11-19 18:25:57 |  |
+| art/art-history | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 09:29:34 |  |
 | ela/argument-writing | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:33:18 | 2026-11-20 06:34:52 |
 | ela/central-idea | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:21:16 | 2026-11-20 06:22:18 |
 | ela/character-pov | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:46 | 2026-11-20 05:58:58 |
@@ -47,7 +47,7 @@ Updated 2026-11-20 09:22:06. Labels: finished / in progress / no audio / failed 
 | music/music-compose | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:05 | 2026-11-20 09:21:26 |
 | music/music-history | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 09:19:37 | 2026-11-20 09:21:25 |
 | music/music-instruments | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 09:09:46 | 2026-11-20 09:11:24 |
-| music/music-pitch | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 09:22:06 |  |
+| music/music-pitch | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 09:22:06 | 2026-11-20 09:23:13 |
 | music/music-rhythm | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-20 08:47:24 | 2026-11-20 08:48:25 |
 | yuwen/yw-argumentative | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-20 07:50:07 | 2026-11-20 07:51:17 |
 | yuwen/yw-classics | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-20 08:37:50 | 2026-11-20 08:39:22 |
