@@ -16,7 +16,7 @@
    "zh": "中国画与书法"
   },
   "updated": "2026-11-20 09:16:16",
-  "verified": ""
+  "verified": "2026-11-20 09:17:01"
  },
  "art/art-color": {
   "counts": {
@@ -780,21 +780,21 @@
  },
  "music/music-history": {
   "counts": {
-   "done": 0,
+   "done": 24,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 24,
+   "old": 0,
    "total": 24
   },
   "fingerprint": "eb83118ce6d1",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-history.html",
   "title": {
    "en": "Music Through Time & Cultures",
    "zh": "穿越时空与文化的音乐"
   },
-  "updated": "2026-11-19 18:25:40",
+  "updated": "2026-11-20 09:19:37",
   "verified": ""
  },
  "music/music-instruments": {
