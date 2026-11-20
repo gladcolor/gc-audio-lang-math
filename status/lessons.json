@@ -533,21 +533,21 @@
  },
  "math/ratios": {
   "counts": {
-   "done": 0,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 8,
    "total": 18
   },
   "fingerprint": "bdbf4851890f",
-  "label": "old voice",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/ratios.html",
   "title": {
    "en": "Ratios & Rates",
    "zh": "比与比率"
   },
-  "updated": "2026-11-19 18:10:08",
+  "updated": "2026-11-20 02:39:34",
   "verified": ""
  },
  "math/roots-irrationals": {
