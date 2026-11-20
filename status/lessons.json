@@ -35,25 +35,25 @@
    "zh": "色彩原理"
   },
   "updated": "2026-11-20 09:32:12",
-  "verified": ""
+  "verified": "2026-11-20 09:33:17"
  },
  "art/art-design": {
   "counts": {
-   "done": 0,
+   "done": 2,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 2,
+   "old": 0,
    "total": 2
   },
   "fingerprint": "be767d4043f8",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-design.html",
   "title": {
    "en": "Elements & Principles of Design",
    "zh": "设计的元素与原则"
   },
-  "updated": "2026-11-19 18:25:51",
+  "updated": "2026-11-20 09:35:57",
   "verified": ""
  },
  "art/art-history": {
