@@ -1046,21 +1046,21 @@
  },
  "yuwen/yw-wenyan-classics": {
   "counts": {
-   "done": 0,
+   "done": 40,
    "failed": 0,
    "held": 0,
-   "missing": 14,
-   "old": 52,
+   "missing": 1,
+   "old": 25,
    "total": 66
   },
   "fingerprint": "847f1291d065",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-classics.html",
   "title": {
    "en": "Classical Prose Masterpieces",
    "zh": "文言名篇"
   },
-  "updated": "2026-11-19 18:23:57",
+  "updated": "2026-11-20 08:04:24",
   "verified": ""
  },
  "yuwen/yw-writing": {
