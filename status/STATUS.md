@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 08:00:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 08:02:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -13,7 +13,7 @@ Updated 2026-11-20 08:00:00. Labels: finished / in progress / no audio / failed 
 | ela/character-pov | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:46 | 2026-11-20 05:58:58 |
 | ela/figurative-language | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:49:46 | 2026-11-20 05:50:38 |
 | ela/grammar-sentences | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 07:11:03 | 2026-11-20 07:11:58 |
-| ela/narrative-techniques | finished | 82 | 0 | 0 | 0 | 0 | 2026-11-20 08:00:00 |  |
+| ela/narrative-techniques | finished | 82 | 0 | 0 | 0 | 0 | 2026-11-20 08:00:00 | 2026-11-20 08:01:21 |
 | ela/narrative-writing | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:14 | 2026-11-20 06:38:25 |
 | ela/research-media | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:06 | 2026-11-20 06:36:39 |
 | ela/theme-plot | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:24:02 | 2026-11-20 06:25:14 |
@@ -51,9 +51,9 @@ Updated 2026-11-20 08:00:00. Labels: finished / in progress / no audio / failed 
 | music/music-rhythm | no audio | 0 | 24 | 2 | 0 | 0 | 2026-11-19 18:25:19 |  |
 | yuwen/yw-argumentative | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-20 07:50:07 | 2026-11-20 07:51:17 |
 | yuwen/yw-classics | no audio | 0 | 28 | 10 | 0 | 0 | 2026-11-19 18:24:25 |  |
-| yuwen/yw-expository | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:53 |  |
+| yuwen/yw-expository | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:53 | 2026-11-20 08:01:16 |
 | yuwen/yw-hanzi | no audio | 0 | 36 | 30 | 0 | 0 | 2026-11-19 18:23:30 |  |
-| yuwen/yw-idioms | no audio | 0 | 68 | 8 | 0 | 0 | 2026-11-19 18:24:35 |  |
+| yuwen/yw-idioms | in progress | 37 | 39 | 0 | 0 | 0 | 2026-11-20 08:02:29 |  |
 | yuwen/yw-narrative | in progress | 4 | 10 | 11 | 0 | 0 | 2026-11-20 06:43:23 |  |
 | yuwen/yw-rhetoric | in progress | 35 | 15 | 3 | 0 | 0 | 2026-11-20 07:43:31 |  |
 | yuwen/yw-song-ci | no audio | 0 | 25 | 6 | 0 | 0 | 2026-11-19 18:23:42 |  |

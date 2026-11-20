@@ -187,7 +187,7 @@
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
   "updated": "2026-11-20 08:00:00",
-  "verified": ""
+  "verified": "2026-11-20 08:01:21"
  },
  "ela/narrative-writing": {
   "counts": {
@@ -909,7 +909,7 @@
    "zh": "说明文阅读"
   },
   "updated": "2026-11-20 07:59:53",
-  "verified": ""
+  "verified": "2026-11-20 08:01:16"
  },
  "yuwen/yw-hanzi": {
   "counts": {
@@ -932,21 +932,21 @@
  },
  "yuwen/yw-idioms": {
   "counts": {
-   "done": 0,
+   "done": 37,
    "failed": 0,
    "held": 0,
-   "missing": 8,
-   "old": 68,
+   "missing": 0,
+   "old": 39,
    "total": 76
   },
   "fingerprint": "a7d35764d08a",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-idioms.html",
   "title": {
    "en": "Idioms, Couplets & Traditional Culture",
    "zh": "成语、对联与传统文化"
   },
-  "updated": "2026-11-19 18:24:35",
+  "updated": "2026-11-20 08:02:29",
   "verified": ""
  },
  "yuwen/yw-narrative": {
