@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "ela/grammar-sentences", "en": {"069f0c2d": {"dur": 48.96}, "1a7fdd8a": {"dur": 34.16}, "3e5d8274": {"dur": 49.28}, "7aa8d284": {"dur": 34.8}, "ae2f7a1e": {"dur": 33.68}, "e496b985": {"dur": 50.4}}, "zh": {"44c2a494": {"dur": 24.96}, "667c47d2": {"dur": 44.0}, "6b5ba4e9": {"dur": 29.68}, "850575f8": {"dur": 49.68}, "a3ddf46d": {"dur": 31.6}, "b48d83b1": {"dur": 53.12}}});

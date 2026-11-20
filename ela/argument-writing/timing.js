@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "ela/argument-writing", "en": {"0b0d4bf6": {"dur": 47.92}, "2cccb685": {"dur": 56.24}, "2cf974df": {"dur": 28.8}, "7dbf0389": {"dur": 46.08}, "94d375d8": {"dur": 42.96}, "b84bdeda": {"dur": 40.32}}, "zh": {"15d5168a": {"dur": 44.56}, "73c5fc7b": {"dur": 45.28}, "76afa73e": {"dur": 53.44}, "9beac8f3": {"dur": 37.36}, "c4511914": {"dur": 28.64}, "d32ee755": {"dur": 34.32}}});

@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "ela/theme-plot", "en": {"4222830c": {"dur": 20.0}, "4dd5c283": {"dur": 16.8}, "524555b2": {"dur": 19.76}, "697236b2": {"dur": 18.72}, "89c7a77e": {"dur": 24.08}, "92bb4914": {"dur": 18.08}}, "zh": {"1f753a38": {"dur": 15.2}, "2f0d50b1": {"dur": 20.16}, "9f51528a": {"dur": 18.0}, "b2b7b169": {"dur": 22.88}, "b51c57ad": {"dur": 21.12}, "bcfee9bf": {"dur": 18.64}}});

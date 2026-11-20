@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "music/music-pitch", "en": {"1367b0cc": {"dur": 15.76}, "22728ed1": {"dur": 19.68}, "75d56b2f": {"dur": 22.8}, "7ae6393d": {"dur": 13.2}, "89a90049": {"dur": 16.56}, "b7d9f66f": {"dur": 26.24}}, "zh": {"178a3e0f": {"dur": 17.68}, "4cdd3659": {"dur": 14.24}, "90fa16bf": {"dur": 14.32}, "cf3c4c65": {"dur": 12.72}, "dae0b4e2": {"dur": 21.6}, "e391b7d2": {"dur": 27.12}}});

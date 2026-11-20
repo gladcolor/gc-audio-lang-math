@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "ela/character-pov", "en": {"08abc0c8": {"dur": 13.04}, "31207716": {"dur": 16.0}, "6b878b4f": {"dur": 12.32}, "8f3b4652": {"dur": 21.84}, "92581606": {"dur": 18.48}, "d9441132": {"dur": 20.4}, "e27abd47": {"dur": 14.32}}, "zh": {"1f17183c": {"dur": 17.36}, "2d89238e": {"dur": 11.2}, "3a5a6440": {"dur": 16.96}, "6c204735": {"dur": 15.6}, "b238b936": {"dur": 10.16}, "e27e5544": {"dur": 17.2}, "fd2ce7dd": {"dur": 18.88}}});
