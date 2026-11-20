@@ -191,21 +191,21 @@
  },
  "ela/narrative-writing": {
   "counts": {
-   "done": 0,
+   "done": 8,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 12,
+   "old": 4,
    "total": 12
   },
-  "fingerprint": "f097934e9826",
-  "label": "old voice",
+  "fingerprint": "cb31cb46053e",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/narrative-writing.html",
   "title": {
    "en": "Write a Story",
    "zh": "写记叙文"
   },
-  "updated": "2026-11-19 18:19:42",
+  "updated": "2026-11-20 06:33:23",
   "verified": ""
  },
  "ela/research-media": {
