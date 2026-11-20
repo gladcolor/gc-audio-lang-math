@@ -141,7 +141,9 @@ en	4794159a	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:53:57	tts
 en	7911dcad	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:07	tts	20edff863b
 zh	332dd9a8	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 06:33:23	tts	b9493aa5ee
 zh	5d045ddc	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 06:33:32	tts	0a4085429c
+zh	8eadb4ae	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 06:37:14	tts	4515a824f0
 zh	9d8263d3	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 06:33:26	tts	98c3b0c1b5
+zh	b52c0b8e	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 06:37:12	tts	032c9f5ce3
 zh	b5415651	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 06:29:49	tts	8efb9930bb
 en	6831e398	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 06:00:34	tts	ec860c44cd
 en	8937b761	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 05:53:11	tts	6457ba4117
@@ -168,9 +170,11 @@ zh	b2b7b169	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:45:00	tts	60fa1e
 zh	b51c57ad	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:46:21	tts	58e9547443
 zh	bcfee9bf	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:56:26	tts	253b9760e8
 en	40d1b0a8	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	tts	f5569f1484
+en	bf94fe2a	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:35:37	tts	bd98dd8f8a
 en	e475a08d	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 05:53:15	tts	71db36bb46
 en	e8d908f1	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:17:54	tts	67865813c8
 zh	0651bdcc	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:08:49	tts	c636c439e3
+zh	39264853	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:35:22	tts	4b7a5f9969
 zh	ea263e57	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:21:11	tts	9828785225
 en	0c44a98b	math/angles	serena t0.5 -16LUFS	48	2026-11-20 03:01:50	tts	141898d696
 en	0deffb2a	math/angles	serena t0.5 -16LUFS	48	2026-11-20 02:48:37	tts	9afe5917b5
@@ -676,7 +680,11 @@ en	ee6d4613	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	co
 en	f89aafba	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	6500d11ec5
 zh	5cfd2054	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	ee1f80ec60
 zh	81b0666a	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	a94e93a7bd
+zh	88f5d120	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:06	tts	3c4acb0315
+zh	9f61e2a9	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:05	tts	0a5f6464f7
+zh	be3be708	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:06	tts	0e4b8f2e7e
 zh	dde3ad62	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	665e9d0432
+zh	e8d8fbbe	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:06	tts	d9530ac272
 en	0d2dd93b	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 06:35:03	copy	302eb738e5
 en	118adb16	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 06:35:03	copy	19061ecb26
 en	3c9dc8c2	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 06:35:03	copy	05d56bc13b
