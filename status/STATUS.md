@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:11:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:11:24. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Updated 2026-11-20 03:11:18. Labels: finished / in progress / no audio / failed 
 | math/angles | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-20 02:46:22 |  |
 | math/area | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:08:56 | 2026-11-20 03:10:14 |
 | math/circles | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:16 |  |
-| math/coordinate-plane | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:29 |  |
+| math/coordinate-plane | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:24 |  |
 | math/equations | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:39 |  |
 | math/exponents | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:39 |  |
 | math/expressions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:14 |  |
