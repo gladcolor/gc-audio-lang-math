@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:23:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:24:05. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -39,7 +39,7 @@ Updated 2026-11-20 03:23:33. Labels: finished / in progress / no audio / failed 
 | math/scatter-plots | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:01:25 | 2026-11-20 03:03:00 |
 | math/slope | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:19:15 | 2026-11-20 03:20:19 |
 | math/statistics | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:17:03 | 2026-11-20 03:17:58 |
-| math/surface-volume | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:50 |  |
+| math/surface-volume | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:24:05 |  |
 | math/systems | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:06 | 2026-11-20 03:08:34 |
 | math/transformations | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:21:02 | 2026-11-20 03:21:56 |
 | math/volume-solids | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:12:19 |  |
