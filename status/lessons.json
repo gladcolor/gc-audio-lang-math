@@ -400,21 +400,21 @@
  },
  "math/functions": {
   "counts": {
-   "done": 0,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 20,
+   "old": 0,
    "total": 20
   },
-  "fingerprint": "5bf51c8e9c46",
-  "label": "old voice",
+  "fingerprint": "0764a684c01b",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/functions.html",
   "title": {
    "en": "Functions",
    "zh": "函数"
   },
-  "updated": "2026-11-19 18:12:03",
+  "updated": "2026-11-20 03:05:42",
   "verified": ""
  },
  "math/integers": {
