@@ -1,6 +1,14 @@
 lang	key	lesson	voice	kbps	date	source	send
+en	0b0d4bf6	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:18:02	tts	250716a6fe
+en	2cccb685	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:18:01	tts	4556eed6d4
 en	2cf974df	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 05:48:18	tts	5fd0f2d2a2
+en	7dbf0389	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:18:03	tts	0eb632fbc1
+en	94d375d8	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:17:53	tts	13f23a3694
 en	b84bdeda	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:06:01	tts	c2b0c23a0c
+zh	15d5168a	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:14:39	tts	e1bc5bb911
+zh	76afa73e	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:14:41	tts	2339ee3d87
+en	c6179bab	ela/central-idea	serena t0.5 -16LUFS	48	2026-11-20 06:07:26	tts	e1cd73fd2c
+zh	f0c7f057	ela/central-idea	serena t0.5 -16LUFS	48	2026-11-20 06:21:16	tts	c920862c01
 en	08abc0c8	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:49:10	tts	9d713dc3d4
 en	31207716	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:54:46	tts	49a6f262c0
 en	6b878b4f	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:49:00	tts	fbe1205678
@@ -37,6 +45,8 @@ en	3e5d8274	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:05:48	tts
 en	7aa8d284	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 05:48:20	tts	864b271dd2
 en	ae2f7a1e	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 05:48:16	tts	4e228bf11f
 en	e496b985	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:05:55	tts	d60b77b3fc
+zh	667c47d2	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:21:13	tts	6590029bb4
+zh	b48d83b1	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:14:42	tts	b19a3587e6
 en	0e7807d6	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:45:33	tts	10ec07588f
 en	1b8f2373	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:47:15	tts	92c52157a8
 en	2227ba93	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:54:44	tts	fc3348cf4e
@@ -55,6 +65,7 @@ en	71137683	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:45:28	
 en	717f7b25	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:48:07	tts	0d8c6b1e71
 en	76639d82	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:45:30	tts	80cb7e1de8
 en	7d69aebe	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:48:58	tts	c1ee93910d
+en	85665eb3	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 06:07:24	tts	d5cc80d422
 en	8c079c50	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:48:11	tts	f65965a474
 en	8dac4292	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:48:59	tts	e40d3b4aaa
 en	91ace727	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:51:33	tts	fa11b741e0
@@ -85,6 +96,7 @@ zh	29ce50a2	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:45:09	
 zh	4d57a72d	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:56:22	tts	72881311ad
 zh	4ec61678	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:57:41	tts	6f9f135d9e
 zh	52010fed	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:49:37	tts	e57a6e79bd
+zh	57ee12fd	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 06:08:51	tts	ca056dc7e4
 zh	5a203eb0	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:49:44	tts	b977459a7c
 zh	5f231270	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:47:44	tts	98227d46c1
 zh	66736eec	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:49:42	tts	58be7d8da7
@@ -96,6 +108,7 @@ zh	8587d136	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:49:59	
 zh	8b72699b	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:56:17	tts	7803a88a10
 zh	8d6ec9eb	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:56:19	tts	99af33f1ea
 zh	96afa933	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 06:02:04	tts	26bf9e0828
+zh	96e78d1c	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 06:14:44	tts	ea42cf1bb9
 zh	9ef4370b	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:45:03	tts	456d993c33
 zh	a02b31b6	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:50:42	tts	5b15f06725
 zh	a7e77a10	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:50:47	tts	2ca9941910
@@ -127,6 +140,10 @@ en	aec3c931	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 05:53:02	tts	a2
 en	c781dae8	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 06:01:56	tts	2b9425d5eb
 en	ccba3c71	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 05:53:10	tts	3a61e50b6a
 en	dcb7d196	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 05:53:06	tts	e14d5433e6
+zh	1850a217	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 06:08:58	tts	c0438fe7a4
+zh	5152859f	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 06:11:36	tts	ee129f770d
+zh	9be03293	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 06:08:57	tts	270c536fe2
+zh	ff31d1ee	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 06:08:48	tts	084ff6701c
 en	4222830c	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:17	tts	f4b6f76cbb
 en	4dd5c283	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:54:54	tts	572ed802e9
 en	524555b2	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:08	tts	1ef01c08e7
@@ -139,6 +156,9 @@ zh	b51c57ad	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:46:21	tts	58e954
 zh	bcfee9bf	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:56:26	tts	253b9760e8
 en	40d1b0a8	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	tts	f5569f1484
 en	e475a08d	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 05:53:15	tts	71db36bb46
+en	e8d908f1	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:17:54	tts	67865813c8
+zh	0651bdcc	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:08:49	tts	c636c439e3
+zh	ea263e57	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:21:11	tts	9828785225
 en	0c44a98b	math/angles	serena t0.5 -16LUFS	48	2026-11-20 03:01:50	tts	141898d696
 en	0deffb2a	math/angles	serena t0.5 -16LUFS	48	2026-11-20 02:48:37	tts	9afe5917b5
 en	0e1e36ad	math/angles	serena t0.5 -16LUFS	48	2026-11-20 03:01:46	tts	db5517fb71
@@ -623,3 +643,8 @@ zh	691dee3a	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:11	tts	02
 zh	de9aa0a7	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:47:04	tts	51af6ba5f4
 zh	e1d83de4	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:14	tts	9b9d356fa5
 zh	f5d9da71	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:19	tts	3116bd3ba6
+en	ca7ee6d5	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	655e8e04b2
+en	f89aafba	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	6500d11ec5
+zh	5cfd2054	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	ee1f80ec60
+zh	a6303c07	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	31edbee142
+zh	dde3ad62	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	665e9d0432
