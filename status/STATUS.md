@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:13:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:15:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -17,17 +17,17 @@ Updated 2026-11-20 03:13:36. Labels: finished / in progress / no audio / failed 
 | ela/research-media | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:58 |  |
 | ela/theme-plot | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:20 |  |
 | ela/vocabulary-roots | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:19:53 |  |
-| math/angles | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:12:51 |  |
+| math/angles | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:12:51 | 2026-11-20 03:13:44 |
 | math/area | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:08:56 | 2026-11-20 03:10:14 |
 | math/circles | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:16 |  |
 | math/coordinate-plane | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:24 | 2026-11-20 03:12:32 |
-| math/equations | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:39 |  |
-| math/exponents | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:13:36 |  |
+| math/equations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:15:25 |  |
+| math/exponents | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:13:36 | 2026-11-20 03:14:48 |
 | math/expressions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:14 | 2026-11-20 03:12:29 |
 | math/fraction-division | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:33 | 2026-11-20 03:06:51 |
 | math/functions | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:42 | 2026-11-20 03:06:52 |
 | math/integers | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:27 | 2026-11-20 03:08:36 |
-| math/negative-operations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:13:32 |  |
+| math/negative-operations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:13:32 | 2026-11-20 03:14:46 |
 | math/percents | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:03:20 | 2026-11-20 03:04:37 |
 | math/probability | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:18 | 2026-11-20 03:12:30 |
 | math/proportional | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:00 | 2026-11-20 03:08:33 |
