@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:05:42. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:07:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -24,14 +24,14 @@ Updated 2026-11-20 03:05:42. Labels: finished / in progress / no audio / failed 
 | math/equations | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:39 |  |
 | math/exponents | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:39 |  |
 | math/expressions | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:34 |  |
-| math/fraction-division | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:33 |  |
-| math/functions | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:42 |  |
+| math/fraction-division | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:33 | 2026-11-20 03:06:51 |
+| math/functions | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:42 | 2026-11-20 03:06:52 |
 | math/integers | in progress | 6 | 12 | 0 | 0 | 0 | 2026-11-20 02:35:37 |  |
 | math/negative-operations | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:06 |  |
 | math/percents | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:03:20 | 2026-11-20 03:04:37 |
 | math/probability | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:11:27 |  |
-| math/proportional | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:11:01 |  |
-| math/pythagorean | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:29 |  |
+| math/proportional | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:00 |  |
+| math/pythagorean | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:29 | 2026-11-20 03:06:50 |
 | math/ratios | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:57:45 | 2026-11-20 02:59:22 |
 | math/roots-irrationals | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:46 |  |
 | math/sampling | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:11:32 |  |

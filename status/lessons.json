@@ -396,7 +396,7 @@
    "zh": "分数除法"
   },
   "updated": "2026-11-20 03:05:33",
-  "verified": ""
+  "verified": "2026-11-20 03:06:51"
  },
  "math/functions": {
   "counts": {
@@ -415,7 +415,7 @@
    "zh": "函数"
   },
   "updated": "2026-11-20 03:05:42",
-  "verified": ""
+  "verified": "2026-11-20 03:06:52"
  },
  "math/integers": {
   "counts": {
@@ -495,21 +495,21 @@
  },
  "math/proportional": {
   "counts": {
-   "done": 0,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 0,
    "total": 18
   },
   "fingerprint": "1b6a885ce38c",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/proportional.html",
   "title": {
    "en": "Proportional Relationships",
    "zh": "正比例关系"
   },
-  "updated": "2026-11-19 18:11:01",
+  "updated": "2026-11-20 03:07:00",
   "verified": ""
  },
  "math/pythagorean": {
@@ -529,7 +529,7 @@
    "zh": "勾股定理"
   },
   "updated": "2026-11-20 03:05:29",
-  "verified": ""
+  "verified": "2026-11-20 03:06:50"
  },
  "math/ratios": {
   "counts": {
