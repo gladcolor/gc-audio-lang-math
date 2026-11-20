@@ -50,6 +50,7 @@ en	7aa8d284	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 05:48:20	tts
 en	ae2f7a1e	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 05:48:16	tts	4e228bf11f
 en	e496b985	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:05:55	tts	d60b77b3fc
 zh	667c47d2	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:21:13	tts	6590029bb4
+zh	850575f8	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:45:00	tts	ea5f5a5d19
 zh	a3ddf46d	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:27:13	tts	c1820d02c2
 zh	b48d83b1	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:14:42	tts	b19a3587e6
 en	0e7807d6	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:45:33	tts	10ec07588f
@@ -174,6 +175,7 @@ en	bf94fe2a	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:35:37	tts	
 en	e475a08d	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 05:53:15	tts	71db36bb46
 en	e8d908f1	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:17:54	tts	67865813c8
 zh	0651bdcc	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:08:49	tts	c636c439e3
+zh	13972e19	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:45:01	tts	bfeb3fe1fb
 zh	39264853	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:35:22	tts	4b7a5f9969
 zh	ea263e57	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:21:11	tts	9828785225
 en	0c44a98b	math/angles	serena t0.5 -16LUFS	48	2026-11-20 03:01:50	tts	141898d696
@@ -678,7 +680,10 @@ zh	cb916a3d	yuwen/yw-expository	serena t0.5 -16LUFS	48	2026-11-20 06:43:07	copy	
 en	33c6c249	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:08	tts	4cd55c0017
 en	b0cfc660	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:08	tts	4cc51389da
 en	c1352579	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:08	tts	6558d489db
+zh	2b514c12	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:31	tts	54e3fa8186
 zh	4cc37f7d	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:23	tts	1cfe1340f3
+zh	6b63bade	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:31	tts	7fb8cd81be
+zh	f9c43b94	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:30	tts	f9eb2ea895
 en	0d2dd93b	yuwen/yw-rhetoric	serena t0.5 -16LUFS	48	2026-11-20 06:43:07	copy	302eb738e5
 en	118adb16	yuwen/yw-rhetoric	serena t0.5 -16LUFS	48	2026-11-20 06:43:07	copy	19061ecb26
 en	332e6bb3	yuwen/yw-rhetoric	serena t0.5 -16LUFS	48	2026-11-20 06:43:07	copy	81e96040a5
@@ -714,6 +719,7 @@ en	f89aafba	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	
 zh	5cfd2054	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	ee1f80ec60
 zh	a6303c07	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	31edbee142
 zh	dde3ad62	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	665e9d0432
+zh	e2b40a34	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:43:31	tts	0b3135ef0e
 en	3c9dc8c2	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	05d56bc13b
 en	41995188	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	f565a8442c
 en	82549c97	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:43:15	tts	521eafacf8
@@ -726,6 +732,7 @@ zh	5cfd2054	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	co
 zh	81b0666a	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	a94e93a7bd
 zh	88f5d120	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:06	tts	3c4acb0315
 zh	9f61e2a9	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:05	tts	0a5f6464f7
+zh	ae76bebc	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:43:27	tts	340a72a082
 zh	be3be708	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:06	tts	0e4b8f2e7e
 zh	dde3ad62	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:29:37	copy	665e9d0432
 zh	e8d8fbbe	yuwen/yw-wenyan-basics	serena t0.5 -16LUFS	48	2026-11-20 06:37:06	tts	d9530ac272
