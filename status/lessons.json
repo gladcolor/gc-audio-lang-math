@@ -970,21 +970,21 @@
  },
  "yuwen/yw-rhetoric": {
   "counts": {
-   "done": 0,
+   "done": 35,
    "failed": 0,
    "held": 0,
-   "missing": 31,
-   "old": 22,
+   "missing": 3,
+   "old": 15,
    "total": 53
   },
   "fingerprint": "7f689b5d4ca5",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-rhetoric.html",
   "title": {
    "en": "Rhetorical Devices",
    "zh": "修辞手法"
   },
-  "updated": "2026-11-19 18:24:19",
+  "updated": "2026-11-20 07:43:31",
   "verified": ""
  },
  "yuwen/yw-song-ci": {
