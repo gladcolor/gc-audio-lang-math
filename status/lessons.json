@@ -92,7 +92,7 @@
    "zh": "写议论文"
   },
   "updated": "2026-11-20 06:33:18",
-  "verified": ""
+  "verified": "2026-11-20 06:34:52"
  },
  "ela/central-idea": {
   "counts": {
@@ -210,21 +210,21 @@
  },
  "ela/research-media": {
   "counts": {
-   "done": 0,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 12,
+   "old": 0,
    "total": 12
   },
   "fingerprint": "1d9b318e870b",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ela/research-media.html",
   "title": {
    "en": "Research & Media Literacy",
    "zh": "研究与媒介素养"
   },
-  "updated": "2026-11-19 18:19:58",
+  "updated": "2026-11-20 06:35:06",
   "verified": ""
  },
  "ela/theme-plot": {
