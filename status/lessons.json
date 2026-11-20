@@ -567,7 +567,7 @@
    "zh": "平方根与无理数"
   },
   "updated": "2026-11-20 03:25:24",
-  "verified": ""
+  "verified": "2026-11-20 03:27:06"
  },
  "math/sampling": {
   "counts": {
@@ -723,21 +723,21 @@
  },
  "math/volume-solids": {
   "counts": {
-   "done": 0,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 20,
+   "old": 0,
    "total": 20
   },
   "fingerprint": "b78c50ac37fc",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/volume-solids.html",
   "title": {
    "en": "Volume of Cylinders, Cones & Spheres",
    "zh": "圆柱、圆锥与球的体积"
   },
-  "updated": "2026-11-19 18:12:19",
+  "updated": "2026-11-20 03:39:04",
   "verified": ""
  },
  "music/music-compose": {
