@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "music/music-rhythm", "voice": "serena", "en": "12f3d4d8 242fa3fc 29ba51c4 3f368aa6 4761a59f 5b33f8dd 62a81d26 83c6e78a 8b890353 abf604d1 be28c1eb df7ef50d e17a8727", "zh": "0173c36b 0ac11378 4f60dc39 6849d1db 7bb9a3b2 88354a27 8da59291 8e854add d10e9f7b f76d3ebf fdb3dd55"});
+LabAudioManifest({"lesson": "music/music-rhythm", "voice": "serena", "en": "12f3d4d8 242fa3fc 29ba51c4 3f368aa6 4761a59f 5b33f8dd 62a81d26 83c6e78a 8b890353 abf604d1 be28c1eb df7ef50d e17a8727", "zh": "0173c36b 0ac11378 4f60dc39 57809675 6849d1db 7bb9a3b2 88354a27 8da59291 8e854add ae57beb6 d10e9f7b f76d3ebf fdb3dd55"});
