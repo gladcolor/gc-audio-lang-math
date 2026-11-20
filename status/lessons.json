@@ -932,21 +932,21 @@
  },
  "yuwen/yw-idioms": {
   "counts": {
-   "done": 37,
+   "done": 76,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 39,
+   "old": 0,
    "total": 76
   },
   "fingerprint": "a7d35764d08a",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-idioms.html",
   "title": {
    "en": "Idioms, Couplets & Traditional Culture",
    "zh": "成语、对联与传统文化"
   },
-  "updated": "2026-11-20 08:02:29",
+  "updated": "2026-11-20 09:20:37",
   "verified": ""
  },
  "yuwen/yw-narrative": {
