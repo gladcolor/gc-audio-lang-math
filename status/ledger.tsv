@@ -7,6 +7,7 @@ en	94d375d8	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:17:53	tts	
 en	b84bdeda	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:06:01	tts	c2b0c23a0c
 zh	15d5168a	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:14:39	tts	e1bc5bb911
 zh	76afa73e	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:14:41	tts	2339ee3d87
+zh	d32ee755	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:22:26	tts	cfa97a6f71
 en	c6179bab	ela/central-idea	serena t0.5 -16LUFS	48	2026-11-20 06:07:26	tts	e1cd73fd2c
 zh	f0c7f057	ela/central-idea	serena t0.5 -16LUFS	48	2026-11-20 06:21:16	tts	c920862c01
 en	08abc0c8	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:49:10	tts	9d713dc3d4
@@ -151,6 +152,8 @@ en	697236b2	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:54:36	tts	a3e6c7
 en	89c7a77e	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:13	tts	fad881b774
 en	92bb4914	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:11	tts	ab1f41b561
 zh	1f753a38	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:56:28	tts	ec2d9eabd7
+zh	2f0d50b1	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 06:24:01	tts	0e7dff96d8
+zh	9f51528a	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 06:24:02	tts	e2a2eca0d6
 zh	b2b7b169	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:45:00	tts	60fa1e6d46
 zh	b51c57ad	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:46:21	tts	58e9547443
 zh	bcfee9bf	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:56:26	tts	253b9760e8
@@ -643,6 +646,12 @@ zh	691dee3a	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:11	tts	02
 zh	de9aa0a7	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:47:04	tts	51af6ba5f4
 zh	e1d83de4	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:14	tts	9b9d356fa5
 zh	f5d9da71	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:19	tts	3116bd3ba6
+en	c778a342	yuwen/yw-song-ci	serena t0.5 -16LUFS	48	2026-11-20 06:23:59	copy	d2ed45fcbe
+en	ca7ee6d5	yuwen/yw-song-ci	serena t0.5 -16LUFS	48	2026-11-20 06:23:59	copy	655e8e04b2
+en	f89aafba	yuwen/yw-song-ci	serena t0.5 -16LUFS	48	2026-11-20 06:23:59	copy	6500d11ec5
+zh	5cfd2054	yuwen/yw-song-ci	serena t0.5 -16LUFS	48	2026-11-20 06:23:59	copy	ee1f80ec60
+zh	a6303c07	yuwen/yw-song-ci	serena t0.5 -16LUFS	48	2026-11-20 06:23:59	copy	31edbee142
+zh	dde3ad62	yuwen/yw-song-ci	serena t0.5 -16LUFS	48	2026-11-20 06:23:59	copy	665e9d0432
 en	ca7ee6d5	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	655e8e04b2
 en	f89aafba	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	6500d11ec5
 zh	5cfd2054	yuwen/yw-tang-poems	serena t0.5 -16LUFS	48	2026-11-20 06:17:51	copy	ee1f80ec60

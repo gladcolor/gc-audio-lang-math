@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 06:21:16. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 06:24:02. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -9,14 +9,14 @@ Updated 2026-11-20 06:21:16. Labels: finished / in progress / no audio / failed 
 | art/art-design | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:25:51 |  |
 | art/art-history | old voice | 0 | 28 | 0 | 0 | 0 | 2026-11-19 18:25:57 |  |
 | ela/argument-writing | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:37 |  |
-| ela/central-idea | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:21:16 |  |
+| ela/central-idea | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 06:21:16 | 2026-11-20 06:22:18 |
 | ela/character-pov | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 05:57:46 | 2026-11-20 05:58:58 |
 | ela/figurative-language | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:49:46 | 2026-11-20 05:50:38 |
 | ela/grammar-sentences | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:48 |  |
 | ela/narrative-techniques | in progress | 78 | 0 | 4 | 0 | 0 | 2026-11-20 06:07:18 |  |
 | ela/narrative-writing | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:42 |  |
 | ela/research-media | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:58 |  |
-| ela/theme-plot | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:20 |  |
+| ela/theme-plot | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:24:02 |  |
 | ela/vocabulary-roots | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:19:53 |  |
 | math/angles | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:12:51 | 2026-11-20 03:13:44 |
 | math/area | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:08:56 | 2026-11-20 03:10:14 |
