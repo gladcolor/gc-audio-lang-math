@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:09:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:11:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -18,12 +18,12 @@ Updated 2026-11-20 03:09:04. Labels: finished / in progress / no audio / failed 
 | ela/theme-plot | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:20 |  |
 | ela/vocabulary-roots | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:19:53 |  |
 | math/angles | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-20 02:46:22 |  |
-| math/area | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:08:56 |  |
+| math/area | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:08:56 | 2026-11-20 03:10:14 |
 | math/circles | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:16 |  |
 | math/coordinate-plane | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:29 |  |
 | math/equations | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:39 |  |
 | math/exponents | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:39 |  |
-| math/expressions | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:34 |  |
+| math/expressions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:14 |  |
 | math/fraction-division | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:33 | 2026-11-20 03:06:51 |
 | math/functions | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:42 | 2026-11-20 03:06:52 |
 | math/integers | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:27 | 2026-11-20 03:08:36 |
@@ -34,7 +34,7 @@ Updated 2026-11-20 03:09:04. Labels: finished / in progress / no audio / failed 
 | math/pythagorean | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:29 | 2026-11-20 03:06:50 |
 | math/ratios | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:57:45 | 2026-11-20 02:59:22 |
 | math/roots-irrationals | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:46 |  |
-| math/sampling | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:09:04 |  |
+| math/sampling | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:09:04 | 2026-11-20 03:10:16 |
 | math/scale-drawings | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:56 | 2026-11-20 02:53:20 |
 | math/scatter-plots | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:01:25 | 2026-11-20 03:03:00 |
 | math/slope | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:11:51 |  |
