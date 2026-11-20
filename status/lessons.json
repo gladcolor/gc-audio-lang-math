@@ -206,7 +206,7 @@
    "zh": "写记叙文"
   },
   "updated": "2026-11-20 06:37:14",
-  "verified": ""
+  "verified": "2026-11-20 06:38:25"
  },
  "ela/research-media": {
   "counts": {
@@ -951,21 +951,21 @@
  },
  "yuwen/yw-narrative": {
   "counts": {
-   "done": 0,
+   "done": 4,
    "failed": 0,
    "held": 0,
-   "missing": 15,
+   "missing": 11,
    "old": 10,
    "total": 25
   },
   "fingerprint": "627505f985e9",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-narrative.html",
   "title": {
    "en": "Reading Narratives",
    "zh": "记叙文阅读"
   },
-  "updated": "2026-11-19 18:24:05",
+  "updated": "2026-11-20 06:43:23",
   "verified": ""
  },
  "yuwen/yw-rhetoric": {
