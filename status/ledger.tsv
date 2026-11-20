@@ -1,4 +1,5 @@
 lang	key	lesson	voice	kbps	date	source	send
+en	af1a95c8	art/art-chinese	serena t0.5 -16LUFS	48	2026-11-20 09:16:16	tts	9df2bbd6c5
 zh	fb0bdeda	art/art-chinese	serena t0.5 -16LUFS	48	2026-11-20 08:59:41	tts	225126b6d8
 zh	61d0c38e	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 08:45:52	tts	cf283654ca
 zh	68f6fa5f	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 08:25:24	tts	2fd9213c88
@@ -703,6 +704,7 @@ en	b7a73034	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:27	tts	6
 zh	111e4d5b	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 09:04:52	tts	5cf8b057b2
 zh	58da6bab	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:31:33	tts	859052d058
 zh	78df1326	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:45:47	tts	608ceb3877
+zh	83ff0a01	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 09:09:52	tts	ac2a1f896a
 zh	9f3ca8f3	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:17:34	tts	7fb16492fc
 zh	ae9d1c58	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:12:19	tts	cc8fa70554
 zh	b5e27ae8	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:59:51	tts	cce7dc5d84
@@ -735,6 +737,7 @@ zh	d712de97	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 08:32:15	t
 zh	e96f8276	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 08:38:04	tts	cae54edc11
 en	1367b0cc	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:25	tts	4af44997d3
 en	22728ed1	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:27	tts	16aec3e494
+en	75d56b2f	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 09:11:44	tts	7a23e8e651
 en	7ae6393d	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:20	tts	93522c381a
 en	89a90049	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:28	tts	2d3ec38021
 en	b7d9f66f	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:52:08	tts	82649ce225
