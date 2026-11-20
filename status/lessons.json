@@ -643,7 +643,7 @@
    "zh": "斜率与一次函数"
   },
   "updated": "2026-11-20 03:19:15",
-  "verified": ""
+  "verified": "2026-11-20 03:20:19"
  },
  "math/statistics": {
   "counts": {
@@ -704,21 +704,21 @@
  },
  "math/transformations": {
   "counts": {
-   "done": 0,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 0,
    "total": 18
   },
   "fingerprint": "9baebc3b95e9",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/transformations.html",
   "title": {
    "en": "Transformations, Congruence & Similarity",
    "zh": "图形变换、全等与相似"
   },
-  "updated": "2026-11-19 18:12:08",
+  "updated": "2026-11-20 03:21:02",
   "verified": ""
  },
  "math/volume-solids": {
