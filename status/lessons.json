@@ -571,21 +571,21 @@
  },
  "math/sampling": {
   "counts": {
-   "done": 0,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 0,
    "total": 18
   },
-  "fingerprint": "efa0096d6c11",
-  "label": "old voice",
+  "fingerprint": "7a0805c88bbe",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/sampling.html",
   "title": {
    "en": "Sampling & Inference",
    "zh": "抽样与推断"
   },
-  "updated": "2026-11-19 18:11:32",
+  "updated": "2026-11-20 03:09:04",
   "verified": ""
  },
  "math/scale-drawings": {
