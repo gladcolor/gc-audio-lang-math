@@ -419,21 +419,21 @@
  },
  "math/integers": {
   "counts": {
-   "done": 6,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 12,
+   "old": 0,
    "total": 18
   },
   "fingerprint": "26cf44dca552",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/integers.html",
   "title": {
    "en": "Integers & Absolute Value",
    "zh": "整数与绝对值"
   },
-  "updated": "2026-11-20 02:35:37",
+  "updated": "2026-11-20 03:07:27",
   "verified": ""
  },
  "math/negative-operations": {
