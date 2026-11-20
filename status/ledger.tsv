@@ -1,4 +1,5 @@
 lang	key	lesson	voice	kbps	date	source	send
+zh	68f6fa5f	art/art-color	serena t0.5 -16LUFS	48	2026-11-20 08:25:24	tts	2fd9213c88
 en	3af774f8	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:13	tts	3d9783c378
 en	94adb6da	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:19	tts	55549acb65
 en	edca25d9	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:18	tts	02612d17eb
@@ -677,6 +678,8 @@ zh	de9aa0a7	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:47:04	tts	51
 zh	e1d83de4	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:14	tts	9b9d356fa5
 zh	f5d9da71	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:46:19	tts	3116bd3ba6
 en	00b58314	music/music-compose	serena t0.5 -16LUFS	48	2026-11-20 07:54:24	tts	90c0a43e2a
+zh	02d356ce	music/music-compose	serena t0.5 -16LUFS	48	2026-11-20 08:35:31	tts	d9be6421ad
+zh	6f82ac2d	music/music-compose	serena t0.5 -16LUFS	48	2026-11-20 08:33:29	tts	28de53a720
 en	02c99e7f	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:29	tts	29f1d4e5c3
 en	0db367f2	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:44	tts	9772386341
 en	2b7fac9e	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:31	tts	40a3305e1c
@@ -687,6 +690,7 @@ en	464a7c24	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:30	tts	f
 en	6a169968	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:48	tts	750f65f3ae
 en	7bfc0ea3	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:45	tts	ade44123e0
 en	b7a73034	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:27	tts	6defa7a7df
+zh	58da6bab	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:31:33	tts	859052d058
 zh	9f3ca8f3	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:17:34	tts	7fb16492fc
 zh	ae9d1c58	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:12:19	tts	cc8fa70554
 zh	b5e27ae8	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:59:51	tts	cce7dc5d84
@@ -705,11 +709,13 @@ en	d56eef7a	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:54:31	t
 en	d5781f9c	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:52:15	tts	2015d3fd17
 en	f1f6b1a4	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:52:09	tts	eac04bb57f
 zh	a5373f60	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 08:14:15	tts	11f92d837b
+zh	d712de97	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 08:32:15	tts	23807fcbb1
 en	1367b0cc	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:25	tts	4af44997d3
 en	22728ed1	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:27	tts	16aec3e494
 en	7ae6393d	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:20	tts	93522c381a
 en	89a90049	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:28	tts	2d3ec38021
 en	b7d9f66f	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:52:08	tts	82649ce225
+zh	90fa16bf	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 08:32:11	tts	507ea8071b
 en	12f3d4d8	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:08:31	tts	e27c6f1cdf
 en	242fa3fc	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:45	tts	f8b3559aca
 en	29ba51c4	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:50	tts	f78002d958
@@ -724,8 +730,13 @@ en	be28c1eb	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:46	tts	53
 en	df7ef50d	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:47	tts	1b0afbf055
 en	e17a8727	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:46	tts	97f56ee13d
 zh	0173c36b	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:05:48	tts	65b701939d
+zh	0ac11378	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:25:15	tts	4e59a3244a
+zh	4f60dc39	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:25:06	tts	b01c988846
+zh	57809675	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:25:05	tts	83769cf311
+zh	7bb9a3b2	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:30:59	tts	2aebaff972
 zh	88354a27	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:13:11	tts	ed8f005fa0
 zh	8da59291	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:18:36	tts	b8596dd07a
+zh	ae57beb6	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:35:34	tts	5cfbac7337
 zh	f76d3ebf	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 08:05:46	tts	0c947a817c
 zh	3a2dad39	yuwen/yw-argumentative	serena t0.5 -16LUFS	48	2026-11-20 07:50:05	tts	7a8ea5d04b
 zh	e151ce77	yuwen/yw-argumentative	serena t0.5 -16LUFS	48	2026-11-20 07:35:50	tts	5b374404cc
@@ -753,6 +764,7 @@ zh	89bcceff	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:40:02	tts	06e
 zh	95de0ae7	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 06:43:22	copy	7b20e865a2
 zh	a3d459ad	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:50:03	tts	a534fda0a9
 zh	a858d6b9	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:40:04	tts	dd0482a246
+zh	ac25060e	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 08:32:14	tts	6abe9fe7a2
 zh	b0d11a10	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 08:10:41	tts	5a80dfb217
 zh	bdad97aa	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:40:04	tts	834f9730c1
 zh	c14fff1d	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 06:43:22	copy	522cc71665
@@ -763,6 +775,7 @@ zh	cf99279f	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 06:43:22	copy	42
 zh	d099d786	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:43:35	tts	00837f782e
 zh	d87df59f	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:41:20	tts	d21ce1456b
 zh	e7de99ba	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:41:15	tts	68432d68d7
+zh	e95fef95	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 08:37:50	tts	ca3b337522
 zh	ed1a0486	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:41:16	tts	2e3253de74
 zh	f831b7ee	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 06:43:22	copy	851a8c3783
 zh	f979c926	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:41:30	tts	b59dcc379e
@@ -869,6 +882,7 @@ zh	196cfda1	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 07:41:14	tts	79a8d
 zh	1995c7fe	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:06:25	tts	73acd24206
 zh	1a1b4f2e	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 07:41:05	tts	5f7cfd036b
 zh	2037d1aa	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:06:46	tts	8742a2c00a
+zh	2d3dd86e	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:33:19	tts	a098af834c
 zh	2e3c9aaa	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:11:26	tts	3f328e1da3
 zh	31ed7521	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:06:43	tts	dee802f532
 zh	34568c93	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 07:35:48	copy	3846142b54
@@ -891,6 +905,7 @@ zh	a01121f2	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 07:41:04	tts	6b00c
 zh	a31cf674	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 07:41:15	tts	100a83dae3
 zh	a5b93e04	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:03:06	tts	8007bedc74
 zh	b15e1c45	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 07:41:05	tts	5d77dd8567
+zh	b50bc1c5	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:33:15	tts	f28c65aea7
 zh	b5274882	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:06:25	tts	3a54b18ea4
 zh	b7c888c3	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 08:14:04	tts	c3d76b0abd
 zh	be69f189	yuwen/yw-idioms	serena t0.5 -16LUFS	48	2026-11-20 07:35:48	copy	76d86ac7ad

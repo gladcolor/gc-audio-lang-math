@@ -875,21 +875,21 @@
  },
  "yuwen/yw-classics": {
   "counts": {
-   "done": 0,
+   "done": 38,
    "failed": 0,
    "held": 0,
-   "missing": 10,
-   "old": 28,
+   "missing": 0,
+   "old": 0,
    "total": 38
   },
   "fingerprint": "96c9c620f07d",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-classics.html",
   "title": {
    "en": "Great Books (名著导读)",
    "zh": "名著导读"
   },
-  "updated": "2026-11-19 18:24:25",
+  "updated": "2026-11-20 08:37:50",
   "verified": ""
  },
  "yuwen/yw-expository": {
@@ -966,7 +966,7 @@
    "zh": "记叙文阅读"
   },
   "updated": "2026-11-20 08:25:01",
-  "verified": ""
+  "verified": "2026-11-20 08:26:12"
  },
  "yuwen/yw-rhetoric": {
   "counts": {
