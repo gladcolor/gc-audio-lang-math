@@ -818,21 +818,21 @@
  },
  "music/music-pitch": {
   "counts": {
-   "done": 0,
+   "done": 2,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 12,
+   "old": 10,
    "total": 12
   },
-  "fingerprint": "d1b2ad3961a8",
-  "label": "old voice",
+  "fingerprint": "e437f4df4c4b",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/music/music-pitch.html",
   "title": {
    "en": "Pitch, Notes & Scales",
    "zh": "音高、音符与音阶"
   },
-  "updated": "2026-11-19 18:25:24",
+  "updated": "2026-11-20 07:54:20",
   "verified": ""
  },
  "music/music-rhythm": {
@@ -871,7 +871,7 @@
    "zh": "议论文阅读"
   },
   "updated": "2026-11-20 07:50:07",
-  "verified": ""
+  "verified": "2026-11-20 07:51:17"
  },
  "yuwen/yw-classics": {
   "counts": {
