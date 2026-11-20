@@ -153,21 +153,21 @@
  },
  "ela/grammar-sentences": {
   "counts": {
-   "done": 0,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 12,
+   "old": 0,
    "total": 12
   },
-  "fingerprint": "b9bf861132e3",
-  "label": "old voice",
+  "fingerprint": "fe84c78f37e9",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ela/grammar-sentences.html",
   "title": {
    "en": "Sentences, Clauses & Punctuation",
    "zh": "句子、从句与标点"
   },
-  "updated": "2026-11-19 18:19:48",
+  "updated": "2026-11-20 07:11:03",
   "verified": ""
  },
  "ela/narrative-techniques": {
@@ -263,7 +263,7 @@
    "zh": "词根与上下文线索"
   },
   "updated": "2026-11-20 06:45:01",
-  "verified": ""
+  "verified": "2026-11-20 06:46:24"
  },
  "math/angles": {
   "counts": {
