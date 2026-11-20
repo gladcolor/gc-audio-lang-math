@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 08:05:24. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 08:07:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -52,12 +52,12 @@ Updated 2026-11-20 08:05:24. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-argumentative | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-20 07:50:07 | 2026-11-20 07:51:17 |
 | yuwen/yw-classics | no audio | 0 | 28 | 10 | 0 | 0 | 2026-11-19 18:24:25 |  |
 | yuwen/yw-expository | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 07:59:53 | 2026-11-20 08:01:16 |
-| yuwen/yw-hanzi | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-20 08:05:14 |  |
+| yuwen/yw-hanzi | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-20 08:05:14 | 2026-11-20 08:06:18 |
 | yuwen/yw-idioms | in progress | 37 | 39 | 0 | 0 | 0 | 2026-11-20 08:02:29 |  |
 | yuwen/yw-narrative | in progress | 4 | 10 | 11 | 0 | 0 | 2026-11-20 06:43:23 |  |
 | yuwen/yw-rhetoric | in progress | 35 | 15 | 3 | 0 | 0 | 2026-11-20 07:43:31 |  |
-| yuwen/yw-song-ci | no audio | 0 | 25 | 6 | 0 | 0 | 2026-11-19 18:23:42 |  |
-| yuwen/yw-tang-poems | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-20 08:05:24 |  |
+| yuwen/yw-song-ci | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:07:21 |  |
+| yuwen/yw-tang-poems | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-20 08:05:24 | 2026-11-20 08:06:20 |
 | yuwen/yw-wenyan-basics | no audio | 0 | 28 | 11 | 0 | 0 | 2026-11-19 18:23:49 |  |
 | yuwen/yw-wenyan-classics | in progress | 40 | 25 | 1 | 0 | 0 | 2026-11-20 08:04:24 |  |
 | yuwen/yw-writing | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-20 07:43:24 | 2026-11-20 07:44:36 |
