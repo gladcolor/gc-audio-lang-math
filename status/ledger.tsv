@@ -2,9 +2,13 @@ lang	key	lesson	voice	kbps	date	source	send
 en	3af774f8	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:13	tts	3d9783c378
 en	94adb6da	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:19	tts	55549acb65
 en	edca25d9	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:02:18	tts	02612d17eb
+zh	0f7ace83	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:22:34	tts	e2d64e23a5
+zh	11b44c06	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:24:09	tts	67aa44ba63
 zh	4db68206	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:17:52	tts	3597e22fc4
+zh	6ddaa26f	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:22:29	tts	1f113647e8
 zh	85250995	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:10:26	tts	1c20ed7072
 zh	85ba0657	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:14:14	tts	e381b3fc1a
+zh	a3d0e4a3	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:24:09	tts	9b78c33788
 zh	ae04cd4e	art/art-history	serena t0.5 -16LUFS	48	2026-11-20 08:10:36	tts	f67510b3a5
 en	0b0d4bf6	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:18:02	tts	250716a6fe
 en	2cccb685	ela/argument-writing	serena t0.5 -16LUFS	48	2026-11-20 06:18:01	tts	4556eed6d4
@@ -686,6 +690,9 @@ en	b7a73034	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:27	tts	6
 zh	9f3ca8f3	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:17:34	tts	7fb16492fc
 zh	ae9d1c58	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:12:19	tts	cc8fa70554
 zh	b5e27ae8	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:59:51	tts	cce7dc5d84
+zh	bee34545	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:22:32	tts	3382bd83ca
+zh	c4023218	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:24:10	tts	8977f6cfd7
+zh	dcfdcc3b	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 08:22:40	tts	e6471fac2c
 en	094a35fa	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:54:24	tts	5144647bdc
 en	1023c07b	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:52:10	tts	0b640f3b04
 en	2d03054d	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:54:25	tts	29ca3b91ef
@@ -918,6 +925,7 @@ zh	3dd83293	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 07:33:00	tts	14
 zh	4cc37f7d	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:23	tts	1cfe1340f3
 zh	61cd6650	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 07:59:37	tts	55c6551296
 zh	6b63bade	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 06:43:31	tts	7fb8cd81be
+zh	a1758a72	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 08:25:01	tts	7b5d658f66
 zh	aa32bdf2	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 07:36:19	tts	693871c28d
 zh	bf45da58	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 07:35:49	tts	4c7049be70
 zh	dd2ae54c	yuwen/yw-narrative	serena t0.5 -16LUFS	48	2026-11-20 08:08:14	tts	a08fe556be
@@ -1092,9 +1100,12 @@ zh	0b710806	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 08:01:52	
 zh	0d9d5cfd	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 07:32:23	tts	4a49864ba5
 zh	0dbdb333	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 08:04:24	tts	8a8cc3a611
 zh	102e2b6b	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 08:13:09	tts	691fa770f0
+zh	15443972	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 08:24:07	tts	a10126d323
 zh	1cd732f1	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 07:32:25	tts	99b90c5e53
+zh	267e0eb4	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 08:22:34	tts	62b1fbbf88
 zh	26bf073d	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 07:31:41	tts	4819834835
 zh	2897882b	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 07:50:00	tts	8b3a2510cd
+zh	2a59d2e1	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 08:20:08	tts	43ca159083
 zh	2dd6bc7f	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 07:32:26	tts	0c3ea86c95
 zh	2e02789f	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 07:36:43	tts	08296fefe4
 zh	37ece25f	yuwen/yw-wenyan-classics	serena t0.5 -16LUFS	48	2026-11-20 07:36:43	tts	741b2203b5
