@@ -301,7 +301,7 @@
    "zh": "圆的周长与面积"
   },
   "updated": "2026-11-20 03:23:33",
-  "verified": ""
+  "verified": "2026-11-20 03:25:00"
  },
  "math/coordinate-plane": {
   "counts": {
@@ -552,21 +552,21 @@
  },
  "math/roots-irrationals": {
   "counts": {
-   "done": 0,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 20,
+   "old": 0,
    "total": 20
   },
   "fingerprint": "64bc7d1030a2",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/roots-irrationals.html",
   "title": {
    "en": "Square Roots & Irrational Numbers",
    "zh": "平方根与无理数"
   },
-  "updated": "2026-11-19 18:11:46",
+  "updated": "2026-11-20 03:25:24",
   "verified": ""
  },
  "math/sampling": {
@@ -681,7 +681,7 @@
    "zh": "表面积与体积"
   },
   "updated": "2026-11-20 03:24:05",
-  "verified": ""
+  "verified": "2026-11-20 03:25:03"
  },
  "math/systems": {
   "counts": {
