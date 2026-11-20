@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:07:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:08:56. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Updated 2026-11-20 03:07:27. Labels: finished / in progress / no audio / failed 
 | ela/theme-plot | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:20 |  |
 | ela/vocabulary-roots | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:19:53 |  |
 | math/angles | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-20 02:46:22 |  |
-| math/area | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:45 |  |
+| math/area | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:08:56 |  |
 | math/circles | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:16 |  |
 | math/coordinate-plane | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:29 |  |
 | math/equations | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:39 |  |
@@ -26,11 +26,11 @@ Updated 2026-11-20 03:07:27. Labels: finished / in progress / no audio / failed 
 | math/expressions | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:34 |  |
 | math/fraction-division | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:33 | 2026-11-20 03:06:51 |
 | math/functions | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:42 | 2026-11-20 03:06:52 |
-| math/integers | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:27 |  |
+| math/integers | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:27 | 2026-11-20 03:08:36 |
 | math/negative-operations | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:06 |  |
 | math/percents | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:03:20 | 2026-11-20 03:04:37 |
 | math/probability | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:11:27 |  |
-| math/proportional | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:00 |  |
+| math/proportional | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:00 | 2026-11-20 03:08:33 |
 | math/pythagorean | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:29 | 2026-11-20 03:06:50 |
 | math/ratios | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:57:45 | 2026-11-20 02:59:22 |
 | math/roots-irrationals | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:46 |  |
@@ -40,7 +40,7 @@ Updated 2026-11-20 03:07:27. Labels: finished / in progress / no audio / failed 
 | math/slope | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:11:51 |  |
 | math/statistics | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:55 |  |
 | math/surface-volume | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:50 |  |
-| math/systems | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:06 |  |
+| math/systems | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:06 | 2026-11-20 03:08:34 |
 | math/transformations | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:12:08 |  |
 | math/volume-solids | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:12:19 |  |
 | music/music-compose | old voice | 0 | 7 | 0 | 0 | 0 | 2026-11-19 18:25:34 |  |
