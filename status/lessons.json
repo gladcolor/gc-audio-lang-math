@@ -168,7 +168,7 @@
    "zh": "句子、从句与标点"
   },
   "updated": "2026-11-20 07:11:03",
-  "verified": ""
+  "verified": "2026-11-20 07:11:58"
  },
  "ela/narrative-techniques": {
   "counts": {
@@ -1065,21 +1065,21 @@
  },
  "yuwen/yw-writing": {
   "counts": {
-   "done": 0,
+   "done": 1,
    "failed": 0,
    "held": 0,
-   "missing": 1,
+   "missing": 0,
    "old": 0,
    "total": 1
   },
   "fingerprint": "e93d7abaf635",
-  "label": "no audio",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-writing.html",
   "title": {
    "en": "Writing in Chinese",
    "zh": "写作"
   },
-  "updated": "2026-11-19 18:24:41",
+  "updated": "2026-11-20 07:43:24",
   "verified": ""
  }
 }
