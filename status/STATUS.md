@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:15:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:17:03. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Updated 2026-11-20 03:15:25. Labels: finished / in progress / no audio / failed 
 | math/area | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:08:56 | 2026-11-20 03:10:14 |
 | math/circles | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:11:16 |  |
 | math/coordinate-plane | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:24 | 2026-11-20 03:12:32 |
-| math/equations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:15:25 |  |
+| math/equations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:15:25 | 2026-11-20 03:16:33 |
 | math/exponents | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:13:36 | 2026-11-20 03:14:48 |
 | math/expressions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:11:14 | 2026-11-20 03:12:29 |
 | math/fraction-division | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:33 | 2026-11-20 03:06:51 |
@@ -38,7 +38,7 @@ Updated 2026-11-20 03:15:25. Labels: finished / in progress / no audio / failed 
 | math/scale-drawings | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:56 | 2026-11-20 02:53:20 |
 | math/scatter-plots | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:01:25 | 2026-11-20 03:03:00 |
 | math/slope | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:11:51 |  |
-| math/statistics | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:10:55 |  |
+| math/statistics | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:17:03 |  |
 | math/surface-volume | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:10:50 |  |
 | math/systems | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:06 | 2026-11-20 03:08:34 |
 | math/transformations | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:12:08 |  |
