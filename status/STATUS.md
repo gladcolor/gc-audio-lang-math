@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-20 03:39:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 05:49:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Updated 2026-11-20 03:39:04. Labels: finished / in progress / no audio / failed 
 | ela/argument-writing | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:37 |  |
 | ela/central-idea | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:19:33 |  |
 | ela/character-pov | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:19:25 |  |
-| ela/figurative-language | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:19:29 |  |
+| ela/figurative-language | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 05:49:46 |  |
 | ela/grammar-sentences | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:48 |  |
 | ela/narrative-writing | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:42 |  |
 | ela/research-media | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:19:58 |  |
@@ -42,7 +42,7 @@ Updated 2026-11-20 03:39:04. Labels: finished / in progress / no audio / failed 
 | math/surface-volume | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:24:05 | 2026-11-20 03:25:03 |
 | math/systems | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:07:06 | 2026-11-20 03:08:34 |
 | math/transformations | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:21:02 | 2026-11-20 03:21:56 |
-| math/volume-solids | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:39:04 |  |
+| math/volume-solids | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:39:04 | 2026-11-20 03:40:07 |
 | music/music-compose | old voice | 0 | 7 | 0 | 0 | 0 | 2026-11-19 18:25:34 |  |
 | music/music-history | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:25:40 |  |
 | music/music-instruments | old voice | 0 | 22 | 0 | 0 | 0 | 2026-11-19 18:25:30 |  |
