@@ -678,6 +678,8 @@ en	d5781f9c	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:52:15	t
 en	f1f6b1a4	music/music-instruments	serena t0.5 -16LUFS	48	2026-11-20 07:52:09	tts	eac04bb57f
 zh	5481b666	music/music-instruments	serena moss8b	48	2026-11-21 14:40:10	tts	86fe4f8ee6
 zh	a30d72c8	music/music-instruments	serena moss8b	48	2026-11-21 14:40:22	tts	acf43bbe58
+zh	122573ac	music/music-listening	serena moss8b	48	2026-11-21 14:41:06	tts	e4549d5558
+zh	6a3420e8	music/music-listening	serena moss8b	48	2026-11-21 14:40:44	tts	34ce69c05e
 en	1367b0cc	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:25	tts	4af44997d3
 en	22728ed1	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 07:54:27	tts	16aec3e494
 en	75d56b2f	music/music-pitch	serena t0.5 -16LUFS	48	2026-11-20 09:11:44	tts	7a23e8e651
@@ -699,8 +701,10 @@ en	be28c1eb	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:46	tts	53
 en	df7ef50d	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:47	tts	1b0afbf055
 en	e17a8727	music/music-rhythm	serena t0.5 -16LUFS	48	2026-11-20 07:49:46	tts	97f56ee13d
 zh	0f078a27	music/music-rhythm	serena moss8b	48	2026-11-21 14:40:22	tts	086d78c092
+zh	461d8293	music/music-rhythm	serena moss8b	48	2026-11-21 14:40:55	tts	9047fb6cc6
 zh	88354a27	music/music-rhythm	serena moss8b	48	2026-11-21 14:39:42	tts	ed8f005fa0
 zh	acd69860	music/music-rhythm	serena moss8b	48	2026-11-21 14:40:23	tts	d678e064d9
+zh	d10e9f7b	music/music-rhythm	serena moss8b	48	2026-11-21 14:40:53	tts	ebecb8c8e8
 en	3dc528a2	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 06:43:22	copy	63f0643c43
 en	71be05a1	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:52:16	tts	fde451bdf4
 en	735166ed	yuwen/yw-classics	serena t0.5 -16LUFS	48	2026-11-20 07:40:42	tts	46550d5401
