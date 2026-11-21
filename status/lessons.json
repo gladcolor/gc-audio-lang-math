@@ -1611,7 +1611,7 @@
    "zh": "宋词与古诗词格律"
   },
   "updated": "2026-11-21 22:50:57",
-  "verified": ""
+  "verified": "2026-11-21 22:54:07"
  },
  "yuwen/yw-tang-poems": {
   "counts": {
@@ -1659,11 +1659,11 @@
  },
  "yuwen/yw-wenyan-classics": {
   "counts": {
-   "done": 11,
+   "done": 138,
    "failed": 0,
    "held": 0,
-   "missing": 244,
-   "old": 52,
+   "missing": 154,
+   "old": 15,
    "total": 307
   },
   "fingerprint": "16798b4b8760",
@@ -1676,7 +1676,7 @@
    "en": "Classical Prose Masterpieces",
    "zh": "文言名篇"
   },
-  "updated": "2026-11-21 22:49:12",
+  "updated": "2026-11-21 22:54:59",
   "verified": ""
  },
  "yuwen/yw-writing": {
