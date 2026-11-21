@@ -126,6 +126,7 @@ zh	dae0ea8c	math/area	serena moss8b	48	2026-11-21 13:39:35	tts	97a761ef9a
 zh	e999e02e	math/area	serena moss8b	48	2026-11-21 13:38:47	tts	b1fccd8e9a
 zh	fc96aaf7	math/area	serena moss8b	48	2026-11-21 16:04:11	tts	c5c482bf55
 en	1d6b1d12	math/circle-theorems	serena moss8b	48	2026-11-21 19:09:18	tts	04940158c8
+en	628a50c1	math/circle-theorems	serena moss8b	48	2026-11-21 19:21:09	tts	b38e928599
 en	aa1ca782	math/circle-theorems	serena moss8b	48	2026-11-21 19:20:47	tts	a852c74c2f
 en	bd715da9	math/circle-theorems	serena moss8b	48	2026-11-21 19:19:22	tts	fd6561d928
 en	e74e9201	math/circle-theorems	serena moss8b	48	2026-11-21 19:20:57	tts	633caa9169
@@ -210,6 +211,7 @@ en	65a2a5a3	math/equations	serena moss8b	48	2026-11-21 19:09:39	tts	1eb6bd0946
 en	9a01a489	math/equations	serena moss8b	48	2026-11-21 19:20:45	tts	399b678fb2
 en	9e07b86e	math/equations	serena moss8b	48	2026-11-21 19:05:37	tts	7185fb5c0b
 en	a59d0d80	math/equations	serena moss8b	48	2026-11-21 19:17:28	tts	1d0db2c4e2
+en	b994eb48	math/equations	serena moss8b	48	2026-11-21 19:21:10	tts	0979cceb0c
 en	d1e24629	math/equations	serena moss8b	48	2026-11-21 19:08:05	tts	40e345e999
 en	ed0f5de8	math/equations	serena moss8b	48	2026-11-21 19:10:32	tts	03f9b1bb63
 en	f1c66a62	math/equations	serena moss8b	48	2026-11-21 19:09:31	tts	970badcb7a
@@ -523,6 +525,7 @@ zh	bd408703	math/probability	serena moss8b	48	2026-11-21 13:14:30	tts	ba0c9bbad4
 zh	c78446d6	math/probability	serena moss8b	48	2026-11-21 13:23:47	tts	5a1f0348fb
 en	39f50470	math/projections-three-views	serena moss8b	48	2026-11-21 19:20:25	tts	77f98c6939
 en	80993454	math/projections-three-views	serena moss8b	48	2026-11-21 19:19:25	tts	11892cfddc
+en	d0ad7dec	math/projections-three-views	serena moss8b	48	2026-11-21 19:21:06	tts	89044dbd21
 en	d2f7bfe3	math/projections-three-views	serena moss8b	48	2026-11-21 19:17:36	tts	41a30200ac
 zh	337ea068	math/projections-three-views	serena moss8b	48	2026-11-21 19:18:06	tts	7d12c60f91
 zh	37b3fcc4	math/projections-three-views	serena moss8b	48	2026-11-21 19:17:57	tts	5691491c77
@@ -576,6 +579,7 @@ en	bd67cee1	math/quadratic-equations	serena moss8b	48	2026-11-21 19:09:27	tts	ec
 en	cf81eae9	math/quadratic-equations	serena moss8b	48	2026-11-21 19:09:51	tts	80c2201da1
 en	e0e3281f	math/quadratic-equations	serena moss8b	48	2026-11-21 19:09:08	tts	b8d3e8656d
 en	f5e55aec	math/quadratic-equations	serena moss8b	48	2026-11-21 19:09:35	tts	4326d7de2b
+en	f7159d4c	math/quadratic-equations	serena moss8b	48	2026-11-21 19:21:04	tts	44d566a532
 zh	0fbf8e2c	math/quadratic-equations	serena moss8b	48	2026-11-21 16:16:51	tts	6170e9dfb6
 zh	19ce0db4	math/quadratic-equations	serena moss8b	48	2026-11-21 16:05:21	tts	683d8240be
 zh	20f2f231	math/quadratic-equations	serena moss8b	48	2026-11-21 16:04:34	tts	72b3e6a2e0
@@ -622,6 +626,7 @@ zh	92b58460	math/quadratic-functions	serena moss8b	48	2026-11-21 16:20:10	tts	d0
 zh	a20a96c0	math/quadratic-functions	serena moss8b	48	2026-11-21 16:05:16	tts	a1e5e55d43
 en	004cd8e3	math/radicals	serena moss8b	48	2026-11-21 19:09:20	tts	ba7a5635fb
 en	385183d2	math/radicals	serena moss8b	48	2026-11-21 19:08:41	tts	91a0bee66b
+en	5e205c2a	math/radicals	serena moss8b	48	2026-11-21 19:21:05	tts	d936784799
 en	bc5502b2	math/radicals	serena moss8b	48	2026-11-21 19:17:04	tts	08e55e6f63
 zh	732dd89f	math/radicals	serena moss8b	48	2026-11-21 16:14:45	tts	bdbe7c015a
 zh	7d7260b4	math/radicals	serena moss8b	48	2026-11-21 13:25:31	tts	395dabbc9a
@@ -836,6 +841,7 @@ en	5c301efc	math/transformations	serena moss8b	48	2026-11-21 19:20:36	tts	e7192b
 en	b31b8770	math/transformations	serena moss8b	48	2026-11-21 19:18:50	tts	dca5d04946
 en	b82cadd9	math/transformations	serena moss8b	48	2026-11-21 19:19:38	tts	6137632d83
 en	bedd925a	math/transformations	serena moss8b	48	2026-11-21 19:10:36	tts	1418aafd2e
+en	ca89d706	math/transformations	serena moss8b	48	2026-11-21 19:21:07	tts	b229b9a73f
 en	cb96a86a	math/transformations	serena moss8b	48	2026-11-21 19:19:40	tts	e9f05ec282
 zh	0ea80513	math/transformations	serena moss8b	48	2026-11-21 13:23:49	tts	cd72f2bdb2
 zh	5ede9391	math/transformations	serena moss8b	48	2026-11-21 13:30:39	tts	fa91ab51c6
