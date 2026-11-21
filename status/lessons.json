@@ -161,7 +161,7 @@
    "zh": "修辞语言与诗歌"
   },
   "updated": "2026-11-21 14:27:01",
-  "verified": ""
+  "verified": "2026-11-21 14:27:57"
  },
  "ela/grammar-sentences": {
   "counts": {
@@ -187,21 +187,24 @@
  },
  "ela/narrative-techniques": {
   "counts": {
-   "done": 82,
+   "done": 42,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 82
+   "missing": 12,
+   "old": 11,
+   "total": 65
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "8232cf57b24a",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/narrative-techniques.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Narrative Techniques: Flashback, Foreshadowing & More",
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
-  "updated": "2026-11-20 08:00:00",
+  "updated": "2026-11-21 14:34:10",
   "verified": ""
  },
  "ela/narrative-writing": {
