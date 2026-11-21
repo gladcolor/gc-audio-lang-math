@@ -849,25 +849,26 @@
  },
  "math/quadratic-functions": {
   "counts": {
-   "done": 4,
+   "done": 8,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 4
+   "total": 8
   },
   "fingerprint": "76a927f1a21a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/quadratic-functions.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Quadratic Functions & Parabolas",
    "zh": "二次函数"
   },
-  "updated": "2026-11-21 16:20:10",
-  "verified": "2026-11-21 16:21:33"
+  "updated": "2026-11-21 19:32:11",
+  "verified": ""
  },
  "math/radicals": {
   "counts": {
