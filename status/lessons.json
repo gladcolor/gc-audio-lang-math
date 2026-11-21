@@ -1762,10 +1762,10 @@
  },
  "yuwen/yw-wenyan-9": {
   "counts": {
-   "done": 526,
+   "done": 626,
    "failed": 0,
    "held": 0,
-   "missing": 501,
+   "missing": 401,
    "old": 0,
    "total": 1027
   },
@@ -1779,7 +1779,7 @@
    "en": "Grade 9 Classical Prose",
    "zh": "九年级文言文"
   },
-  "updated": "2026-11-21 23:39:53",
+  "updated": "2026-11-21 23:42:05",
   "verified": ""
  },
  "yuwen/yw-wenyan-basics": {
