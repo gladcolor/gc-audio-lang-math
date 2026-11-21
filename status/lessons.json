@@ -340,7 +340,7 @@
    "zh": "词根与上下文线索"
   },
   "updated": "2026-11-21 22:30:31",
-  "verified": ""
+  "verified": "2026-11-21 22:31:52"
  },
  "math/angles": {
   "counts": {
@@ -1587,21 +1587,24 @@
  },
  "yuwen/yw-song-ci": {
   "counts": {
-   "done": 31,
+   "done": 16,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 31
+   "missing": 389,
+   "old": 24,
+   "total": 429
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "1dca64ac5ea2",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-song-ci.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Song Ci Poetry & Classical Verse Forms",
    "zh": "宋词与古诗词格律"
   },
-  "updated": "2026-11-20 08:07:21",
+  "updated": "2026-11-21 22:32:13",
   "verified": ""
  },
  "yuwen/yw-tang-poems": {

@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 22:30:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 22:32:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ Updated 2026-11-21 22:30:31. Labels: finished / in progress / no audio / failed 
 | ela/narrative-writing | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:09:18 | 2026-11-21 22:10:25 |
 | ela/research-media | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:15:09 | 2026-11-21 22:17:05 |
 | ela/theme-plot | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 22:19:57 | 2026-11-21 22:22:37 |
-| ela/vocabulary-roots | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 22:30:31 |  |
+| ela/vocabulary-roots | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 22:30:31 | 2026-11-21 22:31:52 |
 | math/angles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:46:07 | 2026-11-21 21:49:38 |
 | math/area | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:05 | 2026-11-21 21:54:14 |
 | math/axial-symmetry | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:25 | 2026-11-21 21:17:59 |
@@ -78,7 +78,7 @@ Updated 2026-11-21 22:30:31. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-idioms | finished | 76 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:37 |  |
 | yuwen/yw-narrative | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 08:25:01 |  |
 | yuwen/yw-rhetoric | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-20 08:19:10 |  |
-| yuwen/yw-song-ci | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-20 08:07:21 |  |
+| yuwen/yw-song-ci | in progress | 16 | 24 | 389 | 0 | 0 | 2026-11-21 22:32:13 |  |
 | yuwen/yw-tang-poems | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 18:54:32 |  |
 | yuwen/yw-wenyan-basics | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-20 08:11:18 |  |
 | yuwen/yw-wenyan-classics | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:08 |  |
