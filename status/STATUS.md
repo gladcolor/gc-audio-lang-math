@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 21:56:51. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 22:01:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@ Updated 2026-11-21 21:56:51. Labels: finished / in progress / no audio / failed 
 | art/art-landscape | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 15:00:49 | 2026-11-21 15:01:52 |
 | ela/argument-writing | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:55 |  |
 | ela/central-idea | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:53 |  |
-| ela/character-pov | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 14:19:08 |  |
+| ela/character-pov | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 22:01:29 |  |
 | ela/figurative-language | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 14:27:01 |  |
 | ela/grammar-sentences | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:57 |  |
 | ela/narrative-techniques | in progress | 42 | 11 | 12 | 0 | 0 | 2026-11-21 14:34:10 |  |
@@ -30,7 +30,7 @@ Updated 2026-11-21 21:56:51. Labels: finished / in progress / no audio / failed 
 | math/equations | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 21:45:00 | 2026-11-21 21:47:43 |
 | math/exponents | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 21:51:25 | 2026-11-21 21:53:25 |
 | math/expressions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:51:43 | 2026-11-21 21:53:39 |
-| math/factoring | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 21:56:51 |  |
+| math/factoring | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 21:56:51 | 2026-11-21 21:58:51 |
 | math/fractals | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 21:38:50 | 2026-11-21 21:43:02 |
 | math/fraction-division | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:11 | 2026-11-21 21:54:20 |
 | math/functions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:35:23 | 2026-11-21 21:36:32 |
