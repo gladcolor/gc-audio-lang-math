@@ -739,7 +739,7 @@
    "zh": "百分数"
   },
   "updated": "2026-11-21 19:16:56",
-  "verified": ""
+  "verified": "2026-11-21 19:18:29"
  },
  "math/probability": {
   "counts": {
@@ -765,24 +765,25 @@
  },
  "math/proportional": {
   "counts": {
-   "done": 10,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 10
+   "total": 20
   },
-  "fingerprint": "",
+  "fingerprint": "ad0af659624f",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/proportional.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Proportional Relationships",
    "zh": "正比例关系"
   },
-  "updated": "2026-11-21 16:06:59",
+  "updated": "2026-11-21 19:18:34",
   "verified": ""
  },
  "math/pythagorean": {
