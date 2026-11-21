@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 21:44:26. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 21:45:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -26,8 +26,8 @@ Updated 2026-11-21 21:44:26. Labels: finished / in progress / no audio / failed 
 | math/circle-theorems | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:10 |  |
 | math/circles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:23 |  |
 | math/congruent-triangles | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:04 | 2026-11-21 21:16:26 |
-| math/coordinate-plane | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:33 |  |
-| math/equations | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:09 |  |
+| math/coordinate-plane | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:33 | 2026-11-21 21:44:49 |
+| math/equations | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 21:45:00 |  |
 | math/exponents | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:31 |  |
 | math/expressions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:06 |  |
 | math/factoring | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:49 |  |
@@ -35,8 +35,8 @@ Updated 2026-11-21 21:44:26. Labels: finished / in progress / no audio / failed 
 | math/fraction-division | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:00 |  |
 | math/functions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:35:23 | 2026-11-21 21:36:32 |
 | math/geometric-constructions | finished | 55 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:15 | 2026-11-21 21:17:06 |
-| math/integers | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:42 |  |
-| math/inverse-proportion | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:29 |  |
+| math/integers | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:42 | 2026-11-21 21:44:55 |
+| math/inverse-proportion | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:29 | 2026-11-21 21:44:43 |
 | math/linear-functions | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:29 | 2026-11-21 21:18:09 |
 | math/negative-operations | in progress | 8 | 3 | 0 | 0 | 0 | 2026-11-21 21:44:26 |  |
 | math/parallel-quadrilaterals | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:02 | 2026-11-21 21:16:15 |
