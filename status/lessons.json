@@ -1153,26 +1153,25 @@
  },
  "math/scatter-plots": {
   "counts": {
-   "done": 20,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 20
+   "total": 10
   },
   "fingerprint": "e0ebe5ac40ef",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/scatter-plots.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Scatter Plots & Trends",
    "zh": "散点图与趋势"
   },
-  "updated": "2026-11-21 19:24:44",
-  "verified": "2026-11-21 19:26:31"
+  "updated": "2026-11-21 20:03:47",
+  "verified": ""
  },
  "math/similar-triangles": {
   "counts": {
