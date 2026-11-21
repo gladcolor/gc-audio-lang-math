@@ -780,7 +780,7 @@
    "zh": "正比例关系"
   },
   "updated": "2026-11-21 16:06:59",
-  "verified": ""
+  "verified": "2026-11-21 16:08:13"
  },
  "math/pythagorean": {
   "counts": {
@@ -956,7 +956,7 @@
    "zh": "抽样与推断"
   },
   "updated": "2026-11-21 16:07:10",
-  "verified": ""
+  "verified": "2026-11-21 16:08:18"
  },
  "math/scale-drawings": {
   "counts": {
@@ -1070,14 +1070,14 @@
  },
  "math/surface-volume": {
   "counts": {
-   "done": 1,
+   "done": 11,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 1
+   "total": 11
   },
-  "fingerprint": "",
+  "fingerprint": "1ec30f953391",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/surface-volume.html",
   "record_langs": [
@@ -1087,8 +1087,8 @@
    "en": "Surface Area & Volume",
    "zh": "表面积与体积"
   },
-  "updated": "2026-11-21 14:08:25",
-  "verified": "2026-11-21 14:10:20"
+  "updated": "2026-11-21 16:08:19",
+  "verified": ""
  },
  "math/systems": {
   "counts": {

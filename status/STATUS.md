@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 16:07:47. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 16:08:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -39,7 +39,7 @@ Updated 2026-11-21 16:07:47. Labels: finished / in progress / no audio / failed 
 | math/parallel-quadrilaterals | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:17:46 | 2026-11-21 14:20:28 |
 | math/percents | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:02:01 | 2026-11-21 16:03:23 |
 | math/probability | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:38 |  |
-| math/proportional | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:06:59 |  |
+| math/proportional | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:06:59 | 2026-11-21 16:08:13 |
 | math/pythagorean | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:13:07 | 2026-11-21 14:14:08 |
 | math/quadratic-equations | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 14:17:29 | 2026-11-21 14:20:27 |
 | math/quadratic-functions | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:56 |  |
@@ -47,13 +47,13 @@ Updated 2026-11-21 16:07:47. Labels: finished / in progress / no audio / failed 
 | math/rational-expressions | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:16:08 | 2026-11-21 14:17:27 |
 | math/ratios | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:01:58 | 2026-11-21 16:03:19 |
 | math/roots-irrationals | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:45 |  |
-| math/sampling | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:07:10 |  |
+| math/sampling | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:07:10 | 2026-11-21 16:08:18 |
 | math/scale-drawings | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:53 | 2026-11-21 16:06:34 |
 | math/scatter-plots | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 14:15:15 | 2026-11-21 14:16:16 |
 | math/similar-triangles | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:18:24 | 2026-11-21 14:20:30 |
 | math/slope | in progress | 8 | 1 | 1 | 0 | 0 | 2026-11-21 16:05:59 |  |
 | math/statistics | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:07:47 |  |
-| math/surface-volume | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:25 | 2026-11-21 14:10:20 |
+| math/surface-volume | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:08:19 |  |
 | math/systems | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:47 | 2026-11-21 14:10:34 |
 | math/transformations | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:50 |  |
 | math/trig-ratios | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:03 | 2026-11-21 14:10:36 |
