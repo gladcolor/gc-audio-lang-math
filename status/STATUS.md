@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 22:35:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 22:37:10. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -78,7 +78,7 @@ Updated 2026-11-21 22:35:59. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-idioms | finished | 76 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:37 |  |
 | yuwen/yw-narrative | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 08:25:01 |  |
 | yuwen/yw-rhetoric | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-20 08:19:10 |  |
-| yuwen/yw-song-ci | in progress | 81 | 13 | 335 | 0 | 0 | 2026-11-21 22:35:11 |  |
+| yuwen/yw-song-ci | in progress | 169 | 7 | 253 | 0 | 0 | 2026-11-21 22:37:10 |  |
 | yuwen/yw-tang-poems | in progress | 90 | 4 | 17 | 0 | 0 | 2026-11-21 22:35:59 |  |
 | yuwen/yw-wenyan-basics | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-20 08:11:18 |  |
 | yuwen/yw-wenyan-classics | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:08 |  |
