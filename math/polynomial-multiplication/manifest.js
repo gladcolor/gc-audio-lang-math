@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "math/polynomial-multiplication", "voice": "serena", "en": "0b5fb239 3030c6f6 3f07a703 4cf67339 4e9b3049 54f942f4 5ac3f902 88bf2563 8f5b473f 9335915a b9c506cb ba967b72 be370f4d db2620e0 dbadb6f4 de45c8fa e417787a e56f3c40", "zh": "18540e15 1993cb9f 1ad8d9d9 20e6069f 2abc0158 2fea0c81 4632001e 584051a2 7ff5bc79 8d14da07 a2906e66 c15506db d0289fbe d4fb78f1 e6c3fd75 f8b23ff1"});
