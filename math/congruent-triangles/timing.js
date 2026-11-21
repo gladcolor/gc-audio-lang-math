@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "math/congruent-triangles", "en": {}, "zh": {}});
+LabAudioTiming({"lesson": "math/congruent-triangles", "en": {}, "zh": {"177f9dc7": {"dur": 22.13}, "180a95b6": {"dur": 38.78}, "1c4c6f2e": {"dur": 22.13}, "30dae3df": {"dur": 37.01}, "47dc64bf": {"dur": 30.38}, "4e839743": {"dur": 16.06}, "68f96277": {"dur": 29.18}, "6c6b86c0": {"dur": 37.58}, "74231f97": {"dur": 38.69}, "94879930": {"dur": 14.62}, "94d922f9": {"dur": 19.01}, "9cdc6a45": {"dur": 40.61}, "a9659e6f": {"dur": 15.26}, "d97af4a1": {"dur": 25.25}}});
