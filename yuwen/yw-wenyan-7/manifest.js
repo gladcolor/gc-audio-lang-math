@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "yuwen/yw-wenyan-7", "voice": "serena", "en": "", "zh": "af9ca113 e90253d4"});
+LabAudioManifest({"lesson": "yuwen/yw-wenyan-7", "voice": "serena", "en": "", "zh": "0d497ed8 14a011d0 1ee38ea9 23369a19 26bf073d 2d3fe813 30ee1d3d 329187f3 34d10766 372370e0 37dd4017 3d0229b3 3e78cdd7 41c0469b 4cd2f5ea 4fe9a31b 7a136a75 7acb63a6 82cf1e42 866d2d53 9ac8edde a10c11c3 af9ca113 b260ffef c49e7884 c6770302 d344305a e90253d4 ff295f61 ff732274"});
