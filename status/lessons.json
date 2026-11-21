@@ -439,7 +439,7 @@
    "old": 0,
    "total": 11
   },
-  "fingerprint": "",
+  "fingerprint": "23bb58971cec",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/circles.html",
   "record_langs": [
@@ -449,7 +449,7 @@
    "en": "Circles: Circumference & Area",
    "zh": "圆的周长与面积"
   },
-  "updated": "2026-11-21 20:03:23",
+  "updated": "2026-11-21 21:45:18",
   "verified": ""
  },
  "math/congruent-triangles": {
