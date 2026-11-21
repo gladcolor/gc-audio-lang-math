@@ -1694,6 +1694,28 @@
   "updated": "2026-11-21 22:46:41",
   "verified": "2026-11-21 22:48:22"
  },
+ "yuwen/yw-wenyan-7": {
+  "counts": {
+   "done": 2,
+   "failed": 0,
+   "held": 0,
+   "missing": 201,
+   "old": 0,
+   "total": 203
+  },
+  "fingerprint": "de04ee3f56b8",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-7.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Grade 7 Classical Prose",
+   "zh": "七年级文言文"
+  },
+  "updated": "2026-11-21 23:14:34",
+  "verified": ""
+ },
  "yuwen/yw-wenyan-basics": {
   "counts": {
    "done": 174,
