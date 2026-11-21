@@ -740,15 +740,15 @@
  },
  "math/probability": {
   "counts": {
-   "done": 0,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 0
+   "total": 10
   },
-  "fingerprint": "",
-  "label": "old voice",
+  "fingerprint": "037020b77735",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/probability.html",
   "record_langs": [
    "zh"
@@ -757,7 +757,7 @@
    "en": "Probability",
    "zh": "概率"
   },
-  "updated": "2026-11-21 14:08:38",
+  "updated": "2026-11-21 16:11:09",
   "verified": ""
  },
  "math/proportional": {
