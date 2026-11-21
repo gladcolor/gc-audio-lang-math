@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "yuwen/yw-poems-8", "voice": "serena", "en": "", "zh": "054c91b9 11314d95 1f7c834c 21153a43 2c69c5c6 2edf3f65 328d6f18 33e4f522 41f5d572 43539ce7 4535073c 47ec0995 48284f74 568d8b80 63a244c8 69a1859d 7682394a 7c6229c2 831cf816 86feadc3 8b10232a 906868aa 978dce2f 9b377bbf a4bb9564 aac2f9f4 b10e00d5 b97db7a2 ba354fa3 c4da99c7 c8010a62 c9b0063d d0d6c73a d24f618c d5c6f009 dc500df4 e8d07dc5 f3cd509d fe1a3b47 feab2505"});
