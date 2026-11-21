@@ -125,6 +125,7 @@ zh	cea221c1	math/area	serena moss8b	48	2026-11-21 16:12:18	tts	ed9525724d
 zh	dae0ea8c	math/area	serena moss8b	48	2026-11-21 13:39:35	tts	97a761ef9a
 zh	e999e02e	math/area	serena moss8b	48	2026-11-21 13:38:47	tts	b1fccd8e9a
 zh	fc96aaf7	math/area	serena moss8b	48	2026-11-21 16:04:11	tts	c5c482bf55
+en	d98211c8	math/axial-symmetry	serena moss8b	48	2026-11-21 19:22:22	tts	24c862253a
 en	1d6b1d12	math/circle-theorems	serena moss8b	48	2026-11-21 19:09:18	tts	04940158c8
 en	628a50c1	math/circle-theorems	serena moss8b	48	2026-11-21 19:21:09	tts	b38e928599
 en	aa1ca782	math/circle-theorems	serena moss8b	48	2026-11-21 19:20:47	tts	a852c74c2f
@@ -230,6 +231,7 @@ zh	79f9084f	math/equations	serena moss8b	48	2026-11-21 13:31:05	tts	121a4e71c1
 zh	c05a0e43	math/equations	serena moss8b	48	2026-11-21 14:14:36	tts	e32ca867f9
 zh	fab13ca0	math/equations	serena moss8b	48	2026-11-21 13:18:01	tts	fda7479111
 en	04570c00	math/exponents	serena moss8b	48	2026-11-21 19:07:19	tts	9eeb78dec2
+en	15d363fc	math/exponents	serena moss8b	48	2026-11-21 19:22:28	tts	c8c07bdf7a
 en	2cfb0b09	math/exponents	serena moss8b	48	2026-11-21 19:06:06	tts	4197c9bb0d
 en	4a42ca2a	math/exponents	serena moss8b	48	2026-11-21 19:06:33	tts	f4dcb0d08b
 en	582f64c0	math/exponents	serena moss8b	48	2026-11-21 19:10:01	tts	b79a2a65c9
@@ -239,6 +241,8 @@ en	88fe312d	math/exponents	serena moss8b	48	2026-11-21 19:21:20	tts	a0b7bf181c
 en	8e0326e5	math/exponents	serena moss8b	48	2026-11-21 19:19:03	tts	7ebf94ba4a
 en	91d3b4ab	math/exponents	serena moss8b	48	2026-11-21 19:19:00	tts	ebddb85c8e
 en	967c272d	math/exponents	serena moss8b	48	2026-11-21 19:07:28	tts	a27e65bf4b
+en	c299df7f	math/exponents	serena moss8b	48	2026-11-21 19:22:19	tts	1b5e733413
+en	c53424c0	math/exponents	serena moss8b	48	2026-11-21 19:22:21	tts	d03f65d192
 en	c73f0352	math/exponents	serena moss8b	48	2026-11-21 19:20:43	tts	a8495c0f6e
 en	c8d5b571	math/exponents	serena moss8b	48	2026-11-21 19:07:36	tts	646cad69d7
 en	da47e565	math/exponents	serena moss8b	48	2026-11-21 19:17:08	tts	67f0aa9cf8
@@ -375,6 +379,7 @@ en	9baf1a87	math/geometric-constructions	serena moss8b	48	2026-11-21 19:10:22	tt
 en	a1d0fcde	math/geometric-constructions	serena moss8b	48	2026-11-21 19:19:48	tts	08f88b54e5
 en	badf0f62	math/geometric-constructions	serena moss8b	48	2026-11-21 19:21:33	tts	51e94abb88
 en	bd93fe6f	math/geometric-constructions	serena moss8b	48	2026-11-21 19:10:55	tts	2ae6551845
+en	c494506b	math/geometric-constructions	serena moss8b	48	2026-11-21 19:22:27	tts	4445dd5abe
 en	daafefcb	math/geometric-constructions	serena moss8b	48	2026-11-21 19:20:53	tts	8fe31c0212
 en	e7288cd3	math/geometric-constructions	serena moss8b	48	2026-11-21 19:19:24	tts	bd228d1e56
 zh	0600f8eb	math/geometric-constructions	serena moss8b	48	2026-11-21 19:16:36	tts	8bb6f9be21
@@ -501,6 +506,9 @@ zh	ba1e4a54	math/percents	serena moss8b	48	2026-11-21 13:28:05	tts	b2319e7d76
 zh	ef0e50de	math/percents	serena moss8b	48	2026-11-21 13:31:59	tts	7c5e30faa1
 en	5ac3f902	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:20:02	tts	c32ffd8d23
 zh	1993cb9f	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:06	tts	042e814bc1
+zh	1ad8d9d9	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:20	tts	b04b16c5c2
+zh	4632001e	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:16	tts	0cf7df20e8
+zh	584051a2	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:25	tts	975f479d42
 en	6df37943	math/polynomials	serena moss8b	48	2026-11-21 19:20:41	tts	d5d781c37a
 en	6fa2a3b7	math/polynomials	serena moss8b	48	2026-11-21 19:21:23	tts	703da309c9
 en	e1dfb299	math/polynomials	serena moss8b	48	2026-11-21 19:19:06	tts	ab5c156383
@@ -721,6 +729,7 @@ zh	da2dc090	math/sampling	serena moss8b	48	2026-11-21 16:07:06	tts	9b7baefb31
 zh	dc15d487	math/sampling	serena moss8b	48	2026-11-21 13:22:31	tts	dd106c59a2
 zh	f2d1501d	math/sampling	serena moss8b	48	2026-11-21 13:30:37	tts	35b8d68a23
 en	0f3021ac	math/scale-drawings	serena moss8b	48	2026-11-21 19:05:30	tts	67cbead2a2
+en	12010e50	math/scale-drawings	serena moss8b	48	2026-11-21 19:22:23	tts	2386e21777
 en	463b12b3	math/scale-drawings	serena moss8b	48	2026-11-21 19:05:57	tts	5f517984ef
 en	a09b9665	math/scale-drawings	serena moss8b	48	2026-11-21 19:22:05	tts	6aa0fa74fb
 en	e55e6d1b	math/scale-drawings	serena moss8b	48	2026-11-21 19:10:37	tts	790948d472
@@ -737,6 +746,7 @@ zh	f05ed0d7	math/scale-drawings	serena moss8b	48	2026-11-21 13:32:25	tts	7542ca5
 zh	f0738434	math/scale-drawings	serena moss8b	48	2026-11-21 13:18:23	tts	74b934d758
 en	14340690	math/scatter-plots	serena moss8b	48	2026-11-21 19:19:14	tts	dd82e5b7e1
 en	441b2680	math/scatter-plots	serena moss8b	48	2026-11-21 19:20:58	tts	fd96360654
+en	68279138	math/scatter-plots	serena moss8b	48	2026-11-21 19:22:17	tts	80858244cb
 en	ca8716ce	math/scatter-plots	serena moss8b	48	2026-11-21 19:10:54	tts	b2a1c145a8
 en	e0102245	math/scatter-plots	serena moss8b	48	2026-11-21 19:16:55	tts	1b27a586a0
 en	e1838e27	math/scatter-plots	serena moss8b	48	2026-11-21 19:07:02	tts	6f04dc6910
@@ -885,8 +895,10 @@ zh	7a9e26f8	math/trig-ratios	serena moss8b	48	2026-11-21 16:09:01	tts	2447971e45
 zh	855da054	math/trig-ratios	serena moss8b	48	2026-11-21 16:13:33	tts	000b33b46a
 en	0805b1f5	math/volume-solids	serena moss8b	48	2026-11-21 19:22:08	tts	a763a28798
 en	13f0df5a	math/volume-solids	serena moss8b	48	2026-11-21 19:07:34	tts	578c8ce6c2
+en	35b24b87	math/volume-solids	serena moss8b	48	2026-11-21 19:22:26	tts	9edc9ca1a5
 en	792b3920	math/volume-solids	serena moss8b	48	2026-11-21 19:21:14	tts	6a65641cee
 en	7cc579ca	math/volume-solids	serena moss8b	48	2026-11-21 19:16:52	tts	06065f2e72
+en	9b621f8d	math/volume-solids	serena moss8b	48	2026-11-21 19:22:20	tts	57e673b2da
 en	a82c2b49	math/volume-solids	serena moss8b	48	2026-11-21 19:07:42	tts	d94ea24fdc
 en	aa2709bf	math/volume-solids	serena moss8b	48	2026-11-21 19:19:12	tts	c60f05310c
 en	b0dc222f	math/volume-solids	serena moss8b	48	2026-11-21 19:09:26	tts	78fe909116
