@@ -50,6 +50,9 @@ en	cc9e28cc	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:57	t
 en	d427e019	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:49:00	tts	b7a3c79f74
 en	e9a742b9	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:56	tts	c099c88ff1
 zh	3d787a46	ela/figurative-language	serena moss8b	48	2026-11-21 14:14:41	tts	3aa97198a8
+zh	71f68c4b	ela/figurative-language	serena moss8b	48	2026-11-21 14:16:38	tts	b832c82a77
+zh	a044b214	ela/figurative-language	serena moss8b	48	2026-11-21 14:16:39	tts	705061ff69
+zh	cf6c8ee7	ela/figurative-language	serena moss8b	48	2026-11-21 14:16:39	tts	8a73702081
 en	069f0c2d	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:05:50	tts	4fd4f993dc
 en	1a7fdd8a	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 05:53:08	tts	62cee90d52
 en	3e5d8274	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:05:48	tts	79f2eb7f3e
@@ -99,10 +102,15 @@ en	ea348fae	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:47:16	
 en	f35e81fa	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:54:42	tts	21e4f4bd46
 zh	01a43d10	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:45	tts	5b15f06725
 zh	0649087f	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:13:45	tts	56d5f97ea2
+zh	0f197448	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:26	tts	9e3ec6603d
+zh	1f950585	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:21	tts	3f2f3a6626
 zh	2202c7a5	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:14:35	tts	0161166a82
 zh	4ec61678	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:14:33	tts	6f9f135d9e
+zh	52010fed	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:25	tts	e57a6e79bd
 zh	54c5e725	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:11	tts	7a0c5aa62a
+zh	5a203eb0	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:27	tts	b977459a7c
 zh	5f231270	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:10	tts	98227d46c1
+zh	66736eec	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:20	tts	58be7d8da7
 zh	729a932b	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:15:07	tts	e5a87aab7c
 zh	8defc793	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:15:13	tts	f864b37f09
 zh	a02b31b6	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:41	tts	5b15f06725
@@ -111,6 +119,7 @@ zh	b75b004c	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:44	tts	ed
 zh	c5889b6a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:43	tts	7ddcda7891
 zh	deccce7a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:13	tts	eac2ece7cb
 zh	e5332136	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:13:17	tts	d7a055dcca
+zh	f12f7c9c	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:31	tts	57c10fa2f8
 zh	f63e309a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:48	tts	7aeac09120
 zh	fccf05ad	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:00	tts	9167a9f4fa
 en	0e227ced	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:12	tts	ec0245ed27
@@ -131,12 +140,14 @@ en	524555b2	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:08	tts	1ef01c
 en	697236b2	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:54:36	tts	a3e6c7a6a2
 en	89c7a77e	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:13	tts	fad881b774
 en	92bb4914	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:11	tts	ab1f41b561
+zh	1b737ade	ela/theme-plot	serena moss8b	48	2026-11-21 14:16:31	tts	8fb958bffe
 zh	2f0d50b1	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:00	tts	0e7dff96d8
 zh	35450d35	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:43	tts	5e4aa672db
 zh	71f947a3	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:44	tts	a0ed9285ce
 zh	8a90afd1	ela/theme-plot	serena moss8b	48	2026-11-21 14:13:22	tts	544b0b7bb3
 zh	9f51528a	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:26	tts	e2a2eca0d6
 zh	b51c57ad	ela/theme-plot	serena moss8b	48	2026-11-21 14:15:08	tts	58e9547443
+zh	e125d7ed	ela/theme-plot	serena moss8b	48	2026-11-21 14:16:21	tts	0e75940ec6
 en	40d1b0a8	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	tts	f5569f1484
 en	bf94fe2a	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:35:37	tts	bd98dd8f8a
 en	e475a08d	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 05:53:15	tts	71db36bb46
@@ -410,6 +421,7 @@ zh	2b779d83	math/pythagorean	serena moss8b	48	2026-11-21 14:13:07	tts	d019b5b5d8
 zh	d387e1c7	math/pythagorean	serena moss8b	48	2026-11-21 13:21:39	tts	607c1c2767
 zh	e7b8ec3f	math/pythagorean	serena moss8b	48	2026-11-21 13:21:37	tts	6f916885ce
 zh	7d769034	math/quadratic-equations	serena moss8b	48	2026-11-21 14:11:57	tts	8e7286a548
+zh	c3ab740d	math/quadratic-equations	serena moss8b	48	2026-11-21 14:16:32	tts	3841a0d132
 zh	e1454434	math/quadratic-equations	serena moss8b	48	2026-11-21 14:12:42	tts	fbeaeada12
 zh	e20f2ca3	math/quadratic-equations	serena moss8b	48	2026-11-21 13:20:26	tts	5f1376a5eb
 zh	7d7260b4	math/radicals	serena moss8b	48	2026-11-21 13:25:31	tts	395dabbc9a
