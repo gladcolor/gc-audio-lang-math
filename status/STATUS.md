@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 16:21:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 16:22:57. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Updated 2026-11-21 16:21:59. Labels: finished / in progress / no audio / failed 
 | math/slope | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:09:10 | 2026-11-21 16:15:39 |
 | math/statistics | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:07:47 | 2026-11-21 16:15:28 |
 | math/surface-volume | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:08:19 | 2026-11-21 16:15:32 |
-| math/systems | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:47 | 2026-11-21 14:10:34 |
+| math/systems | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:22:57 |  |
 | math/transformations | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:13:01 | 2026-11-21 16:16:02 |
 | math/trig-ratios | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 16:13:33 | 2026-11-21 16:16:13 |
 | math/volume-solids | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:09:19 | 2026-11-21 16:15:43 |
