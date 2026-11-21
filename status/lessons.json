@@ -484,21 +484,24 @@
  },
  "math/functions": {
   "counts": {
-   "done": 20,
+   "done": 2,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 20
+   "total": 2
   },
-  "fingerprint": "",
+  "fingerprint": "279dad9dbd74",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/functions.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Functions",
    "zh": "函数"
   },
-  "updated": "2026-11-20 03:05:42",
+  "updated": "2026-11-21 14:12:35",
   "verified": ""
  },
  "math/integers": {
@@ -565,7 +568,7 @@
    "zh": "负数的运算"
   },
   "updated": "2026-11-21 14:10:48",
-  "verified": ""
+  "verified": "2026-11-21 14:11:50"
  },
  "math/percents": {
   "counts": {
@@ -801,7 +804,7 @@
    "zh": "斜率与一次函数"
   },
   "updated": "2026-11-21 14:11:00",
-  "verified": ""
+  "verified": "2026-11-21 14:11:54"
  },
  "math/statistics": {
   "counts": {

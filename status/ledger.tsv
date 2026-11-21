@@ -92,6 +92,15 @@ en	e9758203	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:54:44	
 en	e994aaf2	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:59:35	tts	7f6f65c361
 en	ea348fae	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:47:16	tts	9386862007
 en	f35e81fa	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:54:42	tts	21e4f4bd46
+zh	01a43d10	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:45	tts	5b15f06725
+zh	54c5e725	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:11	tts	7a0c5aa62a
+zh	5f231270	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:10	tts	98227d46c1
+zh	a02b31b6	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:41	tts	5b15f06725
+zh	b45b78d9	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:12	tts	e460d6c764
+zh	b75b004c	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:44	tts	ed719b5b40
+zh	c5889b6a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:43	tts	7ddcda7891
+zh	deccce7a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:13	tts	eac2ece7cb
+zh	fccf05ad	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:00	tts	9167a9f4fa
 en	0e227ced	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:12	tts	ec0245ed27
 en	1456709e	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:07	tts	7bef335b7a
 en	1a741af6	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:06	tts	966dbd68ad
@@ -271,6 +280,8 @@ en	9d5f3506	math/functions	serena t0.5 -16LUFS	48	2026-11-20 03:01:33	tts	a14950
 en	c17abbcb	math/functions	serena t0.5 -16LUFS	48	2026-11-20 02:59:53	tts	730aa9ece4
 en	f748dfc8	math/functions	serena t0.5 -16LUFS	48	2026-11-20 02:43:05	tts	a39fcacf51
 en	f9917354	math/functions	serena t0.5 -16LUFS	48	2026-11-20 02:59:41	tts	40e74d813b
+zh	2a0e7e36	math/functions	serena moss8b	48	2026-11-21 14:12:35	tts	8d1ae3cc24
+zh	441dff86	math/functions	serena moss8b	48	2026-11-21 14:11:35	tts	31a66a77af
 zh	5dbdfa20	math/functions	serena moss8b	48	2026-11-21 13:39:02	tts	7c6a8a6808
 zh	61bc3e95	math/functions	serena moss8b	48	2026-11-21 13:32:50	tts	ea28d6219e
 zh	a50852eb	math/functions	serena moss8b	48	2026-11-21 13:25:56	tts	ab8cc1731a
@@ -376,6 +387,7 @@ en	f90d267b	math/pythagorean	serena t0.5 -16LUFS	48	2026-11-20 02:59:49	tts	e7c3
 zh	18a3f35b	math/pythagorean	serena moss8b	48	2026-11-21 13:24:36	tts	ef51a04105
 zh	d387e1c7	math/pythagorean	serena moss8b	48	2026-11-21 13:21:39	tts	607c1c2767
 zh	e7b8ec3f	math/pythagorean	serena moss8b	48	2026-11-21 13:21:37	tts	6f916885ce
+zh	7d769034	math/quadratic-equations	serena moss8b	48	2026-11-21 14:11:57	tts	8e7286a548
 zh	e20f2ca3	math/quadratic-equations	serena moss8b	48	2026-11-21 13:20:26	tts	5f1376a5eb
 zh	7d7260b4	math/radicals	serena moss8b	48	2026-11-21 13:25:31	tts	395dabbc9a
 zh	95472384	math/radicals	serena moss8b	48	2026-11-21 13:34:15	tts	71fd651e6d
