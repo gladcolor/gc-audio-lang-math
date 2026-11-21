@@ -207,6 +207,8 @@ en	4d1a2743	math/angles	serena t0.5 -16LUFS	48	2026-11-20 03:01:52	tts	1ace70b60
 en	54d7c105	math/angles	serena t0.5 -16LUFS	48	2026-11-20 02:48:31	tts	e453f235cc
 en	6b798675	math/angles	serena t0.5 -16LUFS	48	2026-11-20 03:12:51	tts	8605c4f108
 en	dcd86f82	math/angles	serena t0.5 -16LUFS	48	2026-11-20 03:06:58	tts	0cce647d8a
+zh	0185b027	math/angles	serena moss8b	48	2026-11-21 16:08:46	tts	4e4c01582d
+zh	217951a8	math/angles	serena moss8b	48	2026-11-21 16:08:43	tts	94da40c1bf
 zh	31dcb1d3	math/angles	serena moss8b	48	2026-11-21 13:18:25	tts	7b58a89013
 zh	4488876d	math/angles	serena moss8b	48	2026-11-21 13:36:11	tts	dd94b722e1
 zh	68421f3a	math/angles	serena moss8b	48	2026-11-21 13:38:59	tts	acc0e280fb
@@ -235,8 +237,10 @@ zh	dae0ea8c	math/area	serena moss8b	48	2026-11-21 13:39:35	tts	97a761ef9a
 zh	e999e02e	math/area	serena moss8b	48	2026-11-21 13:38:47	tts	b1fccd8e9a
 zh	fc96aaf7	math/area	serena moss8b	48	2026-11-21 16:04:11	tts	c5c482bf55
 zh	1b47aee5	math/circle-theorems	serena moss8b	48	2026-11-21 13:29:14	tts	d706290e11
+zh	2e5372c6	math/circle-theorems	serena moss8b	48	2026-11-21 16:09:04	tts	1f4cc038e1
 zh	b0330225	math/circle-theorems	serena moss8b	48	2026-11-21 13:33:48	tts	ccaae659fe
 zh	d3282964	math/circle-theorems	serena moss8b	48	2026-11-21 14:18:55	tts	76c582625b
+zh	fd5f22c0	math/circle-theorems	serena moss8b	48	2026-11-21 16:08:26	tts	cd6868bb55
 en	2747f9b3	math/circles	serena t0.5 -16LUFS	48	2026-11-20 02:39:42	tts	bffcd6aeff
 en	42b8034c	math/circles	serena t0.5 -16LUFS	48	2026-11-20 02:57:35	tts	724254bff3
 en	5e9633d0	math/circles	serena t0.5 -16LUFS	48	2026-11-20 02:45:00	tts	4311e4345d
@@ -258,7 +262,9 @@ zh	ca0f1462	math/circles	serena moss8b	48	2026-11-21 13:21:40	tts	e5073be1da
 zh	e4944f8b	math/circles	serena moss8b	48	2026-11-21 16:05:35	tts	9534011b9a
 zh	ee03b5a2	math/circles	serena moss8b	48	2026-11-21 13:19:10	tts	596a900230
 zh	1c4c6f2e	math/congruent-triangles	serena moss8b	48	2026-11-21 16:05:44	tts	7455754b89
+zh	4e839743	math/congruent-triangles	serena moss8b	48	2026-11-21 16:08:51	tts	efa9965ffc
 zh	68f96277	math/congruent-triangles	serena moss8b	48	2026-11-21 16:05:41	tts	c7787ca33f
+zh	a9659e6f	math/congruent-triangles	serena moss8b	48	2026-11-21 16:08:49	tts	e7b9141990
 zh	d97af4a1	math/congruent-triangles	serena moss8b	48	2026-11-21 16:05:52	tts	036e6344b2
 en	02977e41	math/coordinate-plane	serena t0.5 -16LUFS	48	2026-11-20 02:43:04	tts	6b6ca7a90c
 en	267b4567	math/coordinate-plane	serena t0.5 -16LUFS	48	2026-11-20 02:53:44	tts	fbb29be642
@@ -650,6 +656,7 @@ zh	6ef8d4d6	math/scatter-plots	serena moss8b	48	2026-11-21 14:13:57	tts	f4a778a3
 zh	9e0be453	math/scatter-plots	serena moss8b	48	2026-11-21 14:15:15	tts	2288dfe1e3
 zh	9e410658	math/scatter-plots	serena moss8b	48	2026-11-21 13:32:29	tts	8930d497d2
 zh	b9bc813d	math/scatter-plots	serena moss8b	48	2026-11-21 13:21:16	tts	e47223faed
+zh	f38cf423	math/scatter-plots	serena moss8b	48	2026-11-21 16:08:39	tts	7b3dbdc4ff
 zh	fd1439a0	math/scatter-plots	serena moss8b	48	2026-11-21 13:29:13	tts	b388053639
 zh	1db7f810	math/similar-triangles	serena moss8b	48	2026-11-21 13:30:11	tts	39f6d926a2
 zh	2817a1d9	math/similar-triangles	serena moss8b	48	2026-11-21 14:18:24	tts	c616b1b740
@@ -752,6 +759,7 @@ zh	17fc9807	math/trig-ratios	serena moss8b	48	2026-11-21 13:28:25	tts	2179fcb63d
 zh	614f6e5c	math/trig-ratios	serena moss8b	48	2026-11-21 16:04:32	tts	746d9549cc
 zh	70d2c988	math/trig-ratios	serena moss8b	48	2026-11-21 13:28:45	tts	4665e1d06d
 zh	75a350f8	math/trig-ratios	serena moss8b	48	2026-11-21 13:32:52	tts	afe5c35a02
+zh	7a9e26f8	math/trig-ratios	serena moss8b	48	2026-11-21 16:09:01	tts	2447971e45
 en	002fbb04	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 03:27:24	tts	06065f2e72
 en	0805b1f5	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 02:44:50	tts	a763a28798
 en	13f0df5a	math/volume-solids	serena t0.5 -16LUFS	48	2026-11-20 03:03:32	tts	578c8ce6c2
