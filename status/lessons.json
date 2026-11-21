@@ -1190,21 +1190,24 @@
  },
  "music/music-pitch": {
   "counts": {
-   "done": 12,
+   "done": 1,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 12
+   "total": 1
   },
-  "fingerprint": "",
+  "fingerprint": "3bf101652365",
   "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-pitch.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Pitch, Notes & Scales",
    "zh": "音高、音符与音阶"
   },
-  "updated": "2026-11-20 09:22:06",
+  "updated": "2026-11-21 14:40:25",
   "verified": ""
  },
  "music/music-rhythm": {
