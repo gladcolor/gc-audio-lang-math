@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "yuwen/yw-expository", "voice": "serena", "en": "3650f38e 837fbd36 c192b473", "zh": "34568c93 91cbf693 be69f189 cb916a3d d0f5649e"});
+LabAudioManifest({"lesson": "yuwen/yw-expository", "voice": "serena", "en": "3650f38e 837fbd36 c192b473", "zh": "05a60caa 080b7d12 1f2d5c82 26cb39aa 28a4a387 34568c93 34a9863a 411e9f85 4199e67d 419d9089 67c23750 6af833e3 7045b539 781aa43c 7d674437 81d15971 879f6cef 8a2eecd6 8eeef991 91cbf693 92f66353 95de0ae7 9f94691b 9fab4476 a3918bcd aa19d396 bc5bc723 be630a96 be69f189 c14fff1d c1d6163c cb916a3d cf99279f d0705cea d0f5649e de393a9d e4f85555 e607f84a e8149d00 ea7fb031 ef1abd9b f0da696e f831b7ee"});

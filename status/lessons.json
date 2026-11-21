@@ -1498,15 +1498,15 @@
  },
  "yuwen/yw-expository": {
   "counts": {
-   "done": 1,
+   "done": 43,
    "failed": 0,
    "held": 0,
-   "missing": 38,
-   "old": 4,
+   "missing": 0,
+   "old": 0,
    "total": 43
   },
   "fingerprint": "661bf3cc0a3b",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-expository.html",
   "record_langs": [
    "zh"
@@ -1515,7 +1515,7 @@
    "en": "Reading Expository Texts",
    "zh": "说明文阅读"
   },
-  "updated": "2026-11-21 22:51:39",
+  "updated": "2026-11-21 23:04:45",
   "verified": ""
  },
  "yuwen/yw-hanzi": {
