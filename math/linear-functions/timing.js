@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "math/linear-functions", "en": {"2fe912c9": {"dur": 12.86}, "8389a34a": {"dur": 19.49}, "8f68e31d": {"dur": 14.06}, "c62e2088": {"dur": 14.54}, "eb125c43": {"dur": 14.86}}, "zh": {"09e6f754": {"dur": 16.54}, "136ccc3c": {"dur": 15.17}, "47a04a83": {"dur": 16.22}, "55270d0d": {"dur": 17.09}, "92073bd6": {"dur": 14.3}}});
