@@ -825,6 +825,29 @@
   "updated": "2026-11-21 19:19:32",
   "verified": "2026-11-21 19:28:20"
  },
+ "math/projections-three-views": {
+  "counts": {
+   "done": 20,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 20
+  },
+  "fingerprint": "e029112e1732",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/math/projections-three-views.html",
+  "record_langs": [
+   "en",
+   "zh"
+  ],
+  "title": {
+   "en": "Projections & Three Views",
+   "zh": "投影与三视图"
+  },
+  "updated": "2026-11-21 19:36:05",
+  "verified": ""
+ },
  "math/proportional": {
   "counts": {
    "done": 20,
