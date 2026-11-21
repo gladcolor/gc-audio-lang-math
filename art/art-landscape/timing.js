@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "art/art-landscape", "en": {}, "zh": {"032b2078": {"dur": 14.93}, "1e8a39b9": {"dur": 10.3}, "30c7cdd4": {"dur": 15.5}, "4f84b937": {"dur": 12.94}, "63ff6141": {"dur": 5.02}, "9afc86b2": {"dur": 13.1}, "a2a02d1d": {"dur": 12.29}, "fd7242f1": {"dur": 7.58}, "feaaa01b": {"dur": 7.66}, "ff8165b5": {"dur": 15.58}}});
