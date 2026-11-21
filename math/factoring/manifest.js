@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "math/factoring", "voice": "serena", "en": "", "zh": "20bb035b 21b8cf0a 2313f686 35c5fbeb 38d4e11c 3e94d0a1 44013d46 5287ff78 5851c60d 9785cfb5 b6de2154 caf96f55 cfacb301 db1ec13d dc50603e e70e54ee"});
+LabAudioManifest({"lesson": "math/factoring", "voice": "serena", "en": "044cc40d 16d5f401 21c8a4d6 401af0d7 4052f77c 78f0df3e 84a3583d 8b9486be a806ac51 a9067f50 b404bf89 c63ab853 d1ae4626 d3674a24 e9353396 f51a9d7a", "zh": "20bb035b 21b8cf0a 2313f686 35c5fbeb 38d4e11c 3e94d0a1 44013d46 5287ff78 5851c60d 9785cfb5 b6de2154 caf96f55 cfacb301 db1ec13d dc50603e e70e54ee"});

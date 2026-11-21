@@ -292,6 +292,7 @@ zh	c5a54d4f	math/expressions	serena moss8b	48	2026-11-21 13:32:26	tts	88adf3be81
 zh	cb1ecdc7	math/expressions	serena moss8b	48	2026-11-21 16:04:36	tts	be12aaa940
 zh	e7312f9a	math/expressions	serena moss8b	48	2026-11-21 13:23:23	tts	35149eed93
 en	044cc40d	math/factoring	serena moss8b	48	2026-11-21 19:09:50	tts	eaa2a68ccd
+en	16d5f401	math/factoring	serena moss8b	48	2026-11-21 19:22:56	tts	88bad3cb21
 en	21c8a4d6	math/factoring	serena moss8b	48	2026-11-21 19:09:33	tts	328743c2f4
 en	401af0d7	math/factoring	serena moss8b	48	2026-11-21 19:08:54	tts	f63e0d4171
 en	4052f77c	math/factoring	serena moss8b	48	2026-11-21 19:09:29	tts	cf733e2181
@@ -372,6 +373,7 @@ zh	a50852eb	math/functions	serena moss8b	48	2026-11-21 13:25:56	tts	ab8cc1731a
 zh	bb34e348	math/functions	serena moss8b	48	2026-11-21 16:13:26	tts	22eed56ba3
 zh	daf22208	math/functions	serena moss8b	48	2026-11-21 13:11:38	tts	c18aadd669
 zh	fb3faf94	math/functions	serena moss8b	48	2026-11-21 13:15:31	tts	f9a3e5dbde
+en	0b91d9d0	math/geometric-constructions	serena moss8b	48	2026-11-21 19:22:51	tts	bd3992d674
 en	14d9b8b8	math/geometric-constructions	serena moss8b	48	2026-11-21 19:22:12	tts	f617d785d5
 en	2c2b39cc	math/geometric-constructions	serena moss8b	48	2026-11-21 19:16:46	tts	dfe6c6ab99
 en	6815e712	math/geometric-constructions	serena moss8b	48	2026-11-21 19:10:26	tts	cc3261cb96
@@ -508,11 +510,14 @@ zh	b5a166c4	math/percents	serena moss8b	48	2026-11-21 13:35:41	tts	36db27a9ad
 zh	ba1e4a54	math/percents	serena moss8b	48	2026-11-21 13:28:05	tts	b2319e7d76
 zh	ef0e50de	math/percents	serena moss8b	48	2026-11-21 13:31:59	tts	7c5e30faa1
 en	5ac3f902	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:20:02	tts	c32ffd8d23
+en	8f5b473f	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:48	tts	8eb6f69c5c
 zh	1993cb9f	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:06	tts	042e814bc1
 zh	1ad8d9d9	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:20	tts	b04b16c5c2
+zh	20e6069f	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:50	tts	105e8cbad8
 zh	2abc0158	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:34	tts	b6be5b8181
 zh	4632001e	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:16	tts	0cf7df20e8
 zh	584051a2	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:25	tts	975f479d42
+zh	a2906e66	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:49	tts	4a958ef5f0
 en	6df37943	math/polynomials	serena moss8b	48	2026-11-21 19:20:41	tts	d5d781c37a
 en	6fa2a3b7	math/polynomials	serena moss8b	48	2026-11-21 19:21:23	tts	703da309c9
 en	e1dfb299	math/polynomials	serena moss8b	48	2026-11-21 19:19:06	tts	ab5c156383
@@ -593,6 +598,7 @@ zh	d387e1c7	math/pythagorean	serena moss8b	48	2026-11-21 13:21:39	tts	607c1c2767
 zh	e7b8ec3f	math/pythagorean	serena moss8b	48	2026-11-21 13:21:37	tts	6f916885ce
 en	0723d597	math/quadratic-equations	serena moss8b	48	2026-11-21 19:09:00	tts	0e3be3133f
 en	145e95ed	math/quadratic-equations	serena moss8b	48	2026-11-21 19:08:41	tts	ab06371156
+en	283e3192	math/quadratic-equations	serena moss8b	48	2026-11-21 19:22:47	tts	8df90f4024
 en	33a23bd8	math/quadratic-equations	serena moss8b	48	2026-11-21 19:08:31	tts	820ffd6b91
 en	3621600b	math/quadratic-equations	serena moss8b	48	2026-11-21 19:08:43	tts	1bf7218263
 en	3cba94b6	math/quadratic-equations	serena moss8b	48	2026-11-21 19:10:00	tts	5262e26440
@@ -643,6 +649,7 @@ zh	e1454434	math/quadratic-equations	serena moss8b	48	2026-11-21 14:12:42	tts	fb
 zh	e20f2ca3	math/quadratic-equations	serena moss8b	48	2026-11-21 13:20:26	tts	5f1376a5eb
 zh	ea748294	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:46	tts	ce650c15a9
 zh	f37f19fb	math/quadratic-equations	serena moss8b	48	2026-11-21 14:16:45	tts	a4f46b1c04
+en	18f874f6	math/quadratic-functions	serena moss8b	48	2026-11-21 19:22:46	tts	77c5928086
 en	eee109df	math/quadratic-functions	serena moss8b	48	2026-11-21 19:20:54	tts	4709879735
 zh	1ff5e171	math/quadratic-functions	serena moss8b	48	2026-11-21 16:10:48	tts	c1fa8727db
 zh	3e914c92	math/quadratic-functions	serena moss8b	48	2026-11-21 16:17:45	tts	d55ace6638
@@ -888,8 +895,11 @@ zh	d7c97409	math/transformations	serena moss8b	48	2026-11-21 13:36:41	tts	3f90ad
 zh	dc0b6394	math/transformations	serena moss8b	48	2026-11-21 13:18:08	tts	5fb0f75371
 zh	e56728b4	math/transformations	serena moss8b	48	2026-11-21 16:13:01	tts	68b0e46bf1
 zh	e686a1bc	math/transformations	serena moss8b	48	2026-11-21 13:31:58	tts	7e93b70762
+en	1b8a65ba	math/triangles	serena moss8b	48	2026-11-21 19:22:52	tts	4027f6a83f
 en	1f14ac9f	math/triangles	serena moss8b	48	2026-11-21 19:22:35	tts	2f51124d3f
 en	359d65f6	math/triangles	serena moss8b	48	2026-11-21 19:20:31	tts	e3e5826bb5
+en	766fe6fc	math/triangles	serena moss8b	48	2026-11-21 19:22:47	tts	633d9f7fa1
+en	af5cadfd	math/triangles	serena moss8b	48	2026-11-21 19:22:51	tts	8995c3840e
 en	c718b065	math/triangles	serena moss8b	48	2026-11-21 19:22:32	tts	d31532bd76
 en	e5b2aef5	math/triangles	serena moss8b	48	2026-11-21 19:22:39	tts	3f25f6c94a
 zh	9146add7	math/triangles	serena moss8b	48	2026-11-21 19:22:06	tts	06412715c4
