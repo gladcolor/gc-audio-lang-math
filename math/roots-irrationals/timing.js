@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "math/roots-irrationals", "en": {"00f653d1": {"dur": 5.98}}, "zh": {"3ce2757b": {"dur": 19.25}, "62964233": {"dur": 21.34}, "73534685": {"dur": 13.66}, "7ffd4c87": {"dur": 16.54}, "a06c1333": {"dur": 6.86}}});
+LabAudioTiming({"lesson": "math/roots-irrationals", "en": {"00f653d1": {"dur": 5.98}}, "zh": {"3ce2757b": {"dur": 19.25}, "45114a68": {"dur": 23.57}, "62964233": {"dur": 21.34}, "6e7e7a6a": {"dur": 12.77}, "73534685": {"dur": 11.18}, "7ffd4c87": {"dur": 16.54}, "8c9d7b83": {"dur": 12.62}, "981e09ab": {"dur": 16.54}, "a06c1333": {"dur": 6.94}, "bf006ef8": {"dur": 29.81}, "f0b80ede": {"dur": 20.69}}});

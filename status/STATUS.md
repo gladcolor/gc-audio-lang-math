@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 16:17:08. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 16:18:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Updated 2026-11-21 16:17:08. Labels: finished / in progress / no audio / failed 
 | math/angles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:14:01 | 2026-11-21 16:16:23 |
 | math/area | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:12:19 | 2026-11-21 16:15:57 |
 | math/circle-theorems | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 16:09:05 | 2026-11-21 16:15:34 |
-| math/circles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:17:08 |  |
+| math/circles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:17:08 | 2026-11-21 16:18:09 |
 | math/congruent-triangles | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:00 |  |
 | math/coordinate-plane | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:16 | 2026-11-21 16:06:19 |
 | math/equations | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:47 | 2026-11-21 16:06:30 |
@@ -46,7 +46,7 @@ Updated 2026-11-21 16:17:08. Labels: finished / in progress / no audio / failed 
 | math/radicals | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 16:14:45 | 2026-11-21 16:16:26 |
 | math/rational-expressions | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:13:06 | 2026-11-21 16:16:06 |
 | math/ratios | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:01:58 | 2026-11-21 16:03:19 |
-| math/roots-irrationals | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:45 |  |
+| math/roots-irrationals | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:18:39 |  |
 | math/sampling | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:07:10 | 2026-11-21 16:08:18 |
 | math/scale-drawings | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:53 | 2026-11-21 16:06:34 |
 | math/scatter-plots | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:13:49 | 2026-11-21 16:16:19 |
