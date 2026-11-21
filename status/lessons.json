@@ -1630,15 +1630,15 @@
  },
  "yuwen/yw-poems-9": {
   "counts": {
-   "done": 163,
+   "done": 211,
    "failed": 0,
    "held": 0,
-   "missing": 48,
+   "missing": 0,
    "old": 0,
    "total": 211
   },
   "fingerprint": "6788534cf0c8",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-poems-9.html",
   "record_langs": [
    "zh"
@@ -1647,7 +1647,7 @@
    "en": "Grade 9 Classical Poems",
    "zh": "九年级古诗词"
   },
-  "updated": "2026-11-21 23:19:52",
+  "updated": "2026-11-21 23:26:12",
   "verified": ""
  },
  "yuwen/yw-rhetoric": {
