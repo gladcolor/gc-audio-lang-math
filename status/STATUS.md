@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 14:08:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:08:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -43,7 +43,7 @@ Updated 2026-11-21 14:08:50. Labels: finished / in progress / no audio / failed 
 | math/surface-volume | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:25 |  |
 | math/systems | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:47 |  |
 | math/transformations | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:50 |  |
-| math/volume-solids | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:39:04 |  |
+| math/volume-solids | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:52 |  |
 | music/music-compose | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:05 |  |
 | music/music-history | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 09:19:37 |  |
 | music/music-instruments | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 09:09:46 |  |
