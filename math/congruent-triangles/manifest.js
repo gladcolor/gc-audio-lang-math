@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "math/congruent-triangles", "voice": "serena", "en": "", "zh": "177f9dc7 180a95b6 1c4c6f2e 30dae3df 47dc64bf 4e839743 68f96277 6c6b86c0 74231f97 94879930 94d922f9 9cdc6a45 a9659e6f d97af4a1"});
+LabAudioManifest({"lesson": "math/congruent-triangles", "voice": "serena", "en": "090ce744 1120ad4e 33409ac6 377c3378 3d992d5f 4f75dcb7 5d528e1f 9682dcd7 b2de745a b4e83a85 bff5fda4 ccb8d03a db542e5b f94ea38d", "zh": "177f9dc7 180a95b6 1c4c6f2e 30dae3df 47dc64bf 4e839743 68f96277 6c6b86c0 74231f97 94879930 94d922f9 9cdc6a45 a9659e6f d97af4a1"});
