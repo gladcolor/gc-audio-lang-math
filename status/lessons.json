@@ -247,21 +247,24 @@
  },
  "ela/theme-plot": {
   "counts": {
-   "done": 12,
+   "done": 9,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 3,
    "total": 12
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "21389b2b8d40",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/theme-plot.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Plot, Conflict & Theme",
    "zh": "情节、冲突与主题"
   },
-  "updated": "2026-11-20 06:24:02",
+  "updated": "2026-11-21 14:19:25",
   "verified": ""
  },
  "ela/vocabulary-roots": {
