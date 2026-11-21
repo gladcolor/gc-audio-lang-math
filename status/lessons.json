@@ -1472,7 +1472,7 @@
    "zh": "议论文阅读"
   },
   "updated": "2026-11-21 22:59:03",
-  "verified": ""
+  "verified": "2026-11-21 23:00:02"
  },
  "yuwen/yw-classics": {
   "counts": {
@@ -1690,21 +1690,24 @@
  },
  "yuwen/yw-writing": {
   "counts": {
-   "done": 1,
+   "done": 2,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 8,
    "old": 0,
-   "total": 1
+   "total": 10
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "acf0ffc87d45",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-writing.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Writing in Chinese",
    "zh": "写作"
   },
-  "updated": "2026-11-20 07:43:24",
+  "updated": "2026-11-21 23:00:05",
   "verified": ""
  }
 }
