@@ -977,24 +977,25 @@
  },
  "math/scale-drawings": {
   "counts": {
-   "done": 10,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 10
+   "total": 20
   },
-  "fingerprint": "",
+  "fingerprint": "d65cd7ac5b70",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/scale-drawings.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Scale Drawings",
    "zh": "比例图"
   },
-  "updated": "2026-11-21 16:04:53",
+  "updated": "2026-11-21 19:23:10",
   "verified": ""
  },
  "math/scatter-plots": {
