@@ -126,6 +126,7 @@ zh	dae0ea8c	math/area	serena moss8b	48	2026-11-21 13:39:35	tts	97a761ef9a
 zh	e999e02e	math/area	serena moss8b	48	2026-11-21 13:38:47	tts	b1fccd8e9a
 zh	fc96aaf7	math/area	serena moss8b	48	2026-11-21 16:04:11	tts	c5c482bf55
 en	1d6b1d12	math/circle-theorems	serena moss8b	48	2026-11-21 19:09:18	tts	04940158c8
+en	aa1ca782	math/circle-theorems	serena moss8b	48	2026-11-21 19:20:47	tts	a852c74c2f
 en	bd715da9	math/circle-theorems	serena moss8b	48	2026-11-21 19:19:22	tts	fd6561d928
 zh	1b47aee5	math/circle-theorems	serena moss8b	48	2026-11-21 13:29:14	tts	d706290e11
 zh	2e5372c6	math/circle-theorems	serena moss8b	48	2026-11-21 16:09:04	tts	1f4cc038e1
@@ -205,6 +206,7 @@ en	2666d749	math/equations	serena moss8b	48	2026-11-21 19:17:05	tts	7fbe24b5d1
 en	41f4c093	math/equations	serena moss8b	48	2026-11-21 19:17:06	tts	a368509783
 en	449e0ee0	math/equations	serena moss8b	48	2026-11-21 19:19:46	tts	a7905be366
 en	65a2a5a3	math/equations	serena moss8b	48	2026-11-21 19:09:39	tts	1eb6bd0946
+en	9a01a489	math/equations	serena moss8b	48	2026-11-21 19:20:45	tts	399b678fb2
 en	9e07b86e	math/equations	serena moss8b	48	2026-11-21 19:05:37	tts	7185fb5c0b
 en	a59d0d80	math/equations	serena moss8b	48	2026-11-21 19:17:28	tts	1d0db2c4e2
 en	d1e24629	math/equations	serena moss8b	48	2026-11-21 19:08:05	tts	40e345e999
@@ -233,6 +235,7 @@ en	84d66a96	math/exponents	serena moss8b	48	2026-11-21 19:19:59	tts	3376397b35
 en	8e0326e5	math/exponents	serena moss8b	48	2026-11-21 19:19:03	tts	7ebf94ba4a
 en	91d3b4ab	math/exponents	serena moss8b	48	2026-11-21 19:19:00	tts	ebddb85c8e
 en	967c272d	math/exponents	serena moss8b	48	2026-11-21 19:07:28	tts	a27e65bf4b
+en	c73f0352	math/exponents	serena moss8b	48	2026-11-21 19:20:43	tts	a8495c0f6e
 en	c8d5b571	math/exponents	serena moss8b	48	2026-11-21 19:07:36	tts	646cad69d7
 en	da47e565	math/exponents	serena moss8b	48	2026-11-21 19:17:08	tts	67f0aa9cf8
 en	e6815e5b	math/exponents	serena moss8b	48	2026-11-21 19:06:23	tts	eb622b08ee
@@ -485,6 +488,7 @@ zh	b5a166c4	math/percents	serena moss8b	48	2026-11-21 13:35:41	tts	36db27a9ad
 zh	ba1e4a54	math/percents	serena moss8b	48	2026-11-21 13:28:05	tts	b2319e7d76
 zh	ef0e50de	math/percents	serena moss8b	48	2026-11-21 13:31:59	tts	7c5e30faa1
 en	5ac3f902	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:20:02	tts	c32ffd8d23
+en	6df37943	math/polynomials	serena moss8b	48	2026-11-21 19:20:41	tts	d5d781c37a
 en	e1dfb299	math/polynomials	serena moss8b	48	2026-11-21 19:19:06	tts	ab5c156383
 zh	04c02253	math/polynomials	serena moss8b	48	2026-11-21 19:19:14	tts	264c156acf
 zh	19b4c7bb	math/polynomials	serena moss8b	48	2026-11-21 19:19:01	tts	7b2fd3d424
@@ -659,6 +663,7 @@ zh	ca9acc64	math/ratios	serena moss8b	48	2026-11-21 13:21:35	tts	41e22b5fff
 zh	f5678906	math/ratios	serena moss8b	48	2026-11-21 13:22:03	tts	5d378fcdf7
 zh	f84c8ea9	math/ratios	serena moss8b	48	2026-11-21 13:24:37	tts	521e4cc0f4
 en	00f653d1	math/roots-irrationals	serena moss8b	48	2026-11-21 19:08:25	tts	37eb1b0b5a
+en	8007c1f4	math/roots-irrationals	serena moss8b	48	2026-11-21 19:20:46	tts	60f19386b2
 en	b531e988	math/roots-irrationals	serena moss8b	48	2026-11-21 19:20:18	tts	5457f6d9d6
 en	ca4e1ddc	math/roots-irrationals	serena moss8b	48	2026-11-21 19:06:47	tts	10f30bc799
 en	dcc4edfc	math/roots-irrationals	serena moss8b	48	2026-11-21 19:10:38	tts	0acc31ef52
@@ -678,6 +683,7 @@ en	303ac655	math/sampling	serena moss8b	48	2026-11-21 19:07:16	tts	5663facf61
 en	388fe6a5	math/sampling	serena moss8b	48	2026-11-21 19:09:24	tts	694751fc72
 en	3acd757a	math/sampling	serena moss8b	48	2026-11-21 19:16:53	tts	d024f2a194
 en	4670c8fa	math/sampling	serena moss8b	48	2026-11-21 19:08:15	tts	5fa49162a1
+en	62b98f06	math/sampling	serena moss8b	48	2026-11-21 19:20:49	tts	16b471ff59
 en	6f5e32d9	math/sampling	serena moss8b	48	2026-11-21 19:05:47	tts	8886bddc6a
 en	74433fdf	math/sampling	serena moss8b	48	2026-11-21 19:09:52	tts	889b22dee6
 en	9a547637	math/sampling	serena moss8b	48	2026-11-21 19:17:34	tts	d490c19f77
