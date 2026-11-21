@@ -37,8 +37,10 @@ en	8f3b4652	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:47:12	tts	940
 en	92581606	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:47:06	tts	0fd97163cd
 en	d9441132	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:47:17	tts	fc11272130
 en	e27abd47	ela/character-pov	serena t0.5 -16LUFS	48	2026-11-20 05:51:34	tts	a08e963ed9
+zh	2d89238e	ela/character-pov	serena moss8b	48	2026-11-21 14:15:02	tts	6a628c72d8
 zh	3a5a6440	ela/character-pov	serena moss8b	48	2026-11-21 14:13:47	tts	acb8396905
 zh	6c204735	ela/character-pov	serena moss8b	48	2026-11-21 14:13:55	tts	abb5189f57
+zh	b238b936	ela/character-pov	serena moss8b	48	2026-11-21 14:15:05	tts	2ae89394e7
 en	1571812a	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:53	tts	c3149fb440
 en	2c3f0907	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:53	tts	b2e60e6e60
 en	62dd0c93	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:57	tts	cf8ea59273
@@ -47,6 +49,7 @@ en	b422e8f7	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:59	t
 en	cc9e28cc	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:57	tts	eb2c9d2550
 en	d427e019	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:49:00	tts	b7a3c79f74
 en	e9a742b9	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:56	tts	c099c88ff1
+zh	3d787a46	ela/figurative-language	serena moss8b	48	2026-11-21 14:14:41	tts	3aa97198a8
 en	069f0c2d	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:05:50	tts	4fd4f993dc
 en	1a7fdd8a	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 05:53:08	tts	62cee90d52
 en	3e5d8274	ela/grammar-sentences	serena t0.5 -16LUFS	48	2026-11-20 06:05:48	tts	79f2eb7f3e
@@ -100,6 +103,8 @@ zh	2202c7a5	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:14:35	tts	01
 zh	4ec61678	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:14:33	tts	6f9f135d9e
 zh	54c5e725	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:11	tts	7a0c5aa62a
 zh	5f231270	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:10	tts	98227d46c1
+zh	729a932b	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:15:07	tts	e5a87aab7c
+zh	8defc793	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:15:13	tts	f864b37f09
 zh	a02b31b6	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:41	tts	5b15f06725
 zh	b45b78d9	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:12	tts	e460d6c764
 zh	b75b004c	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:44	tts	ed719b5b40
@@ -127,8 +132,11 @@ en	697236b2	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:54:36	tts	a3e6c7
 en	89c7a77e	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:13	tts	fad881b774
 en	92bb4914	ela/theme-plot	serena t0.5 -16LUFS	48	2026-11-20 05:47:11	tts	ab1f41b561
 zh	2f0d50b1	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:00	tts	0e7dff96d8
+zh	35450d35	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:43	tts	5e4aa672db
+zh	71f947a3	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:44	tts	a0ed9285ce
 zh	8a90afd1	ela/theme-plot	serena moss8b	48	2026-11-21 14:13:22	tts	544b0b7bb3
 zh	9f51528a	ela/theme-plot	serena moss8b	48	2026-11-21 14:14:26	tts	e2a2eca0d6
+zh	b51c57ad	ela/theme-plot	serena moss8b	48	2026-11-21 14:15:08	tts	58e9547443
 en	40d1b0a8	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:02:01	tts	f5569f1484
 en	bf94fe2a	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 06:35:37	tts	bd98dd8f8a
 en	e475a08d	ela/vocabulary-roots	serena t0.5 -16LUFS	48	2026-11-20 05:53:15	tts	71db36bb46
@@ -489,6 +497,7 @@ en	f66b3c4e	math/scatter-plots	serena t0.5 -16LUFS	48	2026-11-20 02:59:54	tts	6f
 zh	3a7a82bc	math/scatter-plots	serena moss8b	48	2026-11-21 13:12:32	tts	c1c7e1b4d6
 zh	46fcc344	math/scatter-plots	serena moss8b	48	2026-11-21 13:31:08	tts	b322013a79
 zh	6ef8d4d6	math/scatter-plots	serena moss8b	48	2026-11-21 14:13:57	tts	f4a778a350
+zh	9e0be453	math/scatter-plots	serena moss8b	48	2026-11-21 14:15:15	tts	2288dfe1e3
 zh	9e410658	math/scatter-plots	serena moss8b	48	2026-11-21 13:32:29	tts	8930d497d2
 zh	b9bc813d	math/scatter-plots	serena moss8b	48	2026-11-21 13:21:16	tts	e47223faed
 zh	fd1439a0	math/scatter-plots	serena moss8b	48	2026-11-21 13:29:13	tts	b388053639
