@@ -552,21 +552,24 @@
  },
  "math/ratios": {
   "counts": {
-   "done": 18,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 18
+   "total": 10
   },
-  "fingerprint": "",
+  "fingerprint": "004fcec8278a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/ratios.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Ratios & Rates",
    "zh": "比与比率"
   },
-  "updated": "2026-11-20 02:57:45",
+  "updated": "2026-11-21 13:24:38",
   "verified": ""
  },
  "math/roots-irrationals": {
@@ -1015,7 +1018,7 @@
    "old": 0,
    "total": 25
   },
-  "fingerprint": "0ba96319c45e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-tang-poems.html",
   "record_langs": [
@@ -1026,7 +1029,7 @@
    "zh": "唐诗鉴赏：意象与意境"
   },
   "updated": "2026-11-20 18:54:32",
-  "verified": "2026-11-20 18:55:17"
+  "verified": ""
  },
  "yuwen/yw-wenyan-basics": {
   "counts": {
