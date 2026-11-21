@@ -128,6 +128,7 @@ zh	fc96aaf7	math/area	serena moss8b	48	2026-11-21 16:04:11	tts	c5c482bf55
 en	1d6b1d12	math/circle-theorems	serena moss8b	48	2026-11-21 19:09:18	tts	04940158c8
 en	aa1ca782	math/circle-theorems	serena moss8b	48	2026-11-21 19:20:47	tts	a852c74c2f
 en	bd715da9	math/circle-theorems	serena moss8b	48	2026-11-21 19:19:22	tts	fd6561d928
+en	e74e9201	math/circle-theorems	serena moss8b	48	2026-11-21 19:20:57	tts	633caa9169
 zh	1b47aee5	math/circle-theorems	serena moss8b	48	2026-11-21 13:29:14	tts	d706290e11
 zh	2e5372c6	math/circle-theorems	serena moss8b	48	2026-11-21 16:09:04	tts	1f4cc038e1
 zh	b0330225	math/circle-theorems	serena moss8b	48	2026-11-21 13:33:48	tts	ccaae659fe
@@ -367,6 +368,7 @@ en	831073a1	math/geometric-constructions	serena moss8b	48	2026-11-21 19:19:39	tt
 en	9baf1a87	math/geometric-constructions	serena moss8b	48	2026-11-21 19:10:22	tts	40711751c7
 en	a1d0fcde	math/geometric-constructions	serena moss8b	48	2026-11-21 19:19:48	tts	08f88b54e5
 en	bd93fe6f	math/geometric-constructions	serena moss8b	48	2026-11-21 19:10:55	tts	2ae6551845
+en	daafefcb	math/geometric-constructions	serena moss8b	48	2026-11-21 19:20:53	tts	8fe31c0212
 en	e7288cd3	math/geometric-constructions	serena moss8b	48	2026-11-21 19:19:24	tts	bd228d1e56
 zh	0600f8eb	math/geometric-constructions	serena moss8b	48	2026-11-21 19:16:36	tts	8bb6f9be21
 zh	06202e36	math/geometric-constructions	serena moss8b	48	2026-11-21 19:16:39	tts	2f0d55e727
@@ -613,6 +615,7 @@ zh	e1454434	math/quadratic-equations	serena moss8b	48	2026-11-21 14:12:42	tts	fb
 zh	e20f2ca3	math/quadratic-equations	serena moss8b	48	2026-11-21 13:20:26	tts	5f1376a5eb
 zh	ea748294	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:46	tts	ce650c15a9
 zh	f37f19fb	math/quadratic-equations	serena moss8b	48	2026-11-21 14:16:45	tts	a4f46b1c04
+en	eee109df	math/quadratic-functions	serena moss8b	48	2026-11-21 19:20:54	tts	4709879735
 zh	1ff5e171	math/quadratic-functions	serena moss8b	48	2026-11-21 16:10:48	tts	c1fa8727db
 zh	3e914c92	math/quadratic-functions	serena moss8b	48	2026-11-21 16:17:45	tts	d55ace6638
 zh	92b58460	math/quadratic-functions	serena moss8b	48	2026-11-21 16:20:10	tts	d066e3b5c4
@@ -714,6 +717,7 @@ zh	ef7f9cba	math/scale-drawings	serena moss8b	48	2026-11-21 13:32:06	tts	21538de
 zh	f05ed0d7	math/scale-drawings	serena moss8b	48	2026-11-21 13:32:25	tts	7542ca5104
 zh	f0738434	math/scale-drawings	serena moss8b	48	2026-11-21 13:18:23	tts	74b934d758
 en	14340690	math/scatter-plots	serena moss8b	48	2026-11-21 19:19:14	tts	dd82e5b7e1
+en	441b2680	math/scatter-plots	serena moss8b	48	2026-11-21 19:20:58	tts	fd96360654
 en	ca8716ce	math/scatter-plots	serena moss8b	48	2026-11-21 19:10:54	tts	b2a1c145a8
 en	e0102245	math/scatter-plots	serena moss8b	48	2026-11-21 19:16:55	tts	1b27a586a0
 en	e1838e27	math/scatter-plots	serena moss8b	48	2026-11-21 19:07:02	tts	6f04dc6910
@@ -729,6 +733,7 @@ zh	f38cf423	math/scatter-plots	serena moss8b	48	2026-11-21 16:08:39	tts	7b3dbdc4
 zh	fd1439a0	math/scatter-plots	serena moss8b	48	2026-11-21 13:29:13	tts	b388053639
 en	0b4672e1	math/similar-triangles	serena moss8b	48	2026-11-21 19:10:35	tts	b7203a3e47
 en	13b6f21f	math/similar-triangles	serena moss8b	48	2026-11-21 19:20:09	tts	2c15a7b57f
+en	33ee1d15	math/similar-triangles	serena moss8b	48	2026-11-21 19:20:55	tts	5c2a61d947
 en	3726d869	math/similar-triangles	serena moss8b	48	2026-11-21 19:19:45	tts	506d109482
 en	40517655	math/similar-triangles	serena moss8b	48	2026-11-21 19:09:34	tts	d883b75086
 zh	1db7f810	math/similar-triangles	serena moss8b	48	2026-11-21 13:30:11	tts	39f6d926a2
@@ -795,6 +800,7 @@ en	aa0db3d9	math/surface-volume	serena moss8b	48	2026-11-21 19:20:16	tts	04411a0
 en	c109c7d9	math/surface-volume	serena moss8b	48	2026-11-21 19:17:56	tts	617a340180
 en	df901567	math/surface-volume	serena moss8b	48	2026-11-21 19:03:33	tts	4f8c0546aa
 en	e320c267	math/surface-volume	serena moss8b	48	2026-11-21 19:08:16	tts	c808f508c5
+en	fc7637b3	math/surface-volume	serena moss8b	48	2026-11-21 19:20:59	tts	f14de5f9d7
 zh	06f87eaf	math/surface-volume	serena moss8b	48	2026-11-21 13:26:16	tts	380825dfcd
 zh	16960f2b	math/surface-volume	serena moss8b	48	2026-11-21 13:21:19	tts	373f2d1774
 zh	346b8640	math/surface-volume	serena moss8b	48	2026-11-21 13:17:04	tts	257324410e
