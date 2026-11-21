@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "math/factoring", "en": {}, "zh": {"20bb035b": {"dur": 15.98}, "2313f686": {"dur": 17.57}, "35c5fbeb": {"dur": 5.98}, "44013d46": {"dur": 10.85}, "b6de2154": {"dur": 14.62}, "caf96f55": {"dur": 7.01}, "cfacb301": {"dur": 7.73}, "db1ec13d": {"dur": 4.54}, "dc50603e": {"dur": 7.97}, "e70e54ee": {"dur": 8.21}}});
