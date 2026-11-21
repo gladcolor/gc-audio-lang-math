@@ -949,26 +949,25 @@
  },
  "math/quadratic-equations": {
   "counts": {
-   "done": 78,
+   "done": 39,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 78
+   "total": 39
   },
   "fingerprint": "90e79ab8be16",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/quadratic-equations.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Quadratic Equations",
    "zh": "一元二次方程"
   },
-  "updated": "2026-11-21 19:32:18",
-  "verified": "2026-11-21 19:34:16"
+  "updated": "2026-11-21 20:03:56",
+  "verified": ""
  },
  "math/quadratic-functions": {
   "counts": {
