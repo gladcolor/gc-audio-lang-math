@@ -1609,15 +1609,15 @@
  },
  "yuwen/yw-tang-poems": {
   "counts": {
-   "done": 25,
+   "done": 90,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 25
+   "missing": 17,
+   "old": 4,
+   "total": 111
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "86b46956b7df",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-tang-poems.html",
   "record_langs": [
    "zh"
@@ -1626,7 +1626,7 @@
    "en": "Tang Poems: Images & Feelings",
    "zh": "唐诗鉴赏：意象与意境"
   },
-  "updated": "2026-11-20 18:54:32",
+  "updated": "2026-11-21 22:35:59",
   "verified": ""
  },
  "yuwen/yw-wenyan-basics": {
