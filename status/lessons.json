@@ -1033,7 +1033,7 @@
    "old": 0,
    "total": 10
   },
-  "fingerprint": "",
+  "fingerprint": "004fcec8278a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/ratios.html",
   "record_langs": [
@@ -1043,7 +1043,7 @@
    "en": "Ratios & Rates",
    "zh": "比与比率"
   },
-  "updated": "2026-11-21 20:02:56",
+  "updated": "2026-11-21 21:51:38",
   "verified": ""
  },
  "math/roots-irrationals": {
