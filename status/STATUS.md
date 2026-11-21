@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 22:21:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 22:30:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -10,16 +10,16 @@ Updated 2026-11-21 22:21:19. Labels: finished / in progress / no audio / failed 
 | art/art-design | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 09:35:57 |  |
 | art/art-history | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 09:29:34 |  |
 | art/art-landscape | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 15:00:49 | 2026-11-21 15:01:52 |
-| ela/argument-writing | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:21:19 |  |
-| ela/central-idea | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:37 |  |
+| ela/argument-writing | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:21:19 | 2026-11-21 22:23:19 |
+| ela/central-idea | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:37 | 2026-11-21 22:23:10 |
 | ela/character-pov | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 22:01:29 | 2026-11-21 22:03:18 |
 | ela/figurative-language | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 22:01:31 | 2026-11-21 22:03:23 |
-| ela/grammar-sentences | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:58 |  |
-| ela/narrative-techniques | finished | 65 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:04 |  |
+| ela/grammar-sentences | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:58 | 2026-11-21 22:23:15 |
+| ela/narrative-techniques | finished | 65 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:04 | 2026-11-21 22:23:09 |
 | ela/narrative-writing | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:09:18 | 2026-11-21 22:10:25 |
 | ela/research-media | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:15:09 | 2026-11-21 22:17:05 |
-| ela/theme-plot | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 22:19:57 |  |
-| ela/vocabulary-roots | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:59 |  |
+| ela/theme-plot | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 22:19:57 | 2026-11-21 22:22:37 |
+| ela/vocabulary-roots | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 22:30:31 |  |
 | math/angles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:46:07 | 2026-11-21 21:49:38 |
 | math/area | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:05 | 2026-11-21 21:54:14 |
 | math/axial-symmetry | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:25 | 2026-11-21 21:17:59 |
