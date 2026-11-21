@@ -697,21 +697,24 @@
  },
  "math/surface-volume": {
   "counts": {
-   "done": 20,
+   "done": 7,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 20
+   "missing": 1,
+   "old": 3,
+   "total": 11
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "1ec30f953391",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/surface-volume.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Surface Area & Volume",
    "zh": "表面积与体积"
   },
-  "updated": "2026-11-20 03:24:05",
+  "updated": "2026-11-21 13:39:10",
   "verified": ""
  },
  "math/systems": {
