@@ -1580,11 +1580,11 @@
  },
  "yuwen/yw-rhetoric": {
   "counts": {
-   "done": 68,
+   "done": 108,
    "failed": 0,
    "held": 0,
-   "missing": 46,
-   "old": 23,
+   "missing": 20,
+   "old": 9,
    "total": 137
   },
   "fingerprint": "5c42f1065faf",
@@ -1597,7 +1597,7 @@
    "en": "Rhetorical Devices",
    "zh": "修辞手法"
   },
-  "updated": "2026-11-21 22:57:01",
+  "updated": "2026-11-21 23:01:40",
   "verified": ""
  },
  "yuwen/yw-song-ci": {
