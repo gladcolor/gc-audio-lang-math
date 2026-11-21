@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 19:10:47. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:16:56. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Updated 2026-11-21 19:10:47. Labels: finished / in progress / no audio / failed 
 | math/circle-theorems | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 16:09:05 | 2026-11-21 16:15:34 |
 | math/circles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:17:08 |  |
 | math/congruent-triangles | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 16:19:41 | 2026-11-21 16:21:32 |
-| math/coordinate-plane | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:10:40 |  |
+| math/coordinate-plane | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:10:40 | 2026-11-21 19:15:51 |
 | math/equations | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:47 |  |
 | math/exponents | in progress | 24 | 0 | 14 | 0 | 0 | 2026-11-21 19:07:19 |  |
 | math/expressions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:36 |  |
@@ -37,7 +37,7 @@ Updated 2026-11-21 19:10:47. Labels: finished / in progress / no audio / failed 
 | math/inverse-proportion | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 16:19:03 | 2026-11-21 16:21:21 |
 | math/negative-operations | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:44 |  |
 | math/parallel-quadrilaterals | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:17:46 | 2026-11-21 14:20:28 |
-| math/percents | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:02:01 |  |
+| math/percents | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:16:56 |  |
 | math/probability | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:11:09 |  |
 | math/proportional | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:06:59 |  |
 | math/pythagorean | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 16:14:56 |  |
@@ -45,7 +45,7 @@ Updated 2026-11-21 19:10:47. Labels: finished / in progress / no audio / failed 
 | math/quadratic-functions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 16:20:10 | 2026-11-21 16:21:33 |
 | math/radicals | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 16:14:45 | 2026-11-21 16:16:26 |
 | math/rational-expressions | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:13:06 | 2026-11-21 16:16:06 |
-| math/ratios | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:10:47 |  |
+| math/ratios | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:10:47 | 2026-11-21 19:16:02 |
 | math/roots-irrationals | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 16:18:39 |  |
 | math/sampling | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:07:10 |  |
 | math/scale-drawings | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:04:53 |  |
