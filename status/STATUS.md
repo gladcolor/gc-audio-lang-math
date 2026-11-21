@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 14:09:05. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:10:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -18,20 +18,20 @@ Updated 2026-11-21 14:09:05. Labels: finished / in progress / no audio / failed 
 | ela/research-media | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:35:06 |  |
 | ela/theme-plot | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:24:02 |  |
 | ela/vocabulary-roots | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 06:45:01 |  |
-| math/angles | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:36 |  |
+| math/angles | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:36 | 2026-11-21 14:10:23 |
 | math/area | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:23 |  |
 | math/circles | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:34 |  |
 | math/congruent-triangles | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:00 |  |
-| math/coordinate-plane | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:18 |  |
+| math/coordinate-plane | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:18 | 2026-11-21 14:10:17 |
 | math/equations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:15:25 |  |
 | math/exponents | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:43 |  |
 | math/expressions | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:20 |  |
-| math/fractals | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:05 |  |
+| math/fractals | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:05 | 2026-11-21 14:10:37 |
 | math/fraction-division | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 13:38:52 | 2026-11-21 13:39:57 |
 | math/functions | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:42 |  |
 | math/integers | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:16 |  |
 | math/inverse-proportion | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:58 |  |
-| math/negative-operations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 03:13:32 |  |
+| math/negative-operations | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:10:48 |  |
 | math/percents | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 13:35:41 | 2026-11-21 13:36:40 |
 | math/probability | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:38 |  |
 | math/proportional | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:29 |  |
@@ -39,15 +39,15 @@ Updated 2026-11-21 14:09:05. Labels: finished / in progress / no audio / failed 
 | math/quadratic-functions | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:56 |  |
 | math/ratios | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 13:24:38 | 2026-11-21 13:25:29 |
 | math/roots-irrationals | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:45 |  |
-| math/sampling | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:41 |  |
+| math/sampling | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:41 | 2026-11-21 14:10:30 |
 | math/scale-drawings | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:32 |  |
 | math/scatter-plots | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:01:25 |  |
 | math/slope | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 03:19:15 |  |
 | math/statistics | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:27 |  |
-| math/surface-volume | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:25 |  |
-| math/systems | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:47 |  |
+| math/surface-volume | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:25 | 2026-11-21 14:10:20 |
+| math/systems | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:47 | 2026-11-21 14:10:34 |
 | math/transformations | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:50 |  |
-| math/trig-ratios | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:03 |  |
+| math/trig-ratios | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:03 | 2026-11-21 14:10:36 |
 | math/volume-solids | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:52 |  |
 | music/music-compose | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:05 |  |
 | music/music-history | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 09:19:37 |  |

@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "math/negative-operations", "voice": "serena", "en": "12f78418 21a0b418 340d2c34 486d11ee 7d0f8a0c 825371b7 8e70358c 8ed53091 9445de28 e9b0ce8d", "zh": "194fb300 550b7fd3 76742e23 81f7afdb 90c9b0b3 9444e895 b21c9f9c b931c14c df1cdaaa e48a29d1"});
+LabAudioManifest({"lesson": "math/negative-operations", "voice": "serena", "en": "12f78418", "zh": "235acd8f 23b0d11a 5ffc34ab 76742e23 7f5e4109 9c11fde4 a2a34262 b71d5901 f8215c90"});

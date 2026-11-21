@@ -285,7 +285,7 @@
    "zh": "角的关系"
   },
   "updated": "2026-11-21 14:08:36",
-  "verified": ""
+  "verified": "2026-11-21 14:10:23"
  },
  "math/area": {
   "counts": {
@@ -373,7 +373,7 @@
    "zh": "平面直角坐标系"
   },
   "updated": "2026-11-21 14:08:18",
-  "verified": ""
+  "verified": "2026-11-21 14:10:17"
  },
  "math/equations": {
   "counts": {
@@ -458,7 +458,7 @@
    "zh": "分形：无穷无尽的图案"
   },
   "updated": "2026-11-21 14:09:05",
-  "verified": ""
+  "verified": "2026-11-21 14:10:37"
  },
  "math/fraction-division": {
   "counts": {
@@ -547,21 +547,24 @@
  },
  "math/negative-operations": {
   "counts": {
-   "done": 20,
+   "done": 1,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 20
+   "total": 1
   },
-  "fingerprint": "",
+  "fingerprint": "d3fe10437e32",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/negative-operations.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Operations with Negative Numbers",
    "zh": "负数的运算"
   },
-  "updated": "2026-11-20 03:13:32",
+  "updated": "2026-11-21 14:10:48",
   "verified": ""
  },
  "math/percents": {
@@ -735,7 +738,7 @@
    "zh": "抽样与推断"
   },
   "updated": "2026-11-21 14:08:41",
-  "verified": ""
+  "verified": "2026-11-21 14:10:30"
  },
  "math/scale-drawings": {
   "counts": {
@@ -839,7 +842,7 @@
    "zh": "表面积与体积"
   },
   "updated": "2026-11-21 14:08:25",
-  "verified": ""
+  "verified": "2026-11-21 14:10:20"
  },
  "math/systems": {
   "counts": {
@@ -861,7 +864,7 @@
    "zh": "二元一次方程组"
   },
   "updated": "2026-11-21 14:08:47",
-  "verified": ""
+  "verified": "2026-11-21 14:10:34"
  },
  "math/transformations": {
   "counts": {
@@ -905,7 +908,7 @@
    "zh": "锐角三角函数"
   },
   "updated": "2026-11-21 14:09:03",
-  "verified": ""
+  "verified": "2026-11-21 14:10:36"
  },
  "math/volume-solids": {
   "counts": {
