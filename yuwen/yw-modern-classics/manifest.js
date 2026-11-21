@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "yuwen/yw-modern-classics", "voice": "serena", "en": "", "zh": "0404c13b 061eefa2 08d84ab2 09c35ce4 1249dfb9 12d22aa6 19249de2 1b28e7c0 1b941d0b 1d5d735e 219a2ebc 2395aedb 25211e6f 3aeea60b 3d7c7932 4b28a6a4 4fc379b3 50cacfd7 54dea79b 5620e8ff 5669c451 59a34f52 59cfa769 63875436 686d8ca8 71ffb564 76d679f2 783fcb79 7ceb7013 7f8f605b 7f9e5d12 87356296 8785be84 8a9989e1 8dc03957 90649026 9b9a3021 a623209b a9616772 ab649ee1 ba82dbe6 c4fb3524 f25c4d3c f9dc3858"});
