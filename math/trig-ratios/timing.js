@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "math/trig-ratios", "en": {}, "zh": {"17fc9807": {"dur": 18.62}, "614f6e5c": {"dur": 13.34}, "70d2c988": {"dur": 15.89}, "75a350f8": {"dur": 22.61}, "7a9e26f8": {"dur": 26.62}, "855da054": {"dur": 17.66}}});
+LabAudioTiming({"lesson": "math/trig-ratios", "en": {"1255eb01": {"dur": 14.21}, "37f75bf1": {"dur": 17.33}, "763e4038": {"dur": 16.22}, "79c173cc": {"dur": 17.5}, "bee380ff": {"dur": 19.1}, "d98b4e3d": {"dur": 25.42}}, "zh": {"17fc9807": {"dur": 18.62}, "614f6e5c": {"dur": 13.34}, "70d2c988": {"dur": 15.89}, "75a350f8": {"dur": 22.61}, "7a9e26f8": {"dur": 26.62}, "855da054": {"dur": 17.66}}});
