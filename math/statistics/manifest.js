@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "math/statistics", "voice": "serena", "en": "11209658 370407fa 6276a6c9 a671f14f", "zh": "3781f30b 37f4436a 5329dec4 6e5e4709 79d20c3d 92e76463 93eb1cb1 960bff52 bba27b47 f3fdc148"});
+LabAudioManifest({"lesson": "math/statistics", "voice": "serena", "en": "0d797012 11209658 46a4f8da 56e11e42 6276a6c9 80c02b35 a671f14f af6c89ca b15ca544 b19944d4 bae34c72 d2278b3a e782eb0c ef60ada2 f1707283 f46de82d", "zh": "0a23496a 0ae4c277 186dd6ae 20bb4bcd 3781f30b 37f4436a 5329dec4 55caa19a 6e5e4709 7a5ad630 92e76463 960bff52 bb798284 bba27b47 e3a5936e f3fdc148"});
