@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 19:24:58. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:27:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Updated 2026-11-21 19:24:58. Labels: finished / in progress / no audio / failed 
 | ela/research-media | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:13:01 |  |
 | ela/theme-plot | in progress | 9 | 3 | 0 | 0 | 0 | 2026-11-21 14:19:25 |  |
 | ela/vocabulary-roots | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:59 |  |
-| math/angles | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:43 |  |
+| math/angles | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:43 | 2026-11-21 19:26:03 |
 | math/area | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:19:50 |  |
 | math/circle-theorems | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 16:09:05 | 2026-11-21 16:15:34 |
 | math/circles | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:22:42 |  |
@@ -34,30 +34,30 @@ Updated 2026-11-21 19:24:58. Labels: finished / in progress / no audio / failed 
 | math/fraction-division | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:20:04 |  |
 | math/functions | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:22:13 |  |
 | math/integers | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:19:08 |  |
-| math/inverse-proportion | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 16:19:03 | 2026-11-21 16:21:21 |
+| math/inverse-proportion | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 19:27:23 |  |
 | math/negative-operations | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-21 19:21:25 |  |
 | math/parallel-quadrilaterals | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 19:20:37 |  |
 | math/percents | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:16:56 | 2026-11-21 19:18:29 |
 | math/probability | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:19:32 |  |
 | math/proportional | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:18:34 |  |
-| math/pythagorean | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:58 |  |
+| math/pythagorean | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:58 | 2026-11-21 19:26:44 |
 | math/quadratic-equations | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-21 16:24:33 | 2026-11-21 16:25:48 |
 | math/quadratic-functions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 16:20:10 | 2026-11-21 16:21:33 |
 | math/radicals | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 16:14:45 | 2026-11-21 16:16:26 |
 | math/rational-expressions | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 16:13:06 | 2026-11-21 16:16:06 |
 | math/ratios | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:10:47 | 2026-11-21 19:16:02 |
-| math/roots-irrationals | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:50 |  |
+| math/roots-irrationals | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:50 | 2026-11-21 19:26:38 |
 | math/sampling | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:20:49 |  |
 | math/scale-drawings | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:10 |  |
-| math/scatter-plots | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:44 |  |
+| math/scatter-plots | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:44 | 2026-11-21 19:26:31 |
 | math/similar-triangles | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 16:12:54 | 2026-11-21 16:15:59 |
-| math/slope | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:01 |  |
+| math/slope | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:01 | 2026-11-21 19:26:09 |
 | math/statistics | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 19:21:29 |  |
 | math/surface-volume | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:20:59 |  |
-| math/systems | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:39 |  |
+| math/systems | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:39 | 2026-11-21 19:26:24 |
 | math/transformations | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:21:36 |  |
 | math/trig-ratios | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 16:13:33 | 2026-11-21 16:16:13 |
-| math/volume-solids | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:29 |  |
+| math/volume-solids | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:29 | 2026-11-21 19:26:15 |
 | music/music-compose | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:05 |  |
 | music/music-history | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 09:19:37 |  |
 | music/music-instruments | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 09:09:46 |  |
