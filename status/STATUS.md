@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 21:52:11. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 21:52:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -50,7 +50,7 @@ Updated 2026-11-21 21:52:11. Labels: finished / in progress / no audio / failed 
 | math/quadratic-equations | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-21 21:31:48 | 2026-11-21 21:33:03 |
 | math/quadratic-functions | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:58 | 2026-11-21 21:16:12 |
 | math/radicals | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 21:32:31 | 2026-11-21 21:34:12 |
-| math/rational-expressions | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:52 |  |
+| math/rational-expressions | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:15 |  |
 | math/ratios | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:51:38 |  |
 | math/roots-irrationals | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:46:42 | 2026-11-21 21:50:02 |
 | math/rotation-symmetry | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:27 | 2026-11-21 21:18:05 |
