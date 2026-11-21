@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 14:19:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 14:25:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -10,36 +10,36 @@ Updated 2026-11-21 14:19:25. Labels: finished / in progress / no audio / failed 
 | art/art-history | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 09:29:34 |  |
 | ela/argument-writing | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:55 |  |
 | ela/central-idea | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:53 |  |
-| ela/character-pov | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 14:19:08 |  |
+| ela/character-pov | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 14:19:08 | 2026-11-21 14:20:37 |
 | ela/figurative-language | in progress | 4 | 5 | 3 | 0 | 0 | 2026-11-21 14:16:40 |  |
 | ela/grammar-sentences | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:57 |  |
 | ela/narrative-techniques | finished | 82 | 0 | 0 | 0 | 0 | 2026-11-20 08:00:00 |  |
-| ela/narrative-writing | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 06:37:14 |  |
+| ela/narrative-writing | in progress | 1 | 5 | 0 | 0 | 0 | 2026-11-21 14:25:06 |  |
 | ela/research-media | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:13:01 |  |
 | ela/theme-plot | in progress | 9 | 3 | 0 | 0 | 0 | 2026-11-21 14:19:25 |  |
 | ela/vocabulary-roots | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:59 |  |
 | math/angles | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:36 | 2026-11-21 14:10:23 |
 | math/area | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:23 |  |
-| math/circle-theorems | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:18:55 |  |
+| math/circle-theorems | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:18:55 | 2026-11-21 14:20:31 |
 | math/circles | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:34 |  |
 | math/congruent-triangles | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:00 |  |
 | math/coordinate-plane | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:18 | 2026-11-21 14:10:17 |
 | math/equations | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:14:37 | 2026-11-21 14:15:25 |
 | math/exponents | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:43 |  |
 | math/expressions | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:20 |  |
-| math/factoring | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:19:21 |  |
+| math/factoring | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:19:21 | 2026-11-21 14:20:41 |
 | math/fractals | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:09:05 | 2026-11-21 14:10:37 |
 | math/fraction-division | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 13:38:52 | 2026-11-21 13:39:57 |
 | math/functions | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:35 | 2026-11-21 14:14:04 |
 | math/integers | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:16 |  |
 | math/inverse-proportion | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:58 |  |
 | math/negative-operations | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:10:48 | 2026-11-21 14:11:50 |
-| math/parallel-quadrilaterals | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:17:46 |  |
+| math/parallel-quadrilaterals | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:17:46 | 2026-11-21 14:20:28 |
 | math/percents | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 13:35:41 | 2026-11-21 13:36:40 |
 | math/probability | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:38 |  |
 | math/proportional | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:29 |  |
 | math/pythagorean | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:13:07 | 2026-11-21 14:14:08 |
-| math/quadratic-equations | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 14:17:29 |  |
+| math/quadratic-equations | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 14:17:29 | 2026-11-21 14:20:27 |
 | math/quadratic-functions | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:56 |  |
 | math/radicals | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-21 14:12:49 | 2026-11-21 14:14:05 |
 | math/rational-expressions | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 14:16:08 | 2026-11-21 14:17:27 |
@@ -48,7 +48,7 @@ Updated 2026-11-21 14:19:25. Labels: finished / in progress / no audio / failed 
 | math/sampling | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:41 | 2026-11-21 14:10:30 |
 | math/scale-drawings | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:32 |  |
 | math/scatter-plots | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 14:15:15 | 2026-11-21 14:16:16 |
-| math/similar-triangles | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:18:24 |  |
+| math/similar-triangles | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:18:24 | 2026-11-21 14:20:30 |
 | math/slope | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:11:00 | 2026-11-21 14:11:54 |
 | math/statistics | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:27 |  |
 | math/surface-volume | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:08:25 | 2026-11-21 14:10:20 |

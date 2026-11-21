@@ -139,7 +139,7 @@
    "zh": "人物与叙述视角"
   },
   "updated": "2026-11-21 14:19:08",
-  "verified": ""
+  "verified": "2026-11-21 14:20:37"
  },
  "ela/figurative-language": {
   "counts": {
@@ -206,21 +206,24 @@
  },
  "ela/narrative-writing": {
   "counts": {
-   "done": 12,
+   "done": 1,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
-   "total": 12
+   "old": 5,
+   "total": 6
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "cb31cb46053e",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/narrative-writing.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Write a Story",
    "zh": "写记叙文"
   },
-  "updated": "2026-11-20 06:37:14",
+  "updated": "2026-11-21 14:25:06",
   "verified": ""
  },
  "ela/research-media": {
@@ -353,7 +356,7 @@
    "zh": "圆的性质"
   },
   "updated": "2026-11-21 14:18:55",
-  "verified": ""
+  "verified": "2026-11-21 14:20:31"
  },
  "math/circles": {
   "counts": {
@@ -507,7 +510,7 @@
    "zh": "整式乘法与因式分解"
   },
   "updated": "2026-11-21 14:19:21",
-  "verified": ""
+  "verified": "2026-11-21 14:20:41"
  },
  "math/fractals": {
   "counts": {
@@ -661,7 +664,7 @@
    "zh": "平行线与四边形"
   },
   "updated": "2026-11-21 14:17:46",
-  "verified": ""
+  "verified": "2026-11-21 14:20:28"
  },
  "math/percents": {
   "counts": {
@@ -771,7 +774,7 @@
    "zh": "一元二次方程"
   },
   "updated": "2026-11-21 14:17:29",
-  "verified": ""
+  "verified": "2026-11-21 14:20:27"
  },
  "math/quadratic-functions": {
   "counts": {
@@ -969,7 +972,7 @@
    "zh": "相似三角形"
   },
   "updated": "2026-11-21 14:18:24",
-  "verified": ""
+  "verified": "2026-11-21 14:20:30"
  },
  "math/slope": {
   "counts": {

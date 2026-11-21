@@ -53,6 +53,7 @@ en	cc9e28cc	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:57	t
 en	d427e019	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:49:00	tts	b7a3c79f74
 en	e9a742b9	ela/figurative-language	serena t0.5 -16LUFS	48	2026-11-20 05:48:56	tts	c099c88ff1
 zh	1a515034	ela/figurative-language	serena moss8b	48	2026-11-21 14:16:43	tts	ba26042d10
+zh	2fd9fc52	ela/figurative-language	serena moss8b	48	2026-11-21 14:24:23	tts	538ca0a478
 zh	3a471973	ela/figurative-language	serena moss8b	48	2026-11-21 14:18:03	tts	3710bb63cd
 zh	3d787a46	ela/figurative-language	serena moss8b	48	2026-11-21 14:14:41	tts	3aa97198a8
 zh	6c32b943	ela/figurative-language	serena moss8b	48	2026-11-21 14:16:44	tts	aad47e73cc
@@ -112,6 +113,7 @@ en	f35e81fa	ela/narrative-techniques	serena t0.5 -16LUFS	48	2026-11-20 05:54:42	
 zh	01a43d10	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:45	tts	5b15f06725
 zh	0649087f	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:13:45	tts	56d5f97ea2
 zh	0f197448	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:26	tts	9e3ec6603d
+zh	107b43df	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:24:50	tts	54415b1cae
 zh	1f950585	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:21	tts	3f2f3a6626
 zh	2202c7a5	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:14:35	tts	0161166a82
 zh	3988d60e	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:17:34	tts	de2891d099
@@ -119,19 +121,25 @@ zh	4ec61678	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:14:33	tts	6f
 zh	52010fed	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:25	tts	e57a6e79bd
 zh	54c5e725	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:11	tts	7a0c5aa62a
 zh	57a051a7	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:18:05	tts	ac98c46e66
+zh	57ee12fd	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:23:16	tts	ca056dc7e4
 zh	5a203eb0	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:27	tts	b977459a7c
 zh	5f231270	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:10	tts	98227d46c1
 zh	61faa3ed	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:52	tts	da5f156356
 zh	66736eec	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:20	tts	58be7d8da7
 zh	729a932b	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:15:07	tts	e5a87aab7c
 zh	7f679968	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:18:01	tts	035eed00c9
+zh	8587d136	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:19:52	tts	64739b87ea
 zh	8defc793	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:15:13	tts	f864b37f09
 zh	a02b31b6	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:41	tts	5b15f06725
+zh	a0689a62	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:19:47	tts	d4d4db0ae8
 zh	b45b78d9	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:12	tts	e460d6c764
 zh	b75b004c	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:44	tts	ed719b5b40
 zh	bfa6a22b	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:19:02	tts	9cc7d81daa
 zh	c5889b6a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:11:43	tts	7ddcda7891
+zh	c63e8d90	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:19:53	tts	b1285448af
 zh	ce310a6c	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:54	tts	4f5d678f97
+zh	d2d707de	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:21:05	tts	09f177a46c
+zh	d9d5c688	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:19:39	tts	18aeeee068
 zh	da6c708e	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:19:05	tts	68f8b8e1d7
 zh	deccce7a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:13	tts	eac2ece7cb
 zh	e5332136	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:13:17	tts	d7a055dcca
@@ -139,12 +147,14 @@ zh	e616b451	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:17:59	tts	12
 zh	f12f7c9c	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:16:31	tts	57c10fa2f8
 zh	f63e309a	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:48	tts	7aeac09120
 zh	fccf05ad	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:12:00	tts	9167a9f4fa
+zh	fd980e61	ela/narrative-techniques	serena moss8b	48	2026-11-21 14:21:06	tts	781e3598d4
 en	0e227ced	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:12	tts	ec0245ed27
 en	1456709e	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:07	tts	7bef335b7a
 en	1a741af6	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:06	tts	966dbd68ad
 en	312ab785	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 06:02:00	tts	db503d1b2e
 en	4794159a	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:53:57	tts	cc993e5ca8
 en	7911dcad	ela/narrative-writing	serena t0.5 -16LUFS	48	2026-11-20 05:54:07	tts	20edff863b
+zh	5d045ddc	ela/narrative-writing	serena moss8b	48	2026-11-21 14:25:06	tts	0a4085429c
 en	6831e398	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 06:00:34	tts	ec860c44cd
 en	8937b761	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 05:53:11	tts	6457ba4117
 en	aec3c931	ela/research-media	serena t0.5 -16LUFS	48	2026-11-20 05:53:02	tts	a251169614
