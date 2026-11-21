@@ -800,7 +800,7 @@
    "zh": "代数式与整式的加减"
   },
   "updated": "2026-11-21 19:34:51",
-  "verified": ""
+  "verified": "2026-11-21 19:36:18"
  },
  "math/probability": {
   "counts": {
@@ -846,7 +846,7 @@
    "zh": "投影与三视图"
   },
   "updated": "2026-11-21 19:36:05",
-  "verified": ""
+  "verified": "2026-11-21 19:37:10"
  },
  "math/proportional": {
   "counts": {
@@ -1031,6 +1031,29 @@
   },
   "updated": "2026-11-21 19:24:50",
   "verified": "2026-11-21 19:26:38"
+ },
+ "math/rotation-symmetry": {
+  "counts": {
+   "done": 16,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 16
+  },
+  "fingerprint": "5311b8482ce1",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/math/rotation-symmetry.html",
+  "record_langs": [
+   "en",
+   "zh"
+  ],
+  "title": {
+   "en": "Rotation & Central Symmetry",
+   "zh": "旋转与中心对称"
+  },
+  "updated": "2026-11-21 19:37:27",
+  "verified": ""
  },
  "math/sampling": {
   "counts": {

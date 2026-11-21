@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 19:36:05. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:37:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -39,9 +39,9 @@ Updated 2026-11-21 19:36:05. Labels: finished / in progress / no audio / failed 
 | math/parallel-quadrilaterals | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 19:20:37 | 2026-11-21 19:28:43 |
 | math/percents | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:16:56 | 2026-11-21 19:18:29 |
 | math/polynomial-multiplication | in progress | 34 | 0 | 14 | 0 | 0 | 2026-11-21 19:33:22 |  |
-| math/polynomials | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:34:51 |  |
+| math/polynomials | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:34:51 | 2026-11-21 19:36:18 |
 | math/probability | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:19:32 | 2026-11-21 19:28:20 |
-| math/projections-three-views | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:36:05 |  |
+| math/projections-three-views | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:36:05 | 2026-11-21 19:37:10 |
 | math/proportional | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:18:34 | 2026-11-21 19:28:06 |
 | math/pythagorean | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:58 | 2026-11-21 19:26:44 |
 | math/quadratic-equations | finished | 78 | 0 | 0 | 0 | 0 | 2026-11-21 19:32:18 | 2026-11-21 19:34:16 |
@@ -50,6 +50,7 @@ Updated 2026-11-21 19:36:05. Labels: finished / in progress / no audio / failed 
 | math/rational-expressions | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:27:53 | 2026-11-21 19:30:48 |
 | math/ratios | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:10:47 | 2026-11-21 19:16:02 |
 | math/roots-irrationals | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:50 | 2026-11-21 19:26:38 |
+| math/rotation-symmetry | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 19:37:27 |  |
 | math/sampling | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:20:49 | 2026-11-21 19:28:49 |
 | math/scale-drawings | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:10 | 2026-11-21 19:30:19 |
 | math/scatter-plots | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:44 | 2026-11-21 19:26:31 |

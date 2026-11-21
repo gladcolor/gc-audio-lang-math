@@ -128,12 +128,17 @@ zh	e999e02e	math/area	serena moss8b	48	2026-11-21 13:38:47	tts	b1fccd8e9a
 zh	fc96aaf7	math/area	serena moss8b	48	2026-11-21 16:04:11	tts	c5c482bf55
 en	022ae3b1	math/axial-symmetry	serena moss8b	48	2026-11-21 19:35:54	tts	16d4655f00
 en	0cc46951	math/axial-symmetry	serena moss8b	48	2026-11-21 19:33:09	tts	5fad7a34d0
+en	382d20ca	math/axial-symmetry	serena moss8b	48	2026-11-21 19:36:36	tts	9206973ee6
 en	386c3719	math/axial-symmetry	serena moss8b	48	2026-11-21 19:33:31	tts	4ac211ff94
 en	5a37f2e1	math/axial-symmetry	serena moss8b	48	2026-11-21 19:24:24	tts	665c86bd78
 en	5f5a61ca	math/axial-symmetry	serena moss8b	48	2026-11-21 19:23:28	tts	7a72614661
 en	854787b6	math/axial-symmetry	serena moss8b	48	2026-11-21 19:23:52	tts	5f25fae685
+en	acf84f61	math/axial-symmetry	serena moss8b	48	2026-11-21 19:36:44	tts	457c84c405
+en	bdb588c2	math/axial-symmetry	serena moss8b	48	2026-11-21 19:36:52	tts	304d3fb1d1
 en	d98211c8	math/axial-symmetry	serena moss8b	48	2026-11-21 19:22:22	tts	24c862253a
 en	e925b7e0	math/axial-symmetry	serena moss8b	48	2026-11-21 19:34:58	tts	fcd32eb7bc
+zh	2a5974bf	math/axial-symmetry	serena moss8b	48	2026-11-21 19:37:18	tts	fa7fe6c1dd
+zh	75847cae	math/axial-symmetry	serena moss8b	48	2026-11-21 19:37:22	tts	888e83fd78
 zh	7a685125	math/axial-symmetry	serena moss8b	48	2026-11-21 19:33:06	tts	d3ea3dfa03
 zh	99f6556d	math/axial-symmetry	serena moss8b	48	2026-11-21 19:34:24	tts	2b22376eb1
 zh	ae3a01f5	math/axial-symmetry	serena moss8b	48	2026-11-21 19:35:11	tts	0d923d293b
@@ -539,6 +544,7 @@ zh	92ba5983	math/inverse-proportion	serena moss8b	48	2026-11-21 13:39:20	tts	35b
 zh	cf4f9d46	math/inverse-proportion	serena moss8b	48	2026-11-21 16:10:15	tts	07093a81da
 zh	f6162f08	math/inverse-proportion	serena moss8b	48	2026-11-21 16:19:03	tts	fc2ae7b0b9
 en	2fe912c9	math/linear-functions	serena moss8b	48	2026-11-21 19:24:10	tts	ec941258e9
+en	8389a34a	math/linear-functions	serena moss8b	48	2026-11-21 19:36:20	tts	330271eede
 en	8f68e31d	math/linear-functions	serena moss8b	48	2026-11-21 19:22:40	tts	a7d7726ee7
 en	c62e2088	math/linear-functions	serena moss8b	48	2026-11-21 19:24:13	tts	5ac7c1a74f
 zh	09e6f754	math/linear-functions	serena moss8b	48	2026-11-21 19:33:08	tts	3c8a0243b1
@@ -627,6 +633,7 @@ zh	21c4d27d	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:34:32	
 zh	2abc0158	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:34	tts	b6be5b8181
 zh	2fea0c81	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:33:21	tts	bb8720fd1a
 zh	4632001e	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:16	tts	0cf7df20e8
+zh	53338807	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:36:43	tts	d11e02ea4d
 zh	55bfb0a4	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:34:39	tts	9f99ff1841
 zh	584051a2	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:25	tts	975f479d42
 zh	7ff5bc79	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:23:00	tts	b230a37cfb
@@ -909,8 +916,10 @@ zh	f0b80ede	math/roots-irrationals	serena moss8b	48	2026-11-21 16:09:52	tts	7be7
 en	2f424c8c	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:33:17	tts	322de60b56
 en	398c205b	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:32:32	tts	d1524548f2
 en	8cebae62	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:27:50	tts	c2d38749f8
+en	93df64d9	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:37:26	tts	1de0a7d82f
 en	9cff2c22	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:22:41	tts	857be7efa3
 en	9db04388	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:27:11	tts	347c8ebffb
+en	a5453433	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:36:34	tts	de4b9fe33b
 en	a86e7812	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:24:25	tts	2c44a2d557
 zh	231d0f87	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:34:37	tts	66d0dd1b76
 zh	5640a908	math/rotation-symmetry	serena moss8b	48	2026-11-21 19:23:33	tts	93bc528627
