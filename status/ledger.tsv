@@ -326,6 +326,7 @@ zh	86973c38	math/exponents	serena moss8b	48	2026-11-21 13:21:38	tts	b80cb94070
 zh	86d2a204	math/exponents	serena moss8b	48	2026-11-21 13:33:49	tts	b2631d98ba
 zh	9dd7708b	math/exponents	serena moss8b	48	2026-11-21 13:39:17	tts	c3c8629bc7
 zh	a3f555e1	math/exponents	serena moss8b	48	2026-11-21 13:32:22	tts	5f65300a83
+zh	eef968b8	math/exponents	serena moss8b	48	2026-11-21 16:06:06	tts	04fa1e3370
 en	4b085871	math/expressions	serena t0.5 -16LUFS	48	2026-11-20 03:11:14	tts	b911483484
 en	4bec5c2b	math/expressions	serena t0.5 -16LUFS	48	2026-11-20 02:57:41	tts	79640367fc
 en	5254fd9d	math/expressions	serena t0.5 -16LUFS	48	2026-11-20 03:03:27	tts	fcbf003102
@@ -358,6 +359,7 @@ zh	cfacb301	math/factoring	serena moss8b	48	2026-11-21 16:03:50	tts	1be35fa158
 zh	db1ec13d	math/factoring	serena moss8b	48	2026-11-21 14:19:21	tts	21f5d28c8c
 zh	dc50603e	math/factoring	serena moss8b	48	2026-11-21 14:13:18	tts	5f95a72085
 zh	e70e54ee	math/factoring	serena moss8b	48	2026-11-21 16:04:08	tts	ff52ffa336
+zh	4e7cefe7	math/fractals	serena moss8b	48	2026-11-21 16:06:36	tts	5b902e9bc3
 zh	5342b3a7	math/fractals	serena moss8b	48	2026-11-21 13:31:32	tts	5ff47db52d
 zh	66550149	math/fractals	serena moss8b	48	2026-11-21 13:39:38	tts	508acb89ff
 en	0056fca6	math/fraction-division	serena t0.5 -16LUFS	48	2026-11-20 02:56:39	tts	6ea6002020
@@ -493,6 +495,7 @@ zh	077f0233	math/proportional	serena moss8b	48	2026-11-21 13:32:03	tts	267c72ffd
 zh	2621c0b4	math/proportional	serena moss8b	48	2026-11-21 13:25:57	tts	c6cc8dba04
 zh	39e0e357	math/proportional	serena moss8b	48	2026-11-21 13:19:37	tts	51140c5659
 zh	4901866e	math/proportional	serena moss8b	48	2026-11-21 16:03:41	tts	de52da3761
+zh	6494dbf8	math/proportional	serena moss8b	48	2026-11-21 16:06:59	tts	4fe408b507
 zh	6ccc2af1	math/proportional	serena moss8b	48	2026-11-21 16:04:50	tts	195b1e6caf
 zh	ab34b148	math/proportional	serena moss8b	48	2026-11-21 16:04:06	tts	e65bbcd5e5
 zh	d92e8402	math/proportional	serena moss8b	48	2026-11-21 13:38:49	tts	a089f3eb6d
@@ -515,13 +518,21 @@ zh	19ce0db4	math/quadratic-equations	serena moss8b	48	2026-11-21 16:05:21	tts	68
 zh	20f2f231	math/quadratic-equations	serena moss8b	48	2026-11-21 16:04:34	tts	72b3e6a2e0
 zh	3ae0808a	math/quadratic-equations	serena moss8b	48	2026-11-21 16:05:30	tts	503cdd5ab6
 zh	3fdde9ee	math/quadratic-equations	serena moss8b	48	2026-11-21 14:16:53	tts	ed4d537998
+zh	431a8cf6	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:12	tts	30c3fc7531
+zh	45da2788	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:55	tts	aee27caa17
+zh	4a511f21	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:48	tts	e58357660e
 zh	5603a412	math/quadratic-equations	serena moss8b	48	2026-11-21 14:17:28	tts	97284dc731
+zh	65169148	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:39	tts	5c5842564f
 zh	674271a0	math/quadratic-equations	serena moss8b	48	2026-11-21 16:03:49	tts	7076caa415
 zh	68faf5a4	math/quadratic-equations	serena moss8b	48	2026-11-21 16:03:58	tts	88f5564bd2
 zh	7d769034	math/quadratic-equations	serena moss8b	48	2026-11-21 14:11:57	tts	8e7286a548
 zh	c3ab740d	math/quadratic-equations	serena moss8b	48	2026-11-21 14:16:32	tts	3841a0d132
+zh	ce8bc16c	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:50	tts	2808995226
+zh	d010e8cd	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:44	tts	6ff8690232
+zh	d2f2ad99	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:42	tts	66300f9323
 zh	e1454434	math/quadratic-equations	serena moss8b	48	2026-11-21 14:12:42	tts	fbeaeada12
 zh	e20f2ca3	math/quadratic-equations	serena moss8b	48	2026-11-21 13:20:26	tts	5f1376a5eb
+zh	ea748294	math/quadratic-equations	serena moss8b	48	2026-11-21 16:06:46	tts	ce650c15a9
 zh	f37f19fb	math/quadratic-equations	serena moss8b	48	2026-11-21 14:16:45	tts	a4f46b1c04
 zh	a20a96c0	math/quadratic-functions	serena moss8b	48	2026-11-21 16:05:16	tts	a1e5e55d43
 zh	7d7260b4	math/radicals	serena moss8b	48	2026-11-21 13:25:31	tts	395dabbc9a
@@ -662,6 +673,7 @@ zh	5329dec4	math/statistics	serena moss8b	48	2026-11-21 16:05:54	tts	79ab083f67
 zh	6e5e4709	math/statistics	serena moss8b	48	2026-11-21 13:22:30	tts	528bdcc7eb
 zh	79d20c3d	math/statistics	serena moss8b	48	2026-11-21 13:12:34	tts	b4484040d3
 zh	92e76463	math/statistics	serena moss8b	48	2026-11-21 13:35:40	tts	ce199a6581
+zh	960bff52	math/statistics	serena moss8b	48	2026-11-21 16:06:10	tts	b361740b97
 zh	f3fdc148	math/statistics	serena moss8b	48	2026-11-21 13:35:50	tts	dfbe65463a
 en	2ea9cd3a	math/surface-volume	serena t0.5 -16LUFS	48	2026-11-20 02:59:26	tts	44e966b3bb
 en	3e1ece23	math/surface-volume	serena t0.5 -16LUFS	48	2026-11-20 02:36:04	tts	4f8c0546aa
@@ -738,6 +750,7 @@ zh	4d90674c	math/volume-solids	serena moss8b	48	2026-11-21 16:05:04	tts	3116bd3b
 zh	53b20715	math/volume-solids	serena moss8b	48	2026-11-21 16:05:07	tts	9b9d356fa5
 zh	8dc80d24	math/volume-solids	serena moss8b	48	2026-11-21 13:39:14	tts	b9bd327161
 zh	98b3ddc0	math/volume-solids	serena moss8b	48	2026-11-21 16:05:13	tts	0201834662
+zh	9e6831fe	math/volume-solids	serena moss8b	48	2026-11-21 16:06:56	tts	6965963d66
 en	00b58314	music/music-compose	serena t0.5 -16LUFS	48	2026-11-20 07:54:24	tts	90c0a43e2a
 en	02c99e7f	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:29	tts	29f1d4e5c3
 en	0db367f2	music/music-history	serena t0.5 -16LUFS	48	2026-11-20 07:54:44	tts	9772386341

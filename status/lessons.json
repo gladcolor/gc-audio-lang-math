@@ -472,7 +472,7 @@
    "zh": "平面直角坐标系"
   },
   "updated": "2026-11-21 16:04:16",
-  "verified": ""
+  "verified": "2026-11-21 16:06:19"
  },
  "math/equations": {
   "counts": {
@@ -494,7 +494,7 @@
    "zh": "解方程与不等式"
   },
   "updated": "2026-11-21 16:04:47",
-  "verified": ""
+  "verified": "2026-11-21 16:06:30"
  },
  "math/exponents": {
   "counts": {
@@ -538,7 +538,7 @@
    "zh": "代数式与分配律"
   },
   "updated": "2026-11-21 16:04:36",
-  "verified": ""
+  "verified": "2026-11-21 16:06:23"
  },
  "math/factoring": {
   "counts": {
@@ -648,7 +648,7 @@
    "zh": "整数与绝对值"
   },
   "updated": "2026-11-21 16:03:59",
-  "verified": ""
+  "verified": "2026-11-21 16:06:15"
  },
  "math/inverse-proportion": {
   "counts": {
@@ -692,7 +692,7 @@
    "zh": "负数的运算"
   },
   "updated": "2026-11-21 16:04:44",
-  "verified": ""
+  "verified": "2026-11-21 16:06:26"
  },
  "math/parallel-quadrilaterals": {
   "counts": {
@@ -762,15 +762,15 @@
  },
  "math/proportional": {
   "counts": {
-   "done": 0,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 0
+   "total": 10
   },
-  "fingerprint": "",
-  "label": "old voice",
+  "fingerprint": "ad0af659624f",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/proportional.html",
   "record_langs": [
    "zh"
@@ -779,7 +779,7 @@
    "en": "Proportional Relationships",
    "zh": "正比例关系"
   },
-  "updated": "2026-11-21 14:08:29",
+  "updated": "2026-11-21 16:06:59",
   "verified": ""
  },
  "math/pythagorean": {
@@ -978,7 +978,7 @@
    "zh": "比例图"
   },
   "updated": "2026-11-21 16:04:53",
-  "verified": ""
+  "verified": "2026-11-21 16:06:34"
  },
  "math/scatter-plots": {
   "counts": {
