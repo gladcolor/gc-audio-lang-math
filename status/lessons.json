@@ -718,26 +718,25 @@
  },
  "math/linear-functions": {
   "counts": {
-   "done": 10,
+   "done": 5,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 10
+   "total": 5
   },
   "fingerprint": "e4951c66989e",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/linear-functions.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Linear Functions: Graphs, Models & Equations",
    "zh": "一次函数：图象、待定系数法与应用"
   },
-  "updated": "2026-11-21 19:37:49",
-  "verified": "2026-11-21 19:40:31"
+  "updated": "2026-11-21 20:04:29",
+  "verified": ""
  },
  "math/negative-operations": {
   "counts": {
