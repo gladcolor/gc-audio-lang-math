@@ -1648,7 +1648,7 @@
    "zh": "九年级古诗词"
   },
   "updated": "2026-11-21 23:26:12",
-  "verified": ""
+  "verified": "2026-11-21 23:28:33"
  },
  "yuwen/yw-rhetoric": {
   "counts": {
@@ -1758,6 +1758,28 @@
    "zh": "八年级文言文"
   },
   "updated": "2026-11-21 23:23:47",
+  "verified": ""
+ },
+ "yuwen/yw-wenyan-9": {
+  "counts": {
+   "done": 157,
+   "failed": 0,
+   "held": 0,
+   "missing": 870,
+   "old": 0,
+   "total": 1027
+  },
+  "fingerprint": "6702030ecf8a",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-9.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Grade 9 Classical Prose",
+   "zh": "九年级文言文"
+  },
+  "updated": "2026-11-21 23:29:59",
   "verified": ""
  },
  "yuwen/yw-wenyan-basics": {
