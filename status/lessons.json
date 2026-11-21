@@ -1529,7 +1529,7 @@
    "zh": "汉字的演变与书法"
   },
   "updated": "2026-11-21 22:47:07",
-  "verified": ""
+  "verified": "2026-11-21 22:48:40"
  },
  "yuwen/yw-idioms": {
   "counts": {
@@ -1630,7 +1630,7 @@
    "zh": "唐诗鉴赏：意象与意境"
   },
   "updated": "2026-11-21 22:46:41",
-  "verified": ""
+  "verified": "2026-11-21 22:48:22"
  },
  "yuwen/yw-wenyan-basics": {
   "counts": {
@@ -1653,21 +1653,24 @@
  },
  "yuwen/yw-wenyan-classics": {
   "counts": {
-   "done": 66,
+   "done": 11,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 66
+   "missing": 244,
+   "old": 52,
+   "total": 307
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "16798b4b8760",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-classics.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Classical Prose Masterpieces",
    "zh": "文言名篇"
   },
-  "updated": "2026-11-20 09:20:08",
+  "updated": "2026-11-21 22:49:12",
   "verified": ""
  },
  "yuwen/yw-writing": {
