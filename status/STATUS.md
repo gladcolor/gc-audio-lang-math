@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 20:03:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 20:03:16. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -45,7 +45,7 @@ Updated 2026-11-21 20:03:14. Labels: finished / in progress / no audio / failed 
 | math/polynomials | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:34:51 | 2026-11-21 19:36:18 |
 | math/probability | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:19:32 | 2026-11-21 19:28:20 |
 | math/projections-three-views | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:36:05 | 2026-11-21 19:37:10 |
-| math/proportional | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:18:34 | 2026-11-21 19:28:06 |
+| math/proportional | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:16 |  |
 | math/pythagorean | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 19:24:58 | 2026-11-21 19:26:44 |
 | math/quadratic-equations | finished | 78 | 0 | 0 | 0 | 0 | 2026-11-21 19:32:18 | 2026-11-21 19:34:16 |
 | math/quadratic-functions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 19:32:11 | 2026-11-21 19:33:49 |
