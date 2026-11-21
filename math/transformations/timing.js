@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "math/transformations", "en": {}, "zh": {"0ea80513": {"dur": 16.94}, "5ede9391": {"dur": 19.97}, "ab4bfafc": {"dur": 22.61}, "d05a8f80": {"dur": 20.69}, "d56fe8f5": {"dur": 17.02}, "d7c97409": {"dur": 22.85}, "dc0b6394": {"dur": 23.18}, "e686a1bc": {"dur": 19.49}}});
+LabAudioTiming({"lesson": "math/transformations", "en": {}, "zh": {"0ea80513": {"dur": 16.94}, "5ede9391": {"dur": 19.97}, "636eded4": {"dur": 25.18}, "ab4bfafc": {"dur": 22.61}, "d05a8f80": {"dur": 20.69}, "d56fe8f5": {"dur": 17.02}, "d7c97409": {"dur": 22.85}, "dc0b6394": {"dur": 23.18}, "e56728b4": {"dur": 28.37}, "e686a1bc": {"dur": 19.49}}});
