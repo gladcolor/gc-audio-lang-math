@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "math/triangles", "voice": "serena", "en": "1b8a65ba 1f14ac9f 333315b8 359d65f6 363d5ebd 4841065e 6eaa5e58 766fe6fc 8cb29d62 956574a2 aee626ed af5cadfd c718b065 cf240e9a e5b2aef5 ea1c45e4 ec60af1f", "zh": "0559c895 23ca8ae8 257b95a2 25ca5c3a 279e948f 37b8bde4 3867260b 69e1f4d5 708f1e2d 7e6789f0 8073e10f 9146add7 9e076317 bcaf68ba be8558f3 d632f65e f6326996"});
