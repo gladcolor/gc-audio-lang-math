@@ -1045,24 +1045,25 @@
  },
  "math/slope": {
   "counts": {
-   "done": 10,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 10
+   "total": 20
   },
-  "fingerprint": "",
+  "fingerprint": "f79bbe92630c",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/slope.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Slope & Linear Equations",
    "zh": "斜率与一次函数"
   },
-  "updated": "2026-11-21 16:09:10",
+  "updated": "2026-11-21 19:24:01",
   "verified": ""
  },
  "math/statistics": {
