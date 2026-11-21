@@ -725,7 +725,7 @@
    "old": 0,
    "total": 10
   },
-  "fingerprint": "",
+  "fingerprint": "58e6ae4694b8",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/percents.html",
   "record_langs": [
@@ -735,8 +735,8 @@
    "en": "Percent",
    "zh": "百分数"
   },
-  "updated": "2026-11-21 13:35:41",
-  "verified": "2026-11-21 13:36:40"
+  "updated": "2026-11-21 16:02:01",
+  "verified": ""
  },
  "math/probability": {
   "counts": {
