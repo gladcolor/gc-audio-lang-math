@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "math/rational-expressions", "en": {}, "zh": {"0385e1e1": {"dur": 37.73}, "82de338a": {"dur": 36.38}, "a7b33b53": {"dur": 9.98}, "af147789": {"dur": 6.86}, "d400dc18": {"dur": 17.33}, "f09febec": {"dur": 21.74}}});
+LabAudioTiming({"lesson": "math/rational-expressions", "en": {}, "zh": {"0385e1e1": {"dur": 41.9}, "1e25b1ec": {"dur": 23.74}, "1e99663a": {"dur": 15.89}, "82de338a": {"dur": 36.38}, "8377303e": {"dur": 22.61}, "a7b33b53": {"dur": 9.98}, "af147789": {"dur": 6.94}, "d400dc18": {"dur": 17.33}, "f09febec": {"dur": 21.74}, "f3f5395a": {"dur": 10.7}}});
