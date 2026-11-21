@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 21:55:03. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 21:56:51. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@ Updated 2026-11-21 21:55:03. Labels: finished / in progress / no audio / failed 
 | math/equations | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 21:45:00 | 2026-11-21 21:47:43 |
 | math/exponents | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 21:51:25 | 2026-11-21 21:53:25 |
 | math/expressions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:51:43 | 2026-11-21 21:53:39 |
-| math/factoring | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:49 |  |
+| math/factoring | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 21:56:51 |  |
 | math/fractals | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 21:38:50 | 2026-11-21 21:43:02 |
 | math/fraction-division | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:11 | 2026-11-21 21:54:20 |
 | math/functions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:35:23 | 2026-11-21 21:36:32 |
@@ -55,12 +55,12 @@ Updated 2026-11-21 21:55:03. Labels: finished / in progress / no audio / failed 
 | math/roots-irrationals | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:46:42 | 2026-11-21 21:50:02 |
 | math/rotation-symmetry | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:27 | 2026-11-21 21:18:05 |
 | math/sampling | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:51:58 | 2026-11-21 21:54:00 |
-| math/scale-drawings | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:55:03 |  |
+| math/scale-drawings | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:55:03 | 2026-11-21 21:56:14 |
 | math/scatter-plots | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:47:06 | 2026-11-21 21:50:54 |
 | math/similar-triangles | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 21:47:02 | 2026-11-21 21:50:45 |
 | math/slope | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:34:27 | 2026-11-21 21:35:58 |
 | math/statistics | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 21:46:23 | 2026-11-21 21:49:52 |
-| math/surface-volume | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:54:57 |  |
+| math/surface-volume | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:54:57 | 2026-11-21 21:56:08 |
 | math/systems | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:45:08 | 2026-11-21 21:47:52 |
 | math/transformations | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:01 | 2026-11-21 21:54:06 |
 | math/triangles | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:23 | 2026-11-21 21:17:49 |
