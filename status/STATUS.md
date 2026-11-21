@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-21 20:03:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 20:03:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Updated 2026-11-21 20:03:29. Labels: finished / in progress / no audio / failed 
 | math/congruent-triangles | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 19:27:44 | 2026-11-21 19:30:42 |
 | math/coordinate-plane | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:04 |  |
 | math/equations | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:09 |  |
-| math/exponents | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-21 19:22:29 | 2026-11-21 19:29:56 |
+| math/exponents | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:31 |  |
 | math/expressions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:03:06 |  |
 | math/factoring | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 19:22:56 | 2026-11-21 19:30:12 |
 | math/fractals | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 19:32:01 | 2026-11-21 19:33:45 |
