@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "yuwen/yw-writing", "en": {}, "zh": {"71fb21fc": {"dur": 5.5}, "a68dd44d": {"dur": 5.57}}});
+LabAudioTiming({"lesson": "yuwen/yw-writing", "en": {}, "zh": {"2121ff4b": {"dur": 7.58}, "4fab8e1f": {"dur": 7.58}, "67a33f2f": {"dur": 10.7}, "71fb21fc": {"dur": 5.5}, "7b8793a5": {"dur": 7.73}, "a68dd44d": {"dur": 5.57}, "b9ef0b6a": {"dur": 7.42}, "c65a4104": {"dur": 8.78}, "d34fb97b": {"dur": 5.9}, "d8483165": {"dur": 8.45}}});
