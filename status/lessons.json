@@ -1071,26 +1071,25 @@
  },
  "math/rotation-symmetry": {
   "counts": {
-   "done": 16,
+   "done": 8,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 16
+   "total": 8
   },
-  "fingerprint": "",
+  "fingerprint": "5311b8482ce1",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/rotation-symmetry.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Rotation & Central Symmetry",
    "zh": "旋转与中心对称"
   },
-  "updated": "2026-11-21 19:37:27",
-  "verified": "2026-11-21 19:40:28"
+  "updated": "2026-11-21 20:04:27",
+  "verified": ""
  },
  "math/sampling": {
   "counts": {
