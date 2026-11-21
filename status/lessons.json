@@ -438,6 +438,28 @@
   "updated": "2026-11-21 14:08:20",
   "verified": ""
  },
+ "math/fractals": {
+  "counts": {
+   "done": 1,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 1
+  },
+  "fingerprint": "8a9ff672d934",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/math/fractals.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Fractals: Endless Patterns",
+   "zh": "分形：无穷无尽的图案"
+  },
+  "updated": "2026-11-21 14:09:05",
+  "verified": ""
+ },
  "math/fraction-division": {
   "counts": {
    "done": 10,
