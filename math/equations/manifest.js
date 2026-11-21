@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "math/equations", "voice": "serena", "en": "0037414d 0aace6f8 482311b5 58203786 5b9c1385 773a737e a856710f b6760bc7 c35f046f c726ff5d", "zh": "0e555d5e 2c176ea7 3af0eaf7 68d64027 9e3d5e18 a52740ca a6f6881a e8d234a1 edcd9d62 f0347426"});
+LabAudioManifest({"lesson": "math/equations", "voice": "serena", "en": "", "zh": "00508072 12f9cd12 17c3a2d1 2d55d647 2dab7757 30ad2e0e 3c9ed464 64b4ee03 6cbd669d 6fa735f2 752b9080 79f9084f c05a0e43 fab13ca0"});
