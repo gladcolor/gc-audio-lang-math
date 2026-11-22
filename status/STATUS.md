@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 19:01:26. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 19:04:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -12,18 +12,18 @@ Updated 2026-11-22 19:01:26. Labels: finished / in progress / no audio / failed 
 | art/art-landscape | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 15:00:49 | 2026-11-21 15:01:52 |
 | art/art-sculpture | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-22 00:47:45 |  |
 | art/art-theater | in progress | 4 | 0 | 28 | 0 | 0 | 2026-11-22 00:21:34 |  |
-| ela/argument-evidence | finished | 100 | 0 | 0 | 0 | 0 | 2026-11-22 19:01:06 |  |
-| ela/argument-writing | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 18:59:29 |  |
+| ela/argument-evidence | finished | 100 | 0 | 0 | 0 | 0 | 2026-11-22 19:01:06 | 2026-11-22 19:03:35 |
+| ela/argument-writing | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 18:59:29 | 2026-11-22 19:03:50 |
 | ela/central-idea | finished | 132 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:45 | 2026-11-22 18:59:15 |
 | ela/character-pov | finished | 130 | 0 | 0 | 0 | 0 | 2026-11-22 18:54:40 | 2026-11-22 18:56:54 |
 | ela/figurative-language | finished | 110 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:04 | 2026-11-22 18:59:13 |
 | ela/grammar-sentences | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:58 | 2026-11-21 22:23:15 |
 | ela/narrative-techniques | finished | 283 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:42 | 2026-11-22 19:00:17 |
-| ela/narrative-writing | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:01:26 |  |
-| ela/research-media | finished | 114 | 0 | 0 | 0 | 0 | 2026-11-22 19:00:14 |  |
-| ela/text-structure | finished | 86 | 0 | 0 | 0 | 0 | 2026-11-22 19:00:32 |  |
+| ela/narrative-writing | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:01:26 | 2026-11-22 19:04:23 |
+| ela/research-media | finished | 114 | 0 | 0 | 0 | 0 | 2026-11-22 19:00:14 | 2026-11-22 19:03:45 |
+| ela/text-structure | finished | 86 | 0 | 0 | 0 | 0 | 2026-11-22 19:00:32 | 2026-11-22 19:03:31 |
 | ela/theme-plot | finished | 153 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:01 | 2026-11-22 18:59:22 |
-| ela/vocabulary-roots | in progress | 72 | 0 | 41 | 0 | 0 | 2026-11-22 18:52:31 |  |
+| ela/vocabulary-roots | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-22 19:04:25 |  |
 | math/angles | finished | 56 | 0 | 0 | 0 | 0 | 2026-11-22 17:32:36 |  |
 | math/area | finished | 63 | 0 | 0 | 0 | 0 | 2026-11-22 16:58:20 |  |
 | math/axial-symmetry | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-22 17:29:22 | 2026-11-22 17:37:14 |
