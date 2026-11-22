@@ -1699,7 +1699,7 @@
    "zh": "说明文阅读"
   },
   "updated": "2026-11-22 19:39:54",
-  "verified": ""
+  "verified": "2026-11-22 19:59:22"
  },
  "yuwen/yw-hanzi": {
   "counts": {
@@ -1864,16 +1864,17 @@
  },
  "yuwen/yw-rhetoric": {
   "counts": {
-   "done": 137,
+   "done": 317,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 137
+   "total": 317
   },
-  "fingerprint": "",
+  "fingerprint": "3872a375233d",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-rhetoric.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1881,7 +1882,7 @@
    "en": "Rhetorical Devices",
    "zh": "修辞手法"
   },
-  "updated": "2026-11-21 23:05:19",
+  "updated": "2026-11-22 19:59:48",
   "verified": ""
  },
  "yuwen/yw-song-ci": {

@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 19:56:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 19:59:49. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -78,7 +78,7 @@ Updated 2026-11-22 19:56:36. Labels: finished / in progress / no audio / failed 
 | music/music-rhythm | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-22 00:33:35 | 2026-11-22 00:41:04 |
 | yuwen/yw-argumentative | finished | 119 | 0 | 0 | 0 | 0 | 2026-11-22 19:56:36 |  |
 | yuwen/yw-classics | in progress | 235 | 0 | 78 | 0 | 0 | 2026-11-22 19:30:01 |  |
-| yuwen/yw-expository | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:39:54 |  |
+| yuwen/yw-expository | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:39:54 | 2026-11-22 19:59:22 |
 | yuwen/yw-hanzi | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-22 19:41:24 |  |
 | yuwen/yw-idioms | in progress | 482 | 0 | 17 | 0 | 0 | 2026-11-22 19:37:34 |  |
 | yuwen/yw-modern-classics | in progress | 2099 | 63 | 137 | 0 | 0 | 2026-11-22 19:53:38 |  |
@@ -86,7 +86,7 @@ Updated 2026-11-22 19:56:36. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-poems-7 | in progress | 651 | 0 | 12 | 0 | 0 | 2026-11-22 19:46:26 |  |
 | yuwen/yw-poems-8 | in progress | 972 | 0 | 67 | 0 | 0 | 2026-11-22 19:38:00 |  |
 | yuwen/yw-poems-9 | in progress | 774 | 0 | 35 | 0 | 0 | 2026-11-22 19:45:27 |  |
-| yuwen/yw-rhetoric | finished | 137 | 0 | 0 | 0 | 0 | 2026-11-21 23:05:19 |  |
+| yuwen/yw-rhetoric | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 19:59:48 |  |
 | yuwen/yw-song-ci | finished | 632 | 0 | 0 | 0 | 0 | 2026-11-22 19:45:33 |  |
 | yuwen/yw-tang-poems | finished | 274 | 0 | 0 | 0 | 0 | 2026-11-22 19:42:20 |  |
 | yuwen/yw-wenyan-7 | in progress | 1186 | 0 | 85 | 0 | 0 | 2026-11-22 19:46:56 |  |
