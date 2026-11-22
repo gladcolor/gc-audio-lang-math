@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 22:40:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:40:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -63,7 +63,7 @@ Updated 2026-11-22 22:40:01. Labels: finished / in progress / no audio / failed 
 | math/rotation-symmetry | finished | 149 | 0 | 0 | 0 | 0 | 2026-11-22 17:34:13 | 2026-11-22 17:39:33 |
 | math/sampling | finished | 87 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:09 |  |
 | math/scale-drawings | finished | 112 | 0 | 0 | 0 | 0 | 2026-11-22 22:36:28 |  |
-| math/scatter-plots | finished | 181 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:59 |  |
+| math/scatter-plots | in progress | 312 | 0 | 20 | 0 | 0 | 2026-11-22 22:40:13 |  |
 | math/similar-triangles | finished | 101 | 0 | 0 | 0 | 0 | 2026-11-22 17:29:10 |  |
 | math/slope | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:15 |  |
 | math/statistics | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:01 |  |
