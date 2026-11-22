@@ -1749,16 +1749,17 @@
  },
  "yuwen/yw-modern-classics": {
   "counts": {
-   "done": 1541,
+   "done": 1449,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 1541
+   "missing": 697,
+   "old": 153,
+   "total": 2299
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "73fba1fee360",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-modern-classics.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1766,7 +1767,7 @@
    "en": "Modern Classics (Lu Xun, Zhu Ziqing …)",
    "zh": "现代文名篇（鲁迅、朱自清等）"
   },
-  "updated": "2026-11-22 00:31:59",
+  "updated": "2026-11-22 19:49:53",
   "verified": ""
  },
  "yuwen/yw-narrative": {
