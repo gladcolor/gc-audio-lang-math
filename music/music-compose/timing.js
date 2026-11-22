@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "music/music-compose", "en": {"00b58314": {"dur": 14.69}}, "zh": {"02d356ce": {"dur": 15.1}, "37a6a6f3": {"dur": 9.41}, "60e590fc": {"dur": 29.81}, "6f82ac2d": {"dur": 13.18}, "7b4df987": {"dur": 12.77}, "fa5e436b": {"dur": 32.62}}});
+LabAudioTiming({"lesson": "music/music-compose", "en": {"00b58314": {"dur": 14.69}}, "zh": {"019d940f": {"dur": 5.66}, "02d356ce": {"dur": 14.21}, "37a6a6f3": {"dur": 16.06}, "495aeb86": {"dur": 5.18}, "60e590fc": {"dur": 17.02}, "6e58dd5b": {"dur": 3.82}, "6f82ac2d": {"dur": 12.29}, "7b4df987": {"dur": 13.25}, "bbae1970": {"dur": 7.18}, "c21dc902": {"dur": 5.57}, "ebdeb13b": {"dur": 5.33}, "fa5e436b": {"dur": 22.37}}});
