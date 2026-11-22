@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 22:36:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:36:22. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -50,7 +50,7 @@ Updated 2026-11-22 22:36:00. Labels: finished / in progress / no audio / failed 
 | math/percents | in progress | 86 | 1 | 29 | 0 | 0 | 2026-11-22 22:32:26 |  |
 | math/polynomial-multiplication | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:43 |  |
 | math/polynomials | finished | 109 | 0 | 0 | 0 | 0 | 2026-11-22 17:30:18 | 2026-11-22 17:37:35 |
-| math/probability | finished | 62 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:24 |  |
+| math/probability | in progress | 84 | 0 | 36 | 0 | 0 | 2026-11-22 22:36:21 |  |
 | math/projections-three-views | finished | 160 | 0 | 0 | 0 | 0 | 2026-11-22 17:31:01 | 2026-11-22 17:38:22 |
 | math/proportional | finished | 72 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:04 |  |
 | math/pythagorean | finished | 64 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:48 |  |
