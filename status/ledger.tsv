@@ -6634,6 +6634,7 @@ zh	fbdfb3f8	math/negative-operations	serena moss8b	48	2026-11-22 17:04:45	tts	99
 en	06651bfd	math/parallel-quadrilaterals	serena moss8b	48	2026-11-22 22:41:36	tts	6bad5296d2
 en	0cc22ef9	math/parallel-quadrilaterals	serena moss8b	48	2026-11-22 22:41:47	tts	efa4897553
 en	1d0de1a5	math/parallel-quadrilaterals	serena moss8b	48	2026-11-22 22:41:39	tts	edee920113
+en	211881ce	math/parallel-quadrilaterals	serena moss8b	48	2026-11-22 22:41:55	tts	533aab3da4
 en	432a713b	math/parallel-quadrilaterals	serena moss8b	48	2026-11-22 22:41:28	tts	bf9ac61cc0
 en	564bc4ec	math/parallel-quadrilaterals	serena moss8b	48	2026-11-21 19:20:20	tts	72feb93d0b
 en	5b810631	math/parallel-quadrilaterals	serena moss8b	48	2026-11-21 19:20:37	tts	21db4ddb7a
@@ -7255,6 +7256,7 @@ en	c78b00f8	math/probability	serena moss8b	48	2026-11-22 22:36:26	tts	528d666242
 en	cfceada8	math/probability	serena moss8b	48	2026-11-21 19:10:13	tts	68afe681cb
 en	d630ddf0	math/probability	serena moss8b	48	2026-11-22 22:36:58	tts	9b98ef1e69
 en	d7c39cff	math/probability	serena moss8b	48	2026-11-22 22:36:36	tts	6cefb15699
+en	d8aeb68e	math/probability	serena moss8b	48	2026-11-22 22:41:55	tts	4b6c298970
 en	d9986179	math/probability	serena moss8b	48	2026-11-22 22:36:37	tts	b47551da2d
 en	da620afd	math/probability	serena moss8b	48	2026-11-22 22:36:26	tts	8387f0ad1a
 en	dbbb2eb0	math/probability	serena moss8b	48	2026-11-21 19:10:27	tts	a5d2015880
@@ -7856,7 +7858,9 @@ en	93f05192	math/quadratic-equations	serena moss8b	48	2026-11-22 22:41:07	tts	bd
 en	9c37ce31	math/quadratic-equations	serena moss8b	48	2026-11-22 22:41:24	tts	921b0c07a9
 en	9da83021	math/quadratic-equations	serena moss8b	48	2026-11-21 19:08:27	tts	e40b9693dd
 en	a262c5ec	math/quadratic-equations	serena moss8b	48	2026-11-22 22:40:39	tts	919d4a65e4
+en	a3ae60c0	math/quadratic-equations	serena moss8b	48	2026-11-22 22:41:55	tts	f4a44b2d7f
 en	a6d54360	math/quadratic-equations	serena moss8b	48	2026-11-21 19:32:00	tts	cf6a60bcff
+en	addd27b8	math/quadratic-equations	serena moss8b	48	2026-11-22 22:41:55	tts	76a371eeb4
 en	aff11b61	math/quadratic-equations	serena moss8b	48	2026-11-22 22:40:57	tts	adfaaa6607
 en	b0e8db92	math/quadratic-equations	serena moss8b	48	2026-11-22 22:40:24	tts	47e7a38f67
 en	b2047b31	math/quadratic-equations	serena moss8b	48	2026-11-22 22:41:21	tts	fc470cf425
@@ -8089,11 +8093,13 @@ en	3fe5d822	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:29	tts	18
 en	41154fc5	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:36	tts	aca01be60e
 en	4aaf0e4e	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:36	tts	1a725ca0fd
 en	514287e5	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:11	tts	4c1229af8b
+en	57612eaf	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:55	tts	b559f5bf8a
 en	5a89bffa	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:06	tts	741aa79689
 en	5bb3f76f	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:47	tts	ae58591cf7
 en	6091e21a	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:10	tts	8919634809
 en	6280d605	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:36	tts	ce43df48ca
 en	687b3479	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:47	tts	8c9755710a
+en	6f7d7140	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:55	tts	b62cbac394
 en	705fd103	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:21	tts	47d58243aa
 en	72b5bcac	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:21	tts	d06eddd227
 en	731d77a7	math/quadratic-functions	serena moss8b	48	2026-11-22 22:40:31	tts	7b2742cc38
@@ -8124,6 +8130,7 @@ en	f173b00c	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:28	tts	28
 en	f2d5f33f	math/quadratic-functions	serena moss8b	48	2026-11-22 22:40:38	tts	e0b9e8cfec
 en	f72e6e68	math/quadratic-functions	serena moss8b	48	2026-11-22 22:40:39	tts	61c405ec9f
 en	fb6d48af	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:21	tts	a9b8fd1739
+en	fdff5c44	math/quadratic-functions	serena moss8b	48	2026-11-22 22:41:55	tts	d990bd4c52
 zh	00c36e86	math/quadratic-functions	serena moss8b	48	2026-11-22 17:05:13	tts	36e5580639
 zh	04f6b49b	math/quadratic-functions	serena moss8b	48	2026-11-22 17:05:19	tts	e63f5502f9
 zh	08ab1286	math/quadratic-functions	serena moss8b	48	2026-11-22 17:05:27	tts	4e2265ba64
