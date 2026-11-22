@@ -47,15 +47,15 @@
  },
  "art/art-color": {
   "counts": {
-   "done": 47,
+   "done": 116,
    "failed": 0,
    "held": 0,
-   "missing": 69,
+   "missing": 0,
    "old": 0,
    "total": 116
   },
   "fingerprint": "b49e04d9efe4",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-color.html",
   "record_demand": true,
   "record_langs": [
@@ -65,7 +65,7 @@
    "en": "Color Theory",
    "zh": "色彩原理"
   },
-  "updated": "2026-11-22 20:07:49",
+  "updated": "2026-11-22 20:22:47",
   "verified": ""
  },
  "art/art-daily": {
