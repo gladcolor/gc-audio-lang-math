@@ -1237,16 +1237,17 @@
  },
  "math/similar-triangles": {
   "counts": {
-   "done": 7,
+   "done": 101,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 7
+   "total": 101
   },
-  "fingerprint": "",
+  "fingerprint": "f7cc2b2872ec",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/similar-triangles.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1254,7 +1255,7 @@
    "en": "Similar Triangles",
    "zh": "相似三角形"
   },
-  "updated": "2026-11-21 21:47:02",
+  "updated": "2026-11-22 17:29:10",
   "verified": ""
  },
  "math/slope": {
