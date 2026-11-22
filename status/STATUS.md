@@ -1,10 +1,10 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 20:25:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:25:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
-| art/art-architecture | in progress | 186 | 0 | 66 | 0 | 0 | 2026-11-22 20:13:28 |  |
+| art/art-architecture | finished | 252 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:25 |  |
 | art/art-chinese | finished | 117 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:27 |  |
 | art/art-color | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:47 |  |
 | art/art-daily | finished | 57 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:57 |  |
