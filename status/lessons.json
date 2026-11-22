@@ -648,11 +648,11 @@
  },
  "math/congruent-triangles": {
   "counts": {
-   "done": 281,
+   "done": 349,
    "failed": 0,
    "held": 0,
-   "missing": 86,
-   "old": 2,
+   "missing": 19,
+   "old": 1,
    "total": 369
   },
   "fingerprint": "50805a73df36",
@@ -667,7 +667,7 @@
    "en": "Congruent Triangles & Proofs",
    "zh": "全等三角形与轴对称"
   },
-  "updated": "2026-11-22 22:44:18",
+  "updated": "2026-11-22 22:44:41",
   "verified": ""
  },
  "math/coordinate-plane": {
