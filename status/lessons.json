@@ -543,11 +543,11 @@
  },
  "math/equations": {
   "counts": {
-   "done": 66,
+   "done": 179,
    "failed": 0,
    "held": 0,
-   "missing": 108,
-   "old": 16,
+   "missing": 10,
+   "old": 1,
    "total": 190
   },
   "fingerprint": "e0f44fd54014",
@@ -561,7 +561,7 @@
    "en": "Solving Equations & Inequalities",
    "zh": "解方程与不等式"
   },
-  "updated": "2026-11-22 16:43:30",
+  "updated": "2026-11-22 16:44:38",
   "verified": ""
  },
  "math/exponents": {
