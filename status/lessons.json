@@ -1726,10 +1726,10 @@
  },
  "yuwen/yw-idioms": {
   "counts": {
-   "done": 374,
+   "done": 436,
    "failed": 0,
    "held": 0,
-   "missing": 125,
+   "missing": 63,
    "old": 0,
    "total": 499
   },
@@ -1744,7 +1744,7 @@
    "en": "Idioms, Couplets & Traditional Culture",
    "zh": "成语、对联与传统文化"
   },
-  "updated": "2026-11-22 19:32:00",
+  "updated": "2026-11-22 19:32:25",
   "verified": ""
  },
  "yuwen/yw-modern-classics": {
