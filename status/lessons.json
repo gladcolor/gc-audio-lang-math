@@ -1142,10 +1142,10 @@
  },
  "math/rotation-symmetry": {
   "counts": {
-   "done": 107,
+   "done": 140,
    "failed": 0,
    "held": 0,
-   "missing": 41,
+   "missing": 8,
    "old": 1,
    "total": 149
   },
@@ -1160,7 +1160,7 @@
    "en": "Rotation & Central Symmetry",
    "zh": "旋转与中心对称"
   },
-  "updated": "2026-11-22 17:16:14",
+  "updated": "2026-11-22 17:16:54",
   "verified": ""
  },
  "math/sampling": {
