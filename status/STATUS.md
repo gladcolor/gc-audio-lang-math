@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 17:28:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 17:28:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -38,7 +38,7 @@ Updated 2026-11-22 17:28:19. Labels: finished / in progress / no audio / failed 
 | math/functions | finished | 71 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:12 | 2026-11-22 17:27:37 |
 | math/geometric-constructions | in progress | 174 | 1 | 13 | 0 | 0 | 2026-11-22 17:12:18 |  |
 | math/integers | finished | 69 | 0 | 0 | 0 | 0 | 2026-11-22 16:45:11 | 2026-11-22 16:59:24 |
-| math/inverse-proportion | finished | 138 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:27 |  |
+| math/inverse-proportion | finished | 138 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:27 | 2026-11-22 17:28:24 |
 | math/linear-functions | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:29 | 2026-11-21 21:18:09 |
 | math/negative-operations | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-22 17:04:48 | 2026-11-22 17:27:15 |
 | math/parallel-quadrilaterals | finished | 194 | 0 | 0 | 0 | 0 | 2026-11-22 17:28:13 |  |
@@ -52,13 +52,13 @@ Updated 2026-11-22 17:28:19. Labels: finished / in progress / no audio / failed 
 | math/quadratic-equations | in progress | 70 | 0 | 100 | 0 | 0 | 2026-11-22 17:04:13 |  |
 | math/quadratic-functions | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-22 17:27:46 |  |
 | math/radicals | in progress | 45 | 0 | 78 | 0 | 0 | 2026-11-22 17:03:34 |  |
-| math/rational-expressions | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:15 |  |
+| math/rational-expressions | finished | 111 | 0 | 0 | 0 | 0 | 2026-11-22 17:28:36 |  |
 | math/ratios | finished | 76 | 0 | 0 | 0 | 0 | 2026-11-22 16:43:51 | 2026-11-22 16:58:57 |
 | math/roots-irrationals | finished | 61 | 0 | 0 | 0 | 0 | 2026-11-22 17:18:46 | 2026-11-22 17:27:15 |
 | math/rotation-symmetry | in progress | 140 | 1 | 8 | 0 | 0 | 2026-11-22 17:16:54 |  |
 | math/sampling | in progress | 41 | 2 | 44 | 0 | 0 | 2026-11-22 16:58:13 |  |
 | math/scale-drawings | finished | 56 | 0 | 0 | 0 | 0 | 2026-11-22 17:02:05 | 2026-11-22 17:19:39 |
-| math/scatter-plots | finished | 181 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:36 |  |
+| math/scatter-plots | finished | 181 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:36 | 2026-11-22 17:28:24 |
 | math/similar-triangles | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 21:47:02 |  |
 | math/slope | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-22 17:03:29 | 2026-11-22 17:19:40 |
 | math/statistics | finished | 166 | 0 | 0 | 0 | 0 | 2026-11-22 17:09:01 | 2026-11-22 17:27:43 |
