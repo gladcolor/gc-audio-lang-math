@@ -1583,25 +1583,26 @@
  },
  "math/volume-solids": {
   "counts": {
-   "done": 57,
+   "done": 115,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 1,
    "old": 0,
-   "total": 57
+   "total": 116
   },
   "fingerprint": "15be9a59fea5",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/volume-solids.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Volume of Cylinders, Cones & Spheres",
    "zh": "圆柱、圆锥与球的体积"
   },
-  "updated": "2026-11-22 20:21:21",
+  "updated": "2026-11-22 22:39:22",
   "verified": ""
  },
  "music/music-compose": {
