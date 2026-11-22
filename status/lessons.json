@@ -867,15 +867,15 @@
  },
  "math/polynomial-multiplication": {
   "counts": {
-   "done": 86,
+   "done": 115,
    "failed": 0,
    "held": 0,
-   "missing": 27,
-   "old": 2,
+   "missing": 0,
+   "old": 0,
    "total": 115
   },
   "fingerprint": "f2b052fc69aa",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/polynomial-multiplication.html",
   "record_demand": true,
   "record_langs": [
@@ -885,7 +885,7 @@
    "en": "Multiplying Polynomials & Special Products",
    "zh": "整式的乘法与乘法公式"
   },
-  "updated": "2026-11-22 17:13:56",
+  "updated": "2026-11-22 17:14:25",
   "verified": ""
  },
  "math/polynomials": {
