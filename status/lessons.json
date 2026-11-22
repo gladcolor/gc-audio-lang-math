@@ -190,11 +190,11 @@
  },
  "ela/central-idea": {
   "counts": {
-   "done": 6,
+   "done": 113,
    "failed": 0,
    "held": 0,
-   "missing": 125,
-   "old": 1,
+   "missing": 19,
+   "old": 0,
    "total": 132
   },
   "fingerprint": "ad6b724ab67f",
@@ -208,7 +208,7 @@
    "en": "Central Idea & Summary",
    "zh": "中心思想与概括"
   },
-  "updated": "2026-11-22 18:42:21",
+  "updated": "2026-11-22 18:47:29",
   "verified": ""
  },
  "ela/character-pov": {
