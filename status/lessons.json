@@ -156,10 +156,10 @@
  },
  "art/art-sculpture": {
   "counts": {
-   "done": 89,
+   "done": 210,
    "failed": 0,
    "held": 0,
-   "missing": 137,
+   "missing": 16,
    "old": 1,
    "total": 227
   },
@@ -174,7 +174,7 @@
    "en": "The Art of Sculpture",
    "zh": "雕塑之美"
   },
-  "updated": "2026-11-22 20:10:34",
+  "updated": "2026-11-22 20:11:36",
   "verified": ""
  },
  "art/art-theater": {
