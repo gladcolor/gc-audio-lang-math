@@ -864,11 +864,11 @@
  },
  "math/geometric-constructions": {
   "counts": {
-   "done": 285,
+   "done": 324,
    "failed": 0,
    "held": 0,
-   "missing": 93,
-   "old": 2,
+   "missing": 55,
+   "old": 1,
    "total": 380
   },
   "fingerprint": "352486cbbf68",
@@ -883,7 +883,7 @@
    "en": "Compass-and-Straightedge Constructions & Proof",
    "zh": "尺规作图与几何证明"
   },
-  "updated": "2026-11-22 22:46:52",
+  "updated": "2026-11-22 22:47:14",
   "verified": ""
  },
  "math/integers": {
