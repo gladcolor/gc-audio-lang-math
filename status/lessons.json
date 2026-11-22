@@ -1546,16 +1546,17 @@
  },
  "music/music-instruments": {
   "counts": {
-   "done": 20,
+   "done": 38,
    "failed": 0,
    "held": 0,
-   "missing": 4,
-   "old": 7,
-   "total": 31
+   "missing": 145,
+   "old": 3,
+   "total": 186
   },
-  "fingerprint": "",
+  "fingerprint": "06c661212d31",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/music/music-instruments.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1563,7 +1564,7 @@
    "en": "Instruments of the World",
    "zh": "世界各地的乐器"
   },
-  "updated": "2026-11-22 00:24:36",
+  "updated": "2026-11-22 20:04:24",
   "verified": ""
  },
  "music/music-listening": {
