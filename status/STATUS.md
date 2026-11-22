@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 22:47:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:47:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -39,7 +39,7 @@ Updated 2026-11-22 22:47:14. Labels: finished / in progress / no audio / failed 
 | math/expressions | finished | 103 | 0 | 0 | 0 | 0 | 2026-11-22 22:34:05 |  |
 | math/factoring | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:34 |  |
 | math/fractals | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:11 | 2026-11-22 17:39:00 |
-| math/fraction-division | in progress | 93 | 0 | 3 | 0 | 0 | 2026-11-22 22:33:13 |  |
+| math/fraction-division | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-22 22:47:18 |  |
 | math/functions | finished | 141 | 0 | 0 | 0 | 0 | 2026-11-22 22:43:27 |  |
 | math/geometric-constructions | in progress | 324 | 1 | 55 | 0 | 0 | 2026-11-22 22:47:14 |  |
 | math/integers | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-22 22:38:17 |  |

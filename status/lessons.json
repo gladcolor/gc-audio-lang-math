@@ -816,15 +816,15 @@
  },
  "math/fraction-division": {
   "counts": {
-   "done": 93,
+   "done": 96,
    "failed": 0,
    "held": 0,
-   "missing": 3,
+   "missing": 0,
    "old": 0,
    "total": 96
   },
   "fingerprint": "308cfe3d84c7",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/fraction-division.html",
   "record_demand": true,
   "record_langs": [
@@ -835,7 +835,7 @@
    "en": "Dividing Fractions",
    "zh": "分数除法"
   },
-  "updated": "2026-11-22 22:33:13",
+  "updated": "2026-11-22 22:47:18",
   "verified": ""
  },
  "math/functions": {
