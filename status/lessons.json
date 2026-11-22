@@ -88,10 +88,10 @@
  },
  "art/art-history": {
   "counts": {
-   "done": 43,
+   "done": 115,
    "failed": 0,
    "held": 0,
-   "missing": 108,
+   "missing": 36,
    "old": 1,
    "total": 152
   },
@@ -106,7 +106,7 @@
    "en": "Art Through History",
    "zh": "艺术史之旅"
   },
-  "updated": "2026-11-22 20:09:05",
+  "updated": "2026-11-22 20:09:40",
   "verified": ""
  },
  "art/art-landscape": {
