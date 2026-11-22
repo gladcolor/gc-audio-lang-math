@@ -168,15 +168,15 @@
  },
  "ela/argument-writing": {
   "counts": {
-   "done": 94,
+   "done": 143,
    "failed": 0,
    "held": 0,
-   "missing": 48,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 143
   },
   "fingerprint": "13655e3fdd96",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ela/argument-writing.html",
   "record_demand": true,
   "record_langs": [
@@ -186,7 +186,7 @@
    "en": "Write an Argument",
    "zh": "写议论文"
   },
-  "updated": "2026-11-22 18:50:26",
+  "updated": "2026-11-22 18:59:29",
   "verified": ""
  },
  "ela/central-idea": {
@@ -210,7 +210,7 @@
    "zh": "中心思想与概括"
   },
   "updated": "2026-11-22 18:56:45",
-  "verified": ""
+  "verified": "2026-11-22 18:59:15"
  },
  "ela/character-pov": {
   "counts": {
@@ -256,7 +256,7 @@
    "zh": "修辞语言与诗歌"
   },
   "updated": "2026-11-22 18:56:04",
-  "verified": ""
+  "verified": "2026-11-22 18:59:13"
  },
  "ela/grammar-sentences": {
   "counts": {
@@ -393,7 +393,7 @@
    "zh": "情节、冲突与主题"
   },
   "updated": "2026-11-22 18:57:01",
-  "verified": ""
+  "verified": "2026-11-22 18:59:22"
  },
  "ela/vocabulary-roots": {
   "counts": {

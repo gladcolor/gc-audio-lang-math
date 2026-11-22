@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 18:57:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 18:59:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -12,16 +12,16 @@ Updated 2026-11-22 18:57:01. Labels: finished / in progress / no audio / failed 
 | art/art-landscape | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 15:00:49 | 2026-11-21 15:01:52 |
 | art/art-sculpture | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-22 00:47:45 |  |
 | art/art-theater | in progress | 4 | 0 | 28 | 0 | 0 | 2026-11-22 00:21:34 |  |
-| ela/argument-writing | in progress | 94 | 1 | 48 | 0 | 0 | 2026-11-22 18:50:26 |  |
-| ela/central-idea | finished | 132 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:45 |  |
+| ela/argument-writing | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 18:59:29 |  |
+| ela/central-idea | finished | 132 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:45 | 2026-11-22 18:59:15 |
 | ela/character-pov | finished | 130 | 0 | 0 | 0 | 0 | 2026-11-22 18:54:40 | 2026-11-22 18:56:54 |
-| ela/figurative-language | finished | 110 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:04 |  |
+| ela/figurative-language | finished | 110 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:04 | 2026-11-22 18:59:13 |
 | ela/grammar-sentences | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:58 | 2026-11-21 22:23:15 |
 | ela/narrative-techniques | finished | 283 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:42 |  |
 | ela/narrative-writing | in progress | 111 | 0 | 37 | 0 | 0 | 2026-11-22 18:51:39 |  |
 | ela/research-media | in progress | 63 | 0 | 51 | 0 | 0 | 2026-11-22 18:53:02 |  |
 | ela/text-structure | in progress | 61 | 0 | 25 | 0 | 0 | 2026-11-22 18:49:32 |  |
-| ela/theme-plot | finished | 153 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:01 |  |
+| ela/theme-plot | finished | 153 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:01 | 2026-11-22 18:59:22 |
 | ela/vocabulary-roots | in progress | 72 | 0 | 41 | 0 | 0 | 2026-11-22 18:52:31 |  |
 | math/angles | finished | 56 | 0 | 0 | 0 | 0 | 2026-11-22 17:32:36 |  |
 | math/area | finished | 63 | 0 | 0 | 0 | 0 | 2026-11-22 16:58:20 |  |
