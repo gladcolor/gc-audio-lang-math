@@ -1700,10 +1700,10 @@
  },
  "yuwen/yw-hanzi": {
   "counts": {
-   "done": 104,
+   "done": 176,
    "failed": 0,
    "held": 0,
-   "missing": 127,
+   "missing": 55,
    "old": 0,
    "total": 231
   },
@@ -1718,7 +1718,7 @@
    "en": "Chinese Characters & Calligraphy",
    "zh": "汉字的演变与书法"
   },
-  "updated": "2026-11-22 19:23:54",
+  "updated": "2026-11-22 19:24:18",
   "verified": ""
  },
  "yuwen/yw-idioms": {
