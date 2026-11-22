@@ -722,16 +722,17 @@
  },
  "math/integers": {
   "counts": {
-   "done": 10,
+   "done": 69,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 10
+   "total": 69
   },
-  "fingerprint": "",
+  "fingerprint": "693b9144e94a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/integers.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -739,7 +740,7 @@
    "en": "Integers & Absolute Value",
    "zh": "整数与绝对值"
   },
-  "updated": "2026-11-21 21:43:42",
+  "updated": "2026-11-22 16:45:11",
   "verified": ""
  },
  "math/inverse-proportion": {
