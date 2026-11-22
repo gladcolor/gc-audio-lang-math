@@ -1019,10 +1019,10 @@
  },
  "math/quadratic-functions": {
   "counts": {
-   "done": 31,
+   "done": 78,
    "failed": 0,
    "held": 0,
-   "missing": 103,
+   "missing": 56,
    "old": 2,
    "total": 136
   },
@@ -1037,7 +1037,7 @@
    "en": "Quadratic Functions & Parabolas",
    "zh": "二次函数"
   },
-  "updated": "2026-11-22 17:04:55",
+  "updated": "2026-11-22 17:05:23",
   "verified": ""
  },
  "math/radicals": {
