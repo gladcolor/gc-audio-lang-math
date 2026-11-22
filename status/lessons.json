@@ -434,11 +434,11 @@
  },
  "math/axial-symmetry": {
   "counts": {
-   "done": 49,
+   "done": 102,
    "failed": 0,
    "held": 0,
-   "missing": 75,
-   "old": 3,
+   "missing": 23,
+   "old": 2,
    "total": 127
   },
   "fingerprint": "8f156f7254f2",
@@ -452,7 +452,7 @@
    "en": "Reflection Symmetry & Isosceles Triangles",
    "zh": "轴对称与等腰三角形"
   },
-  "updated": "2026-11-22 17:15:03",
+  "updated": "2026-11-22 17:15:42",
   "verified": ""
  },
  "math/circle-theorems": {
