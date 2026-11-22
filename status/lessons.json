@@ -2001,15 +2001,15 @@
  },
  "yuwen/yw-wenyan-basics": {
   "counts": {
-   "done": 257,
+   "done": 318,
    "failed": 0,
    "held": 0,
-   "missing": 61,
+   "missing": 0,
    "old": 0,
    "total": 318
   },
   "fingerprint": "1402c5695f5a",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-basics.html",
   "record_demand": true,
   "record_langs": [
@@ -2019,7 +2019,7 @@
    "en": "Classical Chinese: First Steps",
    "zh": "文言文入门"
   },
-  "updated": "2026-11-22 19:26:21",
+  "updated": "2026-11-22 19:54:16",
   "verified": ""
  },
  "yuwen/yw-wenyan-classics": {
