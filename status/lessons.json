@@ -692,25 +692,26 @@
  },
  "math/equations": {
   "counts": {
-   "done": 190,
+   "done": 297,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 59,
    "old": 0,
-   "total": 190
+   "total": 356
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "e0f44fd54014",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/equations.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Solving Equations & Inequalities",
    "zh": "解方程与不等式"
   },
-  "updated": "2026-11-22 20:24:33",
+  "updated": "2026-11-22 22:34:15",
   "verified": ""
  },
  "math/exponents": {
