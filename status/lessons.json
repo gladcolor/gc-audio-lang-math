@@ -1053,15 +1053,15 @@
  },
  "math/radicals": {
   "counts": {
-   "done": 45,
+   "done": 123,
    "failed": 0,
    "held": 0,
-   "missing": 78,
+   "missing": 0,
    "old": 0,
    "total": 123
   },
   "fingerprint": "594cb4925617",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/radicals.html",
   "record_demand": true,
   "record_langs": [
@@ -1071,7 +1071,7 @@
    "en": "Simplifying Square Roots",
    "zh": "二次根式"
   },
-  "updated": "2026-11-22 17:03:34",
+  "updated": "2026-11-22 17:30:54",
   "verified": ""
  },
  "math/rational-expressions": {
