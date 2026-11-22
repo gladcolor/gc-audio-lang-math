@@ -1,10 +1,10 @@
 {
  "art/art-chinese": {
   "counts": {
-   "done": 5,
+   "done": 59,
    "failed": 0,
    "held": 0,
-   "missing": 112,
+   "missing": 58,
    "old": 0,
    "total": 117
   },
@@ -19,7 +19,7 @@
    "en": "Chinese Painting & Calligraphy",
    "zh": "中国画与书法"
   },
-  "updated": "2026-11-22 20:08:33",
+  "updated": "2026-11-22 20:10:08",
   "verified": ""
  },
  "art/art-color": {
