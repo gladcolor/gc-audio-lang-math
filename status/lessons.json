@@ -1141,25 +1141,26 @@
  },
  "math/pythagorean": {
   "counts": {
-   "done": 64,
+   "done": 112,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 11,
    "old": 0,
-   "total": 64
+   "total": 123
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "d8035531cb03",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/pythagorean.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "The Pythagorean Theorem",
    "zh": "勾股定理"
   },
-  "updated": "2026-11-22 20:21:48",
+  "updated": "2026-11-22 22:38:50",
   "verified": ""
  },
  "math/quadratic-equations": {
