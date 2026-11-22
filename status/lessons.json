@@ -282,15 +282,15 @@
  },
  "ela/narrative-techniques": {
   "counts": {
-   "done": 124,
+   "done": 283,
    "failed": 0,
    "held": 0,
-   "missing": 159,
+   "missing": 0,
    "old": 0,
    "total": 283
   },
   "fingerprint": "ed5840eee2d7",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ela/narrative-techniques.html",
   "record_demand": true,
   "record_langs": [
@@ -300,7 +300,7 @@
    "en": "Narrative Techniques: Flashback, Foreshadowing & More",
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
-  "updated": "2026-11-22 18:42:49",
+  "updated": "2026-11-22 18:56:42",
   "verified": ""
  },
  "ela/narrative-writing": {
