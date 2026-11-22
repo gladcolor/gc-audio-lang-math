@@ -1119,25 +1119,26 @@
  },
  "math/proportional": {
   "counts": {
-   "done": 72,
+   "done": 139,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 72
+   "total": 139
   },
-  "fingerprint": "",
+  "fingerprint": "16896c37ef74",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/proportional.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Proportional Relationships",
    "zh": "正比例关系"
   },
-  "updated": "2026-11-22 20:22:04",
+  "updated": "2026-11-22 22:40:42",
   "verified": ""
  },
  "math/pythagorean": {
