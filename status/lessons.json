@@ -1561,15 +1561,15 @@
  },
  "math/triangles": {
   "counts": {
-   "done": 240,
+   "done": 351,
    "failed": 0,
    "held": 0,
-   "missing": 111,
+   "missing": 0,
    "old": 0,
    "total": 351
   },
   "fingerprint": "28ffc95596e0",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/triangles.html",
   "record_demand": true,
   "record_langs": [
@@ -1580,7 +1580,7 @@
    "en": "Triangles: Sides, Angles & Special Segments",
    "zh": "三角形：边、角与重要线段"
   },
-  "updated": "2026-11-22 22:48:20",
+  "updated": "2026-11-22 22:52:34",
   "verified": ""
  },
  "math/trig-ratios": {
