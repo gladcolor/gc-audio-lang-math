@@ -892,15 +892,15 @@
  },
  "math/polynomials": {
   "counts": {
-   "done": 83,
+   "done": 109,
    "failed": 0,
    "held": 0,
-   "missing": 26,
+   "missing": 0,
    "old": 0,
    "total": 109
   },
   "fingerprint": "50b616e84d8c",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/polynomials.html",
   "record_demand": true,
   "record_langs": [
@@ -910,7 +910,7 @@
    "en": "Algebraic Expressions & Polynomials",
    "zh": "代数式与整式的加减"
   },
-  "updated": "2026-11-22 17:13:24",
+  "updated": "2026-11-22 17:30:18",
   "verified": ""
  },
  "math/probability": {
