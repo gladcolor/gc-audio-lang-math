@@ -8015,6 +8015,7 @@ zh	f7e17f8f	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:32	
 zh	f89597d0	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:14:05	tts	52b186e446
 zh	f8b23ff1	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:23:38	tts	9b43a76ecd
 en	02555d3f	math/polynomials	serena moss8b	48	2026-11-22 22:47:23	tts	60bbfb943f
+en	070c62a5	math/polynomials	serena moss8b	48	2026-11-22 22:47:57	tts	1bfcf11f04
 en	10daffc7	math/polynomials	serena moss8b	48	2026-11-21 19:24:08	tts	a4531167cd
 en	12734228	math/polynomials	serena moss8b	48	2026-11-22 22:47:37	tts	963e7841c9
 en	13765989	math/polynomials	serena moss8b	48	2026-11-22 22:47:36	tts	585c82c823
@@ -8370,6 +8371,7 @@ en	8dfa1788	math/projections-three-views	serena moss8b	48	2026-11-22 22:46:19	tt
 en	8e0b5ce5	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:23	tts	bd6da40fac
 en	90aaa107	math/projections-three-views	serena moss8b	48	2026-11-22 22:46:33	tts	41fa7b057a
 en	91a41417	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:49	tts	c9fd25c4d9
+en	92ff2c60	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:57	tts	272f3c3980
 en	93432c10	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:23	tts	7f5873bff2
 en	957b5f53	math/projections-three-views	serena moss8b	48	2026-11-22 22:46:41	tts	4a2dd6b8c5
 en	9a8f7a6a	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:17	tts	8704d0ad68
@@ -8386,10 +8388,12 @@ en	b40e0ce0	math/projections-three-views	serena moss8b	48	2026-11-22 22:46:40	tt
 en	b5630c90	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:23	tts	eb1aee9111
 en	b7ae051f	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:00	tts	6218e2dfc5
 en	ba0ea72f	math/projections-three-views	serena moss8b	48	2026-11-22 22:46:55	tts	031d7d81d2
+en	ba40faa5	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:57	tts	949c43c0fe
 en	baca0a2d	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:34	tts	640528e7da
 en	bd6d0392	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:11	tts	6103a11446
 en	bdfe3861	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:50	tts	77425a5eec
 en	be8d3ddd	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:43	tts	e502dc8d88
+en	c4dc431d	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:57	tts	f8cfdc9be8
 en	c5875ba9	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:51	tts	146dea7339
 en	d0ad7dec	math/projections-three-views	serena moss8b	48	2026-11-21 19:21:06	tts	89044dbd21
 en	d2f7bfe3	math/projections-three-views	serena moss8b	48	2026-11-21 19:17:36	tts	41a30200ac
@@ -8410,6 +8414,7 @@ en	e92abeff	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:00	tt
 en	edc621f9	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:00	tts	f9dbf7c395
 en	fa36329f	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:11	tts	e4c307cc43
 en	fa79e980	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:00	tts	0ffb5c9a38
+en	fd02c6c4	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:57	tts	a4b20b85b4
 en	fecd2365	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:45	tts	8388764283
 en	ffd16e26	math/projections-three-views	serena moss8b	48	2026-11-22 22:47:50	tts	e298bbe497
 zh	00f028ec	math/projections-three-views	serena moss8b	48	2026-11-22 17:12:12	tts	063f95df4e
@@ -11959,6 +11964,7 @@ en	92fb9812	math/triangles	serena moss8b	48	2026-11-22 22:47:23	tts	76d45bb1ea
 en	956574a2	math/triangles	serena moss8b	48	2026-11-21 19:23:15	tts	ac8e988306
 en	a16cea9e	math/triangles	serena moss8b	48	2026-11-22 22:47:29	tts	25ea3dcb82
 en	a4194f9c	math/triangles	serena moss8b	48	2026-11-22 22:47:36	tts	a99c0b76f9
+en	aa385f32	math/triangles	serena moss8b	48	2026-11-22 22:47:57	tts	270449e752
 en	aee626ed	math/triangles	serena moss8b	48	2026-11-21 19:24:38	tts	568228ed8c
 en	af5cadfd	math/triangles	serena moss8b	48	2026-11-21 19:22:51	tts	8995c3840e
 en	b1bde018	math/triangles	serena moss8b	48	2026-11-22 22:47:51	tts	005af246c4
