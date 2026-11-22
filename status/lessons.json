@@ -1881,10 +1881,10 @@
  },
  "yuwen/yw-song-ci": {
   "counts": {
-   "done": 531,
+   "done": 618,
    "failed": 0,
    "held": 0,
-   "missing": 101,
+   "missing": 14,
    "old": 0,
    "total": 632
   },
@@ -1899,7 +1899,7 @@
    "en": "Song Ci Poetry & Classical Verse Forms",
    "zh": "宋词与古诗词格律"
   },
-  "updated": "2026-11-22 19:25:28",
+  "updated": "2026-11-22 19:30:27",
   "verified": ""
  },
  "yuwen/yw-tang-poems": {
