@@ -1286,25 +1286,26 @@
  },
  "math/roots-irrationals": {
   "counts": {
-   "done": 61,
+   "done": 115,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 61
+   "total": 115
   },
   "fingerprint": "4dcb4d287827",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/roots-irrationals.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Square Roots & Irrational Numbers",
    "zh": "平方根与无理数"
   },
-  "updated": "2026-11-22 20:21:56",
+  "updated": "2026-11-22 22:42:36",
   "verified": ""
  },
  "math/rotation-symmetry": {
