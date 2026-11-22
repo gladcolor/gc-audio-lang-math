@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 22:56:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:58:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -31,28 +31,28 @@ Updated 2026-11-22 22:56:23. Labels: finished / in progress / no audio / failed 
 | math/area | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-22 22:38:58 |  |
 | math/axial-symmetry | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-22 22:50:00 |  |
 | math/circle-theorems | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-22 22:54:01 |  |
-| math/circles | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 22:41:31 |  |
+| math/circles | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 22:41:31 | 2026-11-22 22:58:40 |
 | math/congruent-triangles | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-22 22:49:03 |  |
 | math/coordinate-plane | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-22 22:38:34 |  |
 | math/equations | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-22 22:34:43 |  |
 | math/exponents | finished | 226 | 0 | 0 | 0 | 0 | 2026-11-22 22:42:14 |  |
 | math/expressions | finished | 103 | 0 | 0 | 0 | 0 | 2026-11-22 22:34:05 |  |
-| math/factoring | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:34 |  |
+| math/factoring | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:34 | 2026-11-22 22:57:43 |
 | math/fractals | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-22 22:50:39 |  |
 | math/fraction-division | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-22 22:47:18 |  |
 | math/functions | finished | 141 | 0 | 0 | 0 | 0 | 2026-11-22 22:43:27 |  |
 | math/geometric-constructions | finished | 380 | 0 | 0 | 0 | 0 | 2026-11-22 22:53:54 |  |
 | math/integers | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-22 22:38:17 |  |
-| math/inverse-proportion | in progress | 259 | 0 | 12 | 0 | 0 | 2026-11-22 22:43:17 |  |
+| math/inverse-proportion | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-22 22:58:50 |  |
 | math/linear-functions | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 22:56:22 |  |
-| math/negative-operations | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:53 |  |
+| math/negative-operations | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:53 | 2026-11-22 22:58:33 |
 | math/parallel-quadrilaterals | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-22 22:48:05 |  |
 | math/percents | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-22 22:37:47 |  |
 | math/polynomial-multiplication | finished | 222 | 0 | 0 | 0 | 0 | 2026-11-22 22:52:40 |  |
 | math/polynomials | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-22 22:48:38 |  |
 | math/probability | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 22:41:57 |  |
 | math/projections-three-views | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-22 22:52:05 |  |
-| math/proportional | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:42 |  |
+| math/proportional | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:42 | 2026-11-22 22:58:28 |
 | math/pythagorean | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-22 22:39:07 |  |
 | math/quadratic-equations | finished | 336 | 0 | 0 | 0 | 0 | 2026-11-22 22:46:57 |  |
 | math/quadratic-functions | finished | 264 | 0 | 0 | 0 | 0 | 2026-11-22 22:46:44 |  |
