@@ -302,7 +302,7 @@
    "zh": "句子、从句与标点"
   },
   "updated": "2026-11-22 19:05:12",
-  "verified": ""
+  "verified": "2026-11-22 19:07:22"
  },
  "ela/narrative-techniques": {
   "counts": {
@@ -440,7 +440,7 @@
    "zh": "词根与上下文线索"
   },
   "updated": "2026-11-22 19:04:25",
-  "verified": ""
+  "verified": "2026-11-22 19:07:21"
  },
  "math/angles": {
   "counts": {
@@ -1700,16 +1700,17 @@
  },
  "yuwen/yw-hanzi": {
   "counts": {
-   "done": 55,
+   "done": 104,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 127,
    "old": 0,
-   "total": 55
+   "total": 231
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "1a1e81789c5a",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-hanzi.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1717,8 +1718,8 @@
    "en": "Chinese Characters & Calligraphy",
    "zh": "汉字的演变与书法"
   },
-  "updated": "2026-11-21 22:47:07",
-  "verified": "2026-11-21 22:48:40"
+  "updated": "2026-11-22 19:23:54",
+  "verified": ""
  },
  "yuwen/yw-idioms": {
   "counts": {
