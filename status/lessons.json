@@ -1167,10 +1167,10 @@
  },
  "math/quadratic-equations": {
   "counts": {
-   "done": 241,
+   "done": 310,
    "failed": 0,
    "held": 0,
-   "missing": 95,
+   "missing": 26,
    "old": 0,
    "total": 336
   },
@@ -1186,7 +1186,7 @@
    "en": "Quadratic Equations",
    "zh": "一元二次方程"
   },
-  "updated": "2026-11-22 22:40:48",
+  "updated": "2026-11-22 22:41:51",
   "verified": ""
  },
  "math/quadratic-functions": {
