@@ -430,7 +430,7 @@
    "zh": "多边形的面积"
   },
   "updated": "2026-11-22 16:58:20",
-  "verified": ""
+  "verified": "2026-11-22 17:19:39"
  },
  "math/axial-symmetry": {
   "counts": {
@@ -499,7 +499,7 @@
    "zh": "圆的周长与面积"
   },
   "updated": "2026-11-22 16:59:55",
-  "verified": ""
+  "verified": "2026-11-22 17:19:39"
  },
  "math/congruent-triangles": {
   "counts": {
@@ -568,7 +568,7 @@
    "zh": "解方程与不等式"
   },
   "updated": "2026-11-22 16:56:39",
-  "verified": ""
+  "verified": "2026-11-22 17:19:39"
  },
  "math/exponents": {
   "counts": {
@@ -682,7 +682,7 @@
    "zh": "分数除法"
   },
   "updated": "2026-11-22 16:58:07",
-  "verified": ""
+  "verified": "2026-11-22 17:18:55"
  },
  "math/functions": {
   "counts": {
@@ -888,7 +888,7 @@
    "zh": "整式的乘法与乘法公式"
   },
   "updated": "2026-11-22 17:14:25",
-  "verified": ""
+  "verified": "2026-11-22 17:19:40"
  },
  "math/polynomials": {
   "counts": {
@@ -979,7 +979,7 @@
    "zh": "正比例关系"
   },
   "updated": "2026-11-22 17:01:23",
-  "verified": ""
+  "verified": "2026-11-22 17:19:39"
  },
  "math/pythagorean": {
   "counts": {
@@ -1208,7 +1208,7 @@
    "zh": "比例图"
   },
   "updated": "2026-11-22 17:02:05",
-  "verified": ""
+  "verified": "2026-11-22 17:19:39"
  },
  "math/scatter-plots": {
   "counts": {
@@ -1276,7 +1276,7 @@
    "zh": "斜率与一次函数"
   },
   "updated": "2026-11-22 17:03:29",
-  "verified": ""
+  "verified": "2026-11-22 17:19:40"
  },
  "math/statistics": {
   "counts": {
@@ -1322,7 +1322,7 @@
    "zh": "表面积与体积"
   },
   "updated": "2026-11-22 17:14:43",
-  "verified": ""
+  "verified": "2026-11-22 17:19:40"
  },
  "math/systems": {
   "counts": {
