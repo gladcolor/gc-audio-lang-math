@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "math/ratios", "voice": "serena", "en": "77c8a0da 85b11af2 887c31ce a2678a18 a6a9344b b757d592 b7ef15d5 c74dcc28 ec384369 ff1ca2f3", "zh": "0323a191 187e9fbf 43d28235 44e4c72c 5cc0f84f 7359dda8 bdf7eff7 ca9acc64 f5678906 f84c8ea9"});
+LabAudioManifest({"lesson": "math/ratios", "voice": "serena", "en": "77c8a0da 85b11af2 887c31ce a2678a18 a6a9344b b757d592 b7ef15d5 c74dcc28 ec384369 ff1ca2f3", "zh": "0323a191 04d9be87 0df34e73 0fec482f 187e9fbf 2247229f 2419551a 2a41d6f5 43d28235 44e4c72c 4858e1f5 493ad026 5047c727 59017c0c 5cc0f84f 5d06f0be 60489e8a 695cfbf1 7359dda8 74062121 a9670369 bcda6171 bdf7eff7 c727b22c ca9acc64 e646cb28 eb3d110d f5678906 f84c8ea9"});
