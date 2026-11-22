@@ -1832,7 +1832,7 @@
    "zh": "成语、对联与传统文化"
   },
   "updated": "2026-11-22 20:03:55",
-  "verified": ""
+  "verified": "2026-11-22 20:22:11"
  },
  "yuwen/yw-modern-classics": {
   "counts": {
@@ -1901,7 +1901,7 @@
    "zh": "七年级古诗词"
   },
   "updated": "2026-11-22 20:09:47",
-  "verified": ""
+  "verified": "2026-11-22 20:22:11"
  },
  "yuwen/yw-poems-8": {
   "counts": {
@@ -2066,15 +2066,15 @@
  },
  "yuwen/yw-wenyan-9": {
   "counts": {
-   "done": 1427,
+   "done": 1509,
    "failed": 0,
    "held": 0,
-   "missing": 82,
+   "missing": 0,
    "old": 0,
    "total": 1509
   },
   "fingerprint": "e385448ffef0",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-9.html",
   "record_demand": true,
   "record_langs": [
@@ -2084,7 +2084,7 @@
    "en": "Grade 9 Classical Prose",
    "zh": "九年级文言文"
   },
-  "updated": "2026-11-22 19:49:22",
+  "updated": "2026-11-22 20:22:22",
   "verified": ""
  },
  "yuwen/yw-wenyan-basics": {

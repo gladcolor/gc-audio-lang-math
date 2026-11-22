@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 20:22:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:22:22. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -83,10 +83,10 @@ Updated 2026-11-22 20:22:09. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-classics | finished | 313 | 0 | 0 | 0 | 0 | 2026-11-22 20:00:19 | 2026-11-22 20:04:01 |
 | yuwen/yw-expository | finished | 148 | 0 | 0 | 0 | 0 | 2026-11-22 19:39:54 | 2026-11-22 19:59:22 |
 | yuwen/yw-hanzi | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-22 19:41:24 | 2026-11-22 19:59:53 |
-| yuwen/yw-idioms | finished | 499 | 0 | 0 | 0 | 0 | 2026-11-22 20:03:55 |  |
+| yuwen/yw-idioms | finished | 499 | 0 | 0 | 0 | 0 | 2026-11-22 20:03:55 | 2026-11-22 20:22:11 |
 | yuwen/yw-modern-classics | in progress | 2099 | 63 | 137 | 0 | 0 | 2026-11-22 19:53:38 |  |
 | yuwen/yw-narrative | finished | 165 | 0 | 0 | 0 | 0 | 2026-11-22 19:55:37 | 2026-11-22 20:00:45 |
-| yuwen/yw-poems-7 | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-22 20:09:47 |  |
+| yuwen/yw-poems-7 | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-22 20:09:47 | 2026-11-22 20:22:11 |
 | yuwen/yw-poems-8 | finished | 1039 | 0 | 0 | 0 | 0 | 2026-11-22 20:13:35 |  |
 | yuwen/yw-poems-9 | finished | 809 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:59 |  |
 | yuwen/yw-rhetoric | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 19:59:48 | 2026-11-22 20:07:04 |
@@ -94,7 +94,7 @@ Updated 2026-11-22 20:22:09. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-tang-poems | finished | 274 | 0 | 0 | 0 | 0 | 2026-11-22 19:42:20 | 2026-11-22 20:00:02 |
 | yuwen/yw-wenyan-7 | in progress | 1186 | 0 | 85 | 0 | 0 | 2026-11-22 19:46:56 |  |
 | yuwen/yw-wenyan-8 | finished | 741 | 0 | 0 | 0 | 0 | 2026-11-22 10:19:54 | 2026-11-22 10:26:21 |
-| yuwen/yw-wenyan-9 | in progress | 1427 | 0 | 82 | 0 | 0 | 2026-11-22 19:49:22 |  |
+| yuwen/yw-wenyan-9 | finished | 1509 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:22 |  |
 | yuwen/yw-wenyan-basics | finished | 318 | 0 | 0 | 0 | 0 | 2026-11-22 19:54:16 | 2026-11-22 20:00:10 |
 | yuwen/yw-wenyan-classics | finished | 452 | 0 | 0 | 0 | 0 | 2026-11-22 19:54:39 | 2026-11-22 20:01:31 |
 | yuwen/yw-writing | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 20:04:56 | 2026-11-22 20:19:10 |
