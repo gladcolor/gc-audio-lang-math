@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 17:08:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 17:08:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Updated 2026-11-22 17:08:19. Labels: finished / in progress / no audio / failed 
 | math/angles | in progress | 26 | 1 | 29 | 0 | 0 | 2026-11-22 16:57:31 |  |
 | math/area | finished | 63 | 0 | 0 | 0 | 0 | 2026-11-22 16:58:20 |  |
 | math/axial-symmetry | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:25 |  |
-| math/circle-theorems | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 21:47:11 |  |
+| math/circle-theorems | in progress | 19 | 1 | 191 | 0 | 0 | 2026-11-22 17:08:46 |  |
 | math/circles | finished | 68 | 0 | 0 | 0 | 0 | 2026-11-22 16:59:55 |  |
 | math/congruent-triangles | in progress | 139 | 2 | 50 | 0 | 0 | 2026-11-22 17:08:18 |  |
 | math/coordinate-plane | in progress | 53 | 2 | 30 | 0 | 0 | 2026-11-22 16:29:16 |  |
