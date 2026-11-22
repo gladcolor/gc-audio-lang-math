@@ -1657,15 +1657,15 @@
  },
  "yuwen/yw-classics": {
   "counts": {
-   "done": 235,
+   "done": 313,
    "failed": 0,
    "held": 0,
-   "missing": 78,
+   "missing": 0,
    "old": 0,
    "total": 313
   },
   "fingerprint": "c5c4dbf675e3",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-classics.html",
   "record_demand": true,
   "record_langs": [
@@ -1675,7 +1675,7 @@
    "en": "Great Books (名著导读)",
    "zh": "名著导读"
   },
-  "updated": "2026-11-22 19:30:01",
+  "updated": "2026-11-22 20:00:19",
   "verified": ""
  },
  "yuwen/yw-expository": {
@@ -1722,7 +1722,7 @@
    "zh": "汉字的演变与书法"
   },
   "updated": "2026-11-22 19:41:24",
-  "verified": ""
+  "verified": "2026-11-22 19:59:53"
  },
  "yuwen/yw-idioms": {
   "counts": {
@@ -1929,7 +1929,7 @@
    "zh": "唐诗鉴赏：意象与意境"
   },
   "updated": "2026-11-22 19:42:20",
-  "verified": ""
+  "verified": "2026-11-22 20:00:02"
  },
  "yuwen/yw-wenyan-7": {
   "counts": {
@@ -2021,7 +2021,7 @@
    "zh": "文言文入门"
   },
   "updated": "2026-11-22 19:54:16",
-  "verified": ""
+  "verified": "2026-11-22 20:00:10"
  },
  "yuwen/yw-wenyan-classics": {
   "counts": {
