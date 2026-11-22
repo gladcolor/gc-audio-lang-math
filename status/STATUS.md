@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 16:59:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:59:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -31,18 +31,18 @@ Updated 2026-11-22 16:59:14. Labels: finished / in progress / no audio / failed 
 | math/coordinate-plane | in progress | 53 | 2 | 30 | 0 | 0 | 2026-11-22 16:29:16 |  |
 | math/equations | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:39 |  |
 | math/exponents | in progress | 73 | 0 | 45 | 0 | 0 | 2026-11-22 16:58:44 |  |
-| math/expressions | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-22 16:44:30 |  |
+| math/expressions | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-22 16:44:30 | 2026-11-22 16:59:18 |
 | math/factoring | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 21:56:51 |  |
 | math/fractals | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 21:38:50 | 2026-11-21 21:43:02 |
 | math/fraction-division | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-22 16:58:07 |  |
-| math/functions | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:35:23 |  |
+| math/functions | in progress | 24 | 1 | 46 | 0 | 0 | 2026-11-22 16:59:48 |  |
 | math/geometric-constructions | finished | 55 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:15 |  |
-| math/integers | finished | 69 | 0 | 0 | 0 | 0 | 2026-11-22 16:45:11 |  |
+| math/integers | finished | 69 | 0 | 0 | 0 | 0 | 2026-11-22 16:45:11 | 2026-11-22 16:59:24 |
 | math/inverse-proportion | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:29 |  |
 | math/linear-functions | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:29 | 2026-11-21 21:18:09 |
 | math/negative-operations | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:51:48 |  |
 | math/parallel-quadrilaterals | finished | 3 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:02 | 2026-11-21 21:16:15 |
-| math/percents | finished | 62 | 0 | 0 | 0 | 0 | 2026-11-22 16:45:46 |  |
+| math/percents | finished | 62 | 0 | 0 | 0 | 0 | 2026-11-22 16:45:46 | 2026-11-22 16:59:21 |
 | math/polynomial-multiplication | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:21 |  |
 | math/polynomials | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:19 |  |
 | math/probability | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:46:59 | 2026-11-21 21:50:40 |
