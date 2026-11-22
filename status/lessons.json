@@ -2013,11 +2013,11 @@
  },
  "yuwen/yw-wenyan-classics": {
   "counts": {
-   "done": 359,
+   "done": 425,
    "failed": 0,
    "held": 0,
-   "missing": 91,
-   "old": 2,
+   "missing": 27,
+   "old": 0,
    "total": 452
   },
   "fingerprint": "0ae8ff0eaabe",
@@ -2031,7 +2031,7 @@
    "en": "Classical Prose Masterpieces",
    "zh": "文言名篇"
   },
-  "updated": "2026-11-22 19:26:31",
+  "updated": "2026-11-22 19:26:57",
   "verified": ""
  },
  "yuwen/yw-writing": {
