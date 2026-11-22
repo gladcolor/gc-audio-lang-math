@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "ela/character-pov", "voice": "serena", "en": "08abc0c8 31207716 6b878b4f 8f3b4652 92581606 d9441132 e27abd47", "zh": "1f17183c 2d89238e 3a5a6440 6c204735 b238b936 e27e5544 fd2ce7dd"});
+LabAudioManifest({"lesson": "ela/character-pov", "voice": "serena", "en": "08abc0c8 31207716 6b878b4f 8f3b4652 92581606 d9441132 e27abd47", "zh": "0bb6c191 0ea17447 1f17183c 2d89238e 3380c694 3a5a6440 3c39dd1f 6c204735 734c87ea 91a66a6f 9fc25186 a4c00191 a7ac8286 a7f0dc67 aca3a478 b238b936 cef796ca d5c7d561 d993d9fe e27e5544 fc947e88 fd196e9f fd2ce7dd"});
