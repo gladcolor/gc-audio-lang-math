@@ -767,25 +767,26 @@
  },
  "math/factoring": {
   "counts": {
-   "done": 104,
+   "done": 203,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 104
+   "total": 203
   },
-  "fingerprint": "",
+  "fingerprint": "df4447582abe",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/factoring.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Multiplying Polynomials & Factoring",
    "zh": "整式乘法与因式分解"
   },
-  "updated": "2026-11-22 20:25:40",
+  "updated": "2026-11-22 22:40:34",
   "verified": ""
  },
  "math/fractals": {
