@@ -1436,6 +1436,28 @@
   "updated": "2026-11-22 00:24:36",
   "verified": ""
  },
+ "music/music-listening": {
+  "counts": {
+   "done": 15,
+   "failed": 0,
+   "held": 0,
+   "missing": 4,
+   "old": 0,
+   "total": 19
+  },
+  "fingerprint": "3f5e34a27440",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/music/music-listening.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "How to Listen: Great Music",
+   "zh": "名曲欣赏：怎样听音乐"
+  },
+  "updated": "2026-11-22 00:41:54",
+  "verified": ""
+ },
  "music/music-pitch": {
   "counts": {
    "done": 1,
@@ -1478,7 +1500,7 @@
    "zh": "节奏与节拍"
   },
   "updated": "2026-11-22 00:33:35",
-  "verified": ""
+  "verified": "2026-11-22 00:41:04"
  },
  "yuwen/yw-argumentative": {
   "counts": {
@@ -1610,7 +1632,7 @@
    "zh": "现代文名篇（鲁迅、朱自清等）"
   },
   "updated": "2026-11-22 00:31:59",
-  "verified": ""
+  "verified": "2026-11-22 00:40:49"
  },
  "yuwen/yw-narrative": {
   "counts": {

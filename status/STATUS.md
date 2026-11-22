@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 00:33:35. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 00:41:54. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -70,14 +70,15 @@ Updated 2026-11-22 00:33:35. Labels: finished / in progress / no audio / failed 
 | music/music-compose | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-20 09:20:05 |  |
 | music/music-history | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 09:19:37 |  |
 | music/music-instruments | in progress | 20 | 7 | 4 | 0 | 0 | 2026-11-22 00:24:36 |  |
+| music/music-listening | in progress | 15 | 0 | 4 | 0 | 0 | 2026-11-22 00:41:54 |  |
 | music/music-pitch | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:40:25 |  |
-| music/music-rhythm | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-22 00:33:35 |  |
+| music/music-rhythm | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-22 00:33:35 | 2026-11-22 00:41:04 |
 | yuwen/yw-argumentative | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 22:59:03 | 2026-11-21 23:00:02 |
 | yuwen/yw-classics | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-21 23:06:31 | 2026-11-21 23:09:30 |
 | yuwen/yw-expository | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-21 23:04:45 | 2026-11-21 23:08:14 |
 | yuwen/yw-hanzi | finished | 55 | 0 | 0 | 0 | 0 | 2026-11-21 22:47:07 | 2026-11-21 22:48:40 |
 | yuwen/yw-idioms | finished | 89 | 0 | 0 | 0 | 0 | 2026-11-21 23:06:37 | 2026-11-21 23:10:01 |
-| yuwen/yw-modern-classics | finished | 1541 | 0 | 0 | 0 | 0 | 2026-11-22 00:31:59 |  |
+| yuwen/yw-modern-classics | finished | 1541 | 0 | 0 | 0 | 0 | 2026-11-22 00:31:59 | 2026-11-22 00:40:49 |
 | yuwen/yw-narrative | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-21 23:02:25 | 2026-11-21 23:04:36 |
 | yuwen/yw-poems-7 | finished | 243 | 0 | 0 | 0 | 0 | 2026-11-21 23:07:46 | 2026-11-21 23:11:13 |
 | yuwen/yw-poems-8 | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-21 23:15:43 | 2026-11-21 23:19:09 |
