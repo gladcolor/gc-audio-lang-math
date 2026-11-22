@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 20:24:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:24:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -75,7 +75,7 @@ Updated 2026-11-22 20:24:37. Labels: finished / in progress / no audio / failed 
 | math/volume-solids | finished | 57 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:21 |  |
 | music/music-compose | finished | 140 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:47 |  |
 | music/music-history | in progress | 31 | 0 | 188 | 0 | 0 | 2026-11-22 20:05:11 |  |
-| music/music-instruments | in progress | 68 | 1 | 117 | 0 | 0 | 2026-11-22 20:04:46 |  |
+| music/music-instruments | finished | 186 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:46 |  |
 | music/music-listening | in progress | 72 | 0 | 145 | 0 | 0 | 2026-11-22 20:06:52 |  |
 | music/music-pitch | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-22 00:44:07 | 2026-11-22 00:46:42 |
 | music/music-rhythm | finished | 159 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:23 |  |
@@ -88,7 +88,7 @@ Updated 2026-11-22 20:24:37. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-narrative | finished | 165 | 0 | 0 | 0 | 0 | 2026-11-22 19:55:37 | 2026-11-22 20:00:45 |
 | yuwen/yw-poems-7 | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-22 20:09:47 | 2026-11-22 20:22:11 |
 | yuwen/yw-poems-8 | finished | 1039 | 0 | 0 | 0 | 0 | 2026-11-22 20:13:35 | 2026-11-22 20:24:10 |
-| yuwen/yw-poems-9 | finished | 809 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:59 |  |
+| yuwen/yw-poems-9 | finished | 809 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:59 | 2026-11-22 20:24:39 |
 | yuwen/yw-rhetoric | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 19:59:48 | 2026-11-22 20:07:04 |
 | yuwen/yw-song-ci | finished | 632 | 0 | 0 | 0 | 0 | 2026-11-22 19:45:33 | 2026-11-22 20:02:49 |
 | yuwen/yw-tang-poems | finished | 274 | 0 | 0 | 0 | 0 | 2026-11-22 19:42:20 | 2026-11-22 20:00:02 |
