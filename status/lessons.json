@@ -301,7 +301,7 @@
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
   "updated": "2026-11-22 18:56:42",
-  "verified": ""
+  "verified": "2026-11-22 19:00:17"
  },
  "ela/narrative-writing": {
   "counts": {
@@ -351,15 +351,15 @@
  },
  "ela/text-structure": {
   "counts": {
-   "done": 61,
+   "done": 86,
    "failed": 0,
    "held": 0,
-   "missing": 25,
+   "missing": 0,
    "old": 0,
    "total": 86
   },
   "fingerprint": "dbfd3e6f28c8",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ela/text-structure.html",
   "record_demand": true,
   "record_langs": [
@@ -369,7 +369,7 @@
    "en": "Text Structures",
    "zh": "文本结构"
   },
-  "updated": "2026-11-22 18:49:32",
+  "updated": "2026-11-22 19:00:32",
   "verified": ""
  },
  "ela/theme-plot": {
