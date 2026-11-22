@@ -1931,10 +1931,10 @@
  },
  "yuwen/yw-wenyan-7": {
   "counts": {
-   "done": 497,
+   "done": 589,
    "failed": 0,
    "held": 0,
-   "missing": 774,
+   "missing": 682,
    "old": 0,
    "total": 1271
   },
@@ -1949,7 +1949,7 @@
    "en": "Grade 7 Classical Prose",
    "zh": "七年级文言文"
   },
-  "updated": "2026-11-22 19:42:33",
+  "updated": "2026-11-22 19:43:13",
   "verified": ""
  },
  "yuwen/yw-wenyan-8": {
