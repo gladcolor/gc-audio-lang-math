@@ -1817,16 +1817,17 @@
  },
  "yuwen/yw-poems-8": {
   "counts": {
-   "done": 385,
+   "done": 394,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 645,
    "old": 0,
-   "total": 385
+   "total": 1039
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "cfd21b168264",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-poems-8.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1834,8 +1835,8 @@
    "en": "Grade 8 Classical Poems",
    "zh": "八年级古诗词"
   },
-  "updated": "2026-11-21 23:15:43",
-  "verified": "2026-11-21 23:19:09"
+  "updated": "2026-11-22 19:34:26",
+  "verified": ""
  },
  "yuwen/yw-poems-9": {
   "counts": {
