@@ -1726,16 +1726,17 @@
  },
  "yuwen/yw-idioms": {
   "counts": {
-   "done": 89,
+   "done": 204,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 295,
    "old": 0,
-   "total": 89
+   "total": 499
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "db53c14723c2",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-idioms.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1743,8 +1744,8 @@
    "en": "Idioms, Couplets & Traditional Culture",
    "zh": "成语、对联与传统文化"
   },
-  "updated": "2026-11-21 23:06:37",
-  "verified": "2026-11-21 23:10:01"
+  "updated": "2026-11-22 19:31:07",
+  "verified": ""
  },
  "yuwen/yw-modern-classics": {
   "counts": {
