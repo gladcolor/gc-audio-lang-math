@@ -1555,10 +1555,10 @@
  },
  "math/triangles": {
   "counts": {
-   "done": 204,
+   "done": 240,
    "failed": 0,
    "held": 0,
-   "missing": 147,
+   "missing": 111,
    "old": 0,
    "total": 351
   },
@@ -1574,7 +1574,7 @@
    "en": "Triangles: Sides, Angles & Special Segments",
    "zh": "三角形：边、角与重要线段"
   },
-  "updated": "2026-11-22 22:47:30",
+  "updated": "2026-11-22 22:48:20",
   "verified": ""
  },
  "math/trig-ratios": {
