@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "yuwen/yw-argumentative", "voice": "serena", "en": "", "zh": "4fb6eeed 69f9c579 a2f71543 afe7dbcf e151ce77"});
+LabAudioManifest({"lesson": "yuwen/yw-argumentative", "voice": "serena", "en": "", "zh": "03bd5750 042a42c6 04f5c994 063232c6 0d4dcaec 139c6614 15316472 1b252080 1bf2947d 1d1ec261 216d2b57 22386c37 29cd485a 2a405c60 2c8a8c3f 301c5a5f 3a790ab8 3b34479b 4025ba8c 4fb6eeed 53452324 5fe86356 60663203 61c7f0ba 626128e2 65eb74c4 660825e7 68dea051 69f9c579 722226e2 7bcc1c7d 7e3da738 7ea673ee 848d1870 8ae342b2 9ed4144c a2f71543 a7b504e9 ab4c439e afe7dbcf c014cf59 d90f4818 e151ce77 e50cc975 e9bd3487 f33fddc0 f95f2742 fcc684b4 fdc33df7"});
