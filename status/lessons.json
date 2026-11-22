@@ -1502,16 +1502,17 @@
  },
  "music/music-compose": {
   "counts": {
-   "done": 12,
+   "done": 68,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 72,
    "old": 0,
-   "total": 12
+   "total": 140
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "c976e0161db8",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/music/music-compose.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1519,8 +1520,8 @@
    "en": "Compose a Melody",
    "zh": "创作一段旋律"
   },
-  "updated": "2026-11-22 00:45:01",
-  "verified": "2026-11-22 00:46:46"
+  "updated": "2026-11-22 20:05:33",
+  "verified": ""
  },
  "music/music-history": {
   "counts": {
