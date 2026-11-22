@@ -864,25 +864,26 @@
  },
  "math/geometric-constructions": {
   "counts": {
-   "done": 188,
+   "done": 285,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 188
+   "missing": 93,
+   "old": 2,
+   "total": 380
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "352486cbbf68",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/geometric-constructions.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Compass-and-Straightedge Constructions & Proof",
    "zh": "尺规作图与几何证明"
   },
-  "updated": "2026-11-22 17:33:58",
+  "updated": "2026-11-22 22:46:52",
   "verified": ""
  },
  "math/integers": {
