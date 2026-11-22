@@ -1702,15 +1702,15 @@
  },
  "music/music-rhythm": {
   "counts": {
-   "done": 95,
+   "done": 159,
    "failed": 0,
    "held": 0,
-   "missing": 64,
+   "missing": 0,
    "old": 0,
    "total": 159
   },
   "fingerprint": "7ca8b76b9648",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-rhythm.html",
   "record_demand": true,
   "record_langs": [
@@ -1720,7 +1720,7 @@
    "en": "Rhythm & Beat",
    "zh": "节奏与节拍"
   },
-  "updated": "2026-11-22 20:04:07",
+  "updated": "2026-11-22 20:23:23",
   "verified": ""
  },
  "yuwen/yw-argumentative": {
