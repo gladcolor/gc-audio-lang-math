@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "art/art-daily", "voice": "serena", "en": "", "zh": "f3ef8881"});
+LabAudioManifest({"lesson": "art/art-daily", "voice": "serena", "en": "", "zh": "02cbb861 07249c8c 07c5f6cf 0cf55822 14f446c7 1bcfd0c3 1e66bf5f 24b4c284 288cd6a1 2bc91932 32816625 3890f1b0 3a201a16 3b6edb71 43f3ce82 5ee4ce02 632a37fe 64cbb7a8 746d3e63 7f17f0d0 814c1662 89dda4f5 90050213 9a5851b7 a101c2c0 b3dfa4bd b3f43789 b7e0c789 c8641cd0 e2f718a9 e58e577b e85f3958 ea1daaa2 f3a10ca9 f3ef8881 f87df1bd fd525edb"});
