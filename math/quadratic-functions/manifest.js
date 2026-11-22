@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "math/quadratic-functions", "voice": "serena", "en": "18f874f6 82a55c3e b0ec9011 eee109df", "zh": "1ff5e171 3e914c92 92b58460 a20a96c0"});
+LabAudioManifest({"lesson": "math/quadratic-functions", "voice": "serena", "en": "18f874f6 82a55c3e b0ec9011 eee109df", "zh": "103d6212 120a67aa 1c593bbb 1ff5e171 25f08633 26229921 26c2c508 286e634b 29c95e7d 3e914c92 43fe2f58 49798f79 50e6e2cd 54299957 5ebfc96e 6660aa24 7ddad8b8 7f7861da 80bd347d 90215cbf 92b58460 948cea8c 9c202272 9ca8b273 9d58ec5c a20a96c0 ad6a41b2 b3e553be b6053061 bfd1a4f8 cea110f7 e1179268 fce7e65b"});
