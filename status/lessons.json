@@ -1333,16 +1333,17 @@
  },
  "math/transformations": {
   "counts": {
-   "done": 10,
+   "done": 61,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 10
+   "total": 61
   },
-  "fingerprint": "",
+  "fingerprint": "93454f3d9ff1",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/transformations.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1350,7 +1351,7 @@
    "en": "Transformations, Congruence & Similarity",
    "zh": "图形变换、全等与相似"
   },
-  "updated": "2026-11-21 21:52:01",
+  "updated": "2026-11-22 17:03:46",
   "verified": ""
  },
  "math/triangles": {
