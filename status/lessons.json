@@ -1476,7 +1476,7 @@
    "old": 0,
    "total": 67
   },
-  "fingerprint": "",
+  "fingerprint": "7a1806c56818",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/systems.html",
   "record_demand": true,
@@ -1487,7 +1487,7 @@
    "en": "Systems of Equations",
    "zh": "二元一次方程组"
   },
-  "updated": "2026-11-22 17:36:31",
+  "updated": "2026-11-22 20:22:01",
   "verified": ""
  },
  "math/transformations": {
