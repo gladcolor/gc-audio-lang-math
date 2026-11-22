@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 17:32:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 17:33:11. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Updated 2026-11-22 17:32:36. Labels: finished / in progress / no audio / failed 
 | math/exponents | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-22 17:08:01 | 2026-11-22 17:27:32 |
 | math/expressions | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-22 16:44:30 | 2026-11-22 16:59:18 |
 | math/factoring | finished | 104 | 0 | 0 | 0 | 0 | 2026-11-22 17:09:40 | 2026-11-22 17:28:08 |
-| math/fractals | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 21:38:50 | 2026-11-21 21:43:02 |
+| math/fractals | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:11 |  |
 | math/fraction-division | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-22 16:58:07 | 2026-11-22 17:18:55 |
 | math/functions | finished | 71 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:12 | 2026-11-22 17:27:37 |
 | math/geometric-constructions | in progress | 174 | 1 | 13 | 0 | 0 | 2026-11-22 17:12:18 |  |
