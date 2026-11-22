@@ -719,15 +719,15 @@
  },
  "math/exponents": {
   "counts": {
-   "done": 216,
+   "done": 226,
    "failed": 0,
    "held": 0,
-   "missing": 10,
+   "missing": 0,
    "old": 0,
    "total": 226
   },
   "fingerprint": "c1a72f5debb4",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/exponents.html",
   "record_demand": true,
   "record_langs": [
@@ -738,7 +738,7 @@
    "en": "Exponents & Scientific Notation",
    "zh": "指数与科学记数法"
   },
-  "updated": "2026-11-22 22:37:38",
+  "updated": "2026-11-22 22:42:14",
   "verified": ""
  },
  "math/expressions": {
