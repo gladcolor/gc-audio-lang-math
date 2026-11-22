@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 20:26:47. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:27:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Updated 2026-11-22 20:26:47. Labels: finished / in progress / no audio / failed 
 | art/art-landscape | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:37 |  |
 | art/art-perspective | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:48 |  |
 | art/art-sculpture | finished | 227 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:07 |  |
-| art/art-theater | in progress | 323 | 0 | 5 | 0 | 0 | 2026-11-22 20:23:59 |  |
+| art/art-theater | finished | 328 | 0 | 0 | 0 | 0 | 2026-11-22 20:27:04 |  |
 | ela/argument-evidence | finished | 100 | 0 | 0 | 0 | 0 | 2026-11-22 19:01:06 | 2026-11-22 19:03:35 |
 | ela/argument-writing | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 18:59:29 | 2026-11-22 19:03:50 |
 | ela/central-idea | finished | 132 | 0 | 0 | 0 | 0 | 2026-11-22 18:56:45 | 2026-11-22 18:59:15 |

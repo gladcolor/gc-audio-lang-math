@@ -231,15 +231,15 @@
  },
  "art/art-theater": {
   "counts": {
-   "done": 323,
+   "done": 328,
    "failed": 0,
    "held": 0,
-   "missing": 5,
+   "missing": 0,
    "old": 0,
    "total": 328
   },
   "fingerprint": "7c928365a293",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-theater.html",
   "record_demand": true,
   "record_langs": [
@@ -249,7 +249,7 @@
    "en": "Theater: Peking Opera & the World Stage",
    "zh": "戏剧：京剧与世界戏剧"
   },
-  "updated": "2026-11-22 20:23:59",
+  "updated": "2026-11-22 20:27:04",
   "verified": ""
  },
  "ela/argument-evidence": {
