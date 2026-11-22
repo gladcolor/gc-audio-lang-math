@@ -1840,10 +1840,10 @@
  },
  "yuwen/yw-wenyan-8": {
   "counts": {
-   "done": 595,
+   "done": 695,
    "failed": 0,
    "held": 0,
-   "missing": 570,
+   "missing": 470,
    "old": 0,
    "total": 1165
   },
@@ -1859,7 +1859,7 @@
    "en": "Grade 8 Classical Prose",
    "zh": "八年级文言文"
   },
-  "updated": "2026-11-22 03:00:11",
+  "updated": "2026-11-22 03:01:30",
   "verified": ""
  },
  "yuwen/yw-wenyan-9": {
