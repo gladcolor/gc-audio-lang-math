@@ -533,7 +533,7 @@
    "old": 0,
    "total": 56
   },
-  "fingerprint": "",
+  "fingerprint": "782d01704ca7",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/angles.html",
   "record_demand": true,
@@ -544,7 +544,7 @@
    "en": "Angle Relationships",
    "zh": "角的关系"
   },
-  "updated": "2026-11-22 17:32:36",
+  "updated": "2026-11-22 20:20:39",
   "verified": ""
  },
  "math/area": {
