@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 22:50:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:50:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -44,7 +44,7 @@ Updated 2026-11-22 22:50:01. Labels: finished / in progress / no audio / failed 
 | math/geometric-constructions | in progress | 324 | 1 | 55 | 0 | 0 | 2026-11-22 22:47:14 |  |
 | math/integers | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-22 22:38:17 |  |
 | math/inverse-proportion | in progress | 259 | 0 | 12 | 0 | 0 | 2026-11-22 22:43:17 |  |
-| math/linear-functions | finished | 156 | 0 | 0 | 0 | 0 | 2026-11-22 17:32:31 | 2026-11-22 17:38:49 |
+| math/linear-functions | in progress | 221 | 0 | 96 | 0 | 0 | 2026-11-22 22:50:21 |  |
 | math/negative-operations | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:53 |  |
 | math/parallel-quadrilaterals | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-22 22:48:05 |  |
 | math/percents | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-22 22:37:47 |  |
