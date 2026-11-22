@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 00:45:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 00:47:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -10,6 +10,7 @@ Updated 2026-11-22 00:45:01. Labels: finished / in progress / no audio / failed 
 | art/art-design | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 09:35:57 |  |
 | art/art-history | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-20 09:29:34 |  |
 | art/art-landscape | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 15:00:49 | 2026-11-21 15:01:52 |
+| art/art-sculpture | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-22 00:47:45 |  |
 | art/art-theater | in progress | 4 | 0 | 28 | 0 | 0 | 2026-11-22 00:21:34 |  |
 | ela/argument-writing | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 22:21:19 | 2026-11-21 22:23:19 |
 | ela/central-idea | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 22:20:37 | 2026-11-21 22:23:10 |
@@ -67,11 +68,11 @@ Updated 2026-11-22 00:45:01. Labels: finished / in progress / no audio / failed 
 | math/triangles | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:23 | 2026-11-21 21:17:49 |
 | math/trig-ratios | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:08 | 2026-11-21 21:16:32 |
 | math/volume-solids | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:44:22 | 2026-11-21 21:47:34 |
-| music/music-compose | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-22 00:45:01 |  |
-| music/music-history | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-22 00:43:40 |  |
+| music/music-compose | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-22 00:45:01 | 2026-11-22 00:46:46 |
+| music/music-history | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-22 00:43:40 | 2026-11-22 00:46:36 |
 | music/music-instruments | in progress | 20 | 7 | 4 | 0 | 0 | 2026-11-22 00:24:36 |  |
 | music/music-listening | in progress | 15 | 0 | 4 | 0 | 0 | 2026-11-22 00:41:54 |  |
-| music/music-pitch | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-22 00:44:07 |  |
+| music/music-pitch | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-22 00:44:07 | 2026-11-22 00:46:42 |
 | music/music-rhythm | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-22 00:33:35 | 2026-11-22 00:41:04 |
 | yuwen/yw-argumentative | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 22:59:03 | 2026-11-21 23:00:02 |
 | yuwen/yw-classics | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-21 23:06:31 | 2026-11-21 23:09:30 |

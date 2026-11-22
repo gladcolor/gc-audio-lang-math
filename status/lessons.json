@@ -122,6 +122,28 @@
   "updated": "2026-11-21 15:00:49",
   "verified": "2026-11-21 15:01:52"
  },
+ "art/art-sculpture": {
+  "counts": {
+   "done": 20,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 20
+  },
+  "fingerprint": "b0a8b25686ce",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/art/art-sculpture.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Art of Sculpture",
+   "zh": "雕塑之美"
+  },
+  "updated": "2026-11-22 00:47:45",
+  "verified": ""
+ },
  "art/art-theater": {
   "counts": {
    "done": 4,
@@ -1396,7 +1418,7 @@
    "zh": "创作一段旋律"
   },
   "updated": "2026-11-22 00:45:01",
-  "verified": ""
+  "verified": "2026-11-22 00:46:46"
  },
  "music/music-history": {
   "counts": {
@@ -1418,7 +1440,7 @@
    "zh": "穿越时空与文化的音乐"
   },
   "updated": "2026-11-22 00:43:40",
-  "verified": ""
+  "verified": "2026-11-22 00:46:36"
  },
  "music/music-instruments": {
   "counts": {
@@ -1484,7 +1506,7 @@
    "zh": "音高、音符与音阶"
   },
   "updated": "2026-11-22 00:44:07",
-  "verified": ""
+  "verified": "2026-11-22 00:46:42"
  },
  "music/music-rhythm": {
   "counts": {
