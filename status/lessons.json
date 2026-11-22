@@ -1245,15 +1245,15 @@
  },
  "math/rational-expressions": {
   "counts": {
-   "done": 169,
+   "done": 212,
    "failed": 0,
    "held": 0,
-   "missing": 43,
+   "missing": 0,
    "old": 0,
    "total": 212
   },
   "fingerprint": "c5f649b13c91",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/rational-expressions.html",
   "record_demand": true,
   "record_langs": [
@@ -1264,7 +1264,7 @@
    "en": "Algebraic Fractions",
    "zh": "分式"
   },
-  "updated": "2026-11-22 22:40:19",
+  "updated": "2026-11-22 22:48:46",
   "verified": ""
  },
  "math/ratios": {
