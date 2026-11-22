@@ -185,15 +185,15 @@
  },
  "art/art-perspective": {
   "counts": {
-   "done": 35,
+   "done": 123,
    "failed": 0,
    "held": 0,
-   "missing": 88,
+   "missing": 0,
    "old": 0,
    "total": 123
   },
   "fingerprint": "b56ba8a1fe44",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-perspective.html",
   "record_demand": true,
   "record_langs": [
@@ -203,7 +203,7 @@
    "en": "Perspective & Space",
    "zh": "透视与空间"
   },
-  "updated": "2026-11-22 20:08:11",
+  "updated": "2026-11-22 20:25:48",
   "verified": ""
  },
  "art/art-sculpture": {
