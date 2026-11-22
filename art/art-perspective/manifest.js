@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "art/art-perspective", "voice": "serena", "en": "", "zh": "0811786d 0a100d6f 0f21cde6 10a243b4 18f8952c 19feccac 1f5f8142 26f11be4 28050a4a 2b329714 2d5cae83 2fd57cf7 36de9313 39dbf65a 47dd3384 49b30d92 53cbd672 550e35e8 5cfd6d36 6fe46f46 71a6e733 9497db5c 9c9c6ad3 a7a43f96 a7ac6da3 b93d9667 c371da84 c4db94ea c62b9325 c9b9082b cfa44c47 e27d9f6f eb2267b9 ee8c07df f7b20f77"});
