@@ -20,7 +20,9 @@ zh	c06e97de	art/art-architecture	serena moss8b	48	2026-11-22 00:21:41	tts	690bcb
 zh	cf99cd30	art/art-architecture	serena moss8b	48	2026-11-22 00:21:39	tts	69a12a427a
 zh	d9d0a0e1	art/art-architecture	serena moss8b	48	2026-11-22 00:21:24	tts	902940a455
 zh	ddd63086	art/art-architecture	serena moss8b	48	2026-11-22 00:22:22	tts	4707e6f38d
+zh	f08ceb4b	art/art-architecture	serena moss8b	48	2026-11-22 00:42:05	tts	74dd9c4648
 zh	fb0bdeda	art/art-chinese	serena moss8b	48	2026-11-21 14:56:01	tts	225126b6d8
+zh	1a55d08a	art/art-color	serena moss8b	48	2026-11-22 00:42:17	tts	0bf32f58b6
 zh	61d0c38e	art/art-color	serena moss8b	48	2026-11-22 00:27:07	tts	cf283654ca
 zh	89259b14	art/art-color	serena moss8b	48	2026-11-22 00:28:14	tts	ceb1aa30ca
 zh	e1955731	art/art-color	serena moss8b	48	2026-11-22 00:23:01	tts	49de6bc9d3
@@ -28,6 +30,7 @@ zh	e2758d15	art/art-color	serena moss8b	48	2026-11-22 00:20:59	tts	639b3f5a73
 zh	f3ef8881	art/art-daily	serena moss8b	48	2026-11-21 15:00:34	tts	0703f830dc
 zh	0a5c4366	art/art-design	serena moss8b	48	2026-11-22 00:26:05	tts	de07276f44
 zh	14478101	art/art-design	serena moss8b	48	2026-11-22 00:32:29	tts	b6736a1a0e
+zh	175d28d3	art/art-design	serena moss8b	48	2026-11-22 00:43:35	tts	c96ad3cc35
 zh	1e4bdd8f	art/art-design	serena moss8b	48	2026-11-22 00:31:12	tts	82d6daf6e8
 zh	2fc467b3	art/art-design	serena moss8b	48	2026-11-22 00:21:20	tts	dd6332f06f
 zh	3bddd94b	art/art-design	serena moss8b	48	2026-11-22 00:31:11	tts	064275fbd9
@@ -55,6 +58,7 @@ zh	923af451	art/art-games	serena moss8b	48	2026-11-22 00:25:57	tts	e58be96802
 zh	03258855	art/art-history	serena moss8b	48	2026-11-22 00:28:20	tts	10f45bc078
 zh	0f7ace83	art/art-history	serena moss8b	48	2026-11-22 00:26:09	tts	e2d64e23a5
 zh	11b44c06	art/art-history	serena moss8b	48	2026-11-22 00:29:45	tts	67aa44ba63
+zh	281b716f	art/art-history	serena moss8b	48	2026-11-22 00:43:32	tts	8f9e7bed06
 zh	4db68206	art/art-history	serena moss8b	48	2026-11-22 00:29:16	tts	3597e22fc4
 zh	5e0b2188	art/art-history	serena moss8b	48	2026-11-22 00:28:24	tts	97eaa4b731
 zh	6ddaa26f	art/art-history	serena moss8b	48	2026-11-22 00:26:51	tts	1f113647e8
@@ -89,6 +93,7 @@ zh	cfe81518	art/art-sculpture	serena moss8b	48	2026-11-22 00:21:15	tts	f374e56bd
 zh	d15f9ead	art/art-sculpture	serena moss8b	48	2026-11-22 00:24:48	tts	a2c765edaf
 zh	e33c7cd7	art/art-sculpture	serena moss8b	48	2026-11-22 00:24:04	tts	445aa73390
 zh	e42de2e3	art/art-sculpture	serena moss8b	48	2026-11-22 00:23:50	tts	ee1e4f1403
+zh	e6065aee	art/art-sculpture	serena moss8b	48	2026-11-22 00:43:04	tts	bdc866d912
 zh	f0b45cc3	art/art-sculpture	serena moss8b	48	2026-11-22 00:20:55	tts	d896b5d0ce
 zh	0fd83a8c	art/art-theater	serena moss8b	48	2026-11-22 00:32:54	tts	fbb9944d90
 zh	13c4cd5d	art/art-theater	serena moss8b	48	2026-11-22 00:24:10	tts	9abf3c02bb
@@ -104,6 +109,7 @@ zh	8f90f747	art/art-theater	serena moss8b	48	2026-11-22 00:30:25	tts	6cc76a8144
 zh	9309b46f	art/art-theater	serena moss8b	48	2026-11-22 00:22:43	tts	c73d9a1aa3
 zh	982a8435	art/art-theater	serena moss8b	48	2026-11-22 00:20:58	tts	b4fd61ceac
 zh	b29884bc	art/art-theater	serena moss8b	48	2026-11-22 00:21:51	tts	4f47566bf4
+zh	b2a8a8a7	art/art-theater	serena moss8b	48	2026-11-22 00:42:40	tts	dd523d5f16
 zh	b2aaaa0b	art/art-theater	serena moss8b	48	2026-11-22 00:33:15	tts	02346ffd8a
 zh	b2d20370	art/art-theater	serena moss8b	48	2026-11-22 00:21:47	tts	8d86ec9210
 zh	bf9e2f15	art/art-theater	serena moss8b	48	2026-11-22 00:21:34	tts	7a6d150be4
@@ -1353,7 +1359,9 @@ zh	019d940f	music/music-compose	serena moss8b	48	2026-11-22 00:23:04	tts	c1db373
 zh	02d356ce	music/music-compose	serena moss8b	48	2026-11-22 00:21:00	tts	d9be6421ad
 zh	37a6a6f3	music/music-compose	serena moss8b	48	2026-11-22 00:25:53	tts	16f8f5707f
 zh	495aeb86	music/music-compose	serena moss8b	48	2026-11-22 00:27:46	tts	1b56cc6659
+zh	60e590fc	music/music-compose	serena moss8b	48	2026-11-22 00:42:13	tts	8fdc1ff80d
 zh	6e58dd5b	music/music-compose	serena moss8b	48	2026-11-22 00:21:07	tts	b63021ee3c
+zh	6f82ac2d	music/music-compose	serena moss8b	48	2026-11-22 00:43:06	tts	28de53a720
 zh	7b4df987	music/music-compose	serena moss8b	48	2026-11-22 00:30:22	tts	8f37c78fb6
 zh	bbae1970	music/music-compose	serena moss8b	48	2026-11-22 00:22:21	tts	c232e448f9
 zh	c21dc902	music/music-compose	serena moss8b	48	2026-11-22 00:22:30	tts	2790ce036b
@@ -1371,6 +1379,7 @@ zh	78df1326	music/music-history	serena moss8b	48	2026-11-22 00:27:30	tts	608ceb3
 zh	82d5c5f0	music/music-history	serena moss8b	48	2026-11-21 14:40:24	tts	fd18c842b0
 zh	83ff0a01	music/music-history	serena moss8b	48	2026-11-22 00:23:21	tts	ac2a1f896a
 zh	8817e8e5	music/music-history	serena moss8b	48	2026-11-22 00:23:43	tts	8ffc8b1bd0
+zh	9f3ca8f3	music/music-history	serena moss8b	48	2026-11-22 00:43:40	tts	7fb16492fc
 zh	ae9d1c58	music/music-history	serena moss8b	48	2026-11-22 00:28:53	tts	cc8fa70554
 zh	b5e27ae8	music/music-history	serena moss8b	48	2026-11-22 00:29:05	tts	cce7dc5d84
 zh	b7ef3668	music/music-history	serena moss8b	48	2026-11-22 00:21:26	tts	a7b11edc47
@@ -1378,6 +1387,7 @@ zh	bee34545	music/music-history	serena moss8b	48	2026-11-22 00:29:30	tts	3382bd8
 zh	c4023218	music/music-history	serena moss8b	48	2026-11-22 00:29:57	tts	8977f6cfd7
 zh	d04e01c6	music/music-history	serena moss8b	48	2026-11-22 00:24:00	tts	de2c7c0d44
 zh	dcfdcc3b	music/music-history	serena moss8b	48	2026-11-22 00:26:35	tts	e6471fac2c
+zh	e32d7ced	music/music-history	serena moss8b	48	2026-11-22 00:42:12	tts	3bb67efbca
 zh	f3bc7393	music/music-history	serena moss8b	48	2026-11-22 00:20:13	tts	cd4f3f91cb
 zh	f8a31887	music/music-history	serena moss8b	48	2026-11-22 00:25:27	tts	1f65bf4f8b
 zh	0b3fc5dc	music/music-instruments	serena moss8b	48	2026-11-22 00:19:41	tts	ac9fcb3ce2
@@ -1388,9 +1398,11 @@ zh	231c837e	music/music-instruments	serena moss8b	48	2026-11-22 00:18:45	tts	deb
 zh	2b6594a5	music/music-instruments	serena moss8b	48	2026-11-22 00:24:59	tts	b53f731095
 zh	344baa7f	music/music-instruments	serena moss8b	48	2026-11-22 00:21:11	tts	6680fb7b37
 zh	4328f124	music/music-instruments	serena moss8b	48	2026-11-22 00:31:44	tts	8599070784
+zh	458b2150	music/music-instruments	serena moss8b	48	2026-11-22 00:42:49	tts	8291750c36
 zh	5481b666	music/music-instruments	serena moss8b	48	2026-11-21 14:40:10	tts	86fe4f8ee6
 zh	5f69e3a9	music/music-instruments	serena moss8b	48	2026-11-22 00:19:06	tts	4634ac987b
 zh	7dd7a16a	music/music-instruments	serena moss8b	48	2026-11-22 00:30:02	tts	b97b2ad391
+zh	818498b1	music/music-instruments	serena moss8b	48	2026-11-22 00:42:35	tts	3715137d6a
 zh	8a0e1d10	music/music-instruments	serena moss8b	48	2026-11-22 00:28:44	tts	803f6b4f04
 zh	8c322332	music/music-instruments	serena moss8b	48	2026-11-22 00:19:13	tts	f2d5e2de1d
 zh	900a3a43	music/music-instruments	serena moss8b	48	2026-11-22 00:19:38	tts	89640546d5
@@ -1400,6 +1412,7 @@ zh	a20843ee	music/music-instruments	serena moss8b	48	2026-11-22 00:21:19	tts	61d
 zh	a2fb6d75	music/music-instruments	serena moss8b	48	2026-11-22 00:24:36	tts	fc5efd0c4d
 zh	a30d72c8	music/music-instruments	serena moss8b	48	2026-11-21 14:40:22	tts	acf43bbe58
 zh	a5373f60	music/music-instruments	serena moss8b	48	2026-11-22 00:19:15	tts	11f92d837b
+zh	a951dfa4	music/music-instruments	serena moss8b	48	2026-11-22 00:42:30	tts	988d281b93
 zh	d05dc523	music/music-instruments	serena moss8b	48	2026-11-22 00:21:39	tts	2b60be374c
 zh	e35a9474	music/music-instruments	serena moss8b	48	2026-11-22 00:21:44	tts	0f3c3f415d
 zh	e8e1378a	music/music-instruments	serena moss8b	48	2026-11-22 00:20:09	tts	b3ca7f9ff6
@@ -1420,6 +1433,8 @@ zh	c4f57686	music/music-listening	serena moss8b	48	2026-11-22 00:31:31	tts	9d4b2
 zh	cf777b0b	music/music-listening	serena moss8b	48	2026-11-22 00:20:19	tts	3ea3037c1f
 zh	e6a04b19	music/music-listening	serena moss8b	48	2026-11-22 00:28:46	tts	0193fa701b
 zh	ea212609	music/music-listening	serena moss8b	48	2026-11-22 00:20:17	tts	f24b690af9
+zh	ec21f1ae	music/music-listening	serena moss8b	48	2026-11-22 00:43:00	tts	756e8195e2
+zh	178a3e0f	music/music-pitch	serena moss8b	48	2026-11-22 00:42:11	tts	b971f67ce2
 zh	32897a25	music/music-pitch	serena moss8b	48	2026-11-22 00:23:28	tts	517907f350
 zh	4cdd3659	music/music-pitch	serena moss8b	48	2026-11-22 00:19:23	tts	68b3af9bf5
 zh	54e07386	music/music-pitch	serena moss8b	48	2026-11-22 00:27:18	tts	4391507906
@@ -1428,6 +1443,7 @@ zh	603d2448	music/music-pitch	serena moss8b	48	2026-11-22 00:20:05	tts	eb8fe6079
 zh	6d6e28de	music/music-pitch	serena moss8b	48	2026-11-22 00:18:08	tts	9d0da60a92
 zh	90fa16bf	music/music-pitch	serena moss8b	48	2026-11-22 00:20:53	tts	507ea8071b
 zh	cf3c4c65	music/music-pitch	serena moss8b	48	2026-11-22 00:21:12	tts	bade1408fe
+zh	dae0b4e2	music/music-pitch	serena moss8b	48	2026-11-22 00:42:26	tts	388b0e35dc
 zh	f8bf8655	music/music-pitch	serena moss8b	48	2026-11-22 00:19:55	tts	e1785cc923
 zh	0173c36b	music/music-rhythm	serena moss8b	48	2026-11-22 00:25:21	tts	65b701939d
 zh	0ac11378	music/music-rhythm	serena moss8b	48	2026-11-22 00:27:59	tts	4e59a3244a
