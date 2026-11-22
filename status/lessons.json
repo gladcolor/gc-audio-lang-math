@@ -520,16 +520,17 @@
  },
  "math/coordinate-plane": {
   "counts": {
-   "done": 11,
+   "done": 53,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 11
+   "missing": 30,
+   "old": 2,
+   "total": 85
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "5078d015ae01",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/coordinate-plane.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -537,7 +538,7 @@
    "en": "The Coordinate Plane",
    "zh": "平面直角坐标系"
   },
-  "updated": "2026-11-21 21:43:33",
+  "updated": "2026-11-22 16:29:16",
   "verified": ""
  },
  "math/equations": {
