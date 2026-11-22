@@ -878,7 +878,7 @@
    "old": 0,
    "total": 69
   },
-  "fingerprint": "",
+  "fingerprint": "693b9144e94a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/integers.html",
   "record_demand": true,
@@ -889,7 +889,7 @@
    "en": "Integers & Absolute Value",
    "zh": "整数与绝对值"
   },
-  "updated": "2026-11-22 16:45:11",
+  "updated": "2026-11-22 20:20:06",
   "verified": ""
  },
  "math/inverse-proportion": {
