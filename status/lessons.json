@@ -501,16 +501,17 @@
  },
  "math/congruent-triangles": {
   "counts": {
-   "done": 14,
+   "done": 139,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 14
+   "missing": 50,
+   "old": 2,
+   "total": 191
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "50805a73df36",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/congruent-triangles.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -518,7 +519,7 @@
    "en": "Congruent Triangles & Proofs",
    "zh": "全等三角形与轴对称"
   },
-  "updated": "2026-11-21 20:04:04",
+  "updated": "2026-11-22 17:08:18",
   "verified": ""
  },
  "math/coordinate-plane": {
