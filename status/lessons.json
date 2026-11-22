@@ -1484,25 +1484,26 @@
  },
  "math/systems": {
   "counts": {
-   "done": 67,
+   "done": 78,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 53,
    "old": 0,
-   "total": 67
+   "total": 131
   },
   "fingerprint": "7a1806c56818",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/systems.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Systems of Equations",
    "zh": "二元一次方程组"
   },
-  "updated": "2026-11-22 20:22:01",
+  "updated": "2026-11-22 22:36:41",
   "verified": ""
  },
  "math/transformations": {
