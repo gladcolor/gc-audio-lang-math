@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 20:27:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:31:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Updated 2026-11-22 20:27:04. Labels: finished / in progress / no audio / failed 
 | math/axial-symmetry | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-22 17:29:22 | 2026-11-22 17:37:14 |
 | math/circle-theorems | finished | 211 | 0 | 0 | 0 | 0 | 2026-11-22 17:30:14 | 2026-11-22 17:38:06 |
 | math/circles | finished | 68 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:46 |  |
-| math/congruent-triangles | finished | 191 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:54 | 2026-11-22 17:39:29 |
+| math/congruent-triangles | finished | 191 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:54 |  |
 | math/coordinate-plane | finished | 85 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:01 |  |
 | math/equations | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:33 |  |
 | math/exponents | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:25 |  |
@@ -41,7 +41,7 @@ Updated 2026-11-22 20:27:04. Labels: finished / in progress / no audio / failed 
 | math/fractals | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:11 | 2026-11-22 17:39:00 |
 | math/fraction-division | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:26 |  |
 | math/functions | finished | 71 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:40 |  |
-| math/geometric-constructions | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:58 | 2026-11-22 17:39:37 |
+| math/geometric-constructions | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:58 |  |
 | math/integers | finished | 69 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:06 |  |
 | math/inverse-proportion | finished | 138 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:37 |  |
 | math/linear-functions | finished | 156 | 0 | 0 | 0 | 0 | 2026-11-22 17:32:31 | 2026-11-22 17:38:49 |
@@ -58,13 +58,13 @@ Updated 2026-11-22 20:27:04. Labels: finished / in progress / no audio / failed 
 | math/quadratic-functions | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-22 17:27:46 | 2026-11-22 17:36:44 |
 | math/radicals | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-22 17:30:54 | 2026-11-22 17:38:09 |
 | math/rational-expressions | finished | 111 | 0 | 0 | 0 | 0 | 2026-11-22 17:28:36 | 2026-11-22 17:36:44 |
-| math/ratios | finished | 76 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:53 |  |
+| math/ratios | in progress | 91 | 1 | 51 | 0 | 0 | 2026-11-22 22:31:35 |  |
 | math/roots-irrationals | finished | 61 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:56 |  |
 | math/rotation-symmetry | finished | 149 | 0 | 0 | 0 | 0 | 2026-11-22 17:34:13 | 2026-11-22 17:39:33 |
 | math/sampling | finished | 87 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:09 |  |
 | math/scale-drawings | finished | 56 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:00 |  |
 | math/scatter-plots | finished | 181 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:59 |  |
-| math/similar-triangles | finished | 101 | 0 | 0 | 0 | 0 | 2026-11-22 17:29:10 | 2026-11-22 17:37:00 |
+| math/similar-triangles | finished | 101 | 0 | 0 | 0 | 0 | 2026-11-22 17:29:10 |  |
 | math/slope | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:15 |  |
 | math/statistics | finished | 166 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:51 |  |
 | math/surface-volume | finished | 78 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:43 |  |
@@ -93,7 +93,7 @@ Updated 2026-11-22 20:27:04. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-song-ci | finished | 632 | 0 | 0 | 0 | 0 | 2026-11-22 19:45:33 | 2026-11-22 20:02:49 |
 | yuwen/yw-tang-poems | finished | 274 | 0 | 0 | 0 | 0 | 2026-11-22 19:42:20 | 2026-11-22 20:00:02 |
 | yuwen/yw-wenyan-7 | finished | 1271 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:34 |  |
-| yuwen/yw-wenyan-8 | finished | 741 | 0 | 0 | 0 | 0 | 2026-11-22 10:19:54 | 2026-11-22 10:26:21 |
+| yuwen/yw-wenyan-8 | finished | 741 | 0 | 0 | 0 | 0 | 2026-11-22 10:19:54 |  |
 | yuwen/yw-wenyan-9 | finished | 1509 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:22 |  |
 | yuwen/yw-wenyan-basics | finished | 318 | 0 | 0 | 0 | 0 | 2026-11-22 19:54:16 | 2026-11-22 20:00:10 |
 | yuwen/yw-wenyan-classics | finished | 452 | 0 | 0 | 0 | 0 | 2026-11-22 19:54:39 | 2026-11-22 20:01:31 |
