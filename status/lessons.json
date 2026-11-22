@@ -1074,15 +1074,15 @@
  },
  "math/ratios": {
   "counts": {
-   "done": 29,
+   "done": 76,
    "failed": 0,
    "held": 0,
-   "missing": 47,
+   "missing": 0,
    "old": 0,
    "total": 76
   },
   "fingerprint": "6fff52f4d3c0",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/ratios.html",
   "record_demand": true,
   "record_langs": [
@@ -1092,7 +1092,7 @@
    "en": "Ratios & Rates",
    "zh": "比与比率"
   },
-  "updated": "2026-11-22 16:27:57",
+  "updated": "2026-11-22 16:43:51",
   "verified": ""
  },
  "math/roots-irrationals": {
