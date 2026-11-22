@@ -1840,25 +1840,27 @@
  },
  "yuwen/yw-wenyan-8": {
   "counts": {
-   "done": 295,
+   "done": 395,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 770,
    "old": 0,
-   "total": 295
+   "total": 1165
   },
-  "fingerprint": "cfc06e06ef23",
-  "label": "finished",
+  "fingerprint": "fa5fb50242ef",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-8.html",
+  "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Grade 8 Classical Prose",
    "zh": "八年级文言文"
   },
-  "updated": "2026-11-21 23:36:14",
-  "verified": "2026-11-21 23:38:57"
+  "updated": "2026-11-22 02:57:22",
+  "verified": ""
  },
  "yuwen/yw-wenyan-9": {
   "counts": {
