@@ -591,7 +591,7 @@
    "zh": "指数与科学记数法"
   },
   "updated": "2026-11-22 17:08:01",
-  "verified": ""
+  "verified": "2026-11-22 17:27:32"
  },
  "math/expressions": {
   "counts": {
@@ -705,7 +705,7 @@
    "zh": "函数"
   },
   "updated": "2026-11-22 17:15:12",
-  "verified": ""
+  "verified": "2026-11-22 17:27:37"
  },
  "math/geometric-constructions": {
   "counts": {
@@ -819,7 +819,7 @@
    "zh": "负数的运算"
   },
   "updated": "2026-11-22 17:04:48",
-  "verified": ""
+  "verified": "2026-11-22 17:27:15"
  },
  "math/parallel-quadrilaterals": {
   "counts": {
@@ -1029,15 +1029,15 @@
  },
  "math/quadratic-functions": {
   "counts": {
-   "done": 120,
+   "done": 136,
    "failed": 0,
    "held": 0,
-   "missing": 14,
-   "old": 2,
+   "missing": 0,
+   "old": 0,
    "total": 136
   },
   "fingerprint": "d2746cc5e468",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/quadratic-functions.html",
   "record_demand": true,
   "record_langs": [
@@ -1047,7 +1047,7 @@
    "en": "Quadratic Functions & Parabolas",
    "zh": "二次函数"
   },
-  "updated": "2026-11-22 17:06:01",
+  "updated": "2026-11-22 17:27:46",
   "verified": ""
  },
  "math/radicals": {
@@ -1139,7 +1139,7 @@
    "zh": "平方根与无理数"
   },
   "updated": "2026-11-22 17:18:46",
-  "verified": ""
+  "verified": "2026-11-22 17:27:15"
  },
  "math/rotation-symmetry": {
   "counts": {
@@ -1299,7 +1299,7 @@
    "zh": "平均数、中位数与离散程度"
   },
   "updated": "2026-11-22 17:09:01",
-  "verified": ""
+  "verified": "2026-11-22 17:27:43"
  },
  "math/surface-volume": {
   "counts": {
@@ -1368,7 +1368,7 @@
    "zh": "图形变换、全等与相似"
   },
   "updated": "2026-11-22 17:03:46",
-  "verified": ""
+  "verified": "2026-11-22 17:27:34"
  },
  "math/triangles": {
   "counts": {
