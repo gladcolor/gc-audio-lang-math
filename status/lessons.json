@@ -1062,7 +1062,7 @@
    "old": 0,
    "total": 62
   },
-  "fingerprint": "",
+  "fingerprint": "f680ff200fd1",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/probability.html",
   "record_demand": true,
@@ -1073,7 +1073,7 @@
    "en": "Probability",
    "zh": "概率"
   },
-  "updated": "2026-11-22 17:28:19",
+  "updated": "2026-11-22 20:21:24",
   "verified": ""
  },
  "math/projections-three-views": {
