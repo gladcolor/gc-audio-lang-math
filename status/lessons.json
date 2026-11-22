@@ -434,16 +434,17 @@
  },
  "math/axial-symmetry": {
   "counts": {
-   "done": 11,
+   "done": 49,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 11
+   "missing": 75,
+   "old": 3,
+   "total": 127
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "8f156f7254f2",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/math/axial-symmetry.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -451,7 +452,7 @@
    "en": "Reflection Symmetry & Isosceles Triangles",
    "zh": "轴对称与等腰三角形"
   },
-  "updated": "2026-11-21 20:04:25",
+  "updated": "2026-11-22 17:15:03",
   "verified": ""
  },
  "math/circle-theorems": {
