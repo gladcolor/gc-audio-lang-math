@@ -1194,10 +1194,10 @@
  },
  "math/scatter-plots": {
   "counts": {
-   "done": 36,
+   "done": 92,
    "failed": 0,
    "held": 0,
-   "missing": 145,
+   "missing": 89,
    "old": 0,
    "total": 181
   },
@@ -1212,7 +1212,7 @@
    "en": "Scatter Plots & Trends",
    "zh": "散点图与趋势"
   },
-  "updated": "2026-11-22 17:01:01",
+  "updated": "2026-11-22 17:01:44",
   "verified": ""
  },
  "math/similar-triangles": {
