@@ -2050,15 +2050,15 @@
  },
  "yuwen/yw-writing": {
   "counts": {
-   "done": 132,
+   "done": 134,
    "failed": 0,
    "held": 0,
-   "missing": 2,
+   "missing": 0,
    "old": 0,
    "total": 134
   },
   "fingerprint": "378a11ba39fd",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-writing.html",
   "record_demand": true,
   "record_langs": [
@@ -2068,7 +2068,7 @@
    "en": "Writing in Chinese",
    "zh": "写作"
   },
-  "updated": "2026-11-22 19:53:01",
+  "updated": "2026-11-22 20:04:56",
   "verified": ""
  }
 }
