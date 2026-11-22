@@ -833,15 +833,15 @@
  },
  "math/percents": {
   "counts": {
-   "done": 60,
+   "done": 62,
    "failed": 0,
    "held": 0,
-   "missing": 1,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 62
   },
   "fingerprint": "fcfa3df41493",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/math/percents.html",
   "record_demand": true,
   "record_langs": [
@@ -851,7 +851,7 @@
    "en": "Percent",
    "zh": "百分数"
   },
-  "updated": "2026-11-22 16:44:13",
+  "updated": "2026-11-22 16:45:46",
   "verified": ""
  },
  "math/polynomial-multiplication": {
