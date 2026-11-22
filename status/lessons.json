@@ -818,10 +818,10 @@
  },
  "math/parallel-quadrilaterals": {
   "counts": {
-   "done": 53,
+   "done": 127,
    "failed": 0,
    "held": 0,
-   "missing": 141,
+   "missing": 67,
    "old": 0,
    "total": 194
   },
@@ -836,7 +836,7 @@
    "en": "Parallel Lines & Quadrilaterals",
    "zh": "平行线与四边形"
   },
-  "updated": "2026-11-22 17:06:38",
+  "updated": "2026-11-22 17:07:16",
   "verified": ""
  },
  "math/percents": {
