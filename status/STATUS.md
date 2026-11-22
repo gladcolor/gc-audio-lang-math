@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 17:27:53. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 17:28:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Updated 2026-11-22 17:27:53. Labels: finished / in progress / no audio / failed 
 | math/equations | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:39 | 2026-11-22 17:19:39 |
 | math/exponents | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-22 17:08:01 | 2026-11-22 17:27:32 |
 | math/expressions | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-22 16:44:30 | 2026-11-22 16:59:18 |
-| math/factoring | finished | 104 | 0 | 0 | 0 | 0 | 2026-11-22 17:09:40 |  |
+| math/factoring | finished | 104 | 0 | 0 | 0 | 0 | 2026-11-22 17:09:40 | 2026-11-22 17:28:08 |
 | math/fractals | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 21:38:50 | 2026-11-21 21:43:02 |
 | math/fraction-division | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-22 16:58:07 | 2026-11-22 17:18:55 |
 | math/functions | finished | 71 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:12 | 2026-11-22 17:27:37 |
@@ -41,14 +41,14 @@ Updated 2026-11-22 17:27:53. Labels: finished / in progress / no audio / failed 
 | math/inverse-proportion | finished | 138 | 0 | 0 | 0 | 0 | 2026-11-22 17:15:27 |  |
 | math/linear-functions | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 20:04:29 | 2026-11-21 21:18:09 |
 | math/negative-operations | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-22 17:04:48 | 2026-11-22 17:27:15 |
-| math/parallel-quadrilaterals | in progress | 182 | 0 | 12 | 0 | 0 | 2026-11-22 17:07:44 |  |
+| math/parallel-quadrilaterals | finished | 194 | 0 | 0 | 0 | 0 | 2026-11-22 17:28:13 |  |
 | math/percents | finished | 62 | 0 | 0 | 0 | 0 | 2026-11-22 16:45:46 | 2026-11-22 16:59:21 |
 | math/polynomial-multiplication | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-22 17:14:25 | 2026-11-22 17:19:40 |
 | math/polynomials | in progress | 83 | 0 | 26 | 0 | 0 | 2026-11-22 17:13:24 |  |
 | math/probability | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:46:59 | 2026-11-21 21:50:40 |
 | math/projections-three-views | in progress | 123 | 0 | 37 | 0 | 0 | 2026-11-22 17:12:53 |  |
 | math/proportional | finished | 72 | 0 | 0 | 0 | 0 | 2026-11-22 17:01:23 | 2026-11-22 17:19:39 |
-| math/pythagorean | finished | 64 | 0 | 0 | 0 | 0 | 2026-11-22 17:07:07 |  |
+| math/pythagorean | finished | 64 | 0 | 0 | 0 | 0 | 2026-11-22 17:07:07 | 2026-11-22 17:27:56 |
 | math/quadratic-equations | in progress | 70 | 0 | 100 | 0 | 0 | 2026-11-22 17:04:13 |  |
 | math/quadratic-functions | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-22 17:27:46 |  |
 | math/radicals | in progress | 45 | 0 | 78 | 0 | 0 | 2026-11-22 17:03:34 |  |
