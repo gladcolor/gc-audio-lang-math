@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-22 20:15:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:20:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Updated 2026-11-22 20:15:59. Labels: finished / in progress / no audio / failed 
 | math/circle-theorems | finished | 211 | 0 | 0 | 0 | 0 | 2026-11-22 17:30:14 | 2026-11-22 17:38:06 |
 | math/circles | finished | 68 | 0 | 0 | 0 | 0 | 2026-11-22 16:59:55 |  |
 | math/congruent-triangles | finished | 191 | 0 | 0 | 0 | 0 | 2026-11-22 17:33:54 | 2026-11-22 17:39:29 |
-| math/coordinate-plane | finished | 85 | 0 | 0 | 0 | 0 | 2026-11-22 17:29:37 |  |
+| math/coordinate-plane | finished | 85 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:01 |  |
 | math/equations | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:39 |  |
 | math/exponents | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-22 17:08:01 |  |
 | math/expressions | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-22 16:44:30 |  |
@@ -97,4 +97,4 @@ Updated 2026-11-22 20:15:59. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-wenyan-9 | in progress | 1427 | 0 | 82 | 0 | 0 | 2026-11-22 19:49:22 |  |
 | yuwen/yw-wenyan-basics | finished | 318 | 0 | 0 | 0 | 0 | 2026-11-22 19:54:16 | 2026-11-22 20:00:10 |
 | yuwen/yw-wenyan-classics | finished | 452 | 0 | 0 | 0 | 0 | 2026-11-22 19:54:39 | 2026-11-22 20:01:31 |
-| yuwen/yw-writing | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 20:04:56 |  |
+| yuwen/yw-writing | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 20:04:56 | 2026-11-22 20:19:10 |
