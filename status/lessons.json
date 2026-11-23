@@ -278,11 +278,11 @@
  },
  "ela/argument-writing": {
   "counts": {
-   "done": 244,
+   "done": 279,
    "failed": 0,
    "held": 0,
-   "missing": 47,
-   "old": 3,
+   "missing": 15,
+   "old": 0,
    "total": 294
   },
   "fingerprint": "13655e3fdd96",
@@ -297,7 +297,7 @@
    "en": "Write an Argument",
    "zh": "写议论文"
   },
-  "updated": "2026-11-23 02:17:30",
+  "updated": "2026-11-23 02:18:08",
   "verified": ""
  },
  "ela/central-idea": {
