@@ -1257,7 +1257,7 @@
    "old": 0,
    "total": 212
   },
-  "fingerprint": "",
+  "fingerprint": "c5f649b13c91",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/rational-expressions.html",
   "record_demand": true,
@@ -1269,7 +1269,7 @@
    "en": "Algebraic Fractions",
    "zh": "分式"
   },
-  "updated": "2026-11-22 22:48:46",
+  "updated": "2026-11-23 01:13:27",
   "verified": ""
  },
  "math/ratios": {
