@@ -1878,11 +1878,11 @@
  },
  "yuwen/yw-idioms": {
   "counts": {
-   "done": 772,
+   "done": 848,
    "failed": 0,
    "held": 0,
-   "missing": 148,
-   "old": 8,
+   "missing": 79,
+   "old": 1,
    "total": 928
   },
   "fingerprint": "db53c14723c2",
@@ -1897,7 +1897,7 @@
    "en": "Idioms, Couplets & Traditional Culture",
    "zh": "成语、对联与传统文化"
   },
-  "updated": "2026-11-23 03:06:23",
+  "updated": "2026-11-23 03:06:56",
   "verified": ""
  },
  "yuwen/yw-modern-classics": {
