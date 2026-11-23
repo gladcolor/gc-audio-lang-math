@@ -392,26 +392,27 @@
  },
  "ela/narrative-techniques": {
   "counts": {
-   "done": 283,
+   "done": 347,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 283
+   "missing": 158,
+   "old": 33,
+   "total": 538
   },
   "fingerprint": "ed5840eee2d7",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/narrative-techniques.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Narrative Techniques: Flashback, Foreshadowing & More",
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
-  "updated": "2026-11-22 18:56:42",
-  "verified": "2026-11-22 19:00:17"
+  "updated": "2026-11-23 02:13:12",
+  "verified": ""
  },
  "ela/narrative-writing": {
   "counts": {
@@ -574,7 +575,7 @@
    "zh": "多边形的面积"
   },
   "updated": "2026-11-23 01:14:19",
-  "verified": ""
+  "verified": "2026-11-23 01:36:14"
  },
  "math/axial-symmetry": {
   "counts": {
@@ -598,7 +599,7 @@
    "zh": "轴对称与等腰三角形"
   },
   "updated": "2026-11-23 01:20:03",
-  "verified": ""
+  "verified": "2026-11-23 01:59:37"
  },
  "math/circle-theorems": {
   "counts": {
@@ -622,7 +623,7 @@
    "zh": "圆的性质"
   },
   "updated": "2026-11-23 01:13:07",
-  "verified": ""
+  "verified": "2026-11-23 01:36:13"
  },
  "math/circles": {
   "counts": {
@@ -646,7 +647,7 @@
    "zh": "圆的周长与面积"
   },
   "updated": "2026-11-23 01:08:39",
-  "verified": ""
+  "verified": "2026-11-23 01:28:39"
  },
  "math/congruent-triangles": {
   "counts": {
@@ -670,7 +671,7 @@
    "zh": "全等三角形与轴对称"
   },
   "updated": "2026-11-23 01:14:33",
-  "verified": ""
+  "verified": "2026-11-23 01:36:40"
  },
  "math/coordinate-plane": {
   "counts": {
@@ -718,7 +719,7 @@
    "zh": "解方程与不等式"
   },
   "updated": "2026-11-23 01:19:56",
-  "verified": ""
+  "verified": "2026-11-23 01:59:37"
  },
  "math/exponents": {
   "counts": {
@@ -742,7 +743,7 @@
    "zh": "指数与科学记数法"
   },
   "updated": "2026-11-23 01:14:49",
-  "verified": ""
+  "verified": "2026-11-23 01:36:15"
  },
  "math/expressions": {
   "counts": {
@@ -790,7 +791,7 @@
    "zh": "整式乘法与因式分解"
   },
   "updated": "2026-11-23 01:28:13",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "math/fractals": {
   "counts": {
@@ -838,7 +839,7 @@
    "zh": "分数除法"
   },
   "updated": "2026-11-23 01:01:42",
-  "verified": ""
+  "verified": "2026-11-23 01:44:35"
  },
  "math/functions": {
   "counts": {
@@ -862,7 +863,7 @@
    "zh": "函数"
   },
   "updated": "2026-11-23 01:13:53",
-  "verified": ""
+  "verified": "2026-11-23 01:34:18"
  },
  "math/geometric-constructions": {
   "counts": {
@@ -886,7 +887,7 @@
    "zh": "尺规作图与几何证明"
   },
   "updated": "2026-11-23 01:11:49",
-  "verified": ""
+  "verified": "2026-11-23 01:33:24"
  },
  "math/integers": {
   "counts": {
@@ -910,7 +911,7 @@
    "zh": "整数与绝对值"
   },
   "updated": "2026-11-23 01:02:05",
-  "verified": ""
+  "verified": "2026-11-23 01:45:20"
  },
  "math/inverse-proportion": {
   "counts": {
@@ -934,7 +935,7 @@
    "zh": "反比例函数"
   },
   "updated": "2026-11-23 01:16:05",
-  "verified": ""
+  "verified": "2026-11-23 01:46:36"
  },
  "math/linear-functions": {
   "counts": {
@@ -982,7 +983,7 @@
    "zh": "负数的运算"
   },
   "updated": "2026-11-23 01:20:54",
-  "verified": ""
+  "verified": "2026-11-23 01:59:38"
  },
  "math/parallel-quadrilaterals": {
   "counts": {
@@ -1030,7 +1031,7 @@
    "zh": "百分数"
   },
   "updated": "2026-11-23 01:02:44",
-  "verified": ""
+  "verified": "2026-11-23 01:45:09"
  },
  "math/polynomial-multiplication": {
   "counts": {
@@ -1054,7 +1055,7 @@
    "zh": "整式的乘法与乘法公式"
   },
   "updated": "2026-11-23 01:15:57",
-  "verified": ""
+  "verified": "2026-11-23 01:46:24"
  },
  "math/polynomials": {
   "counts": {
@@ -1078,7 +1079,7 @@
    "zh": "代数式与整式的加减"
   },
   "updated": "2026-11-23 01:12:16",
-  "verified": ""
+  "verified": "2026-11-23 01:33:25"
  },
  "math/probability": {
   "counts": {
@@ -1102,7 +1103,7 @@
    "zh": "概率"
   },
   "updated": "2026-11-23 01:00:55",
-  "verified": ""
+  "verified": "2026-11-23 01:44:02"
  },
  "math/projections-three-views": {
   "counts": {
@@ -1150,7 +1151,7 @@
    "zh": "正比例关系"
   },
   "updated": "2026-11-23 01:19:15",
-  "verified": ""
+  "verified": "2026-11-23 01:51:00"
  },
  "math/pythagorean": {
   "counts": {
@@ -1174,7 +1175,7 @@
    "zh": "勾股定理"
   },
   "updated": "2026-11-23 01:22:26",
-  "verified": ""
+  "verified": "2026-11-23 01:59:41"
  },
  "math/quadratic-equations": {
   "counts": {
@@ -1198,7 +1199,7 @@
    "zh": "一元二次方程"
   },
   "updated": "2026-11-23 01:10:52",
-  "verified": ""
+  "verified": "2026-11-23 01:32:15"
  },
  "math/quadratic-functions": {
   "counts": {
@@ -1222,7 +1223,7 @@
    "zh": "二次函数"
   },
   "updated": "2026-11-23 01:13:16",
-  "verified": ""
+  "verified": "2026-11-23 01:36:14"
  },
  "math/radicals": {
   "counts": {
@@ -1270,7 +1271,7 @@
    "zh": "分式"
   },
   "updated": "2026-11-23 01:13:27",
-  "verified": ""
+  "verified": "2026-11-23 01:36:14"
  },
  "math/ratios": {
   "counts": {
@@ -1318,7 +1319,7 @@
    "zh": "平方根与无理数"
   },
   "updated": "2026-11-23 01:09:23",
-  "verified": ""
+  "verified": "2026-11-23 01:29:39"
  },
  "math/rotation-symmetry": {
   "counts": {
@@ -1366,7 +1367,7 @@
    "zh": "抽样与推断"
   },
   "updated": "2026-11-23 01:10:21",
-  "verified": ""
+  "verified": "2026-11-23 01:30:33"
  },
  "math/scale-drawings": {
   "counts": {
@@ -1390,7 +1391,7 @@
    "zh": "比例图"
   },
   "updated": "2026-11-23 01:15:13",
-  "verified": ""
+  "verified": "2026-11-23 01:36:40"
  },
  "math/scatter-plots": {
   "counts": {
@@ -1414,7 +1415,7 @@
    "zh": "散点图与趋势"
   },
   "updated": "2026-11-23 01:14:41",
-  "verified": ""
+  "verified": "2026-11-23 01:36:15"
  },
  "math/similar-triangles": {
   "counts": {
@@ -1438,7 +1439,7 @@
    "zh": "相似三角形"
   },
   "updated": "2026-11-23 01:14:11",
-  "verified": ""
+  "verified": "2026-11-23 01:36:14"
  },
  "math/slope": {
   "counts": {
@@ -1534,7 +1535,7 @@
    "zh": "二元一次方程组"
   },
   "updated": "2026-11-23 01:24:29",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "math/transformations": {
   "counts": {
@@ -1558,7 +1559,7 @@
    "zh": "图形变换、全等与相似"
   },
   "updated": "2026-11-23 01:21:53",
-  "verified": ""
+  "verified": "2026-11-23 01:59:40"
  },
  "math/triangles": {
   "counts": {
@@ -1582,7 +1583,7 @@
    "zh": "三角形：边、角与重要线段"
   },
   "updated": "2026-11-23 01:00:46",
-  "verified": ""
+  "verified": "2026-11-23 01:45:18"
  },
  "math/trig-ratios": {
   "counts": {
@@ -1606,7 +1607,7 @@
    "zh": "锐角三角函数"
   },
   "updated": "2026-11-23 01:16:29",
-  "verified": ""
+  "verified": "2026-11-23 01:46:25"
  },
  "math/volume-solids": {
   "counts": {
@@ -1630,7 +1631,7 @@
    "zh": "圆柱、圆锥与球的体积"
   },
   "updated": "2026-11-23 01:15:05",
-  "verified": ""
+  "verified": "2026-11-23 01:36:15"
  },
  "music/music-compose": {
   "counts": {
