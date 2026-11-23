@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 02:58:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 02:59:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -22,11 +22,11 @@ Updated 2026-11-23 02:58:19. Labels: finished / in progress / no audio / failed 
 | ela/figurative-language | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:21 | 2026-11-23 02:25:04 |
 | ela/grammar-sentences | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:17 |  |
 | ela/narrative-techniques | finished | 538 | 0 | 0 | 0 | 0 | 2026-11-23 02:49:54 |  |
-| ela/narrative-writing | finished | 305 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:00 |  |
+| ela/narrative-writing | finished | 305 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:00 | 2026-11-23 02:58:57 |
 | ela/research-media | finished | 283 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:13 |  |
 | ela/text-structure | finished | 166 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:37 | 2026-11-23 02:24:46 |
 | ela/theme-plot | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:09 | 2026-11-23 02:25:31 |
-| ela/vocabulary-roots | finished | 220 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:04 |  |
+| ela/vocabulary-roots | finished | 220 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:04 | 2026-11-23 02:58:58 |
 | math/angles | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-23 01:04:32 | 2026-11-23 01:25:58 |
 | math/area | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:19 | 2026-11-23 01:36:14 |
 | math/axial-symmetry | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:03 | 2026-11-23 01:59:37 |
@@ -90,7 +90,7 @@ Updated 2026-11-23 02:58:19. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-poems-8 | finished | 1039 | 0 | 0 | 0 | 0 | 2026-11-22 20:13:35 |  |
 | yuwen/yw-poems-9 | finished | 809 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:59 |  |
 | yuwen/yw-rhetoric | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 19:59:48 |  |
-| yuwen/yw-song-ci | finished | 632 | 0 | 0 | 0 | 0 | 2026-11-22 19:45:33 |  |
+| yuwen/yw-song-ci | in progress | 747 | 2 | 44 | 0 | 0 | 2026-11-23 02:59:35 |  |
 | yuwen/yw-tang-poems | in progress | 338 | 2 | 96 | 0 | 0 | 2026-11-23 02:57:52 |  |
 | yuwen/yw-wenyan-7 | finished | 1271 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:34 |  |
 | yuwen/yw-wenyan-8 | finished | 741 | 0 | 0 | 0 | 0 | 2026-11-22 10:19:54 |  |
