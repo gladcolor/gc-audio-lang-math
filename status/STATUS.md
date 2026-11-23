@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 04:46:12. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:46:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -84,7 +84,7 @@ Updated 2026-11-23 04:46:12. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-expository | finished | 266 | 0 | 0 | 0 | 0 | 2026-11-23 04:45:57 |  |
 | yuwen/yw-hanzi | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-23 04:45:52 |  |
 | yuwen/yw-idioms | finished | 928 | 0 | 0 | 0 | 0 | 2026-11-23 04:46:09 |  |
-| yuwen/yw-modern-classics | finished | 3159 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:45 |  |
+| yuwen/yw-modern-classics | finished | 3159 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:45 | 2026-11-23 04:46:14 |
 | yuwen/yw-narrative | finished | 290 | 0 | 0 | 0 | 0 | 2026-11-23 03:06:11 |  |
 | yuwen/yw-poems-7 | finished | 1067 | 0 | 0 | 0 | 0 | 2026-11-23 03:29:30 |  |
 | yuwen/yw-poems-8 | finished | 1561 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:54 |  |
@@ -93,7 +93,7 @@ Updated 2026-11-23 04:46:12. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-song-ci | finished | 793 | 0 | 0 | 0 | 0 | 2026-11-23 04:46:01 |  |
 | yuwen/yw-tang-poems | finished | 436 | 0 | 0 | 0 | 0 | 2026-11-23 04:45:46 |  |
 | yuwen/yw-wenyan-7 | in progress | 1800 | 58 | 0 | 0 | 0 | 2026-11-23 04:45:42 |  |
-| yuwen/yw-wenyan-8 | finished | 1165 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:24 |  |
+| yuwen/yw-wenyan-8 | in progress | 1164 | 1 | 0 | 0 | 0 | 2026-11-23 04:46:37 |  |
 | yuwen/yw-wenyan-9 | finished | 2005 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:57 |  |
 | yuwen/yw-wenyan-basics | finished | 451 | 0 | 0 | 0 | 0 | 2026-11-23 04:46:04 |  |
 | yuwen/yw-wenyan-classics | finished | 573 | 0 | 0 | 0 | 0 | 2026-11-23 03:07:14 |  |

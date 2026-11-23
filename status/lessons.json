@@ -1941,7 +1941,7 @@
    "zh": "现代文名篇（鲁迅、朱自清等）"
   },
   "updated": "2026-11-23 03:58:45",
-  "verified": ""
+  "verified": "2026-11-23 04:46:14"
  },
  "yuwen/yw-narrative": {
   "counts": {
@@ -2137,15 +2137,15 @@
  },
  "yuwen/yw-wenyan-8": {
   "counts": {
-   "done": 1165,
+   "done": 1164,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 1,
    "total": 1165
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "c468ca471f95",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-8.html",
   "record_demand": true,
   "record_langs": [
@@ -2156,7 +2156,7 @@
    "en": "Grade 8 Classical Prose",
    "zh": "八年级文言文"
   },
-  "updated": "2026-11-23 03:57:24",
+  "updated": "2026-11-23 04:46:37",
   "verified": ""
  },
  "yuwen/yw-wenyan-9": {
