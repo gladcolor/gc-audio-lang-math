@@ -2061,10 +2061,10 @@
  },
  "yuwen/yw-tang-poems": {
   "counts": {
-   "done": 291,
+   "done": 338,
    "failed": 0,
    "held": 0,
-   "missing": 143,
+   "missing": 96,
    "old": 2,
    "total": 436
   },
@@ -2080,7 +2080,7 @@
    "en": "Tang Poems: Images & Feelings",
    "zh": "唐诗鉴赏：意象与意境"
   },
-  "updated": "2026-11-23 02:57:18",
+  "updated": "2026-11-23 02:57:52",
   "verified": ""
  },
  "yuwen/yw-wenyan-7": {
