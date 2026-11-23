@@ -2180,11 +2180,11 @@
  },
  "yuwen/yw-wenyan-classics": {
   "counts": {
-   "done": 527,
+   "done": 561,
    "failed": 0,
    "held": 0,
-   "missing": 40,
-   "old": 6,
+   "missing": 7,
+   "old": 5,
    "total": 573
   },
   "fingerprint": "0ae8ff0eaabe",
@@ -2199,7 +2199,7 @@
    "en": "Classical Prose Masterpieces",
    "zh": "文言名篇"
   },
-  "updated": "2026-11-23 03:01:08",
+  "updated": "2026-11-23 03:01:27",
   "verified": ""
  },
  "yuwen/yw-writing": {
