@@ -1692,25 +1692,26 @@
  },
  "music/music-instruments": {
   "counts": {
-   "done": 186,
+   "done": 210,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 186
+   "missing": 135,
+   "old": 10,
+   "total": 355
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "06c661212d31",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/music/music-instruments.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Instruments of the World",
    "zh": "世界各地的乐器"
   },
-  "updated": "2026-11-22 20:24:46",
+  "updated": "2026-11-23 03:39:46",
   "verified": ""
  },
  "music/music-listening": {
@@ -1827,7 +1828,7 @@
    "zh": "名著导读"
   },
   "updated": "2026-11-23 03:23:00",
-  "verified": ""
+  "verified": "2026-11-23 03:37:26"
  },
  "yuwen/yw-expository": {
   "counts": {
@@ -1874,7 +1875,7 @@
    "zh": "汉字的演变与书法"
   },
   "updated": "2026-11-23 03:30:05",
-  "verified": ""
+  "verified": "2026-11-23 03:36:39"
  },
  "yuwen/yw-idioms": {
   "counts": {
