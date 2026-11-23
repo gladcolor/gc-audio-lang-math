@@ -1161,7 +1161,7 @@
    "old": 0,
    "total": 123
   },
-  "fingerprint": "",
+  "fingerprint": "d8035531cb03",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/pythagorean.html",
   "record_demand": true,
@@ -1173,7 +1173,7 @@
    "en": "The Pythagorean Theorem",
    "zh": "勾股定理"
   },
-  "updated": "2026-11-22 22:39:07",
+  "updated": "2026-11-23 01:22:26",
   "verified": ""
  },
  "math/quadratic-equations": {
