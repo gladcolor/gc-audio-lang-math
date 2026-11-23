@@ -515,10 +515,10 @@
  },
  "ela/vocabulary-roots": {
   "counts": {
-   "done": 128,
+   "done": 144,
    "failed": 0,
    "held": 0,
-   "missing": 88,
+   "missing": 72,
    "old": 4,
    "total": 220
   },
@@ -534,7 +534,7 @@
    "en": "Word Roots & Context Clues",
    "zh": "词根与上下文线索"
   },
-  "updated": "2026-11-23 02:18:49",
+  "updated": "2026-11-23 02:19:24",
   "verified": ""
  },
  "math/angles": {
