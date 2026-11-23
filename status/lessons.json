@@ -1681,15 +1681,15 @@
  },
  "music/music-history": {
   "counts": {
-   "done": 261,
+   "done": 420,
    "failed": 0,
    "held": 0,
-   "missing": 152,
-   "old": 7,
+   "missing": 0,
+   "old": 0,
    "total": 420
   },
   "fingerprint": "abf27c561b3c",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-history.html",
   "record_demand": true,
   "record_langs": [
@@ -1700,7 +1700,7 @@
    "en": "Music Through Time & Cultures",
    "zh": "穿越时空与文化的音乐"
   },
-  "updated": "2026-11-23 03:45:06",
+  "updated": "2026-11-23 03:58:24",
   "verified": ""
  },
  "music/music-instruments": {
