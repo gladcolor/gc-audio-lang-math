@@ -186,10 +186,10 @@
  },
  "art/art-perspective": {
   "counts": {
-   "done": 188,
+   "done": 205,
    "failed": 0,
    "held": 0,
-   "missing": 49,
+   "missing": 32,
    "old": 0,
    "total": 237
   },
@@ -205,7 +205,7 @@
    "en": "Perspective & Space",
    "zh": "透视与空间"
   },
-  "updated": "2026-11-23 03:48:31",
+  "updated": "2026-11-23 03:49:00",
   "verified": ""
  },
  "art/art-sculpture": {
