@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 03:39:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:40:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Updated 2026-11-23 03:39:46. Labels: finished / in progress / no audio / failed 
 | music/music-history | finished | 219 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:05 |  |
 | music/music-instruments | in progress | 210 | 10 | 135 | 0 | 0 | 2026-11-23 03:39:46 |  |
 | music/music-listening | finished | 217 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:00 |  |
-| music/music-pitch | finished | 137 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:23 |  |
+| music/music-pitch | in progress | 196 | 4 | 58 | 0 | 0 | 2026-11-23 03:40:25 |  |
 | music/music-rhythm | finished | 159 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:23 |  |
 | yuwen/yw-argumentative | finished | 119 | 0 | 0 | 0 | 0 | 2026-11-22 19:56:36 |  |
 | yuwen/yw-classics | finished | 565 | 0 | 0 | 0 | 0 | 2026-11-23 03:23:00 | 2026-11-23 03:37:26 |
@@ -86,7 +86,7 @@ Updated 2026-11-23 03:39:46. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-idioms | finished | 928 | 0 | 0 | 0 | 0 | 2026-11-23 03:23:31 |  |
 | yuwen/yw-modern-classics | in progress | 2985 | 67 | 107 | 0 | 0 | 2026-11-23 03:30:23 |  |
 | yuwen/yw-narrative | finished | 290 | 0 | 0 | 0 | 0 | 2026-11-23 03:06:11 |  |
-| yuwen/yw-poems-7 | finished | 1067 | 0 | 0 | 0 | 0 | 2026-11-23 03:29:30 |  |
+| yuwen/yw-poems-7 | finished | 1067 | 0 | 0 | 0 | 0 | 2026-11-23 03:29:30 | 2026-11-23 03:39:53 |
 | yuwen/yw-poems-8 | finished | 1561 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:54 |  |
 | yuwen/yw-poems-9 | in progress | 1194 | 0 | 114 | 0 | 0 | 2026-11-23 03:16:09 |  |
 | yuwen/yw-rhetoric | in progress | 428 | 11 | 70 | 0 | 0 | 2026-11-23 03:02:43 |  |
