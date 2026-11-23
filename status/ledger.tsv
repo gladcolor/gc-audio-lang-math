@@ -252,6 +252,7 @@ zh	fec08651	art/art-architecture	serena moss8b	48	2026-11-22 20:13:51	tts	f8bebb
 zh	ff000334	art/art-architecture	serena moss8b	48	2026-11-22 20:13:23	tts	f8a800b774
 zh	ff8b88cd	art/art-architecture	serena moss8b	48	2026-11-22 20:13:39	tts	2a8c075ce6
 en	0a837342	art/art-chinese	serena moss8b	48	2026-11-23 03:44:49	tts	0df1dcdc14
+en	53e8c9e3	art/art-chinese	serena moss8b	48	2026-11-23 03:46:32	tts	029a6062e5
 en	56d7fe1e	art/art-chinese	serena moss8b	48	2026-11-23 03:46:22	tts	57dc15f526
 en	8265b568	art/art-chinese	serena moss8b	48	2026-11-23 03:45:28	tts	d1432be053
 en	8bdd166f	art/art-chinese	serena moss8b	48	2026-11-23 03:45:29	tts	f47bc65d27
@@ -373,6 +374,7 @@ en	09c24a2b	art/art-color	serena moss8b	48	2026-11-23 03:46:08	tts	3e3a870510
 en	0cf13b4d	art/art-color	serena moss8b	48	2026-11-23 03:45:51	tts	677c327ca2
 en	0dc00d03	art/art-color	serena moss8b	48	2026-11-23 03:46:08	tts	5e54b7a6ea
 en	0e854ca0	art/art-color	serena moss8b	48	2026-11-23 03:45:23	tts	5f4edce6fb
+en	1d4b241d	art/art-color	serena moss8b	48	2026-11-23 03:46:32	tts	b4007c1cf9
 en	1e823af8	art/art-color	serena moss8b	48	2026-11-23 03:45:17	tts	02079e5628
 en	26f39a81	art/art-color	serena moss8b	48	2026-11-23 03:44:49	tts	70d529b119
 en	2b6c1157	art/art-color	serena moss8b	48	2026-11-23 03:45:13	tts	e848576089
@@ -1245,6 +1247,7 @@ zh	ff8165b5	art/art-landscape	serena moss8b	48	2026-11-21 15:00:08	tts	629628305
 en	1701512d	art/art-perspective	serena moss8b	48	2026-11-23 03:46:22	tts	ab2ecb323c
 en	22db36b8	art/art-perspective	serena moss8b	48	2026-11-23 03:45:17	tts	382d94d782
 en	2d7a2aaa	art/art-perspective	serena moss8b	48	2026-11-23 03:46:15	tts	5af57eab24
+en	4b905eed	art/art-perspective	serena moss8b	48	2026-11-23 03:46:32	tts	d374386387
 en	504497da	art/art-perspective	serena moss8b	48	2026-11-23 03:45:13	tts	bf34ba0630
 en	577a6e39	art/art-perspective	serena moss8b	48	2026-11-23 03:46:21	tts	2c43dc16d2
 en	587e1ab9	art/art-perspective	serena moss8b	48	2026-11-23 03:46:16	tts	27977f1ce2
@@ -15083,6 +15086,7 @@ en	12e8ef78	music/music-history	serena moss8b	48	2026-11-23 03:46:13	tts	6f8aec3
 en	1ae1e662	music/music-history	serena moss8b	48	2026-11-23 03:44:51	tts	9374368176
 en	1c57aa64	music/music-history	serena moss8b	48	2026-11-23 03:40:32	tts	92a2c5784d
 en	21990256	music/music-history	serena moss8b	48	2026-11-23 03:44:31	tts	a42e2494bf
+en	24a4e595	music/music-history	serena moss8b	48	2026-11-23 03:46:33	tts	65758702e1
 en	2b7fac9e	music/music-history	serena moss8b	48	2026-11-23 03:43:30	tts	40a3305e1c
 en	2db2a61a	music/music-history	serena moss8b	48	2026-11-23 03:46:17	tts	8906d5b3b6
 en	2dfcbf6a	music/music-history	serena moss8b	48	2026-11-23 03:40:48	tts	bc37f08427
@@ -15768,6 +15772,7 @@ en	e76eb27d	music/music-listening	serena moss8b	48	2026-11-23 03:45:24	tts	92ef9
 en	e8eb847d	music/music-listening	serena moss8b	48	2026-11-23 03:45:50	tts	1f06c8ec30
 en	eb1d8052	music/music-listening	serena moss8b	48	2026-11-23 03:45:26	tts	912f597590
 en	ed82bbca	music/music-listening	serena moss8b	48	2026-11-23 03:46:06	tts	58e87f51eb
+en	ef22a816	music/music-listening	serena moss8b	48	2026-11-23 03:46:32	tts	f742b15980
 en	f173b2d6	music/music-listening	serena moss8b	48	2026-11-23 03:44:52	tts	d174d4d9e5
 en	fb6f4be6	music/music-listening	serena moss8b	48	2026-11-23 03:45:13	tts	18b89f0599
 en	fc6ca205	music/music-listening	serena moss8b	48	2026-11-23 03:46:17	tts	69b7296ff9
@@ -17431,6 +17436,7 @@ en	eaba4c42	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:01:32	tts	3cae504
 en	f19d7f3a	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:02:39	tts	dfdb188ec3
 en	f2ee3f62	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:01:32	tts	8fce496845
 en	f5e92ee5	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:43:19	tts	974ac61e9f
+en	f7d91793	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:46:33	tts	7dc180ad00
 en	f9c6c103	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:02:20	tts	4404bdef65
 en	fb175905	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:00:17	tts	f398399c26
 en	fb934e5a	yuwen/yw-expository	serena moss8b	48	2026-11-23 03:02:20	tts	8c04715b67
