@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 04:39:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:39:57. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Updated 2026-11-23 04:39:25. Labels: finished / in progress / no audio / failed 
 | art/art-sculpture | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:14 |  |
 | art/art-theater | finished | 668 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:11 |  |
 | ela/argument-evidence | finished | 187 | 0 | 0 | 0 | 0 | 2026-11-23 02:20:20 | 2026-11-23 02:25:39 |
-| ela/argument-writing | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:52 |  |
+| ela/argument-writing | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 04:39:57 |  |
 | ela/central-idea | finished | 251 | 0 | 0 | 0 | 0 | 2026-11-23 02:43:01 |  |
 | ela/character-pov | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:49 |  |
 | ela/figurative-language | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:21 |  |
