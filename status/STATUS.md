@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 03:46:40. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:47:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -73,7 +73,7 @@ Updated 2026-11-23 03:46:40. Labels: finished / in progress / no audio / failed 
 | math/triangles | finished | 351 | 0 | 0 | 0 | 0 | 2026-11-23 01:00:46 | 2026-11-23 01:45:18 |
 | math/trig-ratios | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:29 | 2026-11-23 01:46:25 |
 | math/volume-solids | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:05 | 2026-11-23 01:36:15 |
-| music/music-compose | in progress | 169 | 1 | 95 | 0 | 0 | 2026-11-23 03:43:35 |  |
+| music/music-compose | in progress | 209 | 1 | 55 | 0 | 0 | 2026-11-23 03:47:18 |  |
 | music/music-history | in progress | 261 | 7 | 152 | 0 | 0 | 2026-11-23 03:45:06 |  |
 | music/music-instruments | in progress | 210 | 10 | 135 | 0 | 0 | 2026-11-23 03:39:46 |  |
 | music/music-listening | in progress | 266 | 0 | 159 | 0 | 0 | 2026-11-23 03:45:44 |  |

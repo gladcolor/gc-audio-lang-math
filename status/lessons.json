@@ -1647,10 +1647,10 @@
  },
  "music/music-compose": {
   "counts": {
-   "done": 169,
+   "done": 209,
    "failed": 0,
    "held": 0,
-   "missing": 95,
+   "missing": 55,
    "old": 1,
    "total": 265
   },
@@ -1666,7 +1666,7 @@
    "en": "Compose a Melody",
    "zh": "创作一段旋律"
   },
-  "updated": "2026-11-23 03:43:35",
+  "updated": "2026-11-23 03:47:18",
   "verified": ""
  },
  "music/music-history": {
