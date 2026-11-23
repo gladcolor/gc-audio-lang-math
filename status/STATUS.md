@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 04:39:10. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:39:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -53,7 +53,7 @@ Updated 2026-11-23 04:39:10. Labels: finished / in progress / no audio / failed 
 | math/probability | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-23 04:36:45 |  |
 | math/projections-three-views | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:16 |  |
 | math/proportional | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-23 04:36:16 |  |
-| math/pythagorean | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:26 |  |
+| math/pythagorean | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-23 04:39:19 |  |
 | math/quadratic-equations | finished | 336 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:52 |  |
 | math/quadratic-functions | finished | 264 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:16 |  |
 | math/radicals | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 04:36:38 |  |
