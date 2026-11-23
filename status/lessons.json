@@ -1997,11 +1997,11 @@
  },
  "yuwen/yw-poems-9": {
   "counts": {
-   "done": 887,
+   "done": 953,
    "failed": 0,
    "held": 0,
-   "missing": 420,
-   "old": 1,
+   "missing": 355,
+   "old": 0,
    "total": 1308
   },
   "fingerprint": "51dae94182f1",
@@ -2016,7 +2016,7 @@
    "en": "Grade 9 Classical Poems",
    "zh": "九年级古诗词"
   },
-  "updated": "2026-11-23 03:14:14",
+  "updated": "2026-11-23 03:14:22",
   "verified": ""
  },
  "yuwen/yw-rhetoric": {
