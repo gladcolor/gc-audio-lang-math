@@ -446,25 +446,26 @@
  },
  "ela/research-media": {
   "counts": {
-   "done": 114,
+   "done": 246,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 114
+   "missing": 34,
+   "old": 3,
+   "total": 283
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "442db1926bc9",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/research-media.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Research & Media Literacy",
    "zh": "研究与媒介素养"
   },
-  "updated": "2026-11-22 19:00:14",
+  "updated": "2026-11-23 02:21:06",
   "verified": ""
  },
  "ela/text-structure": {
