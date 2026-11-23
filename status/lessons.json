@@ -2161,15 +2161,15 @@
  },
  "yuwen/yw-wenyan-9": {
   "counts": {
-   "done": 2005,
+   "done": 2003,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 2,
    "total": 2005
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "e385448ffef0",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-9.html",
   "record_demand": true,
   "record_langs": [
@@ -2180,7 +2180,7 @@
    "en": "Grade 9 Classical Prose",
    "zh": "九年级文言文"
   },
-  "updated": "2026-11-23 03:57:57",
+  "updated": "2026-11-23 04:50:24",
   "verified": ""
  },
  "yuwen/yw-wenyan-basics": {
