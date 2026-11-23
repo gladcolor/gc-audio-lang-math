@@ -348,26 +348,27 @@
  },
  "ela/figurative-language": {
   "counts": {
-   "done": 110,
+   "done": 213,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 110
+   "total": 213
   },
   "fingerprint": "2c9a74f93515",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/figurative-language.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Figurative Language & Poetry",
    "zh": "修辞语言与诗歌"
   },
-  "updated": "2026-11-22 18:56:04",
-  "verified": "2026-11-22 18:59:13"
+  "updated": "2026-11-23 02:16:21",
+  "verified": ""
  },
  "ela/grammar-sentences": {
   "counts": {
