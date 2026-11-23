@@ -166,25 +166,26 @@
  },
  "art/art-landscape": {
   "counts": {
-   "done": 189,
+   "done": 263,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 114,
    "old": 0,
-   "total": 189
+   "total": 377
   },
   "fingerprint": "4405d262b731",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/art/art-landscape.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Landscapes: Mountains, Water & Light",
    "zh": "山水与风景"
   },
-  "updated": "2026-11-22 20:26:37",
+  "updated": "2026-11-23 03:52:45",
   "verified": ""
  },
  "art/art-perspective": {
