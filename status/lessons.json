@@ -1377,7 +1377,7 @@
    "old": 0,
    "total": 112
   },
-  "fingerprint": "",
+  "fingerprint": "d1575150846d",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/scale-drawings.html",
   "record_demand": true,
@@ -1389,7 +1389,7 @@
    "en": "Scale Drawings",
    "zh": "比例图"
   },
-  "updated": "2026-11-22 22:36:28",
+  "updated": "2026-11-23 01:15:13",
   "verified": ""
  },
  "math/scatter-plots": {
