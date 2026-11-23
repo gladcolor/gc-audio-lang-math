@@ -466,7 +466,7 @@
    "zh": "研究与媒介素养"
   },
   "updated": "2026-11-23 02:51:13",
-  "verified": ""
+  "verified": "2026-11-23 02:59:41"
  },
  "ela/text-structure": {
   "counts": {
@@ -1923,25 +1923,26 @@
  },
  "yuwen/yw-narrative": {
   "counts": {
-   "done": 165,
+   "done": 180,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 165
+   "missing": 104,
+   "old": 6,
+   "total": 290
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "fb4dbe855721",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-narrative.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Reading Narratives",
    "zh": "记叙文阅读"
   },
-  "updated": "2026-11-22 19:55:37",
+  "updated": "2026-11-23 03:00:10",
   "verified": ""
  },
  "yuwen/yw-poems-7": {
