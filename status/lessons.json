@@ -1425,7 +1425,7 @@
    "old": 0,
    "total": 208
   },
-  "fingerprint": "",
+  "fingerprint": "f7cc2b2872ec",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/similar-triangles.html",
   "record_demand": true,
@@ -1437,7 +1437,7 @@
    "en": "Similar Triangles",
    "zh": "相似三角形"
   },
-  "updated": "2026-11-22 22:49:41",
+  "updated": "2026-11-23 01:14:11",
   "verified": ""
  },
  "math/slope": {
