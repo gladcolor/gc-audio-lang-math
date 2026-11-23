@@ -1,10 +1,10 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 04:47:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:47:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
-| art/art-architecture | finished | 493 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:06 |  |
+| art/art-architecture | finished | 493 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:06 | 2026-11-23 04:47:36 |
 | art/art-chinese | finished | 224 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:19 |  |
 | art/art-color | finished | 221 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:01 |  |
 | art/art-daily | finished | 110 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:27 |  |
@@ -43,7 +43,7 @@ Updated 2026-11-23 04:47:06. Labels: finished / in progress / no audio / failed 
 | math/functions | finished | 141 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:20 |  |
 | math/geometric-constructions | finished | 380 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:18 |  |
 | math/integers | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-23 04:36:08 |  |
-| math/inverse-proportion | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:05 |  |
+| math/inverse-proportion | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 04:47:37 |  |
 | math/linear-functions | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 22:56:22 |  |
 | math/negative-operations | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:25 |  |
 | math/parallel-quadrilaterals | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:32 |  |
