@@ -518,15 +518,15 @@
  },
  "ela/vocabulary-roots": {
   "counts": {
-   "done": 144,
+   "done": 220,
    "failed": 0,
    "held": 0,
-   "missing": 72,
-   "old": 4,
+   "missing": 0,
+   "old": 0,
    "total": 220
   },
   "fingerprint": "c29250350218",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ela/vocabulary-roots.html",
   "record_demand": true,
   "record_langs": [
@@ -537,7 +537,7 @@
    "en": "Word Roots & Context Clues",
    "zh": "词根与上下文线索"
   },
-  "updated": "2026-11-23 02:19:24",
+  "updated": "2026-11-23 02:53:04",
   "verified": ""
  },
  "math/angles": {
