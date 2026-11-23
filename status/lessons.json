@@ -254,15 +254,15 @@
  },
  "ela/argument-evidence": {
   "counts": {
-   "done": 141,
+   "done": 187,
    "failed": 0,
    "held": 0,
-   "missing": 46,
+   "missing": 0,
    "old": 0,
    "total": 187
   },
   "fingerprint": "9ab4c84c24ab",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/ela/argument-evidence.html",
   "record_demand": true,
   "record_langs": [
@@ -273,7 +273,7 @@
    "en": "Claims, Evidence & Reasoning",
    "zh": "论点、论据与推理"
   },
-  "updated": "2026-11-23 02:16:42",
+  "updated": "2026-11-23 02:20:20",
   "verified": ""
  },
  "ela/argument-writing": {
