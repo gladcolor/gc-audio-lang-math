@@ -1807,10 +1807,10 @@
  },
  "yuwen/yw-classics": {
   "counts": {
-   "done": 390,
+   "done": 444,
    "failed": 0,
    "held": 0,
-   "missing": 167,
+   "missing": 113,
    "old": 8,
    "total": 565
   },
@@ -1826,7 +1826,7 @@
    "en": "Great Books (名著导读)",
    "zh": "名著导读"
   },
-  "updated": "2026-11-23 03:03:35",
+  "updated": "2026-11-23 03:03:55",
   "verified": ""
  },
  "yuwen/yw-expository": {
