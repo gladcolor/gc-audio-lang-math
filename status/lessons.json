@@ -561,7 +561,7 @@
    "old": 0,
    "total": 127
   },
-  "fingerprint": "",
+  "fingerprint": "e954d2fe7c0f",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/area.html",
   "record_demand": true,
@@ -573,7 +573,7 @@
    "en": "Area of Polygons",
    "zh": "多边形的面积"
   },
-  "updated": "2026-11-22 22:38:58",
+  "updated": "2026-11-23 01:14:19",
   "verified": ""
  },
  "math/axial-symmetry": {
