@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 03:01:08. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:01:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Updated 2026-11-23 03:01:08. Labels: finished / in progress / no audio / failed 
 | ela/character-pov | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:49 | 2026-11-23 02:25:09 |
 | ela/figurative-language | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:21 | 2026-11-23 02:25:04 |
 | ela/grammar-sentences | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:17 | 2026-11-23 03:00:17 |
-| ela/narrative-techniques | finished | 538 | 0 | 0 | 0 | 0 | 2026-11-23 02:49:54 |  |
+| ela/narrative-techniques | finished | 538 | 0 | 0 | 0 | 0 | 2026-11-23 02:49:54 | 2026-11-23 03:01:13 |
 | ela/narrative-writing | finished | 305 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:00 | 2026-11-23 02:58:57 |
 | ela/research-media | finished | 283 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:13 | 2026-11-23 02:59:41 |
 | ela/text-structure | finished | 166 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:37 | 2026-11-23 02:24:46 |
@@ -85,7 +85,7 @@ Updated 2026-11-23 03:01:08. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-hanzi | in progress | 340 | 4 | 77 | 0 | 0 | 2026-11-23 02:57:36 |  |
 | yuwen/yw-idioms | finished | 499 | 0 | 0 | 0 | 0 | 2026-11-22 20:03:55 |  |
 | yuwen/yw-modern-classics | finished | 2299 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:15 |  |
-| yuwen/yw-narrative | in progress | 180 | 6 | 104 | 0 | 0 | 2026-11-23 03:00:10 |  |
+| yuwen/yw-narrative | in progress | 226 | 2 | 62 | 0 | 0 | 2026-11-23 03:01:15 |  |
 | yuwen/yw-poems-7 | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-22 20:09:47 | 2026-11-22 20:22:11 |
 | yuwen/yw-poems-8 | finished | 1039 | 0 | 0 | 0 | 0 | 2026-11-22 20:13:35 |  |
 | yuwen/yw-poems-9 | finished | 809 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:59 |  |

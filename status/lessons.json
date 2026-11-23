@@ -418,7 +418,7 @@
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
   "updated": "2026-11-23 02:49:54",
-  "verified": ""
+  "verified": "2026-11-23 03:01:13"
  },
  "ela/narrative-writing": {
   "counts": {
@@ -1923,11 +1923,11 @@
  },
  "yuwen/yw-narrative": {
   "counts": {
-   "done": 180,
+   "done": 226,
    "failed": 0,
    "held": 0,
-   "missing": 104,
-   "old": 6,
+   "missing": 62,
+   "old": 2,
    "total": 290
   },
   "fingerprint": "fb4dbe855721",
@@ -1942,7 +1942,7 @@
    "en": "Reading Narratives",
    "zh": "记叙文阅读"
   },
-  "updated": "2026-11-23 03:00:10",
+  "updated": "2026-11-23 03:01:15",
   "verified": ""
  },
  "yuwen/yw-poems-7": {
