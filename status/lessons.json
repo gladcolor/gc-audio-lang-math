@@ -32,7 +32,7 @@
    "old": 0,
    "total": 224
   },
-  "fingerprint": "7a8c73defb10",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-chinese.html",
   "record_demand": true,
@@ -56,7 +56,7 @@
    "old": 0,
    "total": 221
   },
-  "fingerprint": "b49e04d9efe4",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-color.html",
   "record_demand": true,
@@ -80,7 +80,7 @@
    "old": 0,
    "total": 110
   },
-  "fingerprint": "df35da5754b4",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-daily.html",
   "record_demand": true,
@@ -104,7 +104,7 @@
    "old": 0,
    "total": 184
   },
-  "fingerprint": "144fb997e9ca",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-design.html",
   "record_demand": true,
@@ -141,7 +141,7 @@
    "zh": "电子游戏中的美"
   },
   "updated": "2026-11-23 03:59:18",
-  "verified": ""
+  "verified": "2026-11-23 04:34:30"
  },
  "art/art-history": {
   "counts": {
@@ -165,7 +165,7 @@
    "zh": "艺术史之旅"
   },
   "updated": "2026-11-23 03:59:14",
-  "verified": ""
+  "verified": "2026-11-23 04:34:30"
  },
  "art/art-landscape": {
   "counts": {
@@ -189,7 +189,7 @@
    "zh": "山水与风景"
   },
   "updated": "2026-11-23 03:59:05",
-  "verified": ""
+  "verified": "2026-11-23 04:34:30"
  },
  "art/art-perspective": {
   "counts": {
@@ -224,7 +224,7 @@
    "old": 0,
    "total": 447
   },
-  "fingerprint": "2cd5088b0289",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-sculpture.html",
   "record_demand": true,
@@ -296,7 +296,7 @@
    "old": 0,
    "total": 294
   },
-  "fingerprint": "13655e3fdd96",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/argument-writing.html",
   "record_demand": true,
@@ -309,7 +309,7 @@
    "zh": "写议论文"
   },
   "updated": "2026-11-23 02:51:52",
-  "verified": "2026-11-23 03:00:17"
+  "verified": ""
  },
  "ela/central-idea": {
   "counts": {
@@ -320,7 +320,7 @@
    "old": 0,
    "total": 251
   },
-  "fingerprint": "ad6b724ab67f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/central-idea.html",
   "record_demand": true,
@@ -333,7 +333,7 @@
    "zh": "中心思想与概括"
   },
   "updated": "2026-11-23 02:43:01",
-  "verified": "2026-11-23 02:50:24"
+  "verified": ""
  },
  "ela/character-pov": {
   "counts": {
@@ -344,7 +344,7 @@
    "old": 0,
    "total": 244
   },
-  "fingerprint": "175d9750766f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/character-pov.html",
   "record_demand": true,
@@ -357,7 +357,7 @@
    "zh": "人物与叙述视角"
   },
   "updated": "2026-11-23 02:16:49",
-  "verified": "2026-11-23 02:25:09"
+  "verified": ""
  },
  "ela/figurative-language": {
   "counts": {
@@ -368,7 +368,7 @@
    "old": 0,
    "total": 213
   },
-  "fingerprint": "2c9a74f93515",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/figurative-language.html",
   "record_demand": true,
@@ -381,7 +381,7 @@
    "zh": "修辞语言与诗歌"
   },
   "updated": "2026-11-23 02:16:21",
-  "verified": "2026-11-23 02:25:04"
+  "verified": ""
  },
  "ela/grammar-sentences": {
   "counts": {
@@ -392,7 +392,7 @@
    "old": 0,
    "total": 249
   },
-  "fingerprint": "0631a4b326ba",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/grammar-sentences.html",
   "record_demand": true,
@@ -405,7 +405,7 @@
    "zh": "句子、从句与标点"
   },
   "updated": "2026-11-23 02:54:17",
-  "verified": "2026-11-23 03:00:17"
+  "verified": ""
  },
  "ela/narrative-techniques": {
   "counts": {
@@ -416,7 +416,7 @@
    "old": 0,
    "total": 538
   },
-  "fingerprint": "ed5840eee2d7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/narrative-techniques.html",
   "record_demand": true,
@@ -429,7 +429,7 @@
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
   "updated": "2026-11-23 02:49:54",
-  "verified": "2026-11-23 03:01:13"
+  "verified": ""
  },
  "ela/narrative-writing": {
   "counts": {
@@ -440,7 +440,7 @@
    "old": 0,
    "total": 305
   },
-  "fingerprint": "33b84404037e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/narrative-writing.html",
   "record_demand": true,
@@ -453,7 +453,7 @@
    "zh": "写记叙文"
   },
   "updated": "2026-11-23 02:53:00",
-  "verified": "2026-11-23 02:58:57"
+  "verified": ""
  },
  "ela/research-media": {
   "counts": {
@@ -464,7 +464,7 @@
    "old": 0,
    "total": 283
   },
-  "fingerprint": "442db1926bc9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/research-media.html",
   "record_demand": true,
@@ -477,7 +477,7 @@
    "zh": "研究与媒介素养"
   },
   "updated": "2026-11-23 02:51:13",
-  "verified": "2026-11-23 02:59:41"
+  "verified": ""
  },
  "ela/text-structure": {
   "counts": {
@@ -512,7 +512,7 @@
    "old": 0,
    "total": 295
   },
-  "fingerprint": "c70f89fb73b4",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/theme-plot.html",
   "record_demand": true,
@@ -525,7 +525,7 @@
    "zh": "情节、冲突与主题"
   },
   "updated": "2026-11-23 02:19:09",
-  "verified": "2026-11-23 02:25:31"
+  "verified": ""
  },
  "ela/vocabulary-roots": {
   "counts": {
@@ -536,7 +536,7 @@
    "old": 0,
    "total": 220
   },
-  "fingerprint": "c29250350218",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/ela/vocabulary-roots.html",
   "record_demand": true,
@@ -549,7 +549,7 @@
    "zh": "词根与上下文线索"
   },
   "updated": "2026-11-23 02:53:04",
-  "verified": "2026-11-23 02:58:58"
+  "verified": ""
  },
  "math/angles": {
   "counts": {
@@ -560,7 +560,7 @@
    "old": 0,
    "total": 113
   },
-  "fingerprint": "782d01704ca7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/angles.html",
   "record_demand": true,
@@ -573,7 +573,7 @@
    "zh": "角的关系"
   },
   "updated": "2026-11-23 01:04:32",
-  "verified": "2026-11-23 01:25:58"
+  "verified": ""
  },
  "math/area": {
   "counts": {
@@ -584,7 +584,7 @@
    "old": 0,
    "total": 127
   },
-  "fingerprint": "e954d2fe7c0f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/area.html",
   "record_demand": true,
@@ -597,7 +597,7 @@
    "zh": "多边形的面积"
   },
   "updated": "2026-11-23 01:14:19",
-  "verified": "2026-11-23 01:36:14"
+  "verified": ""
  },
  "math/axial-symmetry": {
   "counts": {
@@ -608,7 +608,7 @@
    "old": 0,
    "total": 244
   },
-  "fingerprint": "8f156f7254f2",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/axial-symmetry.html",
   "record_demand": true,
@@ -621,7 +621,7 @@
    "zh": "轴对称与等腰三角形"
   },
   "updated": "2026-11-23 01:20:03",
-  "verified": "2026-11-23 01:59:37"
+  "verified": ""
  },
  "math/circle-theorems": {
   "counts": {
@@ -632,7 +632,7 @@
    "old": 0,
    "total": 417
   },
-  "fingerprint": "0e858a0d6823",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/circle-theorems.html",
   "record_demand": true,
@@ -645,7 +645,7 @@
    "zh": "圆的性质"
   },
   "updated": "2026-11-23 01:13:07",
-  "verified": "2026-11-23 01:36:13"
+  "verified": ""
  },
  "math/circles": {
   "counts": {
@@ -656,7 +656,7 @@
    "old": 0,
    "total": 143
   },
-  "fingerprint": "6e00d8d32d98",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/circles.html",
   "record_demand": true,
@@ -669,7 +669,7 @@
    "zh": "圆的周长与面积"
   },
   "updated": "2026-11-23 01:08:39",
-  "verified": "2026-11-23 01:28:39"
+  "verified": ""
  },
  "math/congruent-triangles": {
   "counts": {
@@ -680,7 +680,7 @@
    "old": 0,
    "total": 369
   },
-  "fingerprint": "50805a73df36",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/congruent-triangles.html",
   "record_demand": true,
@@ -693,7 +693,7 @@
    "zh": "全等三角形与轴对称"
   },
   "updated": "2026-11-23 01:14:33",
-  "verified": "2026-11-23 01:36:40"
+  "verified": ""
  },
  "math/coordinate-plane": {
   "counts": {
@@ -704,7 +704,7 @@
    "old": 0,
    "total": 154
   },
-  "fingerprint": "5078d015ae01",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/coordinate-plane.html",
   "record_demand": true,
@@ -717,7 +717,7 @@
    "zh": "平面直角坐标系"
   },
   "updated": "2026-11-23 01:03:27",
-  "verified": "2026-11-23 01:25:58"
+  "verified": ""
  },
  "math/equations": {
   "counts": {
@@ -728,7 +728,7 @@
    "old": 0,
    "total": 356
   },
-  "fingerprint": "e0f44fd54014",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/equations.html",
   "record_demand": true,
@@ -741,7 +741,7 @@
    "zh": "解方程与不等式"
   },
   "updated": "2026-11-23 01:19:56",
-  "verified": "2026-11-23 01:59:37"
+  "verified": ""
  },
  "math/exponents": {
   "counts": {
@@ -752,7 +752,7 @@
    "old": 0,
    "total": 226
   },
-  "fingerprint": "c1a72f5debb4",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/exponents.html",
   "record_demand": true,
@@ -765,7 +765,7 @@
    "zh": "指数与科学记数法"
   },
   "updated": "2026-11-23 01:14:49",
-  "verified": "2026-11-23 01:36:15"
+  "verified": ""
  },
  "math/expressions": {
   "counts": {
@@ -776,7 +776,7 @@
    "old": 0,
    "total": 103
   },
-  "fingerprint": "74374ca9efe4",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/expressions.html",
   "record_demand": true,
@@ -789,7 +789,7 @@
    "zh": "代数式与分配律"
   },
   "updated": "2026-11-23 01:03:36",
-  "verified": "2026-11-23 01:25:58"
+  "verified": ""
  },
  "math/factoring": {
   "counts": {
@@ -848,7 +848,7 @@
    "old": 0,
    "total": 96
   },
-  "fingerprint": "308cfe3d84c7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/fraction-division.html",
   "record_demand": true,
@@ -861,7 +861,7 @@
    "zh": "分数除法"
   },
   "updated": "2026-11-23 01:01:42",
-  "verified": "2026-11-23 01:44:35"
+  "verified": ""
  },
  "math/functions": {
   "counts": {
@@ -872,7 +872,7 @@
    "old": 0,
    "total": 141
   },
-  "fingerprint": "f88d1f9bd511",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/functions.html",
   "record_demand": true,
@@ -885,7 +885,7 @@
    "zh": "函数"
   },
   "updated": "2026-11-23 01:13:53",
-  "verified": "2026-11-23 01:34:18"
+  "verified": ""
  },
  "math/geometric-constructions": {
   "counts": {
@@ -896,7 +896,7 @@
    "old": 0,
    "total": 380
   },
-  "fingerprint": "352486cbbf68",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/geometric-constructions.html",
   "record_demand": true,
@@ -909,7 +909,7 @@
    "zh": "尺规作图与几何证明"
   },
   "updated": "2026-11-23 01:11:49",
-  "verified": "2026-11-23 01:33:24"
+  "verified": ""
  },
  "math/integers": {
   "counts": {
@@ -920,7 +920,7 @@
    "old": 0,
    "total": 136
   },
-  "fingerprint": "693b9144e94a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/integers.html",
   "record_demand": true,
@@ -933,7 +933,7 @@
    "zh": "整数与绝对值"
   },
   "updated": "2026-11-23 01:02:05",
-  "verified": "2026-11-23 01:45:20"
+  "verified": ""
  },
  "math/inverse-proportion": {
   "counts": {
@@ -944,7 +944,7 @@
    "old": 0,
    "total": 271
   },
-  "fingerprint": "2a7a7687e440",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/inverse-proportion.html",
   "record_demand": true,
@@ -957,7 +957,7 @@
    "zh": "反比例函数"
   },
   "updated": "2026-11-23 01:16:05",
-  "verified": "2026-11-23 01:46:36"
+  "verified": ""
  },
  "math/linear-functions": {
   "counts": {
@@ -968,7 +968,7 @@
    "old": 0,
    "total": 317
   },
-  "fingerprint": "9fc097c7e44e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/linear-functions.html",
   "record_demand": true,
@@ -981,7 +981,7 @@
    "zh": "一次函数：图象、待定系数法与应用"
   },
   "updated": "2026-11-22 22:56:22",
-  "verified": "2026-11-23 00:50:48"
+  "verified": ""
  },
  "math/negative-operations": {
   "counts": {
@@ -992,7 +992,7 @@
    "old": 0,
    "total": 120
   },
-  "fingerprint": "6e9c535641a8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/negative-operations.html",
   "record_demand": true,
@@ -1005,7 +1005,7 @@
    "zh": "负数的运算"
   },
   "updated": "2026-11-23 01:20:54",
-  "verified": "2026-11-23 01:59:38"
+  "verified": ""
  },
  "math/parallel-quadrilaterals": {
   "counts": {
@@ -1016,7 +1016,7 @@
    "old": 0,
    "total": 389
   },
-  "fingerprint": "0fc441c5a163",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/parallel-quadrilaterals.html",
   "record_demand": true,
@@ -1029,7 +1029,7 @@
    "zh": "平行线与四边形"
   },
   "updated": "2026-11-22 22:48:05",
-  "verified": "2026-11-23 00:50:02"
+  "verified": ""
  },
  "math/percents": {
   "counts": {
@@ -1040,7 +1040,7 @@
    "old": 0,
    "total": 116
   },
-  "fingerprint": "fcfa3df41493",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/percents.html",
   "record_demand": true,
@@ -1053,7 +1053,7 @@
    "zh": "百分数"
   },
   "updated": "2026-11-23 01:02:44",
-  "verified": "2026-11-23 01:45:09"
+  "verified": ""
  },
  "math/polynomial-multiplication": {
   "counts": {
@@ -1088,7 +1088,7 @@
    "old": 0,
    "total": 215
   },
-  "fingerprint": "50b616e84d8c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/polynomials.html",
   "record_demand": true,
@@ -1101,7 +1101,7 @@
    "zh": "代数式与整式的加减"
   },
   "updated": "2026-11-23 01:12:16",
-  "verified": "2026-11-23 01:33:25"
+  "verified": ""
  },
  "math/probability": {
   "counts": {
@@ -1112,7 +1112,7 @@
    "old": 0,
    "total": 120
   },
-  "fingerprint": "f680ff200fd1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/probability.html",
   "record_demand": true,
@@ -1125,7 +1125,7 @@
    "zh": "概率"
   },
   "updated": "2026-11-23 01:00:55",
-  "verified": "2026-11-23 01:44:02"
+  "verified": ""
  },
  "math/projections-three-views": {
   "counts": {
@@ -1136,7 +1136,7 @@
    "old": 0,
    "total": 309
   },
-  "fingerprint": "9e57620c784d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/projections-three-views.html",
   "record_demand": true,
@@ -1149,7 +1149,7 @@
    "zh": "投影与三视图"
   },
   "updated": "2026-11-22 22:52:05",
-  "verified": "2026-11-23 00:49:39"
+  "verified": ""
  },
  "math/proportional": {
   "counts": {
@@ -1160,7 +1160,7 @@
    "old": 0,
    "total": 139
   },
-  "fingerprint": "16896c37ef74",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/proportional.html",
   "record_demand": true,
@@ -1173,7 +1173,7 @@
    "zh": "正比例关系"
   },
   "updated": "2026-11-23 01:19:15",
-  "verified": "2026-11-23 01:51:00"
+  "verified": ""
  },
  "math/pythagorean": {
   "counts": {
@@ -1184,7 +1184,7 @@
    "old": 0,
    "total": 123
   },
-  "fingerprint": "d8035531cb03",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/pythagorean.html",
   "record_demand": true,
@@ -1197,7 +1197,7 @@
    "zh": "勾股定理"
   },
   "updated": "2026-11-23 01:22:26",
-  "verified": "2026-11-23 01:59:41"
+  "verified": ""
  },
  "math/quadratic-equations": {
   "counts": {
@@ -1208,7 +1208,7 @@
    "old": 0,
    "total": 336
   },
-  "fingerprint": "0994d86e1227",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/quadratic-equations.html",
   "record_demand": true,
@@ -1221,7 +1221,7 @@
    "zh": "一元二次方程"
   },
   "updated": "2026-11-23 01:10:52",
-  "verified": "2026-11-23 01:32:15"
+  "verified": ""
  },
  "math/quadratic-functions": {
   "counts": {
@@ -1232,7 +1232,7 @@
    "old": 0,
    "total": 264
   },
-  "fingerprint": "d2746cc5e468",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/quadratic-functions.html",
   "record_demand": true,
@@ -1245,7 +1245,7 @@
    "zh": "二次函数"
   },
   "updated": "2026-11-23 01:13:16",
-  "verified": "2026-11-23 01:36:14"
+  "verified": ""
  },
  "math/radicals": {
   "counts": {
@@ -1256,7 +1256,7 @@
    "old": 0,
    "total": 233
   },
-  "fingerprint": "594cb4925617",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/radicals.html",
   "record_demand": true,
@@ -1269,7 +1269,7 @@
    "zh": "二次根式"
   },
   "updated": "2026-11-22 22:45:27",
-  "verified": "2026-11-23 00:49:04"
+  "verified": ""
  },
  "math/rational-expressions": {
   "counts": {
@@ -1280,7 +1280,7 @@
    "old": 0,
    "total": 212
   },
-  "fingerprint": "c5f649b13c91",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/rational-expressions.html",
   "record_demand": true,
@@ -1293,7 +1293,7 @@
    "zh": "分式"
   },
   "updated": "2026-11-23 01:13:27",
-  "verified": "2026-11-23 01:36:14"
+  "verified": ""
  },
  "math/ratios": {
   "counts": {
@@ -1316,8 +1316,8 @@
    "en": "Ratios & Rates",
    "zh": "比与比率"
   },
-  "updated": "2026-11-23 01:03:14",
-  "verified": "2026-11-23 01:24:42"
+  "updated": "2026-11-23 04:34:56",
+  "verified": ""
  },
  "math/roots-irrationals": {
   "counts": {
@@ -1328,7 +1328,7 @@
    "old": 0,
    "total": 115
   },
-  "fingerprint": "4dcb4d287827",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/roots-irrationals.html",
   "record_demand": true,
@@ -1341,7 +1341,7 @@
    "zh": "平方根与无理数"
   },
   "updated": "2026-11-23 01:09:23",
-  "verified": "2026-11-23 01:29:39"
+  "verified": ""
  },
  "math/rotation-symmetry": {
   "counts": {
@@ -1352,7 +1352,7 @@
    "old": 0,
    "total": 294
   },
-  "fingerprint": "9bdfbeb916bc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/rotation-symmetry.html",
   "record_demand": true,
@@ -1365,7 +1365,7 @@
    "zh": "旋转与中心对称"
   },
   "updated": "2026-11-23 01:06:53",
-  "verified": "2026-11-23 01:27:51"
+  "verified": ""
  },
  "math/sampling": {
   "counts": {
@@ -1376,7 +1376,7 @@
    "old": 0,
    "total": 172
   },
-  "fingerprint": "1c5d7ea88c59",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/sampling.html",
   "record_demand": true,
@@ -1389,7 +1389,7 @@
    "zh": "抽样与推断"
   },
   "updated": "2026-11-23 01:10:21",
-  "verified": "2026-11-23 01:30:33"
+  "verified": ""
  },
  "math/scale-drawings": {
   "counts": {
@@ -1400,7 +1400,7 @@
    "old": 0,
    "total": 112
   },
-  "fingerprint": "d1575150846d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/scale-drawings.html",
   "record_demand": true,
@@ -1413,7 +1413,7 @@
    "zh": "比例图"
   },
   "updated": "2026-11-23 01:15:13",
-  "verified": "2026-11-23 01:36:40"
+  "verified": ""
  },
  "math/scatter-plots": {
   "counts": {
@@ -1424,7 +1424,7 @@
    "old": 0,
    "total": 332
   },
-  "fingerprint": "564e704cbf9c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/scatter-plots.html",
   "record_demand": true,
@@ -1437,7 +1437,7 @@
    "zh": "散点图与趋势"
   },
   "updated": "2026-11-23 01:14:41",
-  "verified": "2026-11-23 01:36:15"
+  "verified": ""
  },
  "math/similar-triangles": {
   "counts": {
@@ -1472,7 +1472,7 @@
    "old": 0,
    "total": 118
   },
-  "fingerprint": "ac4a0b8eed8f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/slope.html",
   "record_demand": true,
@@ -1485,7 +1485,7 @@
    "zh": "斜率与一次函数"
   },
   "updated": "2026-11-23 01:05:55",
-  "verified": "2026-11-23 01:25:58"
+  "verified": ""
  },
  "math/statistics": {
   "counts": {
@@ -1496,7 +1496,7 @@
    "old": 0,
    "total": 316
   },
-  "fingerprint": "734eb6526557",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/statistics.html",
   "record_demand": true,
@@ -1509,7 +1509,7 @@
    "zh": "平均数、中位数与离散程度"
   },
   "updated": "2026-11-23 01:06:17",
-  "verified": "2026-11-23 01:27:04"
+  "verified": ""
  },
  "math/surface-volume": {
   "counts": {
@@ -1520,7 +1520,7 @@
    "old": 0,
    "total": 143
   },
-  "fingerprint": "6e471be872f8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/surface-volume.html",
   "record_demand": true,
@@ -1533,7 +1533,7 @@
    "zh": "表面积与体积"
   },
   "updated": "2026-11-23 01:07:35",
-  "verified": "2026-11-23 01:27:51"
+  "verified": ""
  },
  "math/systems": {
   "counts": {
@@ -1544,7 +1544,7 @@
    "old": 0,
    "total": 131
   },
-  "fingerprint": "7a1806c56818",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/systems.html",
   "record_demand": true,
@@ -1557,7 +1557,7 @@
    "zh": "二元一次方程组"
   },
   "updated": "2026-11-23 01:24:29",
-  "verified": "2026-11-23 02:12:11"
+  "verified": ""
  },
  "math/transformations": {
   "counts": {
@@ -1568,7 +1568,7 @@
    "old": 0,
    "total": 115
   },
-  "fingerprint": "93454f3d9ff1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/transformations.html",
   "record_demand": true,
@@ -1581,7 +1581,7 @@
    "zh": "图形变换、全等与相似"
   },
   "updated": "2026-11-23 01:21:53",
-  "verified": "2026-11-23 01:59:40"
+  "verified": ""
  },
  "math/triangles": {
   "counts": {
@@ -1592,7 +1592,7 @@
    "old": 0,
    "total": 351
   },
-  "fingerprint": "28ffc95596e0",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/triangles.html",
   "record_demand": true,
@@ -1605,7 +1605,7 @@
    "zh": "三角形：边、角与重要线段"
   },
   "updated": "2026-11-23 01:00:46",
-  "verified": "2026-11-23 01:45:18"
+  "verified": ""
  },
  "math/trig-ratios": {
   "counts": {
@@ -1616,7 +1616,7 @@
    "old": 0,
    "total": 190
   },
-  "fingerprint": "7ad475b4db04",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/trig-ratios.html",
   "record_demand": true,
@@ -1629,7 +1629,7 @@
    "zh": "锐角三角函数"
   },
   "updated": "2026-11-23 01:16:29",
-  "verified": "2026-11-23 01:46:25"
+  "verified": ""
  },
  "math/volume-solids": {
   "counts": {
@@ -1640,7 +1640,7 @@
    "old": 0,
    "total": 116
   },
-  "fingerprint": "15be9a59fea5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/volume-solids.html",
   "record_demand": true,
@@ -1653,7 +1653,7 @@
    "zh": "圆柱、圆锥与球的体积"
   },
   "updated": "2026-11-23 01:15:05",
-  "verified": "2026-11-23 01:36:15"
+  "verified": ""
  },
  "music/music-compose": {
   "counts": {
@@ -1664,7 +1664,7 @@
    "old": 0,
    "total": 265
   },
-  "fingerprint": "c976e0161db8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-compose.html",
   "record_demand": true,
@@ -1688,7 +1688,7 @@
    "old": 0,
    "total": 420
   },
-  "fingerprint": "abf27c561b3c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-history.html",
   "record_demand": true,
@@ -1712,7 +1712,7 @@
    "old": 0,
    "total": 355
   },
-  "fingerprint": "06c661212d31",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-instruments.html",
   "record_demand": true,
@@ -1749,7 +1749,7 @@
    "zh": "名曲欣赏：怎样听音乐"
   },
   "updated": "2026-11-23 03:56:55",
-  "verified": ""
+  "verified": "2026-11-23 04:34:30"
  },
  "music/music-pitch": {
   "counts": {
@@ -1760,7 +1760,7 @@
    "old": 0,
    "total": 258
   },
-  "fingerprint": "47d51d420024",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-pitch.html",
   "record_demand": true,
@@ -1784,7 +1784,7 @@
    "old": 0,
    "total": 306
   },
-  "fingerprint": "7ca8b76b9648",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/music/music-rhythm.html",
   "record_demand": true,
@@ -1808,7 +1808,7 @@
    "old": 0,
    "total": 214
   },
-  "fingerprint": "9c6b26d81720",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-argumentative.html",
   "record_demand": true,
@@ -1832,7 +1832,7 @@
    "old": 0,
    "total": 565
   },
-  "fingerprint": "c5c4dbf675e3",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-classics.html",
   "record_demand": true,
@@ -1845,7 +1845,7 @@
    "zh": "名著导读"
   },
   "updated": "2026-11-23 03:23:00",
-  "verified": "2026-11-23 03:37:26"
+  "verified": ""
  },
  "yuwen/yw-expository": {
   "counts": {
@@ -1856,7 +1856,7 @@
    "old": 0,
    "total": 266
   },
-  "fingerprint": "ed7b4b4e01ce",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-expository.html",
   "record_demand": true,
@@ -1880,7 +1880,7 @@
    "old": 0,
    "total": 421
   },
-  "fingerprint": "1a1e81789c5a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-hanzi.html",
   "record_demand": true,
@@ -1893,7 +1893,7 @@
    "zh": "汉字的演变与书法"
   },
   "updated": "2026-11-23 03:30:05",
-  "verified": "2026-11-23 03:36:39"
+  "verified": ""
  },
  "yuwen/yw-idioms": {
   "counts": {
@@ -1904,7 +1904,7 @@
    "old": 0,
    "total": 928
   },
-  "fingerprint": "db53c14723c2",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-idioms.html",
   "record_demand": true,
@@ -1917,7 +1917,7 @@
    "zh": "成语、对联与传统文化"
   },
   "updated": "2026-11-23 03:23:31",
-  "verified": "2026-11-23 03:42:07"
+  "verified": ""
  },
  "yuwen/yw-modern-classics": {
   "counts": {
@@ -1952,7 +1952,7 @@
    "old": 0,
    "total": 290
   },
-  "fingerprint": "fb4dbe855721",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-narrative.html",
   "record_demand": true,
@@ -1976,7 +1976,7 @@
    "old": 0,
    "total": 1067
   },
-  "fingerprint": "6604ba34231e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-poems-7.html",
   "record_demand": true,
@@ -1989,7 +1989,7 @@
    "zh": "七年级古诗词"
   },
   "updated": "2026-11-23 03:29:30",
-  "verified": "2026-11-23 03:39:53"
+  "verified": ""
  },
  "yuwen/yw-poems-8": {
   "counts": {
@@ -2000,7 +2000,7 @@
    "old": 0,
    "total": 1561
   },
-  "fingerprint": "cfd21b168264",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-poems-8.html",
   "record_demand": true,
@@ -2013,7 +2013,7 @@
    "zh": "八年级古诗词"
   },
   "updated": "2026-11-23 03:31:54",
-  "verified": "2026-11-23 03:44:49"
+  "verified": ""
  },
  "yuwen/yw-poems-9": {
   "counts": {
@@ -2024,7 +2024,7 @@
    "old": 0,
    "total": 1308
   },
-  "fingerprint": "51dae94182f1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-poems-9.html",
   "record_demand": true,
@@ -2048,7 +2048,7 @@
    "old": 0,
    "total": 509
   },
-  "fingerprint": "3872a375233d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-rhetoric.html",
   "record_demand": true,
@@ -2072,7 +2072,7 @@
    "old": 0,
    "total": 793
   },
-  "fingerprint": "96b9b568907e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-song-ci.html",
   "record_demand": true,
@@ -2085,7 +2085,7 @@
    "zh": "宋词与古诗词格律"
   },
   "updated": "2026-11-23 03:16:18",
-  "verified": "2026-11-23 03:40:31"
+  "verified": ""
  },
  "yuwen/yw-tang-poems": {
   "counts": {
@@ -2096,7 +2096,7 @@
    "old": 0,
    "total": 436
   },
-  "fingerprint": "f13cbfef7698",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-tang-poems.html",
   "record_demand": true,
@@ -2120,7 +2120,7 @@
    "old": 0,
    "total": 1858
   },
-  "fingerprint": "cc1d86014844",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-7.html",
   "record_demand": true,
@@ -2144,7 +2144,7 @@
    "old": 0,
    "total": 1165
   },
-  "fingerprint": "c468ca471f95",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-8.html",
   "record_demand": true,
@@ -2168,7 +2168,7 @@
    "old": 0,
    "total": 2005
   },
-  "fingerprint": "e385448ffef0",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-9.html",
   "record_demand": true,
@@ -2192,7 +2192,7 @@
    "old": 0,
    "total": 451
   },
-  "fingerprint": "1402c5695f5a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-basics.html",
   "record_demand": true,
@@ -2216,7 +2216,7 @@
    "old": 0,
    "total": 573
   },
-  "fingerprint": "0ae8ff0eaabe",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-classics.html",
   "record_demand": true,
@@ -2240,7 +2240,7 @@
    "old": 0,
    "total": 233
   },
-  "fingerprint": "378a11ba39fd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-writing.html",
   "record_demand": true,

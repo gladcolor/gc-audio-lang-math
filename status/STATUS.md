@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 03:59:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:34:56. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -9,88 +9,88 @@ Updated 2026-11-23 03:59:19. Labels: finished / in progress / no audio / failed 
 | art/art-color | finished | 221 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:01 |  |
 | art/art-daily | finished | 110 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:27 |  |
 | art/art-design | finished | 184 | 0 | 0 | 0 | 0 | 2026-11-23 03:56:58 |  |
-| art/art-games | finished | 370 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:18 |  |
-| art/art-history | finished | 296 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:14 |  |
-| art/art-landscape | finished | 377 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:05 |  |
+| art/art-games | finished | 370 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:18 | 2026-11-23 04:34:30 |
+| art/art-history | finished | 296 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:14 | 2026-11-23 04:34:30 |
+| art/art-landscape | finished | 377 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:05 | 2026-11-23 04:34:30 |
 | art/art-perspective | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:05 |  |
 | art/art-sculpture | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:14 |  |
 | art/art-theater | finished | 668 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:11 |  |
 | ela/argument-evidence | finished | 187 | 0 | 0 | 0 | 0 | 2026-11-23 02:20:20 | 2026-11-23 02:25:39 |
-| ela/argument-writing | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:52 | 2026-11-23 03:00:17 |
-| ela/central-idea | finished | 251 | 0 | 0 | 0 | 0 | 2026-11-23 02:43:01 | 2026-11-23 02:50:24 |
-| ela/character-pov | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:49 | 2026-11-23 02:25:09 |
-| ela/figurative-language | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:21 | 2026-11-23 02:25:04 |
-| ela/grammar-sentences | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:17 | 2026-11-23 03:00:17 |
-| ela/narrative-techniques | finished | 538 | 0 | 0 | 0 | 0 | 2026-11-23 02:49:54 | 2026-11-23 03:01:13 |
-| ela/narrative-writing | finished | 305 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:00 | 2026-11-23 02:58:57 |
-| ela/research-media | finished | 283 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:13 | 2026-11-23 02:59:41 |
+| ela/argument-writing | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:52 |  |
+| ela/central-idea | finished | 251 | 0 | 0 | 0 | 0 | 2026-11-23 02:43:01 |  |
+| ela/character-pov | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:49 |  |
+| ela/figurative-language | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 02:16:21 |  |
+| ela/grammar-sentences | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-23 02:54:17 |  |
+| ela/narrative-techniques | finished | 538 | 0 | 0 | 0 | 0 | 2026-11-23 02:49:54 |  |
+| ela/narrative-writing | finished | 305 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:00 |  |
+| ela/research-media | finished | 283 | 0 | 0 | 0 | 0 | 2026-11-23 02:51:13 |  |
 | ela/text-structure | finished | 166 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:37 | 2026-11-23 02:24:46 |
-| ela/theme-plot | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:09 | 2026-11-23 02:25:31 |
-| ela/vocabulary-roots | finished | 220 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:04 | 2026-11-23 02:58:58 |
-| math/angles | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-23 01:04:32 | 2026-11-23 01:25:58 |
-| math/area | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:19 | 2026-11-23 01:36:14 |
-| math/axial-symmetry | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:03 | 2026-11-23 01:59:37 |
-| math/circle-theorems | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:07 | 2026-11-23 01:36:13 |
-| math/circles | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:39 | 2026-11-23 01:28:39 |
-| math/congruent-triangles | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:33 | 2026-11-23 01:36:40 |
-| math/coordinate-plane | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:27 | 2026-11-23 01:25:58 |
-| math/equations | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:56 | 2026-11-23 01:59:37 |
-| math/exponents | finished | 226 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:49 | 2026-11-23 01:36:15 |
-| math/expressions | finished | 103 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:36 | 2026-11-23 01:25:58 |
+| ela/theme-plot | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:09 |  |
+| ela/vocabulary-roots | finished | 220 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:04 |  |
+| math/angles | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-23 01:04:32 |  |
+| math/area | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:19 |  |
+| math/axial-symmetry | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:03 |  |
+| math/circle-theorems | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:07 |  |
+| math/circles | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:39 |  |
+| math/congruent-triangles | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:33 |  |
+| math/coordinate-plane | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:27 |  |
+| math/equations | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:56 |  |
+| math/exponents | finished | 226 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:49 |  |
+| math/expressions | finished | 103 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:36 |  |
 | math/factoring | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:13 | 2026-11-23 02:12:12 |
 | math/fractals | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-22 22:50:39 | 2026-11-23 00:49:17 |
-| math/fraction-division | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-23 01:01:42 | 2026-11-23 01:44:35 |
-| math/functions | finished | 141 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:53 | 2026-11-23 01:34:18 |
-| math/geometric-constructions | finished | 380 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:49 | 2026-11-23 01:33:24 |
-| math/integers | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-23 01:02:05 | 2026-11-23 01:45:20 |
-| math/inverse-proportion | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:05 | 2026-11-23 01:46:36 |
-| math/linear-functions | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 22:56:22 | 2026-11-23 00:50:48 |
-| math/negative-operations | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:54 | 2026-11-23 01:59:38 |
-| math/parallel-quadrilaterals | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-22 22:48:05 | 2026-11-23 00:50:02 |
-| math/percents | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-23 01:02:44 | 2026-11-23 01:45:09 |
+| math/fraction-division | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-23 01:01:42 |  |
+| math/functions | finished | 141 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:53 |  |
+| math/geometric-constructions | finished | 380 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:49 |  |
+| math/integers | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-23 01:02:05 |  |
+| math/inverse-proportion | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:05 |  |
+| math/linear-functions | finished | 317 | 0 | 0 | 0 | 0 | 2026-11-22 22:56:22 |  |
+| math/negative-operations | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:54 |  |
+| math/parallel-quadrilaterals | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-22 22:48:05 |  |
+| math/percents | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-23 01:02:44 |  |
 | math/polynomial-multiplication | finished | 222 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:57 | 2026-11-23 01:46:24 |
-| math/polynomials | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:16 | 2026-11-23 01:33:25 |
-| math/probability | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-23 01:00:55 | 2026-11-23 01:44:02 |
-| math/projections-three-views | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-22 22:52:05 | 2026-11-23 00:49:39 |
-| math/proportional | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:15 | 2026-11-23 01:51:00 |
-| math/pythagorean | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:26 | 2026-11-23 01:59:41 |
-| math/quadratic-equations | finished | 336 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:52 | 2026-11-23 01:32:15 |
-| math/quadratic-functions | finished | 264 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:16 | 2026-11-23 01:36:14 |
-| math/radicals | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-22 22:45:27 | 2026-11-23 00:49:04 |
-| math/rational-expressions | finished | 212 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:27 | 2026-11-23 01:36:14 |
-| math/ratios | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:14 | 2026-11-23 01:24:42 |
-| math/roots-irrationals | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:23 | 2026-11-23 01:29:39 |
-| math/rotation-symmetry | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:53 | 2026-11-23 01:27:51 |
-| math/sampling | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:21 | 2026-11-23 01:30:33 |
-| math/scale-drawings | finished | 112 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:13 | 2026-11-23 01:36:40 |
-| math/scatter-plots | finished | 332 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:41 | 2026-11-23 01:36:15 |
+| math/polynomials | finished | 215 | 0 | 0 | 0 | 0 | 2026-11-23 01:12:16 |  |
+| math/probability | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-23 01:00:55 |  |
+| math/projections-three-views | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-22 22:52:05 |  |
+| math/proportional | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:15 |  |
+| math/pythagorean | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:26 |  |
+| math/quadratic-equations | finished | 336 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:52 |  |
+| math/quadratic-functions | finished | 264 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:16 |  |
+| math/radicals | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-22 22:45:27 |  |
+| math/rational-expressions | finished | 212 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:27 |  |
+| math/ratios | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 04:34:56 |  |
+| math/roots-irrationals | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:23 |  |
+| math/rotation-symmetry | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:53 |  |
+| math/sampling | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:21 |  |
+| math/scale-drawings | finished | 112 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:13 |  |
+| math/scatter-plots | finished | 332 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:41 |  |
 | math/similar-triangles | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:11 | 2026-11-23 01:36:14 |
-| math/slope | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-23 01:05:55 | 2026-11-23 01:25:58 |
-| math/statistics | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:17 | 2026-11-23 01:27:04 |
-| math/surface-volume | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:07:35 | 2026-11-23 01:27:51 |
-| math/systems | finished | 131 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:29 | 2026-11-23 02:12:11 |
-| math/transformations | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:53 | 2026-11-23 01:59:40 |
-| math/triangles | finished | 351 | 0 | 0 | 0 | 0 | 2026-11-23 01:00:46 | 2026-11-23 01:45:18 |
-| math/trig-ratios | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:29 | 2026-11-23 01:46:25 |
-| math/volume-solids | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:05 | 2026-11-23 01:36:15 |
+| math/slope | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-23 01:05:55 |  |
+| math/statistics | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:17 |  |
+| math/surface-volume | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:07:35 |  |
+| math/systems | finished | 131 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:29 |  |
+| math/transformations | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:53 |  |
+| math/triangles | finished | 351 | 0 | 0 | 0 | 0 | 2026-11-23 01:00:46 |  |
+| math/trig-ratios | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:29 |  |
+| math/volume-solids | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:05 |  |
 | music/music-compose | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:09 |  |
 | music/music-history | finished | 420 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:24 |  |
 | music/music-instruments | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:53 |  |
-| music/music-listening | finished | 425 | 0 | 0 | 0 | 0 | 2026-11-23 03:56:55 |  |
+| music/music-listening | finished | 425 | 0 | 0 | 0 | 0 | 2026-11-23 03:56:55 | 2026-11-23 04:34:30 |
 | music/music-pitch | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-23 03:56:17 |  |
 | music/music-rhythm | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:01 |  |
 | yuwen/yw-argumentative | finished | 214 | 0 | 0 | 0 | 0 | 2026-11-23 03:44:10 |  |
-| yuwen/yw-classics | finished | 565 | 0 | 0 | 0 | 0 | 2026-11-23 03:23:00 | 2026-11-23 03:37:26 |
+| yuwen/yw-classics | finished | 565 | 0 | 0 | 0 | 0 | 2026-11-23 03:23:00 |  |
 | yuwen/yw-expository | finished | 266 | 0 | 0 | 0 | 0 | 2026-11-23 03:46:40 |  |
-| yuwen/yw-hanzi | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-23 03:30:05 | 2026-11-23 03:36:39 |
-| yuwen/yw-idioms | finished | 928 | 0 | 0 | 0 | 0 | 2026-11-23 03:23:31 | 2026-11-23 03:42:07 |
+| yuwen/yw-hanzi | finished | 421 | 0 | 0 | 0 | 0 | 2026-11-23 03:30:05 |  |
+| yuwen/yw-idioms | finished | 928 | 0 | 0 | 0 | 0 | 2026-11-23 03:23:31 |  |
 | yuwen/yw-modern-classics | finished | 3159 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:45 |  |
 | yuwen/yw-narrative | finished | 290 | 0 | 0 | 0 | 0 | 2026-11-23 03:06:11 |  |
-| yuwen/yw-poems-7 | finished | 1067 | 0 | 0 | 0 | 0 | 2026-11-23 03:29:30 | 2026-11-23 03:39:53 |
-| yuwen/yw-poems-8 | finished | 1561 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:54 | 2026-11-23 03:44:49 |
+| yuwen/yw-poems-7 | finished | 1067 | 0 | 0 | 0 | 0 | 2026-11-23 03:29:30 |  |
+| yuwen/yw-poems-8 | finished | 1561 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:54 |  |
 | yuwen/yw-poems-9 | finished | 1308 | 0 | 0 | 0 | 0 | 2026-11-23 03:55:57 |  |
 | yuwen/yw-rhetoric | finished | 509 | 0 | 0 | 0 | 0 | 2026-11-23 03:48:17 |  |
-| yuwen/yw-song-ci | finished | 793 | 0 | 0 | 0 | 0 | 2026-11-23 03:16:18 | 2026-11-23 03:40:31 |
+| yuwen/yw-song-ci | finished | 793 | 0 | 0 | 0 | 0 | 2026-11-23 03:16:18 |  |
 | yuwen/yw-tang-poems | finished | 436 | 0 | 0 | 0 | 0 | 2026-11-23 03:02:23 |  |
 | yuwen/yw-wenyan-7 | finished | 1858 | 0 | 0 | 0 | 0 | 2026-11-23 03:56:02 |  |
 | yuwen/yw-wenyan-8 | finished | 1165 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:24 |  |
