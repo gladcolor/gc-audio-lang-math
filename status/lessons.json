@@ -1949,10 +1949,10 @@
  },
  "yuwen/yw-poems-7": {
   "counts": {
-   "done": 822,
+   "done": 1058,
    "failed": 0,
    "held": 0,
-   "missing": 245,
+   "missing": 9,
    "old": 0,
    "total": 1067
   },
@@ -1968,7 +1968,7 @@
    "en": "Grade 7 Classical Poems",
    "zh": "七年级古诗词"
   },
-  "updated": "2026-11-23 03:08:44",
+  "updated": "2026-11-23 03:11:11",
   "verified": ""
  },
  "yuwen/yw-poems-8": {
