@@ -1973,10 +1973,10 @@
  },
  "yuwen/yw-poems-8": {
   "counts": {
-   "done": 1137,
+   "done": 1297,
    "failed": 0,
    "held": 0,
-   "missing": 423,
+   "missing": 263,
    "old": 1,
    "total": 1561
   },
@@ -1992,7 +1992,7 @@
    "en": "Grade 8 Classical Poems",
    "zh": "八年级古诗词"
   },
-  "updated": "2026-11-23 03:10:33",
+  "updated": "2026-11-23 03:11:39",
   "verified": ""
  },
  "yuwen/yw-poems-9": {
