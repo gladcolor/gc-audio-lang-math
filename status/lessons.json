@@ -217,15 +217,15 @@
  },
  "art/art-sculpture": {
   "counts": {
-   "done": 409,
+   "done": 447,
    "failed": 0,
    "held": 0,
-   "missing": 38,
+   "missing": 0,
    "old": 0,
    "total": 447
   },
   "fingerprint": "2cd5088b0289",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/art/art-sculpture.html",
   "record_demand": true,
   "record_langs": [
@@ -236,7 +236,7 @@
    "en": "The Art of Sculpture",
    "zh": "雕塑之美"
   },
-  "updated": "2026-11-23 03:54:16",
+  "updated": "2026-11-23 03:58:14",
   "verified": ""
  },
  "art/art-theater": {
