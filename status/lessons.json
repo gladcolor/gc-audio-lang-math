@@ -1902,11 +1902,11 @@
  },
  "yuwen/yw-modern-classics": {
   "counts": {
-   "done": 2891,
+   "done": 2944,
    "failed": 0,
    "held": 0,
-   "missing": 186,
-   "old": 82,
+   "missing": 142,
+   "old": 73,
    "total": 3159
   },
   "fingerprint": "73fba1fee360",
@@ -1921,7 +1921,7 @@
    "en": "Modern Classics (Lu Xun, Zhu Ziqing …)",
    "zh": "现代文名篇（鲁迅、朱自清等）"
   },
-  "updated": "2026-11-23 03:30:12",
+  "updated": "2026-11-23 03:30:17",
   "verified": ""
  },
  "yuwen/yw-narrative": {
