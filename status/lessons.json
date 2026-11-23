@@ -1807,11 +1807,11 @@
  },
  "yuwen/yw-classics": {
   "counts": {
-   "done": 494,
+   "done": 543,
    "failed": 0,
    "held": 0,
-   "missing": 66,
-   "old": 5,
+   "missing": 22,
+   "old": 0,
    "total": 565
   },
   "fingerprint": "c5c4dbf675e3",
@@ -1826,7 +1826,7 @@
    "en": "Great Books (名著导读)",
    "zh": "名著导读"
   },
-  "updated": "2026-11-23 03:04:20",
+  "updated": "2026-11-23 03:05:04",
   "verified": ""
  },
  "yuwen/yw-expository": {
