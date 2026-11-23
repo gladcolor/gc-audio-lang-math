@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 04:48:26. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:48:53. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Updated 2026-11-23 04:48:26. Labels: finished / in progress / no audio / failed 
 | art/art-landscape | finished | 377 | 0 | 0 | 0 | 0 | 2026-11-23 03:59:05 | 2026-11-23 04:34:30 |
 | art/art-perspective | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:05 | 2026-11-23 04:44:52 |
 | art/art-sculpture | finished | 447 | 0 | 0 | 0 | 0 | 2026-11-23 04:48:09 |  |
-| art/art-theater | finished | 668 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:11 |  |
+| art/art-theater | finished | 668 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:11 | 2026-11-23 04:48:32 |
 | ela/argument-evidence | finished | 187 | 0 | 0 | 0 | 0 | 2026-11-23 02:20:20 | 2026-11-23 02:25:39 |
 | ela/argument-writing | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 04:39:57 |  |
 | ela/central-idea | finished | 251 | 0 | 0 | 0 | 0 | 2026-11-23 04:42:05 |  |
@@ -26,7 +26,7 @@ Updated 2026-11-23 04:48:26. Labels: finished / in progress / no audio / failed 
 | ela/research-media | finished | 283 | 0 | 0 | 0 | 0 | 2026-11-23 04:43:32 |  |
 | ela/text-structure | finished | 166 | 0 | 0 | 0 | 0 | 2026-11-23 02:19:37 | 2026-11-23 02:24:46 |
 | ela/theme-plot | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-23 04:42:12 |  |
-| ela/vocabulary-roots | finished | 220 | 0 | 0 | 0 | 0 | 2026-11-23 02:53:04 |  |
+| ela/vocabulary-roots | finished | 220 | 0 | 0 | 0 | 0 | 2026-11-23 04:48:53 |  |
 | math/angles | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:04 |  |
 | math/area | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-23 04:46:12 |  |
 | math/axial-symmetry | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 04:36:19 |  |
