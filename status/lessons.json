@@ -1328,7 +1328,7 @@
    "old": 0,
    "total": 115
   },
-  "fingerprint": "",
+  "fingerprint": "4dcb4d287827",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/roots-irrationals.html",
   "record_demand": true,
@@ -1340,7 +1340,7 @@
    "en": "Square Roots & Irrational Numbers",
    "zh": "平方根与无理数"
   },
-  "updated": "2026-11-23 01:09:23",
+  "updated": "2026-11-23 04:36:22",
   "verified": ""
  },
  "math/rotation-symmetry": {
