@@ -4595,6 +4595,7 @@ en	8d340c2c	math/congruent-triangles	serena moss8b	48	2026-11-22 22:44:22	tts	3c
 en	90ca68e6	math/congruent-triangles	serena moss8b	48	2026-11-22 22:43:14	tts	c62ca63fd1
 en	937f71cd	math/congruent-triangles	serena moss8b	48	2026-11-22 22:44:30	tts	ad764e58b9
 en	941dc984	math/congruent-triangles	serena moss8b	48	2026-11-22 22:43:57	tts	817057ba7c
+en	9682dcd7	math/congruent-triangles	serena moss8b	48	2026-11-23 01:05:47	tts	533822b977
 en	96fcee77	math/congruent-triangles	serena moss8b	48	2026-11-22 22:44:14	tts	e85f035da5
 en	98e0f851	math/congruent-triangles	serena moss8b	48	2026-11-22 22:44:46	tts	1802150267
 en	998ec67a	math/congruent-triangles	serena moss8b	48	2026-11-22 22:43:22	tts	44072d6e04
@@ -5796,8 +5797,11 @@ zh	01df1919	math/factoring	serena moss8b	48	2026-11-22 17:00:58	tts	2d9acd23ff
 zh	03422268	math/factoring	serena moss8b	48	2026-11-22 17:02:10	tts	d8d510fe06
 zh	044453cb	math/factoring	serena moss8b	48	2026-11-22 17:02:35	tts	b673fc278c
 zh	174a49c9	math/factoring	serena moss8b	48	2026-11-22 17:02:26	tts	0d8d63c2f8
+zh	1765e8c9	math/factoring	serena moss8b	48	2026-11-23 01:04:37	tts	5bda9fc5d7
+zh	18984bb8	math/factoring	serena moss8b	48	2026-11-23 01:05:13	tts	47b2b03ffa
 zh	1956699c	math/factoring	serena moss8b	48	2026-11-22 17:02:11	tts	121f47aacf
 zh	1be58831	math/factoring	serena moss8b	48	2026-11-22 17:02:25	tts	1525e31dc3
+zh	1d3d90f1	math/factoring	serena moss8b	48	2026-11-23 01:05:32	tts	4ae9e472a0
 zh	20bb035b	math/factoring	serena moss8b	48	2026-11-23 01:04:26	tts	f1829beeb2
 zh	21b8cf0a	math/factoring	serena moss8b	48	2026-11-21 16:04:14	tts	851a444f72
 zh	2299f3f4	math/factoring	serena moss8b	48	2026-11-22 17:02:14	tts	d5c3a84e41
@@ -6351,6 +6355,7 @@ zh	bca9f817	math/functions	serena moss8b	48	2026-11-22 17:00:06	tts	b7e43dc1b4
 zh	c727b22c	math/functions	serena moss8b	48	2026-11-22 17:00:53	tts	6d4cac40f7
 zh	d4459098	math/functions	serena moss8b	48	2026-11-22 17:00:17	tts	e9fe2f6297
 zh	d61602f0	math/functions	serena moss8b	48	2026-11-22 17:00:01	tts	92c82aa8a1
+zh	daf22208	math/functions	serena moss8b	48	2026-11-23 01:05:12	tts	c18aadd669
 zh	dfda2ef6	math/functions	serena moss8b	48	2026-11-22 17:15:10	tts	fdf93583c3
 zh	e9597153	math/functions	serena moss8b	48	2026-11-22 17:00:19	tts	81aaeb2f99
 zh	efbbba69	math/functions	serena moss8b	48	2026-11-22 17:00:21	tts	213cfeab41
@@ -7014,9 +7019,11 @@ zh	0b827eb3	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:47	tts	03d
 zh	0cf3d356	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:47	tts	2c8dd69026
 zh	0eb40b18	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:10	tts	d2ce293fb8
 zh	0f419488	math/inverse-proportion	serena moss8b	48	2026-11-22 17:04:53	tts	ea603949a4
+zh	1414f781	math/inverse-proportion	serena moss8b	48	2026-11-23 01:05:04	tts	36eb89f36f
 zh	142e4331	math/inverse-proportion	serena moss8b	48	2026-11-22 17:11:42	tts	244a6c1578
 zh	15580c65	math/inverse-proportion	serena moss8b	48	2026-11-22 17:04:34	tts	d8d6b2dc02
 zh	163d597d	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:12	tts	3fcaa23d0b
+zh	168233da	math/inverse-proportion	serena moss8b	48	2026-11-23 01:04:37	tts	c8ca3eecd5
 zh	1ca65e0f	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:51	tts	04a07b5314
 zh	1f412678	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:20	tts	113870f6fa
 zh	22a97bd7	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:51	tts	3a54610b5b
@@ -7042,6 +7049,7 @@ zh	4cba0784	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:52	tts	675
 zh	4e1d1b7c	math/inverse-proportion	serena moss8b	48	2026-11-22 17:14:54	tts	7a7db4e693
 zh	504bc4a5	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:16	tts	ef9b7ecdb3
 zh	52583111	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:52	tts	2bbeaf93c0
+zh	52d58860	math/inverse-proportion	serena moss8b	48	2026-11-23 01:04:38	tts	5bf263b150
 zh	52d93c2c	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:14	tts	27e9712bcc
 zh	53ffe686	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:16	tts	95a2ba7f95
 zh	55c03e26	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:14	tts	2cee4f4c54
@@ -7112,6 +7120,7 @@ zh	d40d6e64	math/inverse-proportion	serena moss8b	48	2026-11-22 17:07:12	tts	41f
 zh	db8c4eb9	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:34	tts	200d3591ea
 zh	dc0c86b0	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:55	tts	740bdedc36
 zh	dc9eef45	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:15	tts	c5d1e64612
+zh	de316662	math/inverse-proportion	serena moss8b	48	2026-11-23 01:05:09	tts	63c459a449
 zh	e236b4a4	math/inverse-proportion	serena moss8b	48	2026-11-22 17:14:09	tts	32e987fe96
 zh	e2e75162	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:22	tts	54d48ae650
 zh	e3fb9080	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:43	tts	9512549a63
@@ -7123,6 +7132,7 @@ zh	ece28188	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:24	tts	bf7
 zh	f0198ddf	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:17	tts	529e053027
 zh	f13acef2	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:43	tts	047130f2bb
 zh	f171ed0c	math/inverse-proportion	serena moss8b	48	2026-11-22 17:05:39	tts	4bd2f0cedf
+zh	f51bcc74	math/inverse-proportion	serena moss8b	48	2026-11-23 01:05:08	tts	6c33cb2f3d
 zh	f7907708	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:28	tts	20b1b5aad8
 zh	f8af6afc	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:58	tts	8768c13bda
 zh	fbe7f0bb	math/inverse-proportion	serena moss8b	48	2026-11-22 17:06:33	tts	c90ffdb284
@@ -8195,6 +8205,7 @@ zh	220c95ed	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:30	
 zh	22291c76	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:12:59	tts	c8782e14b6
 zh	227b008d	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:14	tts	b3ccd03df2
 zh	23018dd1	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:15	tts	0a8541bf37
+zh	23ed89e0	math/polynomial-multiplication	serena moss8b	48	2026-11-23 01:05:10	tts	a3762d7c63
 zh	29030604	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:38	tts	66ef7690dd
 zh	2abc0158	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:22:34	tts	b6be5b8181
 zh	2f0e938f	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:40	tts	6fd914d7cb
@@ -8250,12 +8261,14 @@ zh	b21d3803	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:14:01	
 zh	b3fc3538	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:28	tts	7de90990a0
 zh	ba8b267a	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:14:01	tts	16b517cee4
 zh	bab979b7	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:34:26	tts	a7980afe4e
+zh	c135138c	math/polynomial-multiplication	serena moss8b	48	2026-11-23 01:04:48	tts	6f33d1554e
 zh	c15506db	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:23:29	tts	78f7bcd1f0
 zh	c210c748	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:30	tts	b93d77919b
 zh	c44c5c76	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:40	tts	dbcf515574
 zh	cc746146	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:34:28	tts	7ab680afc8
 zh	d0289fbe	math/polynomial-multiplication	serena moss8b	48	2026-11-21 19:23:22	tts	4e766b9dfe
 zh	d0418863	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:28	tts	449a1c72fc
+zh	d4fb78f1	math/polynomial-multiplication	serena moss8b	48	2026-11-23 01:04:42	tts	0b1bc89c3f
 zh	d7b7bc53	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:14:01	tts	792cb081d5
 zh	d7d22baa	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:13:28	tts	8bf4a02c12
 zh	d9ea7797	math/polynomial-multiplication	serena moss8b	48	2026-11-22 17:14:14	tts	f396a8592d
@@ -9170,6 +9183,7 @@ zh	d6b1da9b	math/pythagorean	serena moss8b	48	2026-11-22 17:00:43	tts	5423f2b1d3
 zh	dfcd5184	math/pythagorean	serena moss8b	48	2026-11-23 01:02:18	tts	3f85ff780c
 zh	e327d3df	math/pythagorean	serena moss8b	48	2026-11-22 16:59:44	tts	a4bfbab27f
 zh	e4503d93	math/pythagorean	serena moss8b	48	2026-11-22 17:01:06	tts	4e4d5d9c24
+zh	e7b8ec3f	math/pythagorean	serena moss8b	48	2026-11-23 01:04:40	tts	6f916885ce
 zh	edb22fa7	math/pythagorean	serena moss8b	48	2026-11-22 17:00:29	tts	0024f6486b
 zh	f9c0dbcf	math/pythagorean	serena moss8b	48	2026-11-22 17:00:46	tts	adadda1ceb
 en	031106d8	math/quadratic-equations	serena moss8b	48	2026-11-22 22:40:31	tts	e1bc37179c
@@ -11320,6 +11334,7 @@ zh	ac9cfc7b	math/scatter-plots	serena moss8b	48	2026-11-22 17:00:14	tts	08344cdc
 zh	ad18a98b	math/scatter-plots	serena moss8b	48	2026-11-22 17:02:22	tts	d66377d739
 zh	ad74f873	math/scatter-plots	serena moss8b	48	2026-11-22 17:02:16	tts	1efdb64a82
 zh	afdf12fb	math/scatter-plots	serena moss8b	48	2026-11-22 17:01:16	tts	27944e09b5
+zh	b5e4e92a	math/scatter-plots	serena moss8b	48	2026-11-23 01:05:12	tts	f183389f84
 zh	b7e16210	math/scatter-plots	serena moss8b	48	2026-11-22 17:02:13	tts	e444b78318
 zh	b882c063	math/scatter-plots	serena moss8b	48	2026-11-22 17:07:23	tts	021e75250f
 zh	bdff516b	math/scatter-plots	serena moss8b	48	2026-11-22 17:01:09	tts	4bf6e0d845
@@ -11658,6 +11673,7 @@ zh	5cc16e6b	math/slope	serena moss8b	48	2026-11-21 14:11:00	tts	981cb5f9f7
 zh	70985ac1	math/slope	serena moss8b	48	2026-11-22 16:59:27	tts	40938aef38
 zh	74199ca5	math/slope	serena moss8b	48	2026-11-23 01:02:00	tts	43609235b2
 zh	7bfb9c9e	math/slope	serena moss8b	48	2026-11-21 21:30:33	tts	d73e46fa8d
+zh	7c667b04	math/slope	serena moss8b	48	2026-11-23 01:05:52	tts	8213de6104
 zh	829ddb41	math/slope	serena moss8b	48	2026-11-22 17:01:06	tts	49c22d6573
 zh	832930a9	math/slope	serena moss8b	48	2026-11-22 16:59:07	tts	74fb2b7bd7
 zh	8c8fee6e	math/slope	serena moss8b	48	2026-11-22 16:58:23	tts	846941653c
@@ -11831,6 +11847,7 @@ en	f1fcc720	math/statistics	serena moss8b	48	2026-11-22 22:35:04	tts	31eb7acd99
 en	f29544f1	math/statistics	serena moss8b	48	2026-11-22 22:35:37	tts	4548bbe0f9
 en	f3704d5d	math/statistics	serena moss8b	48	2026-11-22 22:35:18	tts	e91879640b
 en	f3a449db	math/statistics	serena moss8b	48	2026-11-22 22:35:33	tts	b014e424a6
+en	f46de82d	math/statistics	serena moss8b	48	2026-11-23 01:05:29	tts	490ff6768a
 en	f4aa92e7	math/statistics	serena moss8b	48	2026-11-22 22:35:16	tts	b34ec07847
 en	f674afcd	math/statistics	serena moss8b	48	2026-11-22 22:35:13	tts	a5be495630
 en	f6779aea	math/statistics	serena moss8b	48	2026-11-22 22:35:37	tts	15a00239dc
