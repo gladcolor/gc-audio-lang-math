@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 01:24:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:28:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -27,17 +27,17 @@ Updated 2026-11-23 01:24:29. Labels: finished / in progress / no audio / failed 
 | ela/text-structure | finished | 86 | 0 | 0 | 0 | 0 | 2026-11-22 19:00:32 | 2026-11-22 19:03:31 |
 | ela/theme-plot | finished | 153 | 0 | 0 | 0 | 0 | 2026-11-22 18:57:01 | 2026-11-22 18:59:22 |
 | ela/vocabulary-roots | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-22 19:04:25 |  |
-| math/angles | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-23 01:04:32 |  |
+| math/angles | finished | 113 | 0 | 0 | 0 | 0 | 2026-11-23 01:04:32 | 2026-11-23 01:25:58 |
 | math/area | finished | 127 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:19 |  |
 | math/axial-symmetry | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:03 |  |
 | math/circle-theorems | finished | 417 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:07 |  |
 | math/circles | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:39 |  |
 | math/congruent-triangles | finished | 369 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:33 |  |
-| math/coordinate-plane | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:27 |  |
+| math/coordinate-plane | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:27 | 2026-11-23 01:25:58 |
 | math/equations | finished | 356 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:56 |  |
 | math/exponents | finished | 226 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:49 |  |
-| math/expressions | finished | 103 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:36 |  |
-| math/factoring | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 22:40:34 |  |
+| math/expressions | finished | 103 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:36 | 2026-11-23 01:25:58 |
+| math/factoring | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:13 |  |
 | math/fractals | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-22 22:50:39 | 2026-11-23 00:49:17 |
 | math/fraction-division | finished | 96 | 0 | 0 | 0 | 0 | 2026-11-23 01:01:42 |  |
 | math/functions | finished | 141 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:53 |  |
@@ -58,16 +58,16 @@ Updated 2026-11-23 01:24:29. Labels: finished / in progress / no audio / failed 
 | math/quadratic-functions | finished | 264 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:16 |  |
 | math/radicals | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-22 22:45:27 | 2026-11-23 00:49:04 |
 | math/rational-expressions | finished | 212 | 0 | 0 | 0 | 0 | 2026-11-23 01:13:27 |  |
-| math/ratios | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:14 |  |
+| math/ratios | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:03:14 | 2026-11-23 01:24:42 |
 | math/roots-irrationals | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:23 |  |
-| math/rotation-symmetry | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:53 |  |
+| math/rotation-symmetry | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:53 | 2026-11-23 01:27:51 |
 | math/sampling | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:21 |  |
 | math/scale-drawings | finished | 112 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:13 |  |
 | math/scatter-plots | finished | 332 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:41 |  |
 | math/similar-triangles | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-23 01:14:11 |  |
-| math/slope | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-23 01:05:55 |  |
-| math/statistics | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:17 |  |
-| math/surface-volume | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:07:35 |  |
+| math/slope | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-23 01:05:55 | 2026-11-23 01:25:58 |
+| math/statistics | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:17 | 2026-11-23 01:27:04 |
+| math/surface-volume | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 01:07:35 | 2026-11-23 01:27:51 |
 | math/systems | finished | 131 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:29 |  |
 | math/transformations | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:53 |  |
 | math/triangles | finished | 351 | 0 | 0 | 0 | 0 | 2026-11-23 01:00:46 |  |
