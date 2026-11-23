@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 03:44:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:45:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -74,7 +74,7 @@ Updated 2026-11-23 03:44:45. Labels: finished / in progress / no audio / failed 
 | math/trig-ratios | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:29 | 2026-11-23 01:46:25 |
 | math/volume-solids | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:05 | 2026-11-23 01:36:15 |
 | music/music-compose | in progress | 169 | 1 | 95 | 0 | 0 | 2026-11-23 03:43:35 |  |
-| music/music-history | finished | 219 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:05 |  |
+| music/music-history | in progress | 261 | 7 | 152 | 0 | 0 | 2026-11-23 03:45:06 |  |
 | music/music-instruments | in progress | 210 | 10 | 135 | 0 | 0 | 2026-11-23 03:39:46 |  |
 | music/music-listening | finished | 217 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:00 |  |
 | music/music-pitch | in progress | 231 | 3 | 24 | 0 | 0 | 2026-11-23 03:41:00 |  |
@@ -87,7 +87,7 @@ Updated 2026-11-23 03:44:45. Labels: finished / in progress / no audio / failed 
 | yuwen/yw-modern-classics | in progress | 2985 | 67 | 107 | 0 | 0 | 2026-11-23 03:30:23 |  |
 | yuwen/yw-narrative | finished | 290 | 0 | 0 | 0 | 0 | 2026-11-23 03:06:11 |  |
 | yuwen/yw-poems-7 | finished | 1067 | 0 | 0 | 0 | 0 | 2026-11-23 03:29:30 | 2026-11-23 03:39:53 |
-| yuwen/yw-poems-8 | finished | 1561 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:54 |  |
+| yuwen/yw-poems-8 | finished | 1561 | 0 | 0 | 0 | 0 | 2026-11-23 03:31:54 | 2026-11-23 03:44:49 |
 | yuwen/yw-poems-9 | in progress | 1194 | 0 | 114 | 0 | 0 | 2026-11-23 03:16:09 |  |
 | yuwen/yw-rhetoric | in progress | 428 | 11 | 70 | 0 | 0 | 2026-11-23 03:02:43 |  |
 | yuwen/yw-song-ci | finished | 793 | 0 | 0 | 0 | 0 | 2026-11-23 03:16:18 | 2026-11-23 03:40:31 |
