@@ -73,25 +73,26 @@
  },
  "art/art-daily": {
   "counts": {
-   "done": 57,
+   "done": 104,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 6,
    "old": 0,
-   "total": 57
+   "total": 110
   },
   "fingerprint": "df35da5754b4",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/art/art-daily.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "One Beautiful Thing a Day",
    "zh": "每日拾美"
   },
-  "updated": "2026-11-22 20:24:57",
+  "updated": "2026-11-23 03:54:32",
   "verified": ""
  },
  "art/art-design": {
