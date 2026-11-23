@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-lang-math
 
-Updated 2026-11-23 04:43:51. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:44:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -60,7 +60,7 @@ Updated 2026-11-23 04:43:51. Labels: finished / in progress / no audio / failed 
 | math/rational-expressions | finished | 212 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:11 |  |
 | math/ratios | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-23 04:34:56 |  |
 | math/roots-irrationals | finished | 115 | 0 | 0 | 0 | 0 | 2026-11-23 04:36:22 |  |
-| math/rotation-symmetry | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:53 |  |
+| math/rotation-symmetry | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-23 04:44:14 |  |
 | math/sampling | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:19 |  |
 | math/scale-drawings | finished | 112 | 0 | 0 | 0 | 0 | 2026-11-23 04:39:25 |  |
 | math/scatter-plots | finished | 332 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:53 |  |
