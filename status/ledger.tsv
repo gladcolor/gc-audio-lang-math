@@ -1,7 +1,10 @@
 lang	key	lesson	voice	kbps	date	source	send
 en	03abf052	art/art-architecture	serena moss8b	48	2026-11-23 03:53:55	tts	34c65e0dcd
+en	03e3ec52	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	2cb0fc4e6b
 en	03f0f033	art/art-architecture	serena moss8b	48	2026-11-23 03:52:08	tts	d62407794d
+en	049589b8	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	291b5a6412
 en	04fdd2aa	art/art-architecture	serena moss8b	48	2026-11-23 03:54:11	tts	26eb88a03c
+en	0573e64f	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	98c1a74050
 en	06893b50	art/art-architecture	serena moss8b	48	2026-11-23 03:54:21	tts	000f7470b8
 en	085a3638	art/art-architecture	serena moss8b	48	2026-11-23 03:54:15	tts	0555f462d5
 en	0947d89e	art/art-architecture	serena moss8b	48	2026-11-23 03:54:21	tts	9901f31cdc
@@ -33,6 +36,7 @@ en	25961525	art/art-architecture	serena moss8b	48	2026-11-23 03:53:15	tts	c2277b
 en	268b9de6	art/art-architecture	serena moss8b	48	2026-11-23 03:53:21	tts	5bd06e487f
 en	275c1fd3	art/art-architecture	serena moss8b	48	2026-11-23 03:52:01	tts	b00c104aa0
 en	27a1e528	art/art-architecture	serena moss8b	48	2026-11-23 03:53:01	tts	067cc8fd1f
+en	2a2f143b	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	a48c538a2d
 en	2bba8738	art/art-architecture	serena moss8b	48	2026-11-23 03:54:15	tts	3b1949ac42
 en	2bf05714	art/art-architecture	serena moss8b	48	2026-11-23 03:54:21	tts	7a108c0d15
 en	2d319264	art/art-architecture	serena moss8b	48	2026-11-23 03:54:21	tts	aa497bb3c5
@@ -45,6 +49,7 @@ en	3409ea2b	art/art-architecture	serena moss8b	48	2026-11-23 03:54:11	tts	135ad8
 en	35b61448	art/art-architecture	serena moss8b	48	2026-11-23 03:54:05	tts	67e9aef3ca
 en	3615de1a	art/art-architecture	serena moss8b	48	2026-11-23 03:53:31	tts	428f47d7e1
 en	371af36e	art/art-architecture	serena moss8b	48	2026-11-23 03:52:01	tts	976b474137
+en	38b5d953	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	0a72a15310
 en	3befa6fd	art/art-architecture	serena moss8b	48	2026-11-23 03:52:50	tts	93a52f5461
 en	3ce92ad3	art/art-architecture	serena moss8b	48	2026-11-23 03:50:21	tts	db663e5a2b
 en	3e2afbaa	art/art-architecture	serena moss8b	48	2026-11-23 03:53:55	tts	c2799a34ec
@@ -72,6 +77,8 @@ en	4bb0c4ca	art/art-architecture	serena moss8b	48	2026-11-23 03:54:05	tts	359090
 en	4c0359ae	art/art-architecture	serena moss8b	48	2026-11-23 03:52:29	tts	5cada1a4ec
 en	4c71aaf0	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	117bd26ce1
 en	501f22e6	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	e84b834a18
+en	524b5f7e	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	c3373ed605
+en	53f41192	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	341dfaa79f
 en	5426fd31	art/art-architecture	serena moss8b	48	2026-11-23 03:52:17	tts	d57d856f3e
 en	558c9579	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	827573838a
 en	5951c855	art/art-architecture	serena moss8b	48	2026-11-23 03:53:31	tts	5c3b96f3e5
@@ -80,6 +87,7 @@ en	5b9bb1ed	art/art-architecture	serena moss8b	48	2026-11-23 03:54:30	tts	46bb37
 en	5f4f74f2	art/art-architecture	serena moss8b	48	2026-11-23 03:53:55	tts	2988ac91cc
 en	61b472b9	art/art-architecture	serena moss8b	48	2026-11-23 03:54:30	tts	f8e869ba82
 en	61ec080a	art/art-architecture	serena moss8b	48	2026-11-23 03:53:01	tts	f8ea7a86c0
+en	6333665c	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	1cdc52a5e8
 en	63a0bcc6	art/art-architecture	serena moss8b	48	2026-11-23 03:54:15	tts	ea08b34260
 en	64f9ac30	art/art-architecture	serena moss8b	48	2026-11-23 03:54:05	tts	21eee7cc34
 en	6564e6e7	art/art-architecture	serena moss8b	48	2026-11-23 03:52:29	tts	83b1c33e31
@@ -109,26 +117,32 @@ en	7f10f318	art/art-architecture	serena moss8b	48	2026-11-23 03:52:01	tts	e95fd5
 en	7f2bfd15	art/art-architecture	serena moss8b	48	2026-11-23 03:54:05	tts	0cd2a7e74c
 en	7f2f1011	art/art-architecture	serena moss8b	48	2026-11-23 03:53:01	tts	a1d007cc3b
 en	7fe72079	art/art-architecture	serena moss8b	48	2026-11-23 03:52:17	tts	9eb668252e
+en	84b1546f	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	f8e2547b3c
 en	84da6782	art/art-architecture	serena moss8b	48	2026-11-23 03:53:55	tts	c54adb4d2e
 en	85916eff	art/art-architecture	serena moss8b	48	2026-11-23 03:53:15	tts	7835827cbd
 en	88901615	art/art-architecture	serena moss8b	48	2026-11-23 03:53:31	tts	49afde6a28
 en	89b3a65e	art/art-architecture	serena moss8b	48	2026-11-23 03:54:15	tts	d9bcb4db05
 en	8c192b70	art/art-architecture	serena moss8b	48	2026-11-23 03:52:01	tts	04a33e3054
+en	8c34a5fe	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	426b73e255
 en	8efd1805	art/art-architecture	serena moss8b	48	2026-11-23 03:53:31	tts	a185e74e63
 en	90b3fb8e	art/art-architecture	serena moss8b	48	2026-11-23 03:54:11	tts	dab8799105
 en	92c490ac	art/art-architecture	serena moss8b	48	2026-11-23 03:52:01	tts	444c18f458
 en	93c7f18c	art/art-architecture	serena moss8b	48	2026-11-23 03:53:55	tts	0450af5d81
+en	94112dbb	art/art-architecture	serena moss8b	48	2026-11-23 03:54:43	tts	70e63c0068
 en	94cbe72c	art/art-architecture	serena moss8b	48	2026-11-23 03:52:08	tts	31fd7c7caf
 en	9542f4b8	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	3f50ef9fc7
 en	95738bec	art/art-architecture	serena moss8b	48	2026-11-23 03:50:21	tts	09d156c0b5
 en	95cb33d4	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	a5c00b17f5
 en	95f5fee0	art/art-architecture	serena moss8b	48	2026-11-23 03:53:21	tts	5c6d3b057c
 en	972aff44	art/art-architecture	serena moss8b	48	2026-11-23 03:53:31	tts	d7beaf0a30
+en	97b69028	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	2d1874bf2d
+en	97b6f645	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	cc0b9df428
 en	98c505db	art/art-architecture	serena moss8b	48	2026-11-23 03:54:05	tts	37fb2ff04a
 en	98da1fb8	art/art-architecture	serena moss8b	48	2026-11-23 03:52:08	tts	f9bdfe3887
 en	9987e2ee	art/art-architecture	serena moss8b	48	2026-11-23 03:52:08	tts	ec85c86a77
 en	99bec088	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	039dca320b
 en	9a7e9e30	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	6ffba6f2ba
+en	9bd80dda	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	3713e5fde0
 en	9d69baf3	art/art-architecture	serena moss8b	48	2026-11-23 03:54:05	tts	c7b7b72254
 en	9f5d601b	art/art-architecture	serena moss8b	48	2026-11-23 03:53:55	tts	3b39d50e1a
 en	9f6b8ad6	art/art-architecture	serena moss8b	48	2026-11-23 03:53:49	tts	80b7666bde
@@ -152,6 +166,7 @@ en	b0534052	art/art-architecture	serena moss8b	48	2026-11-23 03:53:31	tts	30fbb8
 en	b17ad7e4	art/art-architecture	serena moss8b	48	2026-11-23 03:52:01	tts	3dc982e379
 en	b2cc9a29	art/art-architecture	serena moss8b	48	2026-11-23 03:52:08	tts	399c590d86
 en	b2f44c17	art/art-architecture	serena moss8b	48	2026-11-23 03:52:01	tts	f948315f05
+en	b315a627	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	ff0ecb6ce5
 en	b487857b	art/art-architecture	serena moss8b	48	2026-11-23 03:54:30	tts	e810db19d7
 en	b5e7b8bc	art/art-architecture	serena moss8b	48	2026-11-23 03:52:50	tts	5784ca4a67
 en	b8b10b69	art/art-architecture	serena moss8b	48	2026-11-23 03:52:17	tts	aff97dad2c
@@ -178,6 +193,7 @@ en	cc8caa04	art/art-architecture	serena moss8b	48	2026-11-23 03:52:38	tts	26fd80
 en	ccf17bc6	art/art-architecture	serena moss8b	48	2026-11-23 03:53:15	tts	e909a5ac9c
 en	cf7543a6	art/art-architecture	serena moss8b	48	2026-11-23 03:52:08	tts	738e293cef
 en	d19dc7c8	art/art-architecture	serena moss8b	48	2026-11-23 03:54:11	tts	9d46b51274
+en	d32d2f98	art/art-architecture	serena moss8b	48	2026-11-23 03:54:46	tts	c39f3a8ace
 en	d342b03b	art/art-architecture	serena moss8b	48	2026-11-23 03:54:30	tts	304ac9875c
 en	d7afafe7	art/art-architecture	serena moss8b	48	2026-11-23 03:54:21	tts	7037440f7f
 en	d8614769	art/art-architecture	serena moss8b	48	2026-11-23 03:50:21	tts	8a97882c76
@@ -494,6 +510,7 @@ en	2be5d241	art/art-chinese	serena moss8b	48	2026-11-23 03:53:01	tts	422d36a5b8
 en	2d39b96e	art/art-chinese	serena moss8b	48	2026-11-23 03:52:01	tts	7df73cccf6
 en	2e68105a	art/art-chinese	serena moss8b	48	2026-11-23 03:50:21	tts	a38c2adf6f
 en	2eef02fc	art/art-chinese	serena moss8b	48	2026-11-23 03:52:17	tts	a98ecaee1f
+en	3ba3e681	art/art-chinese	serena moss8b	48	2026-11-23 03:54:46	tts	c93e0f4230
 en	3cf9629b	art/art-chinese	serena moss8b	48	2026-11-23 03:50:21	tts	f037f2ed1e
 en	3effb193	art/art-chinese	serena moss8b	48	2026-11-23 03:49:30	tts	f00dd1c496
 en	3f0a349f	art/art-chinese	serena moss8b	48	2026-11-23 03:52:38	tts	970d7f5f52
@@ -562,6 +579,7 @@ en	c8ef6185	art/art-chinese	serena moss8b	48	2026-11-23 03:52:38	tts	34fcd4fd18
 en	c9ccbe02	art/art-chinese	serena moss8b	48	2026-11-23 03:53:21	tts	73bc3027c1
 en	ca02b5a1	art/art-chinese	serena moss8b	48	2026-11-23 03:52:17	tts	4e33ecfa60
 en	cd1e1b7b	art/art-chinese	serena moss8b	48	2026-11-23 03:52:08	tts	7281296336
+en	cd6615e9	art/art-chinese	serena moss8b	48	2026-11-23 03:54:46	tts	4db01ae92c
 en	d6816117	art/art-chinese	serena moss8b	48	2026-11-23 03:53:21	tts	8d6f1c2174
 en	d825f3bc	art/art-chinese	serena moss8b	48	2026-11-23 03:54:05	tts	aa7f3e1e8f
 en	d86ef804	art/art-chinese	serena moss8b	48	2026-11-23 03:52:50	tts	c59a70d079
@@ -570,6 +588,7 @@ en	df90ebea	art/art-chinese	serena moss8b	48	2026-11-23 03:53:31	tts	36ab03a9f4
 en	dfad5e2e	art/art-chinese	serena moss8b	48	2026-11-23 03:52:01	tts	bc677aac66
 en	e009ef6b	art/art-chinese	serena moss8b	48	2026-11-23 03:52:29	tts	d9ff146b6a
 en	e48884a5	art/art-chinese	serena moss8b	48	2026-11-23 03:52:01	tts	4c989b6529
+en	eb85b2e7	art/art-chinese	serena moss8b	48	2026-11-23 03:54:46	tts	5281fad558
 en	f627e6e5	art/art-chinese	serena moss8b	48	2026-11-23 03:52:08	tts	2ba44c82cb
 en	f7dd6758	art/art-chinese	serena moss8b	48	2026-11-23 03:54:30	tts	337a8769ee
 en	fa1593b4	art/art-chinese	serena moss8b	48	2026-11-23 03:52:01	tts	b29944f41d
@@ -913,6 +932,7 @@ en	1e9b7b80	art/art-daily	serena moss8b	48	2026-11-23 03:54:11	tts	a077e3f544
 en	20c10492	art/art-daily	serena moss8b	48	2026-11-23 03:53:21	tts	f8206cd891
 en	2887c96c	art/art-daily	serena moss8b	48	2026-11-23 03:52:38	tts	57796ba75f
 en	2cd15ae0	art/art-daily	serena moss8b	48	2026-11-23 03:54:05	tts	21d6c55cde
+en	2f3f6c90	art/art-daily	serena moss8b	48	2026-11-23 03:54:46	tts	03c8b257ff
 en	3137c6ff	art/art-daily	serena moss8b	48	2026-11-23 03:54:21	tts	555c567971
 en	350b088c	art/art-daily	serena moss8b	48	2026-11-23 03:52:38	tts	902787480b
 en	352dcb36	art/art-daily	serena moss8b	48	2026-11-23 03:53:01	tts	0a32912fd4
@@ -935,13 +955,16 @@ en	81eea172	art/art-daily	serena moss8b	48	2026-11-23 03:52:50	tts	97471d8478
 en	84030db4	art/art-daily	serena moss8b	48	2026-11-23 03:53:31	tts	35546b6fc7
 en	90479d67	art/art-daily	serena moss8b	48	2026-11-23 03:53:31	tts	c10cd7b7d6
 en	9080fe62	art/art-daily	serena moss8b	48	2026-11-23 03:54:21	tts	bcb9ec7b62
+en	983063dd	art/art-daily	serena moss8b	48	2026-11-23 03:54:46	tts	065e5c95c6
 en	9d48ebbd	art/art-daily	serena moss8b	48	2026-11-23 03:52:38	tts	44ea2e92e0
 en	a265fe96	art/art-daily	serena moss8b	48	2026-11-23 03:54:30	tts	45ef3064cb
 en	a9ba2e29	art/art-daily	serena moss8b	48	2026-11-23 03:54:30	tts	fd856b1610
 en	ac349804	art/art-daily	serena moss8b	48	2026-11-23 03:52:17	tts	b7d8de73a1
+en	acb93793	art/art-daily	serena moss8b	48	2026-11-23 03:54:43	tts	a0742e4694
 en	b3144694	art/art-daily	serena moss8b	48	2026-11-23 03:53:01	tts	530d2e27ad
 en	be913443	art/art-daily	serena moss8b	48	2026-11-23 03:54:15	tts	b117e1b62d
 en	bf721021	art/art-daily	serena moss8b	48	2026-11-23 03:54:21	tts	d8d1097c43
+en	c5712080	art/art-daily	serena moss8b	48	2026-11-23 03:54:46	tts	506dbcead4
 en	ca96033e	art/art-daily	serena moss8b	48	2026-11-23 03:52:38	tts	2435863c2f
 en	d36b1822	art/art-daily	serena moss8b	48	2026-11-23 03:52:01	tts	ea4a9bc997
 en	d5cc399d	art/art-daily	serena moss8b	48	2026-11-23 03:53:21	tts	9ac512d121
@@ -1192,12 +1215,15 @@ zh	fa214c31	art/art-design	serena moss8b	48	2026-11-22 20:08:45	tts	1478d3c91d
 zh	fa55b055	art/art-design	serena moss8b	48	2026-11-22 20:08:56	tts	dd0786e273
 zh	fb88a6b8	art/art-design	serena moss8b	48	2026-11-22 20:09:13	tts	567c9afbdc
 en	01112856	art/art-games	serena moss8b	48	2026-11-23 03:52:29	tts	47b851adf5
+en	02245738	art/art-games	serena moss8b	48	2026-11-23 03:54:46	tts	470b61d16d
 en	0279ff02	art/art-games	serena moss8b	48	2026-11-23 03:52:17	tts	0ac51b3757
 en	06407164	art/art-games	serena moss8b	48	2026-11-23 03:52:17	tts	376fad4fce
+en	06ba43f5	art/art-games	serena moss8b	48	2026-11-23 03:54:46	tts	fecfafabdb
 en	07730d65	art/art-games	serena moss8b	48	2026-11-23 03:52:17	tts	5554a75fe1
 en	07a95b1a	art/art-games	serena moss8b	48	2026-11-23 03:52:08	tts	0276e9ce03
 en	090f8734	art/art-games	serena moss8b	48	2026-11-23 03:53:31	tts	92787431d7
 en	09d279a7	art/art-games	serena moss8b	48	2026-11-23 03:54:21	tts	63b066d4d2
+en	0a1d8b1a	art/art-games	serena moss8b	48	2026-11-23 03:54:46	tts	3124c7c182
 en	0bd4df47	art/art-games	serena moss8b	48	2026-11-23 03:52:38	tts	c03b963347
 en	0f2f41fb	art/art-games	serena moss8b	48	2026-11-23 03:52:29	tts	e2f168b047
 en	11315a6d	art/art-games	serena moss8b	48	2026-11-23 03:52:29	tts	abd37e2877
@@ -1208,6 +1234,7 @@ en	15b6483a	art/art-games	serena moss8b	48	2026-11-23 03:53:01	tts	988514cf0b
 en	165d2ebf	art/art-games	serena moss8b	48	2026-11-23 03:50:21	tts	fd849744e7
 en	17a9f7a6	art/art-games	serena moss8b	48	2026-11-23 03:53:49	tts	7ef42668fd
 en	18fd7f63	art/art-games	serena moss8b	48	2026-11-23 03:52:17	tts	be77755437
+en	19a1779b	art/art-games	serena moss8b	48	2026-11-23 03:54:46	tts	6a95c9bfb1
 en	19f0cb1f	art/art-games	serena moss8b	48	2026-11-23 03:52:01	tts	0173b9faf6
 en	1a27f201	art/art-games	serena moss8b	48	2026-11-23 03:54:15	tts	2cf8d9779c
 en	1ca3abc6	art/art-games	serena moss8b	48	2026-11-23 03:52:29	tts	b67be39b23
@@ -1239,6 +1266,7 @@ en	3eddad86	art/art-games	serena moss8b	48	2026-11-23 03:52:17	tts	4de65ea991
 en	3fd19798	art/art-games	serena moss8b	48	2026-11-23 03:50:21	tts	657a5578f1
 en	3fe88eb7	art/art-games	serena moss8b	48	2026-11-23 03:54:00	tts	b3ae8617ef
 en	41959602	art/art-games	serena moss8b	48	2026-11-23 03:54:15	tts	853946d057
+en	42529f44	art/art-games	serena moss8b	48	2026-11-23 03:54:46	tts	9e42183a98
 en	42bdddc3	art/art-games	serena moss8b	48	2026-11-23 03:53:49	tts	35aa42beaf
 en	43aa2c58	art/art-games	serena moss8b	48	2026-11-23 03:54:05	tts	fe20d15eda
 en	45afafa5	art/art-games	serena moss8b	48	2026-11-23 03:52:08	tts	e18d1468cf
@@ -1343,6 +1371,7 @@ en	dea72caf	art/art-games	serena moss8b	48	2026-11-23 03:53:55	tts	9ebb8b3add
 en	e00b5d17	art/art-games	serena moss8b	48	2026-11-23 03:53:15	tts	d8eac62889
 en	e1e4df2d	art/art-games	serena moss8b	48	2026-11-23 03:53:55	tts	1f7bb5ed96
 en	e4b379e2	art/art-games	serena moss8b	48	2026-11-23 03:53:21	tts	c3a3d2640c
+en	e7a26be5	art/art-games	serena moss8b	48	2026-11-23 03:54:46	tts	3aeebe7096
 en	e9608729	art/art-games	serena moss8b	48	2026-11-23 03:53:01	tts	42dafd8930
 en	ec09fc53	art/art-games	serena moss8b	48	2026-11-23 03:54:11	tts	e9acf4daa1
 en	ef54320a	art/art-games	serena moss8b	48	2026-11-23 03:53:21	tts	b4749f3754
@@ -1604,6 +1633,8 @@ en	54693ac5	art/art-history	serena moss8b	48	2026-11-23 03:54:21	tts	798901b2f1
 en	5582168f	art/art-history	serena moss8b	48	2026-11-23 03:52:29	tts	cd577fb9a7
 en	57b9f7c6	art/art-history	serena moss8b	48	2026-11-23 03:53:55	tts	42b289b168
 en	57efdd21	art/art-history	serena moss8b	48	2026-11-23 03:49:09	tts	bddb36555f
+en	58a53b18	art/art-history	serena moss8b	48	2026-11-23 03:54:43	tts	a4e73731e2
+en	59887081	art/art-history	serena moss8b	48	2026-11-23 03:54:43	tts	7d6b2af821
 en	5a4bc012	art/art-history	serena moss8b	48	2026-11-23 03:46:43	tts	ca9fb431c7
 en	5a5403aa	art/art-history	serena moss8b	48	2026-11-23 03:45:11	tts	408b9dd340
 en	5aeed2c6	art/art-history	serena moss8b	48	2026-11-23 03:45:13	tts	c48e4a3b64
@@ -1662,9 +1693,11 @@ en	c98a3ce6	art/art-history	serena moss8b	48	2026-11-23 03:47:56	tts	b10a038573
 en	cc9e41ad	art/art-history	serena moss8b	48	2026-11-23 03:47:45	tts	eac1272f78
 en	ccbc0486	art/art-history	serena moss8b	48	2026-11-23 03:54:30	tts	13052689a1
 en	cce362d5	art/art-history	serena moss8b	48	2026-11-23 03:54:15	tts	15242639dd
+en	cd8d4b2f	art/art-history	serena moss8b	48	2026-11-23 03:54:46	tts	142f4ed27e
 en	cdb8ab60	art/art-history	serena moss8b	48	2026-11-23 03:53:15	tts	d5c67f5d31
 en	ceed5a74	art/art-history	serena moss8b	48	2026-11-23 03:49:47	tts	97f5bae844
 en	cfaae71d	art/art-history	serena moss8b	48	2026-11-23 03:52:29	tts	266e7569a4
+en	cfdd4dc6	art/art-history	serena moss8b	48	2026-11-23 03:54:46	tts	3d66eb9d38
 en	d063e3c0	art/art-history	serena moss8b	48	2026-11-23 03:52:29	tts	131d72aa5a
 en	d0b33cf7	art/art-history	serena moss8b	48	2026-11-23 03:54:21	tts	e798d479ed
 en	d16a4cb7	art/art-history	serena moss8b	48	2026-11-23 03:52:29	tts	2e28d1720e
@@ -1847,6 +1880,7 @@ en	0716a112	art/art-landscape	serena moss8b	48	2026-11-23 03:53:49	tts	5418805e5
 en	08004bcb	art/art-landscape	serena moss8b	48	2026-11-23 03:52:01	tts	316b8939ea
 en	0a5ed702	art/art-landscape	serena moss8b	48	2026-11-23 03:52:01	tts	4a1de25ce2
 en	0aec74a9	art/art-landscape	serena moss8b	48	2026-11-23 03:52:17	tts	579ded7f32
+en	0c76dcaa	art/art-landscape	serena moss8b	48	2026-11-23 03:54:46	tts	82dce15de0
 en	0de19fac	art/art-landscape	serena moss8b	48	2026-11-23 03:52:01	tts	a51be6f073
 en	105e3082	art/art-landscape	serena moss8b	48	2026-11-23 03:54:05	tts	1b0f15afca
 en	1131b48a	art/art-landscape	serena moss8b	48	2026-11-23 03:54:05	tts	e7d59729dd
@@ -1890,13 +1924,16 @@ en	4a2d3a72	art/art-landscape	serena moss8b	48	2026-11-23 03:53:31	tts	c3e9985e3
 en	4b9997c2	art/art-landscape	serena moss8b	48	2026-11-23 03:54:21	tts	8ea50691dc
 en	4bfc3d0a	art/art-landscape	serena moss8b	48	2026-11-23 03:53:55	tts	27e87a5e73
 en	4c0e3791	art/art-landscape	serena moss8b	48	2026-11-23 03:50:21	tts	289a307c1b
+en	4cb0bef9	art/art-landscape	serena moss8b	48	2026-11-23 03:54:43	tts	434d880ad4
 en	4d4fe70e	art/art-landscape	serena moss8b	48	2026-11-23 03:54:05	tts	8b78524b20
 en	4dd4d8d4	art/art-landscape	serena moss8b	48	2026-11-23 03:52:38	tts	03ec17fc6f
 en	4e4aef40	art/art-landscape	serena moss8b	48	2026-11-23 03:52:17	tts	222d197fab
 en	51fd7b59	art/art-landscape	serena moss8b	48	2026-11-23 03:54:05	tts	98d52b97b3
 en	53a73cd1	art/art-landscape	serena moss8b	48	2026-11-23 03:54:15	tts	96eca28337
+en	53b491d9	art/art-landscape	serena moss8b	48	2026-11-23 03:54:46	tts	e75ee0e991
 en	5579fb31	art/art-landscape	serena moss8b	48	2026-11-23 03:52:08	tts	0866ec4bc5
 en	57e85f1a	art/art-landscape	serena moss8b	48	2026-11-23 03:53:55	tts	036c0807ce
+en	586db4dc	art/art-landscape	serena moss8b	48	2026-11-23 03:54:46	tts	23e82a06ce
 en	58f34489	art/art-landscape	serena moss8b	48	2026-11-23 03:52:01	tts	16a930b572
 en	5932b997	art/art-landscape	serena moss8b	48	2026-11-23 03:52:29	tts	a7c446f7bf
 en	5a89339b	art/art-landscape	serena moss8b	48	2026-11-23 03:54:05	tts	b646983efa
@@ -2441,6 +2478,7 @@ zh	fd5a997f	art/art-perspective	serena moss8b	48	2026-11-22 20:08:22	tts	df176d4
 zh	fe9fc165	art/art-perspective	serena moss8b	48	2026-11-22 20:08:38	tts	d4634d9331
 en	001eaf0d	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:21	tts	39a859a56d
 en	032325bf	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:38	tts	0b0b1d4b19
+en	05c60212	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:46	tts	1e36dbf68f
 en	066ede2b	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:21	tts	e93cb4251c
 en	06e4cd39	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:31	tts	dcc470be7d
 en	07958584	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:38	tts	52721fd92d
@@ -2499,6 +2537,7 @@ en	439da8e5	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:29	tts	03adb2351
 en	43aaeae5	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:17	tts	2240d5acb8
 en	450c4c2a	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:29	tts	510f875137
 en	46145926	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:21	tts	82324bff43
+en	48aac554	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:46	tts	0954257ece
 en	48cde797	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:01	tts	68c5d70f0f
 en	4946084d	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:15	tts	1fd4a92195
 en	4974f5ff	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:30	tts	4dbfa3f307
@@ -2520,6 +2559,7 @@ en	5a33850d	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:31	tts	34ec3c18c
 en	5c19c28a	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:29	tts	cbcca84e7b
 en	60fde918	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:08	tts	52db519f2b
 en	61448357	art/art-sculpture	serena moss8b	48	2026-11-23 03:48:10	tts	d322934369
+en	61a257c4	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:46	tts	c503693438
 en	628dc90b	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:17	tts	800fb60572
 en	62bb9d5c	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:49	tts	d4b064975c
 en	63511156	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:01	tts	123133f825
@@ -2561,6 +2601,7 @@ en	90540d9b	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:01	tts	2bc6af302
 en	908bc8cb	art/art-sculpture	serena moss8b	48	2026-11-23 03:50:21	tts	09cbb63435
 en	927a515c	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:08	tts	1af8735bb2
 en	9581800f	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:17	tts	937d42af2f
+en	96b0a5c9	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:46	tts	c1d084cabd
 en	9a700dd6	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:50	tts	7e36373562
 en	9c2c3f66	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:17	tts	3963705717
 en	9d45884b	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:21	tts	9c8f32a5db
@@ -2605,11 +2646,13 @@ en	c932d437	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:01	tts	08220cdf0
 en	cd1d55bb	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:50	tts	19e001e01e
 en	cd5ce525	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:15	tts	0e4e9ef3e3
 en	cd6c7a51	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:50	tts	81b7ad39f9
+en	cddca91d	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:46	tts	2ad85a1568
 en	d01edbf4	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:05	tts	a587374075
 en	d06ca08a	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:50	tts	fa23504bf1
 en	d071f6d6	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:05	tts	3eecf3d358
 en	d09611f1	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:49	tts	e9a8261003
 en	d1f2cd26	art/art-sculpture	serena moss8b	48	2026-11-23 03:50:21	tts	2929c69c98
+en	d4601742	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:46	tts	6c8ed20480
 en	d4850096	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:15	tts	9b9c5f3c50
 en	d4b076d9	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:01	tts	29e5b102cf
 en	d548522d	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:55	tts	29f0f93569
@@ -2625,6 +2668,7 @@ en	deb9ef6e	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:15	tts	acc109d33
 en	dec9abe3	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:17	tts	aaaadc37b9
 en	e1c957e4	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:15	tts	e6cc1789d6
 en	e4322f64	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:55	tts	8e3bb2cb72
+en	e4e34c6e	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:43	tts	f741a03497
 en	e580069e	art/art-sculpture	serena moss8b	48	2026-11-23 03:50:21	tts	fa9a0781f3
 en	e62f4ba4	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:05	tts	743021f3c9
 en	e7bfbe99	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:08	tts	1dd508aa2c
@@ -2637,6 +2681,7 @@ en	ee40c73a	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:01	tts	820ca2b2f
 en	ef8abc3c	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:01	tts	04c34c2498
 en	f048e9d7	art/art-sculpture	serena moss8b	48	2026-11-23 03:53:31	tts	2fed007da9
 en	f1667736	art/art-sculpture	serena moss8b	48	2026-11-23 03:52:38	tts	5178bcd13f
+en	f1c6119f	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:46	tts	46306eb44b
 en	f25f4ea6	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:21	tts	03799315dd
 en	f4140296	art/art-sculpture	serena moss8b	48	2026-11-23 03:54:15	tts	e47fded896
 en	f4bdcf8c	art/art-sculpture	serena moss8b	48	2026-11-23 03:50:21	tts	777123e4d8
@@ -2885,6 +2930,7 @@ en	046eb2d7	art/art-theater	serena moss8b	48	2026-11-23 03:52:50	tts	3941d51cbb
 en	05ce1976	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	bfbd682c71
 en	06299874	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	c17cde4fa3
 en	074d7a08	art/art-theater	serena moss8b	48	2026-11-23 03:54:15	tts	91ceb3d6f1
+en	078c7b68	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	bf41486d7a
 en	07b0faa3	art/art-theater	serena moss8b	48	2026-11-23 03:54:11	tts	24437c22a0
 en	0b3e0c81	art/art-theater	serena moss8b	48	2026-11-23 03:54:21	tts	d7d9802f72
 en	0b4192c8	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	3b3dbcfe43
@@ -2923,12 +2969,15 @@ en	2d302e81	art/art-theater	serena moss8b	48	2026-11-23 03:54:21	tts	00ac7a733c
 en	2d4f3356	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	b56621d8ed
 en	2d4ff1e0	art/art-theater	serena moss8b	48	2026-11-23 03:54:05	tts	51aa7742cc
 en	2d7c3790	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	a093f7e9ff
+en	2dc19d1e	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	aa29e16289
 en	2ef20001	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	5ce2a44458
 en	2f297326	art/art-theater	serena moss8b	48	2026-11-23 03:54:21	tts	4b0a5db315
+en	2ffdb224	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	8231ca23cb
 en	309e8e11	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	d6e3e67448
 en	30ecee76	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	8ede938dfb
 en	30efdbe7	art/art-theater	serena moss8b	48	2026-11-23 03:54:11	tts	78f7210560
 en	31530de2	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	43a6c1e9b2
+en	328c4b58	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	646a9d184a
 en	32df1b95	art/art-theater	serena moss8b	48	2026-11-23 03:50:21	tts	029dcc5130
 en	333cc265	art/art-theater	serena moss8b	48	2026-11-23 03:52:08	tts	9d3bed0e9c
 en	334f8a25	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	8dfa7ced62
@@ -2937,15 +2986,19 @@ en	33f08163	art/art-theater	serena moss8b	48	2026-11-23 03:54:15	tts	2427e15f2c
 en	33f571d7	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	33072feeee
 en	345cd823	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	c9ed3e5f8e
 en	36ccfeef	art/art-theater	serena moss8b	48	2026-11-23 03:52:29	tts	47e63af171
+en	372b3d16	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	a3c46338f4
 en	38a2a074	art/art-theater	serena moss8b	48	2026-11-23 03:52:38	tts	7466363886
+en	3930cfc3	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	26c0077613
 en	39ed7935	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	7584971f82
 en	3d38dad6	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	34e2c38cf3
 en	3fd0cf45	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	cf9725b0cb
 en	414e4ec2	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	c1be05635b
 en	4216c2c3	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	ccd781c2ff
 en	435c8039	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	5b62f83667
+en	4364a768	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	40628c1df9
 en	43b85245	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	bfc9d33c02
 en	43ede7a5	art/art-theater	serena moss8b	48	2026-11-23 03:52:29	tts	81175f7d9b
+en	440366bd	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	9245912763
 en	4442cf5a	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	91a19e4699
 en	446122b4	art/art-theater	serena moss8b	48	2026-11-23 03:52:29	tts	68c6785680
 en	44df2b53	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	8471936558
@@ -2973,6 +3026,7 @@ en	5745f1a5	art/art-theater	serena moss8b	48	2026-11-23 03:52:50	tts	8555ea753a
 en	5793e3aa	art/art-theater	serena moss8b	48	2026-11-23 03:54:05	tts	86546ea5b6
 en	57c6d589	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	e1a32905fd
 en	581cefbf	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	111a49db0b
+en	584ce3a3	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	5765850f5f
 en	59060d3d	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	3ee1e732af
 en	591cc823	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	88fe260aa5
 en	59bee8fc	art/art-theater	serena moss8b	48	2026-11-23 03:52:17	tts	ed7fdff9dc
@@ -3008,20 +3062,24 @@ en	6fc375e8	art/art-theater	serena moss8b	48	2026-11-23 03:52:08	tts	275c482c75
 en	6fe7dde7	art/art-theater	serena moss8b	48	2026-11-23 03:50:21	tts	632bdde56d
 en	714c86e0	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	0a751feb38
 en	718866e5	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	54e0430313
+en	721729f1	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	e5de2a366a
 en	733738e5	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	5b6e5a8aef
 en	73859ae6	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	104853f271
 en	747ab913	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	a02d118f82
 en	7587fc58	art/art-theater	serena moss8b	48	2026-11-23 03:50:21	tts	e6ed233fac
+en	77287ff4	art/art-theater	serena moss8b	48	2026-11-23 03:54:43	tts	bee851fdf2
 en	7961f844	art/art-theater	serena moss8b	48	2026-11-23 03:54:15	tts	8d31d5ce7f
 en	79c4ab9d	art/art-theater	serena moss8b	48	2026-11-23 03:52:17	tts	47cb8489b0
 en	7b6d8d8c	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	e425f22533
 en	7ba025db	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	d3320923d1
 en	7bb480f8	art/art-theater	serena moss8b	48	2026-11-23 03:54:11	tts	bd271fcb7c
 en	7bd547e0	art/art-theater	serena moss8b	48	2026-11-23 03:50:21	tts	e17aeeb8d7
+en	7c150240	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	71c4b1833d
 en	7d0f0282	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	f5c0907cf6
 en	7d30e351	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	eb93935b33
 en	7e744e4a	art/art-theater	serena moss8b	48	2026-11-23 03:52:38	tts	bc20e40136
 en	7ea87567	art/art-theater	serena moss8b	48	2026-11-23 03:52:17	tts	7c8a7b8971
+en	7f163f8d	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	29e9defa90
 en	7fb52708	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	f79c3abd6b
 en	7fb759d6	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	619d1ae456
 en	7fd6dbaa	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	3d83d52ccc
@@ -3038,6 +3096,7 @@ en	87b6acd3	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	fcbf0fc6ab
 en	8895e541	art/art-theater	serena moss8b	48	2026-11-23 03:52:08	tts	2c53923712
 en	895decf2	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	64047bf04e
 en	8b07d97b	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	6258e2882d
+en	8c160ac5	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	54e3ea852f
 en	8d668463	art/art-theater	serena moss8b	48	2026-11-23 03:54:05	tts	8158dd467e
 en	8da44b86	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	1709ed04f2
 en	8ddcea2d	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	c82f9864fd
@@ -3061,6 +3120,7 @@ en	9d6c6939	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	a984b176da
 en	9ddeb902	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	9a8012bc55
 en	a029f741	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	aec4e1a848
 en	a08de109	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	caa20719da
+en	a0b463f8	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	d2d9945fed
 en	a209fef0	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	ca553b08b9
 en	a23e6b1c	art/art-theater	serena moss8b	48	2026-11-23 03:54:11	tts	b25d0a6a85
 en	a2a92ec1	art/art-theater	serena moss8b	48	2026-11-23 03:52:08	tts	390a431995
@@ -3123,9 +3183,12 @@ en	cd9c8740	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	3d76ab78b6
 en	cef91851	art/art-theater	serena moss8b	48	2026-11-23 03:54:21	tts	6c0a9a8e4d
 en	d010b4b4	art/art-theater	serena moss8b	48	2026-11-23 03:54:21	tts	f5a3a90e55
 en	d07fe2ff	art/art-theater	serena moss8b	48	2026-11-23 03:54:15	tts	d02ad46b81
+en	d223dcb6	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	09dc600d77
 en	d3415aa3	art/art-theater	serena moss8b	48	2026-11-23 03:54:11	tts	47276e282f
+en	d37fb172	art/art-theater	serena moss8b	48	2026-11-23 03:54:43	tts	a5acb6bcdc
 en	d3b5cab1	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	bfa2840333
 en	d43602a0	art/art-theater	serena moss8b	48	2026-11-23 03:54:05	tts	7d6ecba2e9
+en	d4396f8b	art/art-theater	serena moss8b	48	2026-11-23 03:54:43	tts	7d748f449a
 en	d50f3616	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	4af7a6b878
 en	d715012a	art/art-theater	serena moss8b	48	2026-11-23 03:54:21	tts	d9e110b793
 en	d763cd53	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	eb47e9eecb
@@ -3139,8 +3202,10 @@ en	dfde76dc	art/art-theater	serena moss8b	48	2026-11-23 03:54:21	tts	b5b8e5558b
 en	dfdf17f8	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	4c37cb5aba
 en	e07aad3c	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	d0e44efa26
 en	e14c2d8d	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	7df6f903a0
+en	e1974abd	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	acddf0a1f6
 en	e1b4c4f9	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	2209048389
 en	e38132ee	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	e7ef68d3b6
+en	e4a5e091	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	25970a1ae7
 en	e4adcfda	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	41b334c1e1
 en	e5214b0d	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	6ebbc162aa
 en	e5d632fc	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	58da26adf3
@@ -3149,6 +3214,7 @@ en	e6287f9f	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	6a40c8c46e
 en	e6b7396c	art/art-theater	serena moss8b	48	2026-11-23 03:54:05	tts	788ff63593
 en	e728d817	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	096d4ec9fb
 en	e81e721e	art/art-theater	serena moss8b	48	2026-11-23 03:52:08	tts	c34cb48d98
+en	e846bd05	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	3210b59733
 en	e912c9e3	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	3a9bcd45a9
 en	e927f22a	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	532730258c
 en	ea662396	art/art-theater	serena moss8b	48	2026-11-23 03:54:15	tts	a8ce8cce5c
@@ -3160,6 +3226,7 @@ en	efed5a6a	art/art-theater	serena moss8b	48	2026-11-23 03:54:30	tts	ae7ba90dd0
 en	f00ce205	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	624dbdcb40
 en	f01d20de	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	e88f8f8386
 en	f07888c3	art/art-theater	serena moss8b	48	2026-11-23 03:53:55	tts	941bf05ad7
+en	f113bf50	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	902d66f763
 en	f1e715ba	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	b453879c4a
 en	f2ff898f	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	0f646bab20
 en	f39edf3e	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	9cf9d892a0
@@ -3170,11 +3237,14 @@ en	f83be3b9	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	d78227e6f2
 en	f84432cd	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	c01d428f05
 en	f909152d	art/art-theater	serena moss8b	48	2026-11-23 03:53:21	tts	6d778ea7fa
 en	f9484c62	art/art-theater	serena moss8b	48	2026-11-23 03:52:01	tts	1e66ec44f6
+en	fa05b213	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	54d6d1db2e
 en	faae668e	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	64f478c07f
+en	fad7ba15	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	c34a2dec2f
 en	faeb96f5	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	7395bf9c09
 en	fb7ab13d	art/art-theater	serena moss8b	48	2026-11-23 03:53:15	tts	542dba2d53
 en	fbf5dddd	art/art-theater	serena moss8b	48	2026-11-23 03:53:01	tts	34c302c42e
 en	fc3e303b	art/art-theater	serena moss8b	48	2026-11-23 03:54:05	tts	89ab5a0d61
+en	fc9f29f2	art/art-theater	serena moss8b	48	2026-11-23 03:54:46	tts	0980136064
 en	fd6c71c9	art/art-theater	serena moss8b	48	2026-11-23 03:53:49	tts	147628be5f
 en	fe08e31d	art/art-theater	serena moss8b	48	2026-11-23 03:53:31	tts	734cc95545
 en	fe39a8a2	art/art-theater	serena moss8b	48	2026-11-23 03:52:50	tts	fbe4474898
@@ -16492,6 +16562,7 @@ en	73ec8c47	music/music-compose	serena moss8b	48	2026-11-23 03:42:01	tts	2005a10
 en	7414f22e	music/music-compose	serena moss8b	48	2026-11-23 03:40:11	tts	2ce00e972e
 en	7558bb4b	music/music-compose	serena moss8b	48	2026-11-23 03:49:48	tts	95070d9684
 en	77c8490b	music/music-compose	serena moss8b	48	2026-11-23 03:49:41	tts	1854d64bfd
+en	7964ea79	music/music-compose	serena moss8b	48	2026-11-23 03:55:45	tts	7fe4d45d91
 en	7dbf1f2c	music/music-compose	serena moss8b	48	2026-11-23 03:40:32	tts	0314075522
 en	7e528187	music/music-compose	serena moss8b	48	2026-11-23 03:41:09	tts	d547c4dc98
 en	809d302b	music/music-compose	serena moss8b	48	2026-11-23 03:48:05	tts	0ae0a12b56
@@ -16504,6 +16575,7 @@ en	8f43f7c5	music/music-compose	serena moss8b	48	2026-11-23 03:49:21	tts	7a3d0bf
 en	93fd9b55	music/music-compose	serena moss8b	48	2026-11-23 03:40:00	tts	de43d5254d
 en	95483d8e	music/music-compose	serena moss8b	48	2026-11-23 03:39:14	tts	9380d680a8
 en	9871513e	music/music-compose	serena moss8b	48	2026-11-23 03:47:41	tts	a67800e94b
+en	9ab1e034	music/music-compose	serena moss8b	48	2026-11-23 03:55:45	tts	75fcacaaaf
 en	9f9b92e2	music/music-compose	serena moss8b	48	2026-11-23 03:45:53	tts	e873112969
 en	a1970ec9	music/music-compose	serena moss8b	48	2026-11-23 03:49:17	tts	0e134d4487
 en	a1bfc551	music/music-compose	serena moss8b	48	2026-11-23 03:49:05	tts	0f946da362
@@ -16513,6 +16585,7 @@ en	a2c877b0	music/music-compose	serena moss8b	48	2026-11-23 03:40:32	tts	b57c40d
 en	a5f93b63	music/music-compose	serena moss8b	48	2026-11-23 03:49:54	tts	5d47c85669
 en	a67d9936	music/music-compose	serena moss8b	48	2026-11-23 03:44:24	tts	aaf7955c7b
 en	a6bd4c49	music/music-compose	serena moss8b	48	2026-11-23 03:49:55	tts	74e5e1c67c
+en	a789ab0a	music/music-compose	serena moss8b	48	2026-11-23 03:55:45	tts	f3f7cc0b80
 en	a81a33d2	music/music-compose	serena moss8b	48	2026-11-23 03:39:54	tts	0e05e9df3b
 en	a911fd1b	music/music-compose	serena moss8b	48	2026-11-23 03:40:32	tts	3aff2d6760
 en	ae7dc6db	music/music-compose	serena moss8b	48	2026-11-23 03:48:28	tts	ab8ea3f26a
@@ -16552,6 +16625,7 @@ en	f8e8e4a4	music/music-compose	serena moss8b	48	2026-11-23 03:45:15	tts	b514a7e
 en	f8f97249	music/music-compose	serena moss8b	48	2026-11-23 03:49:54	tts	81c57968fc
 en	f9249253	music/music-compose	serena moss8b	48	2026-11-23 03:50:16	tts	0c3de20390
 en	fc27b180	music/music-compose	serena moss8b	48	2026-11-23 03:44:33	tts	33b3daf7a5
+en	fc8b8532	music/music-compose	serena moss8b	48	2026-11-23 03:55:35	tts	6869b6b5b9
 en	fede4e4c	music/music-compose	serena moss8b	48	2026-11-23 03:48:57	tts	f254779d1a
 en	fff4318c	music/music-compose	serena moss8b	48	2026-11-23 03:49:07	tts	51980896d9
 zh	019d940f	music/music-compose	serena moss8b	48	2026-11-22 00:23:04	tts	c1db373e58
@@ -16677,6 +16751,7 @@ zh	e009beee	music/music-compose	serena moss8b	48	2026-11-22 20:05:45	tts	5fd3c92
 zh	e316db06	music/music-compose	serena moss8b	48	2026-11-22 20:05:40	tts	34e7ba0de4
 zh	e385aea2	music/music-compose	serena moss8b	48	2026-11-22 20:14:25	tts	6dba01ddd0
 zh	e51b4c72	music/music-compose	serena moss8b	48	2026-11-22 20:05:26	tts	44c1ae4796
+zh	e5656c94	music/music-compose	serena moss8b	48	2026-11-23 03:55:23	tts	4844668fbd
 zh	e61ef539	music/music-compose	serena moss8b	48	2026-11-22 20:04:42	tts	0025d3c507
 zh	e802ca2f	music/music-compose	serena moss8b	48	2026-11-22 20:05:57	tts	d4b1776fb7
 zh	e9396285	music/music-compose	serena moss8b	48	2026-11-22 20:05:46	tts	a7d7840171
@@ -17913,10 +17988,12 @@ en	4387650f	music/music-pitch	serena moss8b	48	2026-11-23 03:40:06	tts	105f011b3
 en	4d112463	music/music-pitch	serena moss8b	48	2026-11-23 03:40:03	tts	ea8a08d827
 en	4ec19c79	music/music-pitch	serena moss8b	48	2026-11-23 03:40:47	tts	c947da747d
 en	4fca6e9e	music/music-pitch	serena moss8b	48	2026-11-23 03:40:57	tts	075fb091f8
+en	54309092	music/music-pitch	serena moss8b	48	2026-11-23 03:55:08	tts	ce93c308df
 en	552c5920	music/music-pitch	serena moss8b	48	2026-11-23 03:40:53	tts	2093e81435
 en	58f0b450	music/music-pitch	serena moss8b	48	2026-11-23 03:41:44	tts	bc9ca8208a
 en	59b2b06b	music/music-pitch	serena moss8b	48	2026-11-23 03:39:29	tts	b7e6e45a5b
 en	5dec0d7e	music/music-pitch	serena moss8b	48	2026-11-23 03:40:52	tts	a6fd152dfe
+en	602fc70a	music/music-pitch	serena moss8b	48	2026-11-23 03:54:54	tts	34e36ffbeb
 en	69856047	music/music-pitch	serena moss8b	48	2026-11-23 03:38:18	tts	10b67e0e2f
 en	6db129ef	music/music-pitch	serena moss8b	48	2026-11-23 03:40:13	tts	960b4ebc3d
 en	6ddfdaf9	music/music-pitch	serena moss8b	48	2026-11-23 03:39:58	tts	a78c22d5a0
@@ -17937,6 +18014,7 @@ en	7cfd396d	music/music-pitch	serena moss8b	48	2026-11-23 03:40:32	tts	a4fc8fb56
 en	7eaca5fb	music/music-pitch	serena moss8b	48	2026-11-23 03:38:12	tts	7014c1b512
 en	8295208c	music/music-pitch	serena moss8b	48	2026-11-23 03:40:57	tts	b9c5e7d5b5
 en	833b8cd1	music/music-pitch	serena moss8b	48	2026-11-23 03:40:58	tts	4f6b8ecae1
+en	835a0b1e	music/music-pitch	serena moss8b	48	2026-11-23 03:54:54	tts	d8b076f8e0
 en	85a6a7e0	music/music-pitch	serena moss8b	48	2026-11-23 03:43:25	tts	a0c7eea288
 en	85c65e38	music/music-pitch	serena moss8b	48	2026-11-23 03:43:19	tts	d3a650ffac
 en	86b1e467	music/music-pitch	serena moss8b	48	2026-11-23 03:44:02	tts	c17a2272b4
@@ -17951,6 +18029,7 @@ en	9a0406d7	music/music-pitch	serena moss8b	48	2026-11-23 03:41:32	tts	35fd0dc1f
 en	9ab87239	music/music-pitch	serena moss8b	48	2026-11-23 03:41:40	tts	10796d1b2a
 en	9bdde3e1	music/music-pitch	serena moss8b	48	2026-11-23 03:40:35	tts	eb575341c2
 en	9cbb433e	music/music-pitch	serena moss8b	48	2026-11-23 03:39:11	tts	175e578ad9
+en	9fdf2dc4	music/music-pitch	serena moss8b	48	2026-11-23 03:55:08	tts	1360ae01af
 en	a03bc31d	music/music-pitch	serena moss8b	48	2026-11-23 03:37:51	tts	900926ac42
 en	a068d384	music/music-pitch	serena moss8b	48	2026-11-23 03:38:38	tts	5d4d7081b7
 en	a5f93b63	music/music-pitch	serena moss8b	48	2026-11-23 03:40:35	tts	5d47c85669
@@ -17992,6 +18071,7 @@ en	e695514f	music/music-pitch	serena moss8b	48	2026-11-23 03:40:32	tts	87c635c79
 en	ed1cfaa0	music/music-pitch	serena moss8b	48	2026-11-23 03:41:17	tts	083ba65d36
 en	f1f267dd	music/music-pitch	serena moss8b	48	2026-11-23 03:37:55	tts	e0696147db
 en	f2acc515	music/music-pitch	serena moss8b	48	2026-11-23 03:40:47	tts	4a282f8f96
+en	f5e6b5ab	music/music-pitch	serena moss8b	48	2026-11-23 03:54:54	tts	512573e8dc
 en	f8ce39a0	music/music-pitch	serena moss8b	48	2026-11-23 03:40:32	tts	0599931d25
 en	fb9711fc	music/music-pitch	serena moss8b	48	2026-11-23 03:39:17	tts	9b93034982
 en	fe44f8ad	music/music-pitch	serena moss8b	48	2026-11-23 03:40:47	tts	23186e0a4c
@@ -21503,6 +21583,7 @@ en	c5df0756	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:29:12	tts	af
 en	c6d0c505	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:26:35	tts	410b44a0fc
 en	c6d6b1a1	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:30:22	tts	84249b5d9f
 en	c7636835	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:30:28	tts	553728dfab
+en	c78c4ddf	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:55:45	tts	9a88f25bc8
 en	c79c91c4	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:29:20	tts	2b9a4cc38c
 en	c8848589	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:29:20	tts	0c4504ef5f
 en	c8ff0d2e	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:29:12	tts	4be4ef6e8f
@@ -22666,6 +22747,7 @@ zh	6cc06f89	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:13:38	tts	cd
 zh	6cdf484d	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:07:32	tts	b3e8914186
 zh	6ce593b0	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 19:51:51	tts	04a92e0b90
 zh	6d0bec8b	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:16:32	tts	50125a2801
+zh	6d0cb64e	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:55:23	tts	846684fa7e
 zh	6d20646f	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:10:34	tts	17f4c0aca3
 zh	6d26d5f8	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 19:52:09	tts	5b38da626d
 zh	6d442ba0	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:09:58	tts	a016a3f7ed
@@ -22759,6 +22841,7 @@ zh	77e2a112	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 19:51:47	tts	0c
 zh	781e7980	yuwen/yw-modern-classics	serena moss8b	48	2026-11-21 23:55:23	tts	af667ad1ab
 zh	783fcb79	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:30:22	tts	1ccfb84381
 zh	78473462	yuwen/yw-modern-classics	serena moss8b	48	2026-11-21 23:55:19	tts	9e5c9029a5
+zh	78520f4c	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:55:35	tts	6fd5b42af1
 zh	785b1877	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:18:14	tts	9c617a42bd
 zh	785c3452	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 19:51:51	tts	94a4d71391
 zh	786084c3	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 19:52:09	tts	c87f26653c
@@ -22977,6 +23060,7 @@ zh	8e4b2656	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 19:50:55	tts	96
 zh	8e4f415a	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:18:53	tts	df20483c14
 zh	8e67899e	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:19:36	tts	79abce944e
 zh	8e797776	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:16:52	tts	f8f47d7c3d
+zh	8e7ed815	yuwen/yw-modern-classics	serena moss8b	48	2026-11-23 03:55:35	tts	404a5a07a1
 zh	8ea7191a	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 20:24:53	tts	3f77ab113a
 zh	8ebe14e5	yuwen/yw-modern-classics	serena moss8b	48	2026-11-22 00:08:17	tts	638ef4dfd4
 zh	8f18d3d4	yuwen/yw-modern-classics	serena moss8b	48	2026-11-21 23:48:05	tts	bbac1016c1
@@ -27026,6 +27110,7 @@ en	4d6ee863	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:14:27	tts	8d5cfd3f72
 en	4db7bb38	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:13:23	tts	0a6b209049
 en	4dd55b93	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:14:20	tts	2504fd8a10
 en	4e0545bc	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:14:27	tts	cea2731089
+en	4e4340ac	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:55:54	tts	5f39d4b542
 en	4fb5d89d	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:14:56	tts	b7aa8d6124
 en	500c5ed1	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:12:37	tts	4a38282c02
 en	50d81539	yuwen/yw-poems-9	serena moss8b	48	2026-11-23 03:15:08	tts	396f4c7400
