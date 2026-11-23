@@ -278,25 +278,26 @@
  },
  "ela/argument-writing": {
   "counts": {
-   "done": 143,
+   "done": 244,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 143
+   "missing": 47,
+   "old": 3,
+   "total": 294
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "13655e3fdd96",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/argument-writing.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Write an Argument",
    "zh": "写议论文"
   },
-  "updated": "2026-11-22 18:59:29",
+  "updated": "2026-11-23 02:17:30",
   "verified": ""
  },
  "ela/central-idea": {
