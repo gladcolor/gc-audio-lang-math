@@ -393,11 +393,11 @@
  },
  "ela/narrative-techniques": {
   "counts": {
-   "done": 347,
+   "done": 399,
    "failed": 0,
    "held": 0,
-   "missing": 158,
-   "old": 33,
+   "missing": 114,
+   "old": 25,
    "total": 538
   },
   "fingerprint": "ed5840eee2d7",
@@ -412,7 +412,7 @@
    "en": "Narrative Techniques: Flashback, Foreshadowing & More",
    "zh": "记叙技巧：倒叙、伏笔与更多"
   },
-  "updated": "2026-11-23 02:13:12",
+  "updated": "2026-11-23 02:13:30",
   "verified": ""
  },
  "ela/narrative-writing": {
