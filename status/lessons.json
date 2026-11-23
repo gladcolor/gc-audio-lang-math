@@ -1739,11 +1739,11 @@
  },
  "music/music-pitch": {
   "counts": {
-   "done": 196,
+   "done": 231,
    "failed": 0,
    "held": 0,
-   "missing": 58,
-   "old": 4,
+   "missing": 24,
+   "old": 3,
    "total": 258
   },
   "fingerprint": "47d51d420024",
@@ -1758,7 +1758,7 @@
    "en": "Pitch, Notes & Scales",
    "zh": "音高、音符与音阶"
   },
-  "updated": "2026-11-23 03:40:25",
+  "updated": "2026-11-23 03:41:00",
   "verified": ""
  },
  "music/music-rhythm": {
