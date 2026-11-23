@@ -323,25 +323,26 @@
  },
  "ela/character-pov": {
   "counts": {
-   "done": 130,
+   "done": 160,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 130
+   "missing": 80,
+   "old": 4,
+   "total": 244
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "175d9750766f",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/ela/character-pov.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Characters & Point of View",
    "zh": "人物与叙述视角"
   },
-  "updated": "2026-11-22 18:54:40",
+  "updated": "2026-11-23 02:13:25",
   "verified": ""
  },
  "ela/figurative-language": {
