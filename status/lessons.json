@@ -2154,10 +2154,10 @@
  },
  "yuwen/yw-wenyan-basics": {
   "counts": {
-   "done": 327,
+   "done": 337,
    "failed": 0,
    "held": 0,
-   "missing": 117,
+   "missing": 107,
    "old": 7,
    "total": 451
   },
@@ -2173,7 +2173,7 @@
    "en": "Classical Chinese: First Steps",
    "zh": "文言文入门"
   },
-  "updated": "2026-11-23 02:58:13",
+  "updated": "2026-11-23 02:58:19",
   "verified": ""
  },
  "yuwen/yw-wenyan-classics": {
