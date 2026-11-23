@@ -298,7 +298,7 @@
    "zh": "写议论文"
   },
   "updated": "2026-11-23 02:51:52",
-  "verified": ""
+  "verified": "2026-11-23 03:00:17"
  },
  "ela/central-idea": {
   "counts": {
@@ -394,7 +394,7 @@
    "zh": "句子、从句与标点"
   },
   "updated": "2026-11-23 02:54:17",
-  "verified": ""
+  "verified": "2026-11-23 03:00:17"
  },
  "ela/narrative-techniques": {
   "counts": {
@@ -2180,25 +2180,26 @@
  },
  "yuwen/yw-wenyan-classics": {
   "counts": {
-   "done": 452,
+   "done": 527,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 452
+   "missing": 40,
+   "old": 6,
+   "total": 573
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "0ae8ff0eaabe",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/yuwen/yw-wenyan-classics.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Classical Prose Masterpieces",
    "zh": "文言名篇"
   },
-  "updated": "2026-11-22 19:54:39",
+  "updated": "2026-11-23 03:01:08",
   "verified": ""
  },
  "yuwen/yw-writing": {
