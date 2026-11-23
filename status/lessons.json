@@ -1854,15 +1854,15 @@
  },
  "yuwen/yw-hanzi": {
   "counts": {
-   "done": 340,
+   "done": 421,
    "failed": 0,
    "held": 0,
-   "missing": 77,
-   "old": 4,
+   "missing": 0,
+   "old": 0,
    "total": 421
   },
   "fingerprint": "1a1e81789c5a",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/yuwen/yw-hanzi.html",
   "record_demand": true,
   "record_langs": [
@@ -1873,7 +1873,7 @@
    "en": "Chinese Characters & Calligraphy",
    "zh": "汉字的演变与书法"
   },
-  "updated": "2026-11-23 02:57:36",
+  "updated": "2026-11-23 03:30:05",
   "verified": ""
  },
  "yuwen/yw-idioms": {
