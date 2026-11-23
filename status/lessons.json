@@ -1065,7 +1065,7 @@
    "old": 0,
    "total": 215
   },
-  "fingerprint": "",
+  "fingerprint": "50b616e84d8c",
   "label": "finished",
   "page": "https://shanchuan.org/middle/math/polynomials.html",
   "record_demand": true,
@@ -1077,7 +1077,7 @@
    "en": "Algebraic Expressions & Polynomials",
    "zh": "代数式与整式的加减"
   },
-  "updated": "2026-11-22 22:48:38",
+  "updated": "2026-11-23 01:12:16",
   "verified": ""
  },
  "math/probability": {
